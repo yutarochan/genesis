@@ -1,0 +1,14 @@
+Start description of "Recovery".
+
+xx is a person.
+yy is a person.
+
+
+Sometimes, xx loves yy.
+Sometimes, xx is yy's relative.
+
+xx loses yy.
+
+xx reunites with yy.
+
+The end.

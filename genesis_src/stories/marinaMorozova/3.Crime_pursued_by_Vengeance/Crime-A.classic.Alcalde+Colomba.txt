@@ -1,0 +1,103 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 3.txt.
+
+
+First perspective.
+
+Start story titled "The Alcalde of Zalomea by Calderon".
+
+Captain is a person.
+Pedro is a person.
+Isabel is a woman.
+Huan is a person.
+Huan is Isabel's brother.
+Lope is a person.
+
+Pedro is not noble because Pedro is a peasant.
+Pedro loves Isabel. // because Isabel is Pedro's daughter.
+Soldiers are persons.
+
+A regiment comes to the village.
+Pedro has to house Captain.
+Captain is noble because he is an officer.
+Pedro is hospitable because Captain is noble.
+
+Captain tries to seduce Isabel because Isabel is beautiful.
+Captain fails because Isabel is proud.
+
+Lope is an officer and Lope comes to the village.
+Captain tries to seduce Isabel again but Captain fails.
+Captain angers Lope because Captain tries to seduce Isabel.
+Lope sends Captain away because Captain angers Lope.
+Captain obeys the order.
+Then, Captain returns secretly. 
+
+Captain kidnaps Isabel.
+
+Pedro sees that Captain kidnaps Isabel.
+Pedro chases Captain because Captain kidnaps Isabel.
+Soldiers tie Pedro to a tree because Pedro chases Captain.
+
+Captain hurts Isabel because Captain rapes Isabel.
+
+Huan fights Captain because Captain rapes Isabel.
+Huan wounds Captain.
+Soldiers pursue Huan because Huan fights Captain.
+Huan flees because Soldiers pursue Captain.
+
+Captain abandons Isabel and Isabel unties Pedro.
+Isabel tells Pedro everything.
+Pedro believes that Captain transgressed because Captain hurts Isabel.
+Pedro and Isabel go home.
+Pedro and Isabel meet a peasant.
+A peasant tells Pedro that Pedro has been elected.
+Pedro is a new judge.
+
+Wounded Captain returns to the village to recover.
+Pedro pursues Captain because Pedro believes that Captain transgressed.
+Pedro begs Captain to marry Isabel.
+Captain refuses to marry Isabel because Captain is nobel and because Isabel is not noble.
+Then, Pedro arrests Captain and Pedro kills Captain because Pedro pursues Captain.
+Pedro hurts Captain because Pedro kills Captain.
+//Then, Pedro slew Captain because Pedro pursues Captain. // and because Perdro is afraid of injustice.
+
+The end.
+
+Second perspective.
+
+Start story titled "Colomba by Merime".
+
+//Colomba is Colomba
+//Patrick is Barrachini
+//Orso is Orso
+
+Colomba is a woman.
+Patrick is a man.
+Orso is a man.
+Colonel is a person.
+Orso is Colomba's brother.
+
+Colomba loves Colonel because Colonel is Colomba's father.
+
+Patrick hurt Colonel because Patrick killed Colonel.
+
+
+Colomba believes that Patrick transgressed because Patrick hurt Colonel.
+
+Colomba sues Patrick because Colomba believes that Patrick transgressed.
+
+Colomba loses court.
+
+Colomba pursues Patrick because Colomba believes that Patrick transgressed.
+Colomba unleashes vendetta because Colomba pursues Patrick.
+Orso fights Patrick's sons because Colomba unleashes vendetta.
+Colomba hurts Patrick because Orso fights Patrick's sons.
+
+
+Patrick becomes insane because Orso kills Patrick's sons.
+Patrick confesses that he killed Colonel.
+
+The end.

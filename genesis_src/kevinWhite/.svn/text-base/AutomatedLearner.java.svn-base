@@ -1,0 +1,141 @@
+package latticeLearning;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
+
+import bridge.reps.things.Thing;
+
+import translator.Translator;
+import utils.Mark;
+
+public class AutomatedLearner{
+    private HashMap<String,VerbData> verbThreads = new HashMap<String,VerbData>();
+    private ArrayList<AutomatedPanel> latticeList = new ArrayList<AutomatedPanel>();
+    private ArrayList<Thing> sentences = new ArrayList<Thing>();
+    private static Translator interpreter = new Translator();
+    private static Set<String> impliedPositives = new HashSet<String>();
+    private static Set<String> impliedNegatives = new HashSet<String>();
+    
+    public AutomatedLearner(ArrayList<String> statements) {
+        for (String sent: statements){
+            try {
+                Thing tempThing = interpreter.translate(sent);
+                sentences.add(tempThing);
+            } catch (Exception e) { 
+                Mark.say("This sentence could not be parsed. Moving on to the next sentence...");
+                continue;
+            }
+        }
+        parse();
+        buildLatticePanels();
+        buildUI();
+    }
+    
+    public void parse(){
+        for (Thing sent: sentences){
+            String subjectThread = sent.getElement(0).getSubject().getPrimedThread().toString(true);
+            String subjectName = sent.getElement(0).getSubject().asStringWithoutIndexes().split("-")[0];
+            
+            String verbName = sent.getElement(0).getPrimedThread().toString(true);
+            VerbData tempVerb = VerbData.getVerbData(verbName, verbThreads);
+            
+            if (sent.getElement(0).hasFeature("not")){
+                tempVerb.addSubject(subjectName, subjectThread, false);
+            }
+            
+            else{
+                tempVerb.addSubject(subjectName, subjectThread, true);
+            }    
+            if (!verbThreads.containsKey(verbName)){
+                verbThreads.put(verbName, tempVerb);
+            }
+        }
+    }
+    
+    private void buildLatticePanels(){
+        for (VerbData data: verbThreads.values()){
+            AutomatedPanel tempPanel = new AutomatedPanel(data);
+            latticeList.add(tempPanel);
+        }
+    }
+    
+    private void buildUI(){
+        for (AutomatedPanel lp: latticeList){
+            AutomatedUI tempUI = new AutomatedUI(lp,lp.getName());
+            Mark.say(lp.getName());
+            tempUI.setVisible(true);
+        }
+    }
+    
+    public static String answerQuestion(String question, Set<String> affirmatives, Set<String> negatives) throws Exception{
+        Thing ansThing = interpreter.translate(question);
+//        String sentBrkdwn = ansThing.toString();
+//        Mark.say(sentBrkdwn);
+        if (question.contains("?")){
+            String ansSubject = "";
+            try{
+                ansSubject = ansThing.getElement(0).getSubject().getSubject().asStringWithoutIndexes().split("-")[0];
+//                Mark.say(Arrays.toString(impliedPositives.toArray()),Arrays.toString(impliedNegatives.toArray()));
+                Mark.say(ansSubject);
+            }
+            
+            catch (Exception e){
+                ansSubject = ansThing.getElement(0).getSubject().getFeatures().toString(true).split(" ")[1];
+            }
+            if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                return "Yes.";
+            }
+            else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                return "No.";
+            }
+            else {
+                return "This lattice does not contain the information requested.";
+            }
+        }
+        
+        else{
+            String ansSubject = ansThing.getElement(0).getSubject().asStringWithoutIndexes().split("-")[0];
+            if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                return "True.";
+            }
+            else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                return "False.";
+            }
+            else {
+                ansSubject = ansThing.getElement(0).getObject().getFeatures().toString(true).split(" ")[1];
+                if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                    return "True.";
+                }
+                else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                    return "False.";
+                }
+                else{
+                    return "This lattice does not contain the information requested.";
+                }
+            }
+        }
+    }
+    
+    public static void getImplication(boolean isGreen, String thread,Set<String> positives, Set<String> negatives){
+        if (isGreen){
+            if (impliedNegatives.contains(thread)){
+                impliedNegatives.remove(thread);
+            }
+            impliedPositives.add(thread);
+        }
+
+        else{
+            if (impliedPositives.contains(thread)){
+                impliedPositives.remove(thread);
+            }
+            impliedNegatives.add(thread);
+        }
+
+        impliedPositives.removeAll(positives);
+        impliedNegatives.removeAll(negatives);
+    }
+    
+}

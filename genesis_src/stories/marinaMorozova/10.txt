@@ -1,0 +1,51 @@
+Start description of "Abduction-A".
+
+xx is an entity.
+yy is a woman.
+
+xx wants yy.
+yy doesn't want xx.
+xx kidnaps yy.
+
+The end.
+
+Start description of "Abduction-B".
+
+xx is an entity.
+yy is a woman.
+
+xx wants yy.
+xx kidnaps yy with yy's consent.
+
+The end.
+
+Start description of "Abduction-C".
+
+xx is an entity.
+zz is an entity.
+yy is a woman.
+
+
+yy is intimate with zz.
+
+xx kidnaps yy.
+
+Sometimes, xx kidnaps yy because xx wants yy.
+Sometimes, xx's kidnapping yy leads to zz's killing xx.
+
+zz recaptures yy.
+
+The end.
+
+Start description of "Abduction-D".
+
+xx is a person.
+yy is a person.
+
+Someone kidnaps xx.
+yy wants to help xx.
+Sometimes, xx is yy's child.
+Sometimes, xx is yy's friend.
+yy's actions leads to xx's being free.
+
+The end.

@@ -1,0 +1,46 @@
+Start experiment.
+
+Show first perspective.
+
+First perspective.
+
+// Insert file General commonsense knowledge.
+
+// Insert file General reflective knowledge.
+
+Insert file Action types.
+
+Start description of "Sample concept".
+
+xx's stabbing yy leads to xx's killing yy.
+
+The end.
+
+If xx kills yy, then xx harms yy.
+
+Paul, Peter, George, Patrick and Mary are persons.
+
+Start story titled "Scrubbing test".
+
+// Peter loves Mary.
+
+
+// In order to kill Peter, Paul stabbed Peter and Paul murdered the guards.
+
+In order to kill Peter, Paul ate Peter's heart and Paul extracted Peter's brain.
+
+Paul's killing of Peter leads to Paul's helping George.
+
+Peter's loving Mary leads to Peter's kissing Mary.
+
+In order to kiss Mary, Peter walked to Mary's house.
+
+Peter's kissing of Mary leads to Peter's helping George.
+
+The end.
+
+Insert into text box Make Macbeth be kind?
+
+
+
+

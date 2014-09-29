@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<parameters>
+	<configuration>
+		<switches>
+			<memorygauge>true</memorygauge>
+		</switches>
+	</configuration>
+	<applications>
+		<group>
+			<class>wrapper.GenesisGroup</class>
+			<advice>no</advice>
+		</group>
+								
+				<application>
+			<class>translator.TranslatorGeneratorTestApplication</class>
+			<advice>no</advice>
+	<start>neither</start>			
+		</application>
+		
+		<comment>
+				<application>
+			<class>wrapper.GenesisVisionWrapper</class>
+			<advice>no</advice>
+	
+		</application>
+	</comment>
+	</applications>
+</parameters>
+

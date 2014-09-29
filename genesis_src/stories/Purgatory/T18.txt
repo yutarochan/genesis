@@ -1,0 +1,22 @@
+/*
+Tests multiple may situations.  Should now show them all.
+*/
+
+Clear text.
+Clear story memory.
+
+xx, yy, zz are entities.
+
+xx may love yy because xx respects yy.
+
+xx may love yy because xx admires yy.
+
+Start story.
+
+ Bill respects Mary.
+
+ Bill admires Mary.
+
+Bill loves Mary.
+
+The end.

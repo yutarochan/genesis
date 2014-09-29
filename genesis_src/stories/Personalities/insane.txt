@@ -1,0 +1,8 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+If xx is insane, then xx may kill xx.
+If xx is insane, then xx may kill yy.

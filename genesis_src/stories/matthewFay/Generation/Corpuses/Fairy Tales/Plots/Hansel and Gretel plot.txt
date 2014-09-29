@@ -1,0 +1,40 @@
+Hansel and Gretel are people.
+Father is a person.
+Mother is a person.
+The witch is a person.
+
+Father is Hansel's parent.
+Father is Gretel's parent.
+Mother is Hansel's parent.
+Mother is Gretel's parent.
+
+Mother dislikes Hansel.
+Mother dislikes Gretel.
+Father takes Hansel into the woods because Mother persuaded Father to take Hansel into the woods.
+Father takes Gretel into the woods because Mother persuaded Father to take Gretel into the woods.
+
+Hansel becomes hungry.
+Gretel becomes hungry.
+
+The witch lives in the candy_house.
+
+Hansel finds the candy_house.
+Gretel finds the candy_house.
+
+Hansel eats the candy_house.
+Gretel eats the candy_house.
+
+The witch imprisons Hansel.
+The witch enslaves Gretel.
+
+The witch becomes hungry.
+The witch wants to eat Hansel.
+The witch wants to eat Gretel.
+The witch fattens up Hansel.
+
+The witch tries to push Gretel into the oven.
+Gretel pushes the witch into the oven.
+
+Gretel frees Gretel.
+Gretel frees Hansel.
+

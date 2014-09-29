@@ -1,0 +1,13 @@
+Clear story memory.
+
+Start description of "coerced-agreement-bungled".
+
+xx is an entity.
+yy is an entity.
+
+xx's wanting to harm yy leads to xx's harming yy.
+
+xx's harming yy leads to yy's becoming dead.
+
+The end.
+

@@ -1,0 +1,17 @@
+Insert file Start experiment.
+
+Start story.
+
+Assume "fly" means "move".
+
+Know that a guitar cannot fly.
+
+The osprey flew to the tree.
+
+The bat flew to a bush.
+
+The hawk flew.
+
+The plane flew into the sky.
+
+The end.

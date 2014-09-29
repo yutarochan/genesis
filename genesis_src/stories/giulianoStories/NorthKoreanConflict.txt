@@ -1,0 +1,10 @@
+South Korea is an entity.
+North Korea is an entity.
+
+Start story titled "North Korean conflict".
+
+North Korea had missiles in space. 
+South Korea felt threatened.
+South Korea ordered North Korea to withdraw the missiles.
+
+The end.

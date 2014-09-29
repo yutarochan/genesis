@@ -1,0 +1,62 @@
+/*
+Minimalist version of the first stage of T15.txt.
+Testing ground for working out the difficulties in granting land from Emperor (ShaddamIV) to Atreides or Harkonnen.
+Important that three governs relations be in place at pause.
+*/
+
+Clear text.
+Clear story memory.
+
+XX is an entity.
+YY is an entity.
+ZZ is an entity.
+BB is bloc.
+Group1 is group.
+RR is region.
+
+
+//Government
+XX governs YY because XX governs BB, BB includes YY, and BB is bloc.
+XX governs YY because XX leads Group1, Group1 governs YY, and Group1 is group.  // LEADERS OF GOVERNING BODY ALSO GOVERN SUBJECTS
+
+// CRITICAL ELEMENTS of Land Seizure
+XX may seize RR from YY because XX governed YY, and YY controlled RR.	// A governor can seize your territory
+
+YY's controlling of RR did not occur because XX seized RR from YY.		// If seized, you stop controlling it.
+XX controls RR because XX seized RR from YY.							// Temporary hold - separate from control.
+Group1 controls RR because XX controls RR, and XX leads Group1.
+//XX may grant RR to ZZ because XX holds RR.							// Can't grant without holding/controlling it.
+XX may grant RR to ZZ because XX controls RR, and XX governs ZZ.
+ZZ controls RR because XX granted RR to ZZ.								// And control transfers with a grant.
+
+//Rivalry + Seizure
+YY harms ZZ because XX seized RR from ZZ, XX granted RR to YY, and ZZ dislikes YY.
+
+//Hatred
+XX dislikes YY because XX hates YY.
+
+Start story.
+
+George is a person.
+Bill is a person.
+Jim is a person.
+Yard is region.
+Bill controls Yard.
+Bill hates Jim.
+
+Neighborhood is bloc.
+Neighborhood includes George, Bill, and Jim.
+George governs Neighborhood.
+
+George seizes Yard from Bill.
+//George seizes Yard.
+
+// These two cause problem
+//George governs Jim.
+//George controls Yard.
+
+George grants Yard to Jim.
+
+// Pause.
+
+The end.

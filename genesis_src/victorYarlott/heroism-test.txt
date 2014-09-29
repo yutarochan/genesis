@@ -1,0 +1,12 @@
+Start story titled "Heroism test".
+
+"Heroic2" is a kind of personality trait.
+
+Victor is a person.
+Thomas is a person.
+Old-Man-Coyote is a person.
+
+Thomas counts first coup.
+Old-Man-Coyote steals horses.
+Old-Man-Coyote counts first coup.
+Victor destroys evil.

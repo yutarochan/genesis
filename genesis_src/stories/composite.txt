@@ -1,0 +1,140 @@
+Clear text.
+
+Clear story memory.
+
+Henry, George, James, and Mary are persons.
+
+// R1. If a friend is harmed, your friend’s harmer harms you.
+James harmed Henry because James harmed George and George is Henry's friend.
+
+// R2. If the king dies, the king’s successor becomes king.
+Henry becomes king because George is king and Henry is George's successor and George becomes dead.
+
+// R4. If you are harmed, you become unhappy.
+Henry becomes unhappy because James harmed Henry.
+
+// R5. If you are harmed, then you dislike your harmer.
+Henry dislikes James because James harmed Henry.
+
+// R6. Murder – If X murders Y, then: · X harms Y and · Y becomes dead
+Henry becomes dead because James kills Henry.
+James harms Henry because James kills Henry.
+// James harms Henry because James murders Henry.
+
+// James kills Henry because James murders Henry.
+
+// R7
+James becomes happy because James became the king and James wants to become the king.
+
+// R8
+Henry may want to kill James because Henry dislikes James.
+
+// R9-11
+// James may harm Henry because James dislikes Henry.
+ James may kill Henry because James dislikes Henry.
+// James harms Henry because James stabs Henry.
+James may kill Henry because Henry is king and James is Henry's successor and James wants to become the king.
+James wanted to become king because Henry persuaded James to want to become king.
+
+// Doesn't parse
+// Mary may persuade George to want to become king because Mary wants to become the queen and because Mary is George's wife.
+
+Mary may want to become the queen because she is greedy.
+
+Mary becomes the queen because George becomes the king and Mary is George's wife.
+
+// Mary becomes unhappy because Mary becomes dead.
+
+A thane is a kind of noble.
+
+Start description of "mistake".
+
+xx is an entity.
+
+xx's performing an action entails xx's becoming unhappy.
+
+The end.
+
+
+Start description of "success".
+
+xx is an entity.
+
+yy is anything.
+
+xx's wanting yy entails yy.
+
+yy entails xx's becoming happy.
+
+The end.
+
+Start description of "revenge".
+
+xx is an entity.
+
+yy is a entity.
+
+xx's harming yy entails yy's harming xx.
+
+The end.
+
+Start description of "pyrrhic victory".
+
+xx is a person.
+
+yy is anything.
+
+xx's wanting yy entails yy.
+
+yy entails xx's becoming happy.
+
+xx's wanting yy entails xx's becoming unhappy.
+
+The end.
+
+
+
+Clear text.
+
+Start story.
+
+Macbeth, Macduff, Lady Macbeth, and Duncan are persons. 
+Macbeth is a thane and Macduff is a thane.
+// Lady Macbeth is Macbeth's wife and Lady Macbeth is greedy.
+// Lady Macbeth is Macbeth's wife.
+Duncan, who is Macduff's friend, is the king, and Macbeth is Duncan's successor.
+/*
+  Macbeth defeated a rebel.
+
+  Witches had visions and talked with Macbeth.
+  The witches made predictions.
+  Duncan is happy because Macbeth defeated the rebel.
+  Duncan rewarded Macbeth because Duncan became happy.
+  Lady Macbeth is greedy.
+*/
+  
+Macbeth wants to become the king.
+
+Lady Macbeth, who is Macbeth's wife, wants to become the queen.
+Lady Macbeth, who is Macbeth's wife, persuades Macbeth to want to become the king.
+// Lady Macbeth and Macbeth murderx Duncan.
+
+Macbeth murders Duncan because Macbeth wants to become the king.
+// Macbeth kills Duncan.
+
+/*
+  Lady Macbeth becomes crazy.
+  Lady Macbeth dies.
+  
+Dunsinane is a castle and Burnham Wood is a forest.
+Burnham Wood goes to Dunsinane.  
+Macduff had unusual birth.
+Macduff fights with Macbeth.
+*/
+Macduff kills Macbeth.
+// The predictions came true.
+
+The end.
+
+
+

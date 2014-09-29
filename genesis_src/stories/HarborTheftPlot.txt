@@ -1,0 +1,17 @@
+Insert file Start experiment.
+
+Start story titled "Harbor/Theft".
+
+Harold, Brad, Paul, Bob, and Tony are persons.
+
+Harold and Brad lift a box from the deck of the ship.
+They carry it towards the ramp.
+They pass the box to Paul who drops it down the ramp.
+The box falls to the ground, bounces, and opens.
+The contents fly out.
+Bob, who is standing near the box, snatches the contents and flees from the boat.
+Tony chases Bob who continues to run away from him.
+Tony throws an anchor at Bob.
+The anchor collides with him and both stop.
+
+The end.

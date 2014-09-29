@@ -1,0 +1,12 @@
+Clear story memory.
+
+Start description of "revenge".
+
+xx is an entity.
+
+yy is an entity.
+
+xx's harming yy entails yy's harming xx.
+
+The end.
+

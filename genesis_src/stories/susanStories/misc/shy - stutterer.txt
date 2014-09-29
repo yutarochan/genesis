@@ -1,0 +1,36 @@
+Insert file Start experiment.
+
+First perspective.
+Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+The stranger is a person.
+
+If XX does not go to party, then XX does not meet the stranger.
+If XX does not meet the stranger, then XX does not speak to the stranger.
+
+// Start story titled "The stutterer".
+
+YY is a person.
+
+// If YY is a stutterer, then YY may stutter.
+
+If YY is a stutterer and YY does not speak to the stranger, then YY doesn't stutter.
+
+If YY is a stutterer and YY doesn't stutter, then YY may not feel embarrassed.
+
+Start story titled "Anne is a shy stutterer".
+
+Anne is a person.
+Bob is a person.
+Anne is a stutterer.
+The stranger is a person.
+
+Bob invites Anne to a party.
+
+Anne doesn't go to the party because Anne is shy.
+Anne doesn't feel embarrassed.
+
+The end.

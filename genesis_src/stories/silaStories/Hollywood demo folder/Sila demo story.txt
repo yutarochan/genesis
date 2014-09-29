@@ -1,0 +1,25 @@
+Insert file Start experiment.
+
+Both perspectives.
+Show both perspectives.
+
+First perspective.
+
+Insert file Sila demo general commonsense knowledge. 
+Insert file General reflective knowledge.
+Start story titled "Directors and Roger Ebert/Perspective One".
+
+
+Second perspective.
+
+//Insert file Sila demo lacking general commonsense knowledge. 
+Insert file Sila demo lacking general commonsense knowledge two.
+//Insert file Sila demo lacking general commonsense knowledge three.
+
+Insert file General reflective knowledge.
+Start story titled "Directors and Roger Ebert/Perspective Two".
+
+
+Both Perspectives.
+
+Insert file Sila demo plot.

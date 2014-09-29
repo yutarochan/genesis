@@ -1,0 +1,602 @@
+<Beryl>
+  <video name="STOPS_20111214_CR1_26_C6.1729-1768.mov" />
+  <trackList>
+    <track endFrame="39" entityType="human" id="1" startFrame="1" type="Recognition">
+      <frameList>
+        <frame frameNumber="1" status="Box">
+          <shape>
+            <box h="351" w="116" x="180" y="886" />
+          </shape>
+        </frame>
+        <frame frameNumber="2" status="Box">
+          <shape>
+            <box h="351" w="116" x="180" y="882" />
+          </shape>
+        </frame>
+        <frame frameNumber="3" status="Box">
+          <shape>
+            <box h="351" w="117" x="180" y="878" />
+          </shape>
+        </frame>
+        <frame frameNumber="4" status="Box">
+          <shape>
+            <box h="351" w="117" x="180" y="875" />
+          </shape>
+        </frame>
+        <frame frameNumber="5" status="Box">
+          <shape>
+            <box h="351" w="118" x="180" y="871" />
+          </shape>
+        </frame>
+        <frame frameNumber="6" status="Box">
+          <shape>
+            <box h="351" w="119" x="180" y="867" />
+          </shape>
+        </frame>
+        <frame frameNumber="7" status="Box">
+          <shape>
+            <box h="351" w="119" x="180" y="864" />
+          </shape>
+        </frame>
+        <frame frameNumber="8" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="837" />
+          </shape>
+        </frame>
+        <frame frameNumber="9" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="834" />
+          </shape>
+        </frame>
+        <frame frameNumber="10" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="831" />
+          </shape>
+        </frame>
+        <frame frameNumber="11" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="828" />
+          </shape>
+        </frame>
+        <frame frameNumber="12" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="825" />
+          </shape>
+        </frame>
+        <frame frameNumber="13" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="822" />
+          </shape>
+        </frame>
+        <frame frameNumber="14" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="819" />
+          </shape>
+        </frame>
+        <frame frameNumber="15" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="816" />
+          </shape>
+        </frame>
+        <frame frameNumber="16" status="Box">
+          <shape>
+            <box h="350" w="139" x="184" y="814" />
+          </shape>
+        </frame>
+        <frame frameNumber="17" status="Box">
+          <shape>
+            <box h="350" w="139" x="184" y="811" />
+          </shape>
+        </frame>
+        <frame frameNumber="18" status="Box">
+          <shape>
+            <box h="349" w="107" x="182" y="818" />
+          </shape>
+        </frame>
+        <frame frameNumber="19" status="Box">
+          <shape>
+            <box h="349" w="109" x="182" y="814" />
+          </shape>
+        </frame>
+        <frame frameNumber="20" status="Box">
+          <shape>
+            <box h="349" w="110" x="182" y="811" />
+          </shape>
+        </frame>
+        <frame frameNumber="21" status="Box">
+          <shape>
+            <box h="349" w="111" x="182" y="808" />
+          </shape>
+        </frame>
+        <frame frameNumber="22" status="Box">
+          <shape>
+            <box h="349" w="113" x="182" y="804" />
+          </shape>
+        </frame>
+        <frame frameNumber="23" status="Box">
+          <shape>
+            <box h="349" w="114" x="182" y="801" />
+          </shape>
+        </frame>
+        <frame frameNumber="24" status="Box">
+          <shape>
+            <box h="350" w="115" x="182" y="798" />
+          </shape>
+        </frame>
+        <frame frameNumber="25" status="Box">
+          <shape>
+            <box h="350" w="118" x="182" y="794" />
+          </shape>
+        </frame>
+        <frame frameNumber="26" status="Box">
+          <shape>
+            <box h="350" w="119" x="182" y="791" />
+          </shape>
+        </frame>
+        <frame frameNumber="27" status="Box">
+          <shape>
+            <box h="350" w="120" x="182" y="788" />
+          </shape>
+        </frame>
+        <frame frameNumber="28" status="Box">
+          <shape>
+            <box h="348" w="144" x="184" y="754" />
+          </shape>
+        </frame>
+        <frame frameNumber="29" status="Box">
+          <shape>
+            <box h="348" w="143" x="184" y="753" />
+          </shape>
+        </frame>
+        <frame frameNumber="30" status="Box">
+          <shape>
+            <box h="348" w="143" x="184" y="752" />
+          </shape>
+        </frame>
+        <frame frameNumber="31" status="Box">
+          <shape>
+            <box h="348" w="142" x="184" y="752" />
+          </shape>
+        </frame>
+        <frame frameNumber="32" status="Box">
+          <shape>
+            <box h="349" w="142" x="184" y="751" />
+          </shape>
+        </frame>
+        <frame frameNumber="33" status="Box">
+          <shape>
+            <box h="349" w="141" x="184" y="751" />
+          </shape>
+        </frame>
+        <frame frameNumber="34" status="Box">
+          <shape>
+            <box h="349" w="141" x="184" y="750" />
+          </shape>
+        </frame>
+        <frame frameNumber="35" status="Box">
+          <shape>
+            <box h="349" w="140" x="184" y="750" />
+          </shape>
+        </frame>
+        <frame frameNumber="36" status="Box">
+          <shape>
+            <box h="350" w="140" x="184" y="749" />
+          </shape>
+        </frame>
+        <frame frameNumber="37" status="Box">
+          <shape>
+            <box h="350" w="139" x="184" y="749" />
+          </shape>
+        </frame>
+        <frame frameNumber="38" status="Box">
+          <shape>
+            <box h="352" w="138" x="183" y="748" />
+          </shape>
+        </frame>
+        <frame frameNumber="39" status="Box">
+          <shape>
+            <box h="351" w="138" x="184" y="748" />
+          </shape>
+        </frame>
+      </frameList>
+    <segmentList><segment endFrame="17" id="segment0" startFrame="1"><labelList><label direct="2" id="label1" labelValue="approach" /></labelList></segment></segmentList></track>
+    <track endFrame="39" entityType="human" id="0" startFrame="1" type="Recognition">
+      <frameList>
+        <frame frameNumber="1" status="Box">
+          <shape>
+            <box h="362" w="99" x="166" y="582" />
+          </shape>
+        </frame>
+        <frame frameNumber="2" status="Box">
+          <shape>
+            <box h="363" w="99" x="165" y="583" />
+          </shape>
+        </frame>
+        <frame frameNumber="3" status="Box">
+          <shape>
+            <box h="363" w="100" x="165" y="584" />
+          </shape>
+        </frame>
+        <frame frameNumber="4" status="Box">
+          <shape>
+            <box h="363" w="101" x="165" y="585" />
+          </shape>
+        </frame>
+        <frame frameNumber="5" status="Box">
+          <shape>
+            <box h="363" w="102" x="165" y="586" />
+          </shape>
+        </frame>
+        <frame frameNumber="6" status="Box">
+          <shape>
+            <box h="363" w="102" x="165" y="588" />
+          </shape>
+        </frame>
+        <frame frameNumber="7" status="Box">
+          <shape>
+            <box h="363" w="102" x="165" y="589" />
+          </shape>
+        </frame>
+        <frame frameNumber="8" status="Box">
+          <shape>
+            <box h="363" w="103" x="165" y="590" />
+          </shape>
+        </frame>
+        <frame frameNumber="9" status="Box">
+          <shape>
+            <box h="363" w="104" x="165" y="591" />
+          </shape>
+        </frame>
+        <frame frameNumber="10" status="Box">
+          <shape>
+            <box h="363" w="104" x="165" y="593" />
+          </shape>
+        </frame>
+        <frame frameNumber="11" status="Box">
+          <shape>
+            <box h="363" w="105" x="165" y="594" />
+          </shape>
+        </frame>
+        <frame frameNumber="12" status="Box">
+          <shape>
+            <box h="363" w="105" x="165" y="595" />
+          </shape>
+        </frame>
+        <frame frameNumber="13" status="Box">
+          <shape>
+            <box h="363" w="106" x="165" y="596" />
+          </shape>
+        </frame>
+        <frame frameNumber="14" status="Box">
+          <shape>
+            <box h="364" w="107" x="164" y="597" />
+          </shape>
+        </frame>
+        <frame frameNumber="15" status="Box">
+          <shape>
+            <box h="356" w="92" x="172" y="593" />
+          </shape>
+        </frame>
+        <frame frameNumber="16" status="Box">
+          <shape>
+            <box h="357" w="93" x="171" y="594" />
+          </shape>
+        </frame>
+        <frame frameNumber="17" status="Box">
+          <shape>
+            <box h="357" w="95" x="171" y="595" />
+          </shape>
+        </frame>
+        <frame frameNumber="18" status="Box">
+          <shape>
+            <box h="358" w="96" x="170" y="597" />
+          </shape>
+        </frame>
+        <frame frameNumber="19" status="Box">
+          <shape>
+            <box h="358" w="97" x="170" y="598" />
+          </shape>
+        </frame>
+        <frame frameNumber="20" status="Box">
+          <shape>
+            <box h="358" w="98" x="170" y="600" />
+          </shape>
+        </frame>
+        <frame frameNumber="21" status="Box">
+          <shape>
+            <box h="353" w="112" x="172" y="593" />
+          </shape>
+        </frame>
+        <frame frameNumber="22" status="Box">
+          <shape>
+            <box h="354" w="113" x="171" y="594" />
+          </shape>
+        </frame>
+        <frame frameNumber="23" status="Box">
+          <shape>
+            <box h="354" w="113" x="171" y="596" />
+          </shape>
+        </frame>
+        <frame frameNumber="24" status="Box">
+          <shape>
+            <box h="355" w="114" x="170" y="598" />
+          </shape>
+        </frame>
+        <frame frameNumber="25" status="Box">
+          <shape>
+            <box h="355" w="114" x="170" y="600" />
+          </shape>
+        </frame>
+        <frame frameNumber="26" status="Box">
+          <shape>
+            <box h="357" w="115" x="169" y="602" />
+          </shape>
+        </frame>
+        <frame frameNumber="27" status="Box">
+          <shape>
+            <box h="357" w="115" x="169" y="604" />
+          </shape>
+        </frame>
+        <frame frameNumber="28" status="Box">
+          <shape>
+            <box h="358" w="116" x="168" y="606" />
+          </shape>
+        </frame>
+        <frame frameNumber="29" status="Box">
+          <shape>
+            <box h="358" w="116" x="168" y="608" />
+          </shape>
+        </frame>
+        <frame frameNumber="30" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="615" />
+          </shape>
+        </frame>
+        <frame frameNumber="31" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="616" />
+          </shape>
+        </frame>
+        <frame frameNumber="32" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="618" />
+          </shape>
+        </frame>
+        <frame frameNumber="33" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="619" />
+          </shape>
+        </frame>
+        <frame frameNumber="34" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="621" />
+          </shape>
+        </frame>
+        <frame frameNumber="35" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="622" />
+          </shape>
+        </frame>
+        <frame frameNumber="36" status="Box">
+          <shape>
+            <box h="366" w="121" x="162" y="624" />
+          </shape>
+        </frame>
+        <frame frameNumber="37" status="Box">
+          <shape>
+            <box h="366" w="121" x="163" y="626" />
+          </shape>
+        </frame>
+        <frame frameNumber="38" status="Box">
+          <shape>
+            <box h="366" w="121" x="163" y="627" />
+          </shape>
+        </frame>
+        <frame frameNumber="39" status="Box">
+          <shape>
+            <box h="366" w="121" x="163" y="628" />
+          </shape>
+        </frame>
+      </frameList>
+    </track>
+    <track endFrame="39" entityType="bag" id="2" features="small red" startFrame="1" type="Recognition">
+      <frameList>
+        <frame frameNumber="1" status="Box">
+          <shape>
+            <box h="75" w="65" x="360" y="602" />
+          </shape>
+        </frame>
+        <frame frameNumber="2" status="Box">
+          <shape>
+            <box h="75" w="64" x="359" y="606" />
+          </shape>
+        </frame>
+        <frame frameNumber="3" status="Box">
+          <shape>
+            <box h="75" w="63" x="358" y="609" />
+          </shape>
+        </frame>
+        <frame frameNumber="4" status="Box">
+          <shape>
+            <box h="75" w="63" x="357" y="612" />
+          </shape>
+        </frame>
+        <frame frameNumber="5" status="Box">
+          <shape>
+            <box h="75" w="61" x="356" y="616" />
+          </shape>
+        </frame>
+        <frame frameNumber="6" status="Box">
+          <shape>
+            <box h="76" w="61" x="355" y="619" />
+          </shape>
+        </frame>
+        <frame frameNumber="7" status="Box">
+          <shape>
+            <box h="75" w="59" x="355" y="623" />
+          </shape>
+        </frame>
+        <frame frameNumber="8" status="Box">
+          <shape>
+            <box h="75" w="65" x="357" y="626" />
+          </shape>
+        </frame>
+        <frame frameNumber="9" status="Box">
+          <shape>
+            <box h="75" w="63" x="356" y="630" />
+          </shape>
+        </frame>
+        <frame frameNumber="10" status="Box">
+          <shape>
+            <box h="75" w="62" x="355" y="633" />
+          </shape>
+        </frame>
+        <frame frameNumber="11" status="Box">
+          <shape>
+            <box h="75" w="62" x="354" y="636" />
+          </shape>
+        </frame>
+        <frame frameNumber="12" status="Box">
+          <shape>
+            <box h="75" w="60" x="353" y="640" />
+          </shape>
+        </frame>
+        <frame frameNumber="13" status="Box">
+          <shape>
+            <box h="75" w="59" x="352" y="643" />
+          </shape>
+        </frame>
+        <frame frameNumber="14" status="Box">
+          <shape>
+            <box h="75" w="59" x="351" y="646" />
+          </shape>
+        </frame>
+        <frame frameNumber="15" status="Box">
+          <shape>
+            <box h="75" w="30" x="357" y="661" />
+          </shape>
+        </frame>
+        <frame frameNumber="16" status="Box">
+          <shape>
+            <box h="74" w="31" x="356" y="663" />
+          </shape>
+        </frame>
+        <frame frameNumber="17" status="Box">
+          <shape>
+            <box h="75" w="31" x="354" y="666" />
+          </shape>
+        </frame>
+        <frame frameNumber="18" status="Box">
+          <shape>
+            <box h="75" w="31" x="353" y="669" />
+          </shape>
+        </frame>
+        <frame frameNumber="19" status="Box">
+          <shape>
+            <box h="75" w="31" x="352" y="672" />
+          </shape>
+        </frame>
+        <frame frameNumber="20" status="Box">
+          <shape>
+            <box h="74" w="31" x="351" y="675" />
+          </shape>
+        </frame>
+        <frame frameNumber="21" status="Box">
+          <shape>
+            <box h="75" w="31" x="349" y="678" />
+          </shape>
+        </frame>
+        <frame frameNumber="22" status="Box">
+          <shape>
+            <box h="75" w="31" x="348" y="681" />
+          </shape>
+        </frame>
+        <frame frameNumber="23" status="Box">
+          <shape>
+            <box h="75" w="30" x="347" y="684" />
+          </shape>
+        </frame>
+        <frame frameNumber="24" status="Box">
+          <shape>
+            <box h="75" w="31" x="335" y="688" />
+          </shape>
+        </frame>
+        <frame frameNumber="25" status="Box">
+          <shape>
+            <box h="74" w="31" x="335" y="691" />
+          </shape>
+        </frame>
+        <frame frameNumber="26" status="Box">
+          <shape>
+            <box h="75" w="30" x="334" y="694" />
+          </shape>
+        </frame>
+        <frame frameNumber="27" status="Box">
+          <shape>
+            <box h="74" w="30" x="334" y="697" />
+          </shape>
+        </frame>
+        <frame frameNumber="28" status="Box">
+          <shape>
+            <box h="75" w="30" x="333" y="700" />
+          </shape>
+        </frame>
+        <frame frameNumber="29" status="Box">
+          <shape>
+            <box h="74" w="30" x="333" y="703" />
+          </shape>
+        </frame>
+        <frame frameNumber="30" status="Box">
+          <shape>
+            <box h="75" w="30" x="332" y="706" />
+          </shape>
+        </frame>
+        <frame frameNumber="31" status="Box">
+          <shape>
+            <box h="75" w="31" x="333" y="714" />
+          </shape>
+        </frame>
+        <frame frameNumber="32" status="Box">
+          <shape>
+            <box h="75" w="31" x="332" y="716" />
+          </shape>
+        </frame>
+        <frame frameNumber="33" status="Box">
+          <shape>
+            <box h="74" w="30" x="332" y="719" />
+          </shape>
+        </frame>
+        <frame frameNumber="34" status="Box">
+          <shape>
+            <box h="75" w="30" x="331" y="721" />
+          </shape>
+        </frame>
+        <frame frameNumber="35" status="Box">
+          <shape>
+            <box h="75" w="30" x="330" y="723" />
+          </shape>
+        </frame>
+        <frame frameNumber="36" status="Box">
+          <shape>
+            <box h="75" w="30" x="329" y="725" />
+          </shape>
+        </frame>
+        <frame frameNumber="37" status="Box">
+          <shape>
+            <box h="74" w="30" x="329" y="727" />
+          </shape>
+        </frame>
+        <frame frameNumber="38" status="Box">
+          <shape>
+            <box h="75" w="31" x="328" y="729" />
+          </shape>
+        </frame>
+        <frame frameNumber="39" status="Box">
+          <shape>
+            <box h="75" w="31" x="327" y="731" />
+          </shape>
+        </frame>
+      </frameList>
+    </track>
+  </trackList>
+</Beryl>

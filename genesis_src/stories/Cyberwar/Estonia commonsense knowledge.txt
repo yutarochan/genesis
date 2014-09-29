@@ -1,0 +1,103 @@
+Start commonsense knowledge.
+
+England, Germany, and France are countries.
+
+If England harms France then England angers France.
+
+If England attacks an artifact and France owns the artifact then England attacks France.
+
+If England attacks an army unit and France owns the army unit then England attacks France.
+
+If England attacks France then England Harms France.
+
+If England harmed France and France is Germany's ally, then England harmed Germany.
+
+If England harmed France and France is my friend, then England harmed me.
+
+If England insults France, then England harms France.
+
+If England damages France's artifact, France owns France's artifact, and France believes France's artifact is valuable, then England harms France.
+
+England believed artifact is valuable because England built artifact. 
+
+England may build artifact because England believed artifact is valuable.
+
+
+
+England owns England's artifact because England built England's artifact.
+
+England wants to damage France's artifact because England wanted to harm France and because France believes France's artifact is valuable.
+
+England damaged France's artifact because England wants to damage France's artifact and because someone damaged France's artifact.
+
+// England attacked France's artifact because England wants to damage France's artifact and because someone attacked France's artifact.
+
+If England wants to damage France's artifact and someone attacked France's artifact, then England may attack France's artifact.
+
+England became happy because England harmed France and because England wanted to harm France.
+
+// England may want to harm France because France angers England.
+
+England may want to harm France because France does not respect England and because France angers England.
+
+// England wanted to harm France because France angered England.
+
+
+
+France harmed England because France spurned England.
+
+England may fight France because France spurned England.
+
+England may fight France because France insulted England.
+
+England became unhappy because France damaged England's artifact and because England owns artifact.
+
+England became unhappy because France harmed England.
+
+England became happy because England owns artifact and artifact is valuable.
+
+//// Additional commonsense knowledge needed to handle Georgia case
+
+// Part of
+
+ww is an entity.
+
+xx is an entity.
+
+yy is an entity.
+
+zz is an entity.
+
+If zz damages yy and yy is part of xx, then zz damages xx.
+
+zz wants to damage yy because zz wants to damage xx and yy is part of xx.
+
+// Knowledge about allies.
+
+ww is an ally of xx because xx supported ww.
+
+xx harmed yy because xx tried to control ww and ww is an ally of yy.
+
+// Knowledge linking belief in importance to belief in value
+
+If xx believes its artifact is important, then xx believes its artifact is valuable.
+
+// Knowledge about parts
+
+If zz attacks yy and yy is part of xx, then zz attacks xx.
+
+If zz damages yy and yy is part of xx, then zz damages xx.
+
+zz wants to attack yy because zz wants to attack xx and yy is part of xx.
+
+zz wants to damage yy because zz wants to damage xx and yy is part of xx.
+
+If zz wants to damage yy, then zz wants to attack yy.
+
+// Knowledge about attacks
+
+If xx attacks yy's zz and yy owns yy's zz, then xx harms yy.
+
+//// End of new additional knowledge.
+
+

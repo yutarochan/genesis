@@ -1,0 +1,68 @@
+Insert file Start experiment.
+
+Show both perspectives.
+
+Both perspectives.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+First perspective.
+
+Start story titled "Aaron Swartz".
+
+Aaron is a person.
+MIT is an institution.
+Information is a kind of resource.
+
+Aaron is a researcher and an activist.
+Aaron creates useful information.
+// Aaron believes information should belong to everyone.
+Aaron breaks into MIT's building.  
+Aaron steals MIT's information.
+Aaron gives MIT's information to everyone.
+Authorities arrest Aaron.
+MIT sues Aaron.
+The maximum penalty is severe.
+Maximum sentence is 35 years.
+Aaron's court case lasts  2 years.
+Aaron spends time in prison.
+//Aaron's court does not end.
+//Aaron is sad and tensed.
+Aaron kills himself.
+Aaron's family and Aaron's partner blame MIT.
+
+The end.
+
+Second perspective.
+
+Start story titled "Robin Hood".
+
+Robin is a person.
+A monk is a kind of person.
+The sheriff is a kind of authority.
+
+Robin is unemployed and lives in the wood.
+Robin has friends. 
+Robin robs rich people.
+Robin does not rob poor people.
+Robin gives money to poor people.
+Poor people love Robin.
+Robin is wanted by authorities.
+Robin robs a monk.
+
+Robin comes to the church.
+In the church there is a monk.
+A monk recognizes Robin. The monk shows Robin to the sheriff.
+The sheriff and soldiers try to imprison Robin.
+Robin kills 12 soldiers with his sword.
+Robin is imprisoned.
+Robin is not afraid.
+Robin believes that his friends will rescue him.
+Robin's friends break into the jail.
+Robin's friends kill the monk.
+Robin continues to live in the wood and to rob the rich.
+
+The end.
+

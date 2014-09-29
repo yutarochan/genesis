@@ -1,0 +1,61 @@
+
+Goertz is a person.
+Lu is a person. 
+Shan is a person. 
+Lu is insane.
+Lu is crazy. 
+Lu is a student.
+Shan is a student. 
+Lu lives in America. 
+America has individualistic values.
+Lu is Chinese. 
+
+// Work on this one!
+// Lu is best student in Beijing University. 
+// He was an Iowa university pHD student. 
+// Lu had the highest qualifying exam score in history. 
+
+Lu was a good Chinese student.
+Lu became a United States student.
+Lu had highest entrance exam score.
+
+/*
+He is a doctors student at the University of Iowa. 
+Lu has the highest score in history on the qualifying exam. 
+*/
+
+Lu is a bachelor. 
+Lu is lonely. 
+Lu has a gun. 
+Lu practices shooting for fun. 
+// Lu has important research. 
+Lu fails his dissertation defense.
+Goertz is Lu's advisor. 
+// Lu is not friends with Geortz.
+Lu was angry at Goertz because Lu fails his dissertation defense. 
+// Lu passes his second dissertation defense.
+// Lu becomes a lab assistant because Lu does not get a job. 
+Shan is younger than Lu. 
+Shan comes from China. 
+// Lu finishes his dissertation at the same time as Shan. 
+Shan comes from a small Chinese village. 
+Shan is married. 
+Shan is social.
+Shan has friends. 
+Shan is successful. 
+Shan receives awards.
+// Shan receives the highest score on the qualifying exam his year. 
+
+Faculty nominates Shan for an award.
+
+// Faculty did not nominate Lu for the award leads to Lu appealing faculty decision.
+// Faculty rejected Lu's appeal. 
+// Advisor is a person.
+
+Lu shot Goertz. 
+Lu shot an associate professor. 
+Lu shot Shan. 
+Lu killed Lu.
+
+Lu shot himself. 
+The end. 

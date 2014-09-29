@@ -1,0 +1,42 @@
+// Note idiom that sets up experiments and gives each a name; must be first sentence read.
+
+Run what-if experiments A, B, and C.
+
+// All the rest is read once for A, B, and C
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Insert file Start experiment.
+
+Insert file General facts.
+
+Assume if experiment A, B, or C: Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Eastern concept knowledge.
+
+"Ambitious" is a kind of personality trait.
+
+"Evil" is a kind of personality trait.
+
+"Crazy" is a kind of personality trait.
+
+"Greedy" is a kind of personality trait.
+
+// Note idiom that conditionally ignores sentences when current experiment is not on list of experiments provided:
+
+Assume if experiment B or C: "Vicious" is a kind of personality trait.
+
+Assume if experiment C: "Machiavellian" is a kind of personality trait.
+
+Assume if experiment A: Start story titled "Macbeth/with traits/Experiment 1 of 3".
+
+Assume if experiment B: Start story titled "Macbeth/with traits/Experiment 2 of 3".
+
+Assume if experiment C: Start story titled "Macbeth/with traits/Experiment 3 of 3".
+
+Insert file Traits-Macbeth plot.
+

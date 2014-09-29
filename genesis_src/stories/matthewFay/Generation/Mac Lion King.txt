@@ -1,0 +1,49 @@
+Clear story memory.
+
+Start experiment.
+
+//Background Knowledge, learn characters
+Insert file Macbeth1 common.
+
+Start Experiment.
+
+//Commonsense knowledge for post-generation analysis
+Insert file General commonsense knowledge.
+Insert file Relations knowledge.
+Insert file General reflective knowledge.
+"Eastern" is a kind of personality trait.
+"Machiavellian" is a kind of personality trait.
+
+Start story titled, "The lion King".
+
+Scar is a character.
+Scar is a person.
+Scar is similar to Macbeth.
+
+Simba is a character.
+Simba is a person.
+Simba is similar to Macduff.
+
+Lady Scar is a character.
+Lady Scar is a person.
+Lady Scar is similar to Lady Macbeth.
+
+Nala is a character.
+Nala is a person.
+Nala is similar to Lady Macduff.
+
+Zazu is a character.
+Zazu is a person.
+Zazu is similar to Cawdor.
+
+Mufasa is a character.
+Mufasa is a person.
+Mufasa is similar to Duncan.
+
+The Pride Lands is a country.
+The Pride Lands is similar to England.
+
+Simulate Characters.
+Weave character plots.
+
+The end.

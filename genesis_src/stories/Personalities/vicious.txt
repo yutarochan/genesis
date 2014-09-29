@@ -1,0 +1,44 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+
+// If xx dislikes yy and xx is vicious then xx wants to harm yy.
+
+// If xx wants to harm yy and xx is vicious, then xx may attack yy.
+
+xx may kill yy because xx is vicious and xx dislikes yy.
+
+xx wants to kill yy because xx is vicious and yy angers xx.
+
+xx may kill yy because xx wants to kill yy and xx is vicious.
+
+// xx may kill yy because xx wants to harm yy and xx is vicious.
+
+Start reflective knowledge.
+
+Start description of "Joy in enemy's suffering".
+xx's disliking yy leads to yy's becoming unhappy.
+The end.
+
+Patrick is a person.
+
+Boris is a person.
+
+Start story titled "Vicious person's characteristics".
+
+Patrick assaults Boris.
+
+Patrick attacks Boris.
+
+Patrick insults Boris.
+
+Patrick kills Boris.
+
+Patrick dislikes Boris.
+
+
+
+The end.

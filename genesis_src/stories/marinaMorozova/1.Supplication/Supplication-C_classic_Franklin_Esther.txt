@@ -1,0 +1,59 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+Insert file 1.txt.
+
+Start commonsense knowledge.
+
+if yy gives xx volunteers then yy helps xx. 
+yy wants to kill xx because yy wants to kill Jews and xx is jewish. 
+if xx wants to kill yy then xx troubles yy.
+if xx troubles yy and zz kills xx then zz helps yy. 
+
+First perspective.
+Start story titled "Franklin at the court of Lois XVI".
+
+Franklin is a person.
+France is an entity.
+Britain is an entity.
+Americans are people.
+
+France is mighty.
+Americans are Britain's subjects.
+Americans are rebels because Americans claim Americans are independent.
+Britain tries to disarm Americans because Americans are rebels.
+Britain declares war to Americans because Americans fight back.
+
+Franklin is Americans's embassador in France.
+France does not plan to help Americans because war is devastating.
+Americans do not ask France to help Americans because France is far.
+Franklin asks France to help Americans because Britain troubles Americans.
+France gives Americans volunteers because France races Britain.
+
+The end.
+
+Second perspective.
+Start story titled "Esther from Bible".
+
+Jews are people.
+Mordecai is a person.
+Mordecai is jewish.
+Esther is a person.
+Mordecai is Esther's father.
+
+Xerxes is a person. Xerxes is mighty because Xerxes is a king of Persia.
+Xerxes loves Esther because Esther is Xerxes's wife.
+
+Haman is a person.
+Everyone praise Haman because Haman is a prince.
+Mordecai does not praise Haman because Mordecai praises only God.
+Haman want to kill Mordecai because Mordecai does not praise Haman.
+Then, Haman plots to kill Jews because Haman wants to kill Jews.
+
+Xerxes does not plan to help Jews because Xerxes is Persian.
+Jews does not ask Xerxes to help Jews.
+
+Xerxes kills Haman because Esther asks Xerxes to help Jews and because Xerxes loves Esther.
+
+
+The end.

@@ -1,0 +1,17 @@
+Insert file Start experiment.
+
+Start story titled "Harbor/Delivery".
+
+George, Bob, and Tim are persons.
+
+George is in the first truck.
+It hauls boxes and goes towards Bob and the boat.
+George exits the truck and approaches Bob.
+George hands Bob a paper.
+Bob takes the paper and gives George a receipt.
+Then, George walks back to the truck and enters it.
+Next, the truck passes a gate, arrives at the crane and stops.
+Tim is in the crane.  the crane picks up the boxes, raises them, and moves them towards the boat.
+Finally, it puts them down on the deck and the boat leaves the harbor.
+
+The end.

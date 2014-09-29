@@ -1,0 +1,31 @@
+Start commonsense knowledge.
+
+Both Perspectives.
+
+WW, XX, YY, and ZZ are entities.
+
+// If xx is an entity and yy is an entity and zz is an entity and xx hates zz and yy hates zz, then xx is yy's friend.
+
+// If xx loves yy then xx is a friend of yy.
+
+// If xx harms yy and yy is vindictive, then yy wants to harm xx.
+
+First perspective.
+
+// XX may kill YY because YY angers XX.
+
+If XX is an enemy of ZZ and YY is an enemy of ZZ, then YY may be XX's friend.
+
+If YY is an enemy of ZZ and XX is an enemy of ZZ, then YY may be XX's friend.
+
+Second perspective.
+
+XX may kill YY because XX is not sane.
+
+Both perspectives.
+
+
+
+
+
+

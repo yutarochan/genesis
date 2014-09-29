@@ -1,0 +1,9 @@
+I am a person.
+
+Note that Macbeth is a name.
+Note that Duncan is a name.
+Note that Macduff is a name.
+Note that Donald is a name.
+
+Macbeth, Duncan, Donald, and Macduff are characters.
+Macbeth, Duncan, Donald, and Macduff are persons.

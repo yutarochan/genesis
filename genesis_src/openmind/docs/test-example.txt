@@ -1,0 +1,12 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+If xx is a toolshed then it may contain a spade.
+
+Start story titled "Test".
+
+The room is a toolshed.
+The room contains a spade.
+
+The end.

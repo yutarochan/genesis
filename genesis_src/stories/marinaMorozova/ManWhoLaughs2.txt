@@ -1,0 +1,246 @@
+Insert file Start experiment.
+
+
+
+First perspective.
+
+Show first perspective.
+
+Start commonsense knowledge.
+
+xx is an entity.
+
+yy is an entity.
+
+If xx gives money to yy then xx enriches yy.
+
+If yy kidnaps xx then yy injures xx.
+
+If xx is a noble and yy is a son of xx then yy is a noble.
+
+If xx contradicts yy then xx is an enemy of yy.
+
+xx harms yy because xx harms zz and zz is yy's son.
+
+//not sure of this one maybe:
+//xx is yy's enemy because xx disagrees with yy and xx is a noble and yy is a sovereign.
+
+xx prefers yy to zz because xx refuses to marry zz and xx lives with yy.
+
+if yy defaces xx then xx becomes injured.
+
+xx may want to injure yy because xx envies yy.
+
+
+
+// Legacy is money.
+
+Start reflective knowledge.
+
+// Done.
+
+Start description of "Crazy waste".
+
+I am greedy.
+xx is a person.
+yy is a person.
+yy promises money to xx.
+xx refuses money.
+
+//we do not care about circumstances.
+
+The end.
+
+
+
+
+// Done.
+
+Start description of "Child Abuse".
+
+// I am not Machiavellian.
+
+xx is a child.
+yy is a person.
+yy injures xx.
+
+The end.
+
+// Done.
+
+Start description of "Strengthening power".
+
+I am Machiavellian.
+xx is a person.
+yy is a noble.
+zz is a noble.
+// yy is an enemy of xx.
+zz is neutral.
+xx harms yy.
+xx enriches zz.
+
+// xx is Richard, yy is Clancharlie, and zz is David 
+
+The end.
+
+// Done.
+
+Start description of "Love prevails over greed".
+
+I am romantic.
+xx is a entity.
+yy is a entity.
+zz is an entity.
+
+yy is rich. 
+zz is poor.
+xx loves zz.
+xx prefers zz to yy.
+
+//we do not care about circumstances.
+
+The end.
+
+Start description of "A violent escape".
+
+xx is an entity.
+// xx is not my friend.
+xx is a bad person.
+yy is an entity.
+
+/*
+xx's is not free.
+yy guards xx.
+xx harms yy.
+aa is an action.
+aa leads to xx becoming free.
+
+*/
+
+The end.
+
+Start story titled "The Man Who Laughs".
+
+I am Machiavellian.
+
+I am greedy.
+
+I am romantic.
+
+Clancharlie is a person.
+Clancharlie is a noble.
+
+Richard is a person.
+
+// Richard is the king.
+
+Gwynplaine is a child.
+Gwynplaine is a son of Clancharlie.
+David is a person.
+David is a son of Clancharlie.
+
+Dea is a person.
+Ursus is a person.
+Josiana is a person.
+Elizabeth is a person.
+
+Lords is a person.
+
+Gwynplaine lives with Lords.
+Gwynplaine refuses to marry Josiana.
+
+Lords are rich.
+
+Dea is poor.
+Ursus is poor.
+
+Gwynplaine loves Dea.
+
+Gwynplaine prefers Dea to Josiana.
+
+Josiana is rich.
+
+Criminals are kind of people.
+
+Dea is good.
+Ursus is good.
+Josiana is vicious.
+
+// Lords are rich.
+
+Elizabeth and Lords are friends.
+
+Clancharlie contradicts Richard.
+Richard doesn't like Clancharlie.
+Clancharlie dies.
+
+// phw added
+Gwynplaine is an enemy of Richard.
+
+Richard kidnaps Gwynplaine.
+
+Richard gives money to David.
+
+Richard sells Gwynplaine to criminals.
+David is neutral.
+//Richard likes David.
+Richard takes money from Gwynplaine.
+
+//David likes Richard.
+//Gwynplaine's legacy is money and honor.
+
+
+Gwynplaine is ugly because Criminals deface Gwynplaine.
+
+
+
+
+Criminals abandon Gwynplaine.
+Gwynplaine starves.
+Gwynplaine is cold.
+Gwynplaine finds Dea.
+Dea starves.
+Dea is cold.
+Ursus meets Gwynplaine and Dea.
+Ursus feeds Gwynplaine and Dea.
+Gwynplaine and Dea and Ursus live together.
+// Gwynplaine loves Dea.
+
+Criminals confess that Criminals defaced Gwynplaine.
+
+
+Elizabeth envies Josiana because Josiana is beautiful.
+
+// Elizabeth wants to injure Josiana because Elizabeth envies Josiana's beauty.
+
+
+Elizabeth promises money to Gwynplaine because Elizabeth wants Gwynplaine to marry Josiana.
+
+
+Elizabeth wants to injure Josiana.
+
+Elizabeth wants Gwynplaine to marry Josiana because Elizabeth wants to injure Josiana and because Gwynplaine is ugly.
+
+
+// Josiana lives with Lords.
+
+// Gwynplaine lives with Lords.
+
+
+
+// phw
+
+// Josiana loves Dea.
+
+Gwynplaine comes to Lords.
+Gwynplaine speaks to Lords.
+Lords laugh.
+Lords despise Gwynplaine.
+Lords do not respect Gwynplaine.
+Gwynplaine refuses to marry Josiana because Gwynplaine loves Dea and because Gwynplaine does not like Lords.
+Gwynplaine refuses money.
+Gwynplaine continues living with Ursus and Dea.
+
+
+
+The end.

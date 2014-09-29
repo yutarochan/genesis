@@ -1,0 +1,11 @@
+USSR and USA are entities.
+
+Start story titled "Cuban Missile Crisis".
+
+USA had missiles aimed at USSR.
+USSR moved missiles to aim to USA.
+USA felt threatened.
+USA ordered USSR to withdraw the missiles.
+USSR withdrew its missiles.
+
+The end.

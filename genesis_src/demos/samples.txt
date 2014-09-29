@@ -1,0 +1,39 @@
+//// Basic
+
+// Thread
+A bouvier is a dog.
+
+// Trajectory
+A dog ran from a tree to a lake.
+
+// Transition
+A cat appeared.
+
+// Time
+A horse appeared after the weather changed.
+
+// Give
+A man gave a bone to a dog.
+
+// Coercion
+The president forced the dictator to run to a hole.
+
+// Desire
+//The president wanted the country to move toward democracy.
+
+// Roles
+The athlete ran with a baton. 
+
+// Cause
+The mouse ran because a cat appeared.
+
+// Prediction
+A cat appeared.
+
+
+
+
+
+
+
+

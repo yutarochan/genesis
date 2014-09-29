@@ -1,0 +1,27 @@
+/*
+Test for looping bug.  Ophilia's suicide was causing it.
+*/
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+Henry dies because James kills Henry.
+
+Start story.
+
+Hamlet, King_Hamlet, Claudius, Gertrude, Laertes, Ophelia, and Polonius are persons.
+
+Hamlet murdered Claudius.
+
+Ophelia becomes insane.
+
+// Following induced looping bug.
+
+Ophelia murders Ophelia.
+
+The end.
+
+

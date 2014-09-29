@@ -1,0 +1,9 @@
+Start commonsense knowledge.
+
+xx is a person.
+
+//If xx steals horses and counts first coup, then xx is heroic.
+//If xx destroys evil, then xx is heroic.
+
+If xx is heroic, then xx may steal horses and count first coup.
+If xx is heroic, then xx may destroy evil.

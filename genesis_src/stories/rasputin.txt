@@ -1,0 +1,180 @@
+Insert file Start experiment.
+
+/*
+
+Start commonsense knowledge.
+
+A son of a noble is a noble.
+If xx does not have views then xx is neutral.
+If xx gives money to yy then xx raises yy.
+If xx harms a relative of yy then xx harms yy.
+If xx is yy's son then xx is yy's relative.
+If xx does not share yy's views then does not agree with yy.
+
+Start description of "Crazy waste"
+
+I am greedy.
+
+xx is a person.
+yy is a person.
+yy profers lots of money to xx.
+xx refuses to take money from yy.
+//we do not care about circumstances.
+
+The end.
+
+Start description of "A nobel sacrifise"
+
+I am not greedy.
+xx is a person.
+yy is a person.
+zz is a person.
+yy is rich and vile.
+zz is poor and good.
+x prefers zz over yy.
+
+//we do not care about circumstances.
+
+The end.
+
+Start description of "Strenghtening power"
+
+I am Machiavellian.
+xx is a sovereign.
+yy is a noble.
+zz is a noble.
+yy does not agree with xx.
+zz is neutral.
+xx harms yy.
+xx raises zz.
+
+The end.
+
+*/
+
+If XX is young then XX is a child.
+
+Start description of "An Awful crime"
+
+// I am not Machiavellian.
+XX is a child.
+YY harms XX.
+// YY commits an awful crime.
+The end.
+
+
+/*
+
+
+
+Start description of "A violent escape"
+
+xx is an entity.
+xx is not my friend.
+//xx is a bad person
+yy is an entity.
+
+xx's is not free.
+yy guards xx.
+xx harms yy.
+xx's actions lead to xx being free.
+
+The end.
+
+
+Start commonsense knowledge.
+
+If xx is in prison then xx is not free.
+If xx is not in prison then xx is free.
+If xx arrests yy then xx might be harming yy.
+If xx sues yy then xx chases yy.
+If xx tries to arrest yy then xx chases yy.
+If xx is yy's guard then xx guards yy.
+
+*/
+
+Start story titled "The Man Who Laughs".
+
+John is a person.
+
+George is a person.
+
+John is young.
+
+George harms John.
+
+/*
+
+Gwynplaine is a person.
+A Lord is a kind of a noble.
+Clancharlie is a person.
+Clancharlie is a Lord.
+King is a person.
+Criminals are kind of people.
+Dea is a person.
+Ursus is a person.
+Josiana is a person.
+Queen is a person.
+David is a person.
+David is Clanchaelie's son.
+Lords are kind of people.
+
+Dea is good.
+Ursus is good.
+Josiana is vicious.
+Josiana is rich.
+Dea is poor.
+Ursus is poor.
+Lords are rich.
+
+Queen and Lords are friends.
+Gwynplaine is a son of Clancharlie.
+Gwynplaine is young.
+King doesn't like Clancharlie because King doesn't share Clancharlie's political views.
+Clancharlie dies.
+King kidnaps Gwynplaine.
+King sells Gwynplaine to criminals.
+King likes David because David does not have political views.
+King gives Gwynplaine's legacy to David because David promises to support his polical views.
+Gwynplaine's legacy is a lot of money and honor.
+Criminals deface Gwynplaine.
+Gwynplaine is ugly.
+
+Gwynplaine doesn't remember that he is a son of Clancharlie.
+Gwynplaine is young.
+Criminals abandon Gwynplaine.
+Gwynplaine starves. 
+Gwynplaine is cold.
+Gwynplaine is about to die.
+Gwynplaine finds Dea.
+Dea starves. 
+Dea is cold.
+Dea is about to die.
+Ursus meets Gwynplaine and Dea.
+Ursus feeds Gwynplaine and Dea.
+Gwynplaine and Dea are not about to die anymore.
+Gwynplaine and Dea and Ursus live and travel together.
+Gwynplaine and Dea and Ursus help each other.
+Gwynplaine loves Dea.
+
+Criminals confess that Criminals defaced Gwynplaine.
+Queen envies Josiana's beauty.
+Queen wants to hurt Josiana.
+Queen wants Gwynplaine to marry Josiana.
+Queen promises to give Gwynplaine's legacy back to Gwynplaine if Gwynplaine marrys Josiana.
+If Gwynplaine marries Josiana then Gwynplaine have to live with Lords.
+If Gwynplaine accepts Gwynplaine's legacy then Gwynplaine never sees Dea and Ursus again.
+Gwynplaine comes to the Lords.
+Gwynplaine shares his views and values with the Lords.
+Lords laugh.
+Lords despise Gwynplaine.
+Lords do not respect Gwynplaine.
+Gwynplaine refuses to marry Josiana.
+Gwynplaine refuses to take his legacy from the Queen.
+Gwynplaine refuses to live with Lords.
+Gwynplaine continues living with Ursus and Dea.
+
+*/
+
+The end.
+

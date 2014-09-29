@@ -1,0 +1,11 @@
+Insert file Start experiment.
+
+Start story.
+
+Assume "fly" means "travel".
+
+The hawk flew.
+
+The osprey flew.
+
+The end.

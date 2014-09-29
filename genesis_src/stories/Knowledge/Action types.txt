@@ -1,0 +1,16 @@
+Start description of "Harming action".
+xx is an entity.
+yy is a entity.
+aa is an action
+xx's performing aa leads to xx's harming yy.
+The end.
+
+Start description of "Helping action".
+xx is an entity.
+yy is a entity.
+aa is an action
+xx's performing aa leads to xx's helping yy.
+The end.
+
+
+

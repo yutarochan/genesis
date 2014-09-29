@@ -1,0 +1,98 @@
+Insert file Start experiment.
+Show both perspectives.
+// preliminary pattern
+// sometimes mortal angers immortal because mortal pursues immortal's disciples.
+// mortal angers immortal.
+// sometimes, mortal's angering immortal leads to immortal's harming mortal. 
+Both perspectives.
+
+
+Start reflexive knowledge.
+
+
+Start description of "Conflict-with-god-A".
+yy is an entity.
+yy is mortal.
+
+xx is an entity.
+xx is immortal.
+
+yy's committing act against religion leads to yy's being hurt.
+
+The end.
+
+
+
+First perspective.
+Start story titled "Pentheus by Euripides".
+
+Cadmus is a person.
+Pentheus is a person.
+Pentheus is mortal because Pentheus is a human being.
+Thebes is a place.
+Dionysus is immortal because Dionysus is a deity.
+
+
+Pentheus becomes the king of Thebes because Cadmus is a king of Thebes and because Cadmus abdicates in favor of Pentheus.
+Cadmus abdicates in favor of Pentheus because Cadmus is old and because Pentheus is Cadmus's grandson.
+
+Pentheus commits act against religion because Penteus prohibits worshiping Dionysus.
+Pentheus angers Dionysus because Pentheus commits act against religion.
+
+// PHW: Actions cause, people don't
+
+Dionysus causes Pentheus's aunts to be frenzied because Pentheus angers Dionysus.
+Dionysus causes women of Thebes to be frenzied because Pentheus angers Dionysus.
+
+Cithaeron is a mountain.
+Frenzy women come to Cithaeron.
+
+Dionysus wants to harm Pentheus because Pentheus angers Dionysus.
+Dionysus lures Pentheus to Cithaeron because Dionysus wants to harm Pentheus.
+Pentheus comes to Cithaeron because Dionysus lures Pentheus to Cithaeron.
+Pentheus hides on the tree because Pentheus wants to watch frenzy women.
+Pentheus's aunts take Pentheus for an animal because Pentheus hides on the tree.
+
+// PHW: Actions cause, people don't; revised phrasing works
+Pentheus's aunts kill Pentheus because Pentheus's aunts take Pentheus for an animal and because Dionysus causes Pentheus's aunts to be frenzied.
+
+// PHW: Distortion of story, just to see if pattern works.  No longer needed.
+// Pentheus's aunts kill Pentheus because Pentheus's aunts take Pentheus for an animal and because Pentheus angers Dionysus.
+
+
+Pentheus is hurt because Pentheus's aunts kill Pentheus.
+
+The end.
+
+Second perspective.
+Start story titled "Athalie from Bible".
+
+Athalie is a person.
+
+Athalie is mortal because Athalie is a human being.
+God is immortal because God is a deity.
+
+// PHW: Not "a queen" that causes a misparse Athalie becomming "a_queen" and screwing up classification.
+Athalie is queen of Judea.
+Judaism is a religion. Baal is a deity.
+
+God is immortal because God is a deity.
+
+Athalie abandons Judaism because Athalie worships Baal.
+
+Jews are kind of people. 
+Athalie pursues jews because jews worship God and because Athalie abandons Judaism.
+Athalie commits act against religion because Athalie pursues jews. 
+Athalie exterminates royal family because Athalie pursues jews and because royal family is jewish.
+Joad is a person and Joad is the high priest.
+Joash is a person and Joash is a prince. Joash survives because Joad saves Joash.
+Joad saves Joash because Joad is faithful to God and Joash is a prince.
+Joad raises Joash in judaism because Joad is faithful to God. 
+Joad proclaims Joash a king because Joash is a prince.
+Athalie bursts into the temple with guards because Joad proclaims Joash a king.
+Joad and his friends protect Joash.
+
+Joad kills Athalie because Athalie commits act against religion.
+Athalie is hurt because Joad kills Athalie. 
+
+The end.

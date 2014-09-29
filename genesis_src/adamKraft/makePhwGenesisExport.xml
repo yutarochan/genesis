@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="create_run_jar" name="Create Runnable Jar for Project Gauntlet">
+    <!--this file was created by Eclipse Runnable JAR Export Wizard-->
+    <!--ANT 1.7 is required                                        -->
+
+	
+    <target name="create_run_jar">
+        <jar destfile="../../../GeneratorDemonstration/lib/GenesisLib.jar" filesetmanifest="mergewithoutmain">
+            <manifest>
+                <attribute name="Main-Class" value="adamKraft.StartParserDemo"/>
+                <attribute name="Class-Path" value="."/>
+            </manifest>
+            <fileset excludes="adamKraft/videoUtils/** adamKraft/one_man_two_man_red_man_blue_man/** openmind/** links/** m2/** magic/** parser/** visualmemory/** frameByFrame/** images/** telmo/** wordnet/** clojureDemo/** capenLow/** carynKrakauer/** genericStudent/** " dir="../../../Genesis/binary"/>
+            <fileset excludes="links/** telmo/**" dir="../../../Propagators/bin"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/commons-logging-1.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/ws-commons-util-1.0.2.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-client-3.1-sources.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-client-3.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-common-3.1-sources.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-common-3.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-server-3.1-sources.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/xmlrpc/xmlrpc-server-3.1.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/bytecode/javassist.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/codec/commons-codec-1.4-sources.jar"/>
+            <zipfileset excludes="META-INF/*.SF" src="../../../Propagators/lib/codec/commons-codec-1.4.jar"/>
+        </jar>
+    </target>
+</project>
+
+

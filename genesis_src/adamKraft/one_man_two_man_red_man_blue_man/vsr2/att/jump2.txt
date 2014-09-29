@@ -1,0 +1,96 @@
+
+transitions/vsr2/rf/jump2.txt has 300 RefFrames.
+transitions/vsr2/rf/jump2.txt has 3 markers.
+Inst 44 [- 43 42 41 39] id=0  ddy=-1 [2] dR=0 dTheta=1
+Inst 45 [- 44 43 42 41] id=0  ddy=-1 [2] dR=0 dTheta=1
+Inst 46 [- 45 44 43 42] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 47 [- 46 45 44 43] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 48 [- 47 46 45 44] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 49 [- 48 47 46 45] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 50 [- 49 48 47 46] id=0  ddx=1 ddy=-1 [2] dR=1 dTheta=1
+Inst 51 [- 50 49 48 47] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 52 [- 51 50 49 48] id=0  ddy=-1 [2] dR=1 dTheta=1
+Inst 53 [- 52 51 50 49] id=0  ddy=-1 [2] dR=0 dTheta=1
+Inst 54 [- 53 52 51 50] id=0  ddx=1 ddy=-1 [2] dR=0 dTheta=1
+Inst 55 [- 54 53 52 51] id=0  ddy=-1 [2] dR=0 dTheta=1
+Inst 56 [- 55 54 53 52] id=0  [2] dR=0 dTheta=1
+Inst 57 [- 56 55 54 53] id=0  [2] dR=0 dTheta=1
+Inst 58 [- 57 56 55 54] id=0  ddx=1 [2] dR=0 dTheta=1
+Inst 59 [- 58 57 56 55] id=0  ddx=1 [2] dR=0 dTheta=1
+Inst 60 [- 59 58 57 56] id=0  ddx=1 [2] dR=0 dTheta=1
+Inst 61 [- 60 59 58 57] id=0  ddx=1
+Inst 62 [- 61 60 59 58] id=0  ddx=1
+Inst 63 [- 62 61 60 59] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=0
+Inst 64 [- 63 62 61 60] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=-1
+KF 64 [- 6] id=0  [2] dR=-1 dTheta=0
+Inst 65 [- 64 63 62 61] id=0  ddy=1 [2] dR=-1 dTheta=-1
+Inst 66 [- 65 64 63 62] id=0  ddy=1 [2] dR=-1 dTheta=-1
+KF 66 [- 64] id=0  dmarkerContact[2]=1
+Inst 67 [- 66 65 64 63] id=0  ddy=1 [2] dR=-1 dTheta=-1 dmarkerContact[2]=1
+Inst 68 [- 67 66 65 64] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=-1 dmarkerContact[2]=1
+Inst 69 [- 68 67 66 65] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=-1
+Inst 70 [- 69 68 67 66] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=-1
+Inst 71 [- 70 69 68 67] id=0  ddx=1 ddy=1 [2] dR=0 dTheta=-1
+KF 71 [- 66] id=0  dmarkerContact[2]=-1
+Inst 72 [- 71 70 69 68] id=0  ddx=1 ddy=1 dmarkerContact[2]=-1
+KF 72 [- 71] id=0  [2] dmarker=-1
+Inst 73 [- 72 71 70 69] id=0  ddx=1 ddy=1 [2] dmarker=-1
+Inst 74 [- 73 72 71 70] id=0  ddx=1
+Inst 75 [- 74 73 72 71] id=0  ddx=1
+Inst 76 [- 75 74 73 72] id=0  ddx=1
+Inst 77 [- 76 75 74 73] id=0  ddx=1 ddy=-1
+Inst 78 [- 77 76 75 74] id=0  ddx=1 ddy=-1
+Inst 79 [- 78 77 76 75] id=0  ddx=1 ddy=-1
+Inst 80 [- 79 78 77 76] id=0  ddx=1 ddy=-1
+KF 80 [- 72] id=0  [2] dmarker=1
+Inst 81 [- 80 79 78 77] id=0  ddx=1 ddy=-1 [2] dmarker=1
+KF 81 [- 80] id=0  dmarkerContact[2]=1
+Inst 82 [- 81 80 79 78] id=0  ddx=1 ddy=-1 dmarkerContact[2]=1
+Inst 83 [- 82 81 80 79] id=0  ddx=1 ddy=-1 [2] dR=1 dTheta=0 dmarkerContact[2]=1
+Inst 84 [- 83 82 81 80] id=0  ddx=1 [2] dR=1 dTheta=0
+Inst 85 [- 84 83 82 81] id=0  ddx=1
+Inst 86 [- 85 84 83 82] id=0  ddx=1 ddy=1 [2] dR=0 dTheta=1
+Inst 87 [- 86 85 84 83] id=0  ddx=1 ddy=1 [2] dR=-1 dTheta=1
+Inst 88 [- 87 86 85 84] id=0  ddy=1 [2] dR=-1 dTheta=1
+Inst 89 [- 88 87 86 85] id=0  ddy=1 [2] dR=0 dTheta=1
+Inst 90 [- 89 88 87 86] id=0  ddy=1 [2] dR=0 dTheta=1
+Inst 91 [- 90 89 88 87] id=0  [2] dR=0 dTheta=1
+KF 92 [- 81] id=0  dmarkerContact[2]=-1
+Inst 93 [- 92 91 90 89] id=0  [2] dR=1 dTheta=0
+KF 93 [- 92] id=0  dmarkerContact[2]=1
+Inst 94 [- 93 92 91 90] id=0  [2] dR=1 dTheta=0
+KF 94 [- 93] id=0  dmarkerContact[2]=-1
+KF 95 [- 0] id=2  [0] dR=-1 dTheta=1
+KF 96 [- 95] id=2  dmarkerContact[0]=1
+KF 97 [- 94] id=0  dmarkerContact[2]=1
+Inst 115 [- 114 113 -1 -1] id=0  dmarkerContact[2]=1
+KF 144 [- 97] id=0  dmarkerContact[2]=-1
+KF 145 [- 96] id=2  dmarkerContact[0]=-1
+KF 152 [- 144] id=0  dmarkerContact[2]=1
+KF 153 [- 152] id=0  dmarkerContact[2]=-1
+KF 163 [- 153] id=0  dmarkerContact[2]=1
+KF 165 [- 163] id=0  dmarkerContact[2]=-1
+KF 166 [- 165] id=0  dmarkerContact[2]=1
+KF 167 [- 145] id=2  dmarkerContact[0]=1
+KF 168 [- 166] id=0  dmarkerContact[2]=-1
+KF 169 [- 168] id=0  dmarkerContact[2]=1
+KF 170 [- 167] id=2  dmarkerContact[0]=-1
+KF 171 [- 169] id=0  dmarkerContact[2]=-1
+Inst 172 [- 171 169 168 166] id=0  dmarkerContact[2]=-1
+KF 175 [- 171] id=0  dmarkerContact[2]=1
+KF 179 [- 175] id=0  dmarkerContact[2]=-1
+KF 183 [- 179] id=0  dmarkerContact[2]=1
+KF 194 [- 170] id=2  dmarkerContact[0]=1
+Inst 195 [- 194 193 192 191] id=2  dmarkerContact[0]=1
+KF 196 [- 194] id=2  dmarkerContact[0]=-1
+Inst 197 [- 196 195 194 193] id=2  dmarkerContact[0]=-1
+KF 198 [- 196] id=2  dmarkerContact[0]=1
+Inst 199 [- 198 197 196 195] id=2  dmarkerContact[0]=1
+Inst 200 [- 199 198 197 196] id=2  dmarkerContact[0]=1
+KF 201 [- 198] id=2  dmarkerContact[0]=-1
+KF 202 [- 201] id=2  dmarkerContact[0]=1
+KF 207 [- 202] id=2  dmarkerContact[0]=-1
+KF 208 [- 207] id=2  dmarkerContact[0]=1
+KF 212 [- 183] id=0  dmarkerContact[2]=-1
+KF 213 [- 212] id=0  dmarkerContact[2]=1
+

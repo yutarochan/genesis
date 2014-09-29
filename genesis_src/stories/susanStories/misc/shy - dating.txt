@@ -1,0 +1,39 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX is speechless around YY, then XX may say something stupid to YY.
+
+If XX says something stupid to YY, then YY mocks XX.
+If YY mocks XX, then XX may feel embarrassed.
+
+Start story titled "The hapless dater".
+
+Michael is a person.
+Samantha is a person.
+
+Michael is shy.
+
+Samantha invites Michael to a date.
+
+Michael is speechless around Samantha because Michael is shy.
+
+Michael says something stupid to Samantha.
+
+Michael feels embarrassed.
+
+Michael turns red because Michael feels embarrassed.
+
+Michael sweats because Michael feels embarrassed.
+
+Michael becomes drunk because Michael feels embarrassed.
+
+Samantha leaves the date early because Michael turns red.
+
+The end.

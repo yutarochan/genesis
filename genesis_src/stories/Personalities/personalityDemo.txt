@@ -1,0 +1,73 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+// If xx kills yy then xx harms yy.
+
+If xx harms yy, then yy becomes unhappy. 
+
+If xx dislikes yy and xx avoids yy, then xx becomes happy. 
+
+If xx attacks yy, then yy becomes unhappy. 
+
+Start description of "Negative emotional impact".
+xx's performing aa leads to yy's becoming unhappy.
+The end.
+
+Start description of "Positive emotional impact".
+xx's performing aa leads to yy's becoming happy.
+The end.
+
+First perspective.
+
+"Nasty" is a kind of personality trait.
+
+
+
+"Shy" is a kind of personality trait.
+
+"Vicious" is a kind of personality trait.
+
+
+
+// No longer needed; incorporated into preprocessor handling of ... is a kind of personality trait.
+
+// Load nasty personality file.
+// Load shy personality file.
+// Load vicious personality file.
+
+Start story titled "Tragedy of traits".
+
+Second perspective.
+
+Start story titled "Normal world".
+
+Both perspectives.
+
+
+Patrick is a person.
+
+
+Scylla is a person.
+
+Charybdis is a person.
+
+Patrick is nasty.
+
+
+
+Charybdis is shy.
+
+Scylla is vicious.
+
+Scylla attacks Patrick.
+
+
+
+The end.

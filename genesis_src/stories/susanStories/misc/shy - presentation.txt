@@ -1,0 +1,18 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file shyness reflective knowledge.
+
+Start story titled "Presenter".
+
+Mark is a person.
+Giving a presentation is an action.
+
+Mark giving a presentation is a social interaction.
+// Mark thinks that Mark will become embarrassed if Mark gives a presentation.
+Mark avoids giving a presentation because Mark does not want to become embarrassed. 
+
+The end.

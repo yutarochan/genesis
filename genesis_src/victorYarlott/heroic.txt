@@ -1,0 +1,27 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+
+If xx is heroic and yy meets xx, then yy falls in love with xx.
+If xx is heroic, then xx may steal horses.
+If xx is heroic, then xx may hunt well.
+If xx is heroic, then xx may kill the enemy.
+xx may steal horses because xx is heroic.
+//xx may count coup because xx is heroic.
+
+//xx may kill the enemy because xx is heroic.
+
+Start reflective knowledge.
+
+Victor is a person.
+
+Start story titled "Heroic person's characteristics".
+
+Victor steals horses.
+
+Victor kills the enemy.
+
+//Victor delivers his tribe from disaster.
+
+The end.

@@ -1,0 +1,20 @@
+Start commonsense knowledge.
+
+Vindictive is a personality trait.
+
+Psychotic is a personality trait.
+
+WW, XX, YY, and ZZ are persons.
+
+If YY is psychotic and YY is angry at WW then YY wants to kill WW.
+
+
+
+
+
+
+
+
+
+
+

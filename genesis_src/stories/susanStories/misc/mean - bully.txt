@@ -1,0 +1,40 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+YY is big.
+XX is short.
+
+If YY fights XX, then YY may win.
+If YY wins against XX, then YY becomes happy.
+If YY fights XX and YY wins against XX, then YY harms XX.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Bill the bully".
+
+Billy is a person.
+Billy is mean and Billy has low self-esteem.
+Billy is big.
+
+Zander is a person.
+Zander is short.
+
+Billy knows that Billy harms Zander if Billy fights Zander.
+Billy fights Zander because Zander is short and because Billy is mean.
+Billy wins.
+
+Zander cries because Billy harms Zander.
+// Billy becomes happy because Zander cries and because Billy is mean.
+
+// Deliberate meanness.
+Billy becomes happy because Billy harms Zander.
+
+
+The end.

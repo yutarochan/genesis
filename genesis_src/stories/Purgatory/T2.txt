@@ -1,0 +1,28 @@
+/*
+Germany should end up happy.  Tests use of unspecified action in rule.  
+Also tests reification of action in an antecedent rendered by occur expressions.
+Note that both England and LL can bind to Germany because Germany is both a state and a location.
+See picture.
+*/
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX is an entity.
+
+LL is a location.
+
+XX becomes happy because XX wanted an action to occur and the action occurred.
+
+England wanted LL to appear because England is a state and because LL is a location.
+
+Start story.
+
+Germany is a state.
+
+GiediPrime is a location.
+
+GiediPrime appeared.
+
+The End.

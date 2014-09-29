@@ -1,0 +1,59 @@
+
+transitions/vsr2/rf/carry0.txt has 300 RefFrames.
+transitions/vsr2/rf/carry0.txt has 3 markers.
+Inst 5 [- 4 3 -1 -1] id=2  dmarkerContact[0]=1
+Inst 24 [- 23 21 20 19] id=2  [0] dR=1 dTheta=0
+Inst 30 [- 29 27 26 25] id=2  [0] dR=1 dTheta=0
+Inst 40 [- 39 38 37 36] id=2  ddx=1
+Inst 41 [- 40 39 38 37] id=2  ddx=1
+Inst 42 [- 41 40 39 38] id=2  ddx=1
+Inst 43 [- 42 41 40 39] id=2  ddx=1
+Inst 44 [- 43 42 41 40] id=2  ddx=1
+Inst 47 [- 46 45 -1 -1] id=0  dmarkerContact[2]=1
+Inst 49 [- 48 47 46 45] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 50 [- 49 48 47 46] id=0  ddx=1
+Inst 54 [- 53 52 51 44] id=2  ddx=1
+Inst 55 [- 54 53 52 51] id=2  ddx=1
+Inst 56 [- 55 54 53 52] id=2  ddx=1
+Inst 57 [- 56 55 54 53] id=2  ddx=1
+Inst 81 [- 80 79 78 77] id=2  ddx=1
+Inst 82 [- 81 80 79 78] id=2  ddx=1
+Inst 83 [- 82 81 80 79] id=2  ddx=1
+Inst 84 [- 83 82 81 80] id=2  ddx=1
+Inst 96 [- 95 94 93 89] id=0  ddx=1
+Inst 103 [- 102 101 100 99] id=0  ddx=1
+Inst 104 [- 103 102 101 100] id=0  ddx=1
+Inst 105 [- 104 103 102 101] id=0  ddx=1
+Inst 106 [- 105 104 103 102] id=0  ddx=1
+Inst 107 [- 106 105 104 103] id=0  ddx=1
+Inst 108 [- 107 106 105 104] id=0  ddx=1
+Inst 109 [- 108 107 106 105] id=0  ddx=1
+Inst 110 [- 109 108 107 106] id=0  ddx=1
+Inst 113 [- 112 111 -1 -1] id=2  dmarkerContact[0]=1
+Inst 115 [- 114 113 112 111] id=2  ddx=1
+Inst 116 [- 115 114 113 112] id=2  ddx=1
+Inst 119 [- 118 117 110 109] id=0  [2] dR=-1 dTheta=0
+Inst 120 [- 119 118 117 110] id=0  ddx=1
+Inst 121 [- 120 119 118 117] id=0  ddx=1
+Inst 122 [- 121 120 119 118] id=0  ddx=1
+Inst 123 [- 122 121 120 119] id=0  ddx=1
+Inst 124 [- 123 122 121 120] id=0  ddx=1
+Inst 125 [- 124 123 122 121] id=0  ddx=1
+Inst 130 [- 129 128 127 125] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 133 [- 132 130 129 128] id=0  [2] dR=-1 dTheta=0
+Inst 149 [- 148 147 146 144] id=0  ddx=1
+Inst 150 [- 149 148 147 146] id=0  ddx=1
+Inst 151 [- 150 149 148 147] id=0  ddx=1
+Inst 153 [- 152 145 -1 -1] id=2  dmarkerContact[0]=1
+Inst 155 [- 154 153 152 145] id=2  ddx=1
+Inst 156 [- 155 154 153 152] id=2  ddx=1
+Inst 157 [- 156 155 154 153] id=2  ddx=1
+Inst 158 [- 157 156 155 154] id=2  ddx=1
+Inst 159 [- 158 157 156 155] id=2  ddx=1
+Inst 160 [- 159 158 157 156] id=2  ddx=1
+Inst 161 [- 160 159 158 157] id=2  ddx=1
+Inst 162 [- 161 160 159 158] id=2  ddx=1
+Inst 174 [- 173 170 -1 -1] id=0  dmarkerContact[2]=1
+Inst 203 [- 202 193 -1 -1] id=0  dmarkerContact[2]=1
+Inst 218 [- 217 213 -1 -1] id=0  dmarkerContact[2]=1
+

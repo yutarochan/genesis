@@ -1,0 +1,205 @@
+Insert file Start experiment.
+
+
+xx is an entity.
+
+yy is an entity.
+
+zz is an entity.
+
+ww is an entity.
+
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+// Group 1 rules
+
+If yy harms xx then xx may intend to kill yy.
+
+If xx kills yy then xx commits violent act.
+
+If xx fights yy then xx commits violent act.
+
+If xx assaults yy then xx commits violent act.
+
+mm is an entity.
+
+nn is an entity.
+
+// Group 2 rules
+
+If xx kills yy then xx must intend to kill yy.
+
+If xx kills yy then xx harms yy.
+
+If xx harms yy and yy is a member of mm, then xx harms mm.
+
+// If xx harms yy and xx is a member of mm and yy is a member of nn and zz is a member of nn, then zz intends to harm mm.
+
+If xx harms mm and xx is a member of nn and yy is a member of mm, then yy intends to harm nn.
+
+If xx intends to harm mm and yy is a member of mm, then xx may kill yy.
+
+If xx kills yy and xx is a member of zz, then yy cannot intend to harm zz.
+
+Start description of "Harm leads to harm".
+ww is an entity.
+xx is an entity.
+yy is a entity.
+ww's fighting xx leads to yy's harming ww.
+ww's fighting xx leads to ww's harming xx.
+The end.
+
+Start description of "Violence leads to violence".
+XX is an entity.
+YY is an entity.
+AA is an action.
+xx must not equal yy.
+xx commits violent act because xx performs aa.
+xx's performing aa leads to yy's committing a second violent act.
+The end.
+
+
+Start description of "Blood Feud 1".
+XX is a person.
+YY is a person.
+// mm is a group.
+// nn is a group.
+mm is an entity.
+nn is an entity.
+xx is a member of mm;
+yy is a member of nn;
+ww is a member of nn;
+zz is a member of mm;
+ 
+xx kills yy.
+ww intends to kill zz.
+
+ // Alternate rendering
+ // xx's killing of yy leads to ww's intending to kill zz.
+ 
+The end.
+
+// XX thinks that YY will fear XX if XX performs AA.
+// XX's wanting YY to fear XX leads to XX's performing AA.
+
+
+Start story titled "Haji-Murat".
+
+
+
+//Preambule: Haji-Murat's formation -- allying with Russians.
+//Told somewhere in the middle of the story.
+
+Haji-Murat is a person.
+
+
+
+Haji-Murat's mother is a person.
+
+Someone assaults Haji-Murat's mother.
+
+Khan is a kind of noble.
+Mother-Khan is a person.
+//Abununzal and Umma and Bulach are Mother-Khan's sons.
+
+// PHW
+// Abununzal and Umma and Bulach are Khans because they are Mother-Khan's sons.
+Abununzal is a Khan because he is Mother-Khan's son.
+Umma is a Khan because he is Mother-Khan's son.
+Bulach is a Khan because he is Mother-Khan's son.
+
+
+Abununzal is a person.
+Umma is a person.
+Bulach is a person.
+
+Haji-Murat is close to Khans. 
+
+// phw Mureeds are kind of people and Russians are kind of people.
+
+Mureeds are people and Russians are people.
+
+Mullah is a person.
+Mureeds are Mullah's disciples.
+Mureeds come to the village.
+
+Mureeds persuade people to fight Russians because Russians are not Moslems. 
+//'Hazavat' -- holy war against non-Moslems
+
+Everyone fights Russians but Khans do not fight Russians.
+
+// PHW: The article, a, was left out, screwing up interpretation.
+
+Gamzat is a person.
+
+// Then, mullah is killed. 
+
+Then, Mullah is killed. 
+
+Gamzat becomes new Mullah. 
+
+Gamzat threatens Khans because Khans do not fight Russians.
+
+Khans do not fight Russians because Khans fear Russians.
+
+Mother-Khan sends Haji-Murat to Russians because Gamzat threatens Khans.
+Russians promise to help Khans because Haji-Murat asks Russians to help Khans.
+Russians send officers to the village because Haji-Murat asks Russians to help Khans.
+Officers do not help Khans.
+
+Shamil is a person.
+
+Gamzat ensnares Abununzal, Umma, Bulach and Haji-Murat.
+
+Gamzat kills Abununzal, Umma and Bulach. // because Khans do not fight Russians. 
+
+Haji-Murat flees. 
+Shamil helps Gamzat.
+
+
+
+Then, Gamzat kills Mother-Khan.
+
+Then, everyone obeys Gamzat.
+
+Haji-Murat kills Gamzat because Gamzat kills Abununzal, Umma and Bulach.
+
+Shamil becomes mullah because Haji-Murat kills Gamzat.
+Shamil dislikes Haji-Murat. 
+
+//Switching to Shamil
+Shamil allies with Haji-Murat because Shamil fears Haji-Murat and because Shamil needs Haji-Murat.
+Haji-Murat fights Russians because Haji-Murat allies with Shamil and because Shamil fights Russians.
+
+
+
+//Breakup with Shamil
+Shamil wants to hurt Haji-Murat because Shamil dislikes Haji-Murat's words.
+Shamil fires Haji-Murat because Shamil wants to hurt Haji-Murat.
+Shamil deprives Haji-Murat from home because Shamil wants to hurt Haji-Murat.
+Shamil summons Haji-Murat because Shamil wants to hurt Haji-Murat.
+Haji-Murat does not come to Shamil because Haji-Murat knows that Shamil wants to hurt Haji-Murat.
+Shamil imprisons Haji-Murat's family because Haji-Murat does not come to Shamil.
+
+//Plot.
+Vorontzov is a person and Vorontzov is Russian.
+Haji-Murat comes to Vorontzov.
+Vorontzov receives Haji-Murat.
+
+// Vorontzov is proud because Haji-Murat is a mighty enemy and because Haji-Murat comes to Vorontzov.
+
+Haji-Murat asks Russians to help Haji-Murat's family because Shamil imprisons Haji-Murat's family.
+Haji-Murat promises to help Russians to fight Shamil.
+Haji-Murat becomes impatient because Russians hesitate.
+Haji-Murat tries to flee because Haji-Murat becomes impatient.
+
+
+Russians kill Haji-Murat because Haji-Murat tries to flee.
+
+
+The end.
+
+

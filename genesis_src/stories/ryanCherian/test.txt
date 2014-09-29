@@ -1,0 +1,21 @@
+Start experiment.
+
+Start description of "Killing".
+
+xx is a person.
+
+yy is a person.
+
+In order to kill yy, xx picked up a knife, xx stabbed yy, and xx fled.
+
+The end.
+
+Start story titled "test".
+
+Philip is a person.  
+
+Susan is a person.
+
+In order to kill Susan, Philip picked up a knife, Philip stabbed Susan, and Philip fled.
+
+The End.

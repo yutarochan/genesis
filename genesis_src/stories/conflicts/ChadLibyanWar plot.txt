@@ -1,0 +1,59 @@
+/* Filename: ChadLibyanWar.scn
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Feb 3, 2004
+ */
+
+/**
+ * Chad: War with Libya, 1986-1987
+ */
+ 
+Start story titled "Chad-Libyan War".
+
+Chad is a country.
+Libya is a country.
+France is a country.
+Italy is a country.
+France possessed Chad.
+Italy possessed Libya.
+
+The NorthernStrip is a region.
+Chad possessed the NorthernStrip.
+
+The NorthernStrips's people were Muslim.
+Libya's people were Muslim.
+Habre is a person.
+FrolinatRebels is an entity.
+
+LibyaPeople were people.
+LibyaPeople lived in Libya.
+
+NorthernStripPeople were people.
+NorthernStripPeople lived in the NorthernStrip.
+
+Muslim is an religion.
+
+LibyaPeople were Muslim.
+Libya liked the NorthernStrip's people because the NorthernStrip's people were Muslim.
+Libya wanted to possess the NorthernStrip because Libya liked the NorthernStrip's people.
+
+France and Italy agreed to give the Northern Strip to Libya.
+
+Libya helped the FrolinatRebels because Libya liked the NorthernStrip.
+Libya helped the FrolinatRebels because the FrolinatRebels lived in NorthernStrip.
+Libya invaded the NorthernStrip because Libya wanted to possess the NorthernStrip.
+
+France left Chad.
+Italy left Libya.
+Libya invaded the NorthernStrip because France left Chad.
+Libya invaded the NorthernStrip because Italy left Libya.
+
+Habre lived in the NorthernStrip.
+Habre was a leader of the FrolinatRebels.
+Habre disliked Libya because Libya invaded the NorthernStrip.
+Habre disliked Libya because Habre lived in the NorthernStrip.
+Habre helped Chad because Habre disliked Libya.
+Habre attacked Libya because Habre disliked Libya.
+Habre defeated Libya.
+
+The end.

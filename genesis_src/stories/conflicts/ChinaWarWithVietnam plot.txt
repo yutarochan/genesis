@@ -1,0 +1,23 @@
+Start story titled "China War with Vietnam".
+
+The KhmerRogue is an entity.
+Cambodia is a country.
+Vietnam is a country.
+China is a country.
+
+The KhmerRouge controlled Cambodia.
+Cambodia attacked Vietnam because the KhmerRouge disliked Vietnam and The KhmerRouge controlled Cambodia.
+Vietnam disliked the KhmerRouge because Cambodia attacked Vietnam.
+Vietnam attacked Cambodia because Cambodia attacked Vietnam.
+
+Vietnam's army was larger than Cambodia's army.
+Vietnam defeated Cambodia because Vietnam attacked Cambodia and Vietnam's army was larger than Cambodia's army.
+Vietnam ousted the KhmerRouge because Vietnam defeated Cambodia.
+
+China invaded Vietnam because Vietnam ousted the KhmerRouge.
+Vietnam did not want China to invade Vietnam.
+Vietnam's army impeded China because Vietnam did not want China to invade Vietnam and China invaded Vietnam.
+China left Vietnam because Vietnam's army impeded China.
+Vietnam defeated China because China left Vietnam.
+
+The end.

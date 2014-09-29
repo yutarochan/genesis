@@ -1,0 +1,42 @@
+/*
+Various leads-to constructions requiring reification via occur. 
+*/
+
+Clear text.
+
+Clear story memory.
+
+Start reflective knowledge.
+
+xx is an entity.
+
+Start description of "Wish not fulfilled".
+
+xx's wanting an action to occur did not lead to the action's occurring.
+
+The end.
+
+Pause.
+
+Start description of "Positive desire leads to no action".
+
+xx's wanting an action to occur led to the action's not occurring.
+
+The end.
+
+Pause.
+
+Start description of "Negative desire leads to occurrence".
+
+xx's not wanting an action to occur led to the action's occurring.
+
+Pause.
+
+Start description of "Negative desire fulfilled".
+
+xx's not wanting an action to occur led to the action's not occurring.
+
+The end.
+
+
+

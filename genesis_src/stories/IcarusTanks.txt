@@ -1,0 +1,31 @@
+//////////////////////////////////////////////////
+//Icarus Tanks.txt
+
+Insert file Start experiment.
+
+First perspective.
+
+////////////////////////////////
+//Knowledge known by sense maker
+////////////////////////////////
+If a tank is detected then search for more tanks.
+If three tanks are detected then search for a tower.
+If a tower is detected then search for an encampment.
+
+///Problem 1
+//////
+//If a tower is detected and more tanks are detected then you should search for an encampment.
+//Sentence doesn't use genesis frames correctly
+//////
+
+///////////////////////////////////
+//Knowledge to be fed in from scene
+///////////////////////////////////
+If you search for more tanks then three tanks are detected.
+If you search for a tower then a tower is detected.
+If you search for an encampment then the encampment is detected.
+
+Start story titled "Tank Detection".
+One tank is detected.
+
+The End.

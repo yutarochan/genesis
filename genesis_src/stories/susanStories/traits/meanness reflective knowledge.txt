@@ -1,0 +1,52 @@
+Start reflective knowledge.
+
+Start description of "callously mean / selfish".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that XX will injure YY if XX performs AA.
+XX thinks that XX will become happy if XX performs AA. 
+XX's performing AA leads to YY's becoming injured.
+The end.
+
+Start description of "maliciously mean".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that XX will injure YY if XX performs AA.
+XX thinks that XX will become happy if XX injures YY. 
+XX's performing AA leads to YY's becoming injured.
+The end.
+
+Start description of "callously mean / selfish act".
+
+XX is a person.
+YY is a person.
+XX's performing AA leads to YY's becoming injured.
+XX's performing AA leads to XX's becoming happy.
+
+The end.
+
+Start description of "maliciously mean act".
+
+XX is a person.
+YY is a person.
+XX's performing AA leads to YY's becoming injured.
+YY's becoming injured leads to XX's becoming happy.
+
+The end.
+
+/*
+
+DEPRECATED 
+
+Start description of "carelessly mean".
+
+XX is a person.
+YY is a person.
+// Could this work? XX is unaware that XX's performing AA would cause XX to harm YY.
+XX's performing AA leads to XX's harming YY.
+XX's performing AA leads to XX's becoming happy.
+
+The end. 
+*/

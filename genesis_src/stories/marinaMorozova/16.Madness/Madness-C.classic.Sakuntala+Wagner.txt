@@ -1,0 +1,105 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+Insert file 16.txt.
+
+First perspective.
+Start story titled "Sakuntala".
+
+Note that Dushjanta is a name.
+Note that Sakuntaka is a name.
+Note that Durvasa is a name.
+
+Sakuntala is a person.
+Dushjanta is a person.
+Durvasa is a person.
+
+Sakuntala lives in cloister because Sakuntala is abandoned by parents.
+Sakuntala is beautiful. 
+Dushjanta is a king.
+
+Dushjanta finds Sakuntala's cloister.
+Dushjanta marries Sakuntala because Dushjanta loves Sakuntala.
+Dushjanta has to go back to his kingdom.
+
+Dushjanta gives Sakuntala Dushjanta's ring.
+Dushjanta leaves cloister.
+
+Durvasa is a wise man and quick to anger.
+Durvasa comes to the cloister.
+Sakuntala is not very hospitable with Durvasa therefore Durvasa curses Sakuntala.
+
+
+Dushjanta has amnesia because Durvasa curses Sakuntala.
+Dushjanta does not remember Sakuntala because Dushjanta has amnesia.
+The only thing that can remind Dushjanta of Sakuntala is a ring.
+
+Sakuntala goes to to palace. 
+Sakuntala drops the ring in the river.
+Dushjanta does not recognize Sakuntala because Dushjanta does not remember Sakuntala.
+Dushjanta loses Sakuntala because Dushjanta does not recognize Sakuntala.
+Saluntala returns to cloister because Dushjanta does not recognize Sakuntala.  
+
+Soon a fisherman finds the ring. Dushjanta realizes Dushjanta's mistake. 
+Then, Dushjanta defeats the army of titans.
+A God rewards Dushjanta with a trip to Heaven because Dushjanta defeats the army of titans. 
+
+Dushjanta meets Sakuntala when Dushjanta returns from Heaven.
+And they live happily ever after.
+
+
+The end.
+
+Second perspective.
+Start story titled "Wagner - The Death of the Gods".
+
+Note that Siegfried is a name.
+Note that Brunnhilde is a name.
+Note that Hagen is a name.
+Note that Gunther is a name.
+Note that Gutrune is a name.
+
+Siegfried is a person.
+Brunnhilde is a person.
+Hagen is a person.
+Gunther is a person.
+Gutrune is a person.
+
+
+Siegfried loves Brunnhilde. Brunnhilde loves Siegfried.
+Siegfried gives Brunnhilde a ring.
+Siegfried leaves for adventures.
+
+//act 1
+//scene 1
+Hagen, Gunther and Gutrune are siblings.
+Gunther is lord of the Gibichungs.
+Hagen convinces Gunther to want to marry Brunnhilde.
+Hagen convinces Gutrune to want to marry Siegfried.
+Hagen has a magic drink.
+Magic drink makes people to have amnesia.
+Magic drink can make Siegfried forget Brunnhilde.
+
+//scene 2
+Siegfried comes to the Hall of Gibichuns.
+Gibichins welcome Siegfried.
+Guturne gives Siegfried the magic drink because Guturne wants to marry Siegfried.
+Siegfried has amnesia because magic drink makes people to have amnesia.
+Siegfried forgets Brunnhilde because Siegfried has amnesia. 
+Siegfried falls in love with Gutrune because Siegfried forgets Brunnhilde.
+Siegfried proposes Gutrune because Siegfried falls in love with Gutrune.
+Siegfriend and Gunther become blood brothers.
+
+//scene 3
+Siegfried takes the ring from Brunnhilde because Siegfried forgets Brunnhilde.
+Siegfriend helps Gunther to propose Brunnhilde because Siegfried forgets Brunnhilde.
+Siegfried loses Brunnhilde because Siegfriend helps Gunther to propose Brunnhilde and because Siegfried proposes Gutrune.
+
+Then, Hagen kills Siegfried.
+Gunther fights Hagen because Hagen kills Siegfried.
+Hagen kills Gunther because Gunther fights Siegfried.
+Hagen tries to take the ring from Siegfried's body. Hagen fails.
+Brunnhilde gives the ring to Brunnhilde's sisters.
+
+
+The end.

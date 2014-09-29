@@ -1,0 +1,99 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Give Story".
+Mark is a person.
+Sally is a person.
+The cup is an object.
+Mark controls the cup.
+Mark gives the cup to Sally.
+Sally controls the cup.
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Flee Story".
+Mark is a person.
+Sally is a person.
+Mark is near Sally.
+Sally flees from Mark.
+Mark is far from Sally.
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Take Story".
+Mark is a person.
+Sally is a person.
+The cup is an object.
+Mark controls the cup.
+Sally takes the cup from Mark.
+Sally controls the cup.
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Throw Catch Story".
+Mark is a person.
+Sally is a person.
+The cup is an object.
+Mark controls the cup.
+Mark throws the cup towards Sally.
+Sally controls the cup.
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Follow Story".
+Mark is a person.
+Sally is a person.
+Mark is near Sally.
+Sally walks away from Mark.
+Mark follows Sally.
+Mark is near Sally.
+
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+First perspective.
+
+Start Story titled "Exchange Story".
+Mark is a person.
+Sally is a person.
+The cup is an object.
+The bowl is an object.
+Mark controls the cup.
+Sally controls the bowl.
+Mark exchanges the cup for the bowl with Sally.
+Mark controls the bowl.
+Sally controls the cup.
+The end.
+Remember the story.
+
+//Insert file Start experiment.
+
+Second perspective.
+
+Start Story titled "Gap Story".
+Matt is a person.
+Mary is a person.
+The ball is an object.
+Matt controls the ball.
+//Matt gives the ball to Mary.
+Mary controls the ball.
+The end.

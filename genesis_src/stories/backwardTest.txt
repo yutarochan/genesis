@@ -1,0 +1,17 @@
+Thomas is a person.
+Robert is a person.
+James is a person.
+
+// R1. If a friend is harmed, your friend’s harmer harms you.
+James may harm Thomas because James harmed Robert and Robert is Thomas's friend.
+
+
+Macbeth-story is a story.
+Duncan is a king.
+MacDuff is a noble.
+Macbeth is a noble.
+Duncan is MacDuff's friend.
+Macbeth harms Duncan.
+Macbeth harms MacDuff.
+The End.
+

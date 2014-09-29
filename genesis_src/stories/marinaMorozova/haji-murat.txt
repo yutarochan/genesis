@@ -1,0 +1,78 @@
+Insert file start experiment.
+
+Start story titled "Haji-Murat".
+
+//Preambule: Haji-Murat's formation -- allying with Russians.
+//Told somewhere in the middle of the story.
+
+Haji-Murat is a person.
+
+Khan is a kind of noble.
+Mother-Khan is a person.
+//Abununzal and Umma and Bulach are Mother-Khan's sons.
+
+
+Abununzal and Umma and Bulach are Khans because they are Mother-Khan's sons.
+
+Haji-Murat is close to Khans. 
+
+Mureeds are kind of people and Russians are kind of people.
+
+Mullah is a person.
+Mureeds are Mullah's disciples.
+Mureeds come to the village.
+
+Mureeds persuade people to fight Russians because Russians are not Moslems. 
+//'Hazavat' -- holy war against non-Moslems
+Everyone fights Russians but Khans do not fight Russians.
+
+Gamzat is person.
+Then, mullah is killed. Gamzat becomes new Mullah. 
+Gamzat threatens Khans because Khans do not fight Russians.
+Khans do not fight Russians because Khans fear Russians.
+
+
+Mother-Khan sends Haji-Murat to Russians because Gamzat threatens Khans.
+Russians promise to help Khans because Haji-Murat asks Russians to help Khans.
+Russians send officers to the village because Haji-Murat asks Russians to help Khans.
+Officers do not help Khans.
+
+Shamil is a person.
+
+Gamzat ensnares Abununzal, Umma, Bulach and Haji-Murat.
+Gamzat kills Abununzal, Umma and Bulach because Khans do not fight Russians. 
+Haji-Murat flees. 
+Shamil helps Gamzat.
+Then, Gamzat kills Mother-Khan.
+
+Then, everyone obeys Gamzat.
+Haji-Murat kills Gamzat because Gamzat kills Abununzal, Umma and Bulach.
+Shamil becomes mullah because Haji-Murat kills Gamzat.
+Shamil dislikes Haji-Murat. 
+
+//Switching to Shamil
+Shamil allies with Haji-Murat because Shamil fears Haji-Murat and because Shamil needs Haji-Murat.
+Haji-Murat fights Russians because Haji-Murat allies with Shamil and because Shamil fights Russians.
+
+//Breakup with Shamil
+Shamil wants to hurt Haji-Murat because Shamil dislikes Haji-Murat's words.
+Shamil fires Haji-Murat because Shamil wants to hurt Haji-Murat.
+Shamil deprives Haji-Murat from home because Shamil wants to hurt Haji-Murat.
+Shamil summons Haji-Murat because Shamil wants to hurt Haji-Murat.
+Haji-Murat does not come to Shamil because Haji-Murat knows that Shamil wants to hurt Haji-Murat.
+Shamil imprisons Haji-Murat's family because Haji-Murat does not come to Shamil.
+
+//Plot.
+Vorontzov is a person and Vorontzov is Russian.
+Haji-Murat comes to Vorontzov.
+Vorontzov receives Haji-Murat.
+Vorontzov is proud because Haji-Murat is a mighty enemy and because Haji-Murat comes to Vorontzov.
+Haji-Murat asks Russians to help Haji-Murat's family because Shamil imprisons Haji-Murat's family.
+Haji-Murat promises to help Russians to fight Shamil.
+Haji-Murat becomes impatient because Russians hesitate.
+Haji-Murat tries to flee because Haji-Murat becomes impatient.
+Russians kill Haji-Murat because Haji-Murat tries to flee.
+
+
+The end.
+

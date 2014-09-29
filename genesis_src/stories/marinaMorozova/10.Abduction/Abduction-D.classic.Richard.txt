@@ -1,0 +1,52 @@
+Start experiment.
+
+Start description of "Abduction-D".
+
+xx is a person.
+yy is a person.
+
+Someone kidnaps xx.
+yy wants to help xx.
+Sometimes, xx is yy's child.
+Sometimes, xx is yy's friend.
+yy's actions leads to xx's being free.
+
+The end.
+
+
+Start story titled "Richard Coeur-de-lion (opera)".
+
+
+Note that Richard the Lionheart is a name.
+Note that Blondel is a name.
+Note that Marguerite is a name.
+Note that Leopold is a name.
+Note that Third Crusade is a name.
+Note that Linz is a place.
+
+Richard the Lionheart is a person.
+Blondel is a person.
+Marguerite is a name.
+Leopold is a person.
+Austria is a place.
+
+Leopold is a person. Leopold is Archduke of Austria.
+
+Richard the Lionheart returns from Third Crusade.
+Richard passes Austria.
+Leopold kidnaps Richard the Lionheart. Leopold hides Richard the Lionheart in Linz.
+
+Blondel is Richard the Lionheart's squire. Blondel is faithful.
+Blondel seeks Richard the Lionheart; Blondel disguises as a troubadour.
+Blondel wants to help Richard the Lionheart because Richard the Lionheart is Blondel's friend.
+
+Blondel comes to Linz. Blondel is told about unnamed prisoner in castle.
+
+Marguerite is a countess.
+Marguerite loves Richard the Lionheart; Marguerite offers help to Blondel.
+
+Blondel goes to the castle. Blondel sings song and prisoner responds; Blonder understands that prisoner is Richard the Lionheart.
+Blondel tells Marguerite Richard the Lionheart's whereabouts; Marguerite besieges the castle; Marguerite saves Richard the Lionheart; Richard the Lionheart is free.
+
+
+The end.

@@ -1,0 +1,520 @@
+Dining chair should be ergonomic if dining chair is overly crowded and ugly.
+The bowling ball should be not dragged if the bowling ball is dragged.
+The restroom should be cleaned if the restroom is dirty.
+Want a night's sleep should be recuperative if the mattress is comfortable.
+Towl should be used if stairs are wet.
+The show should be intriguing if the channel is interesting.
+The slice should be large if the melon is juicy.
+The mat should be shook hard if dirt from door mat is dusted out.
+The chair should be less soft if loveseat is too soft.
+The border should be accurate if the border is outlined.
+The person should be able to put the laundry away for you if load of laundry is clean.
+The cake should be short cake if the berry is the sweet.
+The rotor should be stopped if the rotor is too hot.
+Plyers should be in a toolkit if plyers is lost.
+Nights sleep should be undisturbed if the bed is comfortable.
+The folder should be protective if files are important.
+Dinner should be ready to eat if the dining table is the set.
+The group should be large if the group is small.
+The trash can should be usable if the trash can is empty.
+Flat tire should be near the air pump if flat tire is a problem.
+The map should be new if the map is outdated.
+The driver should be alerted if the driver is inattentive.
+The shower should be cold if the shower is warm.
+The screwdriver should be unused if the screwdriver is unsafe.
+The kite should be yours if the kite is aerodynamic.
+Swim suit should be needed for swimming if swim suit is too small.
+Lid of wine bottle should be closed if lid of wine bottle is agitated.
+Mail cart should be not having outgoing mail if mail cart is having outgoing mail.
+The table should be the set if the centerpiece is pretty.
+Writing pad should be used if writing pad is written on.
+Pizza should be the cut if pizza cutter is used to cut pizza.
+The fireman should be working if the fire is burning in the house.
+The greenhouse effect should be the present if the greenhouse effect is not present.
+Snooker table should be not occupied if snooker table is occupied.
+The platter should be dirty if the platter is clean.
+Bottle of wine should be corcked if bottle of wine is left alone.
+Measurements should be accurate if measurements are incorrect.
+Rolodex should be outdated if contact list is older than your children.
+The object should be easy to clean if the dust is collect on an object.
+The band-aid should be close by if the can opener is sharp.
+The patient should be with the doctor if the patient is waiting a long time.
+Wood should be the cut if miter saw is cutting wood.
+The task should be completed if the task is necessary.
+The shoe should be clean if the floor mat is clean.
+The aquarium should be cleaned if the aquarium is dirty.
+The dog should be rewarded if the dog is obedient.
+Braclet should be fitted if the bracelet is loose.
+Dish washer should be running if the cup is dirty.
+The desk should be cluttered if the desk is too neat.
+Old-time loveseat should be comfortable if old-time loveseat is in the den.
+Study table should be full of books if study table is full of dirt.
+The boyfriend should be Rich if ear-ring is with diamonds.
+The stapler should be used a lot if the stapler is unused.
+The person should be able to tutor you if the test is hard.
+Glass cup should be empty if glass cup is full.
+Dimmer should be lowered if dimmer is too bright.
+Lawn chair should be clean if lawn chair is on the lawn.
+The coat should be just as warm if leather coat is warm.
+Milk should be cold if the cookie is soft.
+The carrot should be yours if the carrot is in the refrigerator.
+The parcel should be taped if the parcel is not taped.
+The shelf should be occupied if the shelf is impatient.
+Tube of toothpaste should be in your room if tube of toothpaste is in a bathroom.
+Step stool should be in proper condition if step stool is damaged.
+The comforter should be not folded if the comforter is folded neatly.
+The plunger should be useful if the plunger is nessecary.
+Hard hat should be put on a head if the head is hurt from things falling on your head.
+The glass should be full of water if the person is exhausted.
+The display case should be big enough for dishes and silverware if the silverware is shining.
+Children should be playing in the room if the yard is cold.
+The printer should be ready to print if the printer is not ready.
+Writing pad should be empty if writing pad is full of notes.
+Pliers should be used to twist objects if pliers are used to hold small objects.
+The baby should be covered in diaper rash if the baby is covered in poop.
+New task should be not going to involve the broom if new task is going to invlolve spray.
+The hot chocolate should be a warm drink if the fireplace is having logs burning.
+The slide projector should be projecting slides if the slide projector is stuck.
+The dustpan should be put away if the broom is put away.
+Mixed drink should be filled with ice if mixed drink is completely liquid.
+The picture frame should be straight if framed picture on the wall is tilted.
+Piece of fish should be able to be eaten if piece of fish is not able to be eaten.
+The alarm should be the set if time clock is exact.
+The snack should be salty if the dessert is the sweet.
+The toothbrush should be new if the toothbrush is used to brush teeth.
+The dog should be hungry if dogfood dish is full of dog food.
+Bassinet should be unsafe and uncomfortable if bassinet is safe and comfortable.
+The job should be pays better if the profession is not of person's choice.
+Piece of clothing should be comfortable if piece of clothing is too tight.
+Vacuum cleaner should be much stronger if mini vaccuum cleaner is not strong enough.
+The CD should be legal if the CD is pirated.
+Suds should be easy to make if suds are accessable.
+The lunch box should be fixable if lunchbox is broken.
+Ashtry should be emptied if the ashtray is filled with ash.
+Food spilled on the floor should be contaminated if food spilled on the floor is moldy.
+Eye drops should be soothing to the eyes if the eye is irritated.
+Hiking boots should be required if hiking boots are worn.
+Heater's power should be turned off if heater's power is turned too high.
+The helmet should be broken if the helmet is repaired.
+Speech to record should be interesting if the tape recorder is loaded.
+Clean surface should be available if work desk is organized.
+The kit should be purchased if the kit is outdated.
+Swivel fan should be turned on for to long if swivel fan is needed.
+The microwave should be fast if dinner is cold.
+The theft should be occurring if the theft is the present.
+Electric cord should be safe to be used if electric cord is dangerous.
+Jack in the box should be a surprise if jack in the box is expected.
+The room should be chilled if table fan is swiveling.
+Hair brush should be not cleaned regularly if hair brush is icky.
+The eye should be impaired if the eye is sensitive.
+The person should be cooking if the person is the cook.
+Shower knob should be turned on if shower knob is turned off.
+Young child should be called at house if young child is called at hospital.
+Pallete should be bright if pallette is dull.
+The project should be fun if tool box is organized.
+The webpage should be bookmarked if the website is popular.
+Office chair should be comfortable if office chair is uncomfortable.
+Pair of hands should be clean if bacteria are alive.
+The job should be easier if the manager is strict.
+The person should be introduced to the receptionist if the person is new.
+Artificial plant should be beautiful if artificial plant is dirty.
+The sole should be thin if the sole is tattered.
+Bike helmet should be sturdy if bike helmet is damaged.
+Food should be frozen if food is cooked.
+The fire should be raging if the fire is too small.
+The sink should be dirty if the sink is clean.
+Camping trip should be to try it out if the compass is used to find north.
+Mixer switch should be turned on if electricity supply to the mixer is switched off.
+Ping-pong players should be better if ping-pong players is not very good.
+The hairstyle should be special if cosmetics are matching dress.
+The bird should be a pet if the kiwi is flying.
+Bowl of fruit should be full with fruits if bowl of fruit is empty.
+The TV should be working if the TV is broken.
+Bottle of beer should be cracked if bottle of beer is leaking.
+Apple Computer should be not running if it is running.
+Files should be looked for if files are lost.
+Water heater temperature should be not adjusted if water heater temperature is messed with.
+The cap should be tight if the cap is loose.
+Rubber stamp before use should be dry if rubber stamp before use is stored for a time.
+The lamp should be sold if the lamp is old.
+Gas grill should be available if gas grill is unavailable.
+The clothing should be dry if the swimsuit is wet.
+Scrubber should be cleaning everything if the spot is clean.
+The shelf should be got family pictures if the shelf is arranged.
+Hiking boots should be fit to foot if hiking boots are too snug.
+The furnace should be on if the furnace is turned off.
+The meeting should be running on time if large group is assembled.
+Tennis racket should be light if tennis racket is too heavy.
+Seedling should be ready to plant if the plant is dead.
+Ream of paper should be on desk if ream of paper is in a copy machine.
+The book should be in the back pack if the locker is locked.
+The update should be read if the update is ignored.
+The floor should be dry if the maid is moping floor.
+The pager should be off if the pager is has become a destraction.
+The child should be not fed if the child is sick.
+The stuffed animal should be in the playroom if the stuffed animal is in the living room.
+The pen should be the writing if pen holder is holding a pen.
+The orchestra should be the beginning if the group is restless.
+The rubber ducky should be being clean if the rubber ducky is covered in slim.
+Olives should be un edible if olives are rancid.
+Bicycle lock should be smashed if bicycle lock is jammed.
+The keyboard should be not working if the keyboard is old.
+The child should be sleepy if the crib is comfortable.
+Gluestick should be no more sticky if gluestick is sticky.
+The pet should be a cat if the dog is unfriendly.
+The player should be set up to play records if lp record is having old music.
+The pot should be hot to the touch if the pot is too cld.
+The yoghurt should be here if dinner on the table is being arranged.
+The bath should be not occupied if the bath is occupied.
+Replacement pad should be needed if replacement pad is used.
+The dollar bill should be new if the dollar bill is torn in two.
+House key should be found if house key is lost.
+Human in the room should be exposed to the world outside if human in the room is isolated.
+To buy a lot should be enticing if the menu is having lots of choices.
+The record should be playing if the phonograph is melodious.
+Plant pot should be not made from clay if the house plant is drying.
+Box of toothpicks should be put in the holder if box of toothpicks is the only place to find toothpicks in the entire house.
+The car should be full of gas if the car is running.
+Books should be removed from the bookshelf if books are dusty.
+Smaller one should be portable if the toolbox is in a garage.
+The person should be taking a break from work if the person is busy working.
+The CD should be new if compact disk player is playing music.
+Braclet should be yours if braclet is broken.
+The fan should be blowing if the house is too hot.
+Time should be faster for the person if time is slow.
+Sheet of paper should be no longer needed if sheet of paper is written on.
+Pair of baby shoes should be not in the closet if pair of baby shoes is put in closet.
+The mother should be nervous if the mother is waiting for  a child who is late.
+The tricycle should be cleaned if the tricycle is dirty.
+Bottle of wine should be poured if bottle of wine is chilled.
+The bandage should be sterile if the bullet is the shot.
+Computer joystick should be working if computer joystick is broken.
+Piece of paper should be important to secure if piece of paper is in the safe.
+The person should be able to readjust it if ergonomic chair is misadjusted.
+The marker should be working if drawing pad is clear of stray marks.
+Dinner table should be wiped and set-up properly if dinner table is dirty.
+The child should be sad if the child is hurt.
+The hard drive should be full if the hard drive is having space.
+The telephone should be cordless if telephone cord is restricting.
+The guest should be cleaner if upholstered side chair is clean.
+The book should be copied if the photocopier is the color.
+The dishwasher should be unload if the dishwasher is loaded.
+The drawer should be where to store the clean salad tongs if salad tongs is clean.
+Push pin should be dull if push pin is twisted.
+The board should be unwarped if the board is warped.
+Dishes should be unarranged if dishes are too neat.
+Portable gas cooking stove should be working properly if portable gas cooking stove is smoky.
+The tool should be lost if the tool is insured.
+The cleaner should be useful if the cleaner is not useful.
+The person should be sitting down to eat if the person is hungry.
+The item should be scratchproof if the item is valuable.
+The gift should be expensive if xmas tree is decorated at christmas.
+The rocking chair should be comfy if the footstool is comfortable.
+Clothes should be not given to charity if clothes are given to charity.
+The spouse should be sane if the spouse is mad.
+The diskette should be vital if the diskette is sullen.
+Camp ground should be packed up if the tent is folded.
+Loaf of bread should be to be consumed if loaf of bread is two day old.
+The disk should be cluttered if the disk is not cluttered.
+The picture should be straightened if the picture is leaning to one direction.
+The office should be welcoming if the office is unfrindly.
+The tape should be audible if the tape is full.
+The temperature should be cool if winter coat is warm.
+The document should be important if the scanner is used to scan a document.
+Young child should be dressed cleanly if young child is lazy.
+The vcr should be recording the news if the television is having news.
+The album should be protected if stamp collection is well maintained.
+The answering machine should be on all the time if the person is waiting to hear from you.
+The screen should be large if the slide projector is used to project slides.
+The boot should be brand new if the boot is worn.
+The hot dog should be eaten if the hot dog is cold.
+The person should be careful not to cut the fingers if the person is clumsy.
+The tape should be findable if the tape is missplaced.
+The dime should be put in wallet if the dime is put in a jar.
+Home should be vacant if the tenant is distroying your home.
+The humidifier should be filled with water if the humidifier is empty.
+Hair blowdryer should be put on if hair blowdryer is turned off.
+The band should be playing if drums are the hollow.
+The fountain should be clean if water fountain is having drinking water.
+Pepper shaker should be on the table too if the salt shaker is on the table.
+The screwdriver should be magnetic if the screwdriver is difficult to use.
+The bracelet should be desired if the bracelet is not sold.
+The person should be accomplished if the person is your boss.
+The whistle should be blown hard if the whistle is needed.
+Vhs tape should be ready to play if vcr remote is available.
+The piece should be toasted if bread is sliced.
+The thunderstorm should be severe if the thunderstorm is deafening.
+Ice box should be put in a corner if ice box is inconvienent.
+The sauce should be available if the sauce is unavailable.
+The house should be silent if the house is loud.
+Door bell button should be not yet pushed if door bell button is pushed.
+The dice should be not fair if the dice is the fair.
+Computer monitor should be dark if computer monitor is dirty.
+The DVD should be the trash if the DVD is stupid.
+Plastic storage container should be not air tight if plastic storage container is air tight.
+The balloon should be blown up if the balloon is broken.
+The book should be opened if the book is closed again.
+The alarm should be cancelled if the alarm is unnecessary.
+Soup should be cold if soup is too hot.
+Shaving razor should be having a bad blade if shaving razor is having good blade.
+The thermostat should be off if the thermostat is broken.
+New filter should be filled with tea if new filter is filled with coffee.
+The fife should be blown if drums are beaten.
+The friend should be not snooping if the filing cabinet is unlocked.
+The drawer should be not full if the drawer is needed.
+The washcloth should be dry if the washcloth is soaked.
+Sander should be powerful if the drill is powerful.
+The frame should be shinny if drawing pad is clear of stray marks.
+Halogen desk lamp should be off and needed for light if halogen desk lamp is broken.
+The volume should be loud if the CD PLAYER is playing.
+Rocking horse should be put in baby room if rocking horse is in the basement.
+The stool should be hard if the stool is loose.
+The battery should be charging if the plug is inserted in electricity socket.
+Rocking horse should be steady if rocking horse is wobbly.
+The mouth should be clean if tube of toothpaste is in a bathroom.
+The knife should be cutting it if slice of watermelon is too big.
+The book should be not well written if the book is well written.
+Ingredients should be fully served if ingredients are not served.
+Vcd player should be working properly if vcd player is used.
+Groceries should be not placed in fridge if groceries are too col.
+The book should be of jokes if the book is boring.
+The person should be wanting curly hair if the person is having a perm.
+The garden hose should be unavailable if the garden hose is runover by the car.
+The video should be played if the vcr is connected to a tv.
+The drink should be thirst-quenching if lunch bucket is filled with food.
+Walkie talkie should be free if walkie talkie is needed.
+The fire should be warm if the fireplace is clean.
+The couch should be comfortable if the TV is big.
+The scorpion should be the safe if the scorpion is dangerous.
+Kitchen shelf should be messy if kitchen shelf is too clean.
+The phone should be separate if fax machine is sending faxes.
+The mask should be asked for if the mask is not asked for.
+Bowtie pasta should be edible if bowtie pasta is covered in mould.
+Table lamp brand should be desirable if table lamp brand is tacky.
+The kite should be fying if the kite is aerodynamic.
+The damper should be used if the damper is not used at all.
+The dress should be elegant if three piece suit is ironed.
+Load of laundry should be in need of softening if load of laundry is hard.
+The address should be correct if mail is returned.
+The thermometer should be showing the temperature if the thermometer is broken.
+The road should be free from rocks if pile of rocks is on the road.
+The cable should be not hidden if the cable is hidden.
+Dishes should be cleaned if the dishwasher is closed.
+Butter should be fresh if bread is soft.
+The phone call should be from a friend if the phone is connected.
+The button should be garbage if the button is new.
+The banjo should be playing if the banjo is not playing.
+The person should be not sick if the ventilator is used on a person.
+Desk fan should be off if desk fan is blowing air.
+The can opener should be used easily if the can opener is not used easily.
+The faucet should be clean if the faucet is stained.
+The person should be giggling if the picture is humorous.
+Work space should be efficaint if the office is clean.
+The chimney should be cleaned if the chimney is blocked with dirt.
+The cord should be plugged in if the cord is unplugged.
+The broom should be put away if the broom is in the way.
+Electric cord should be sheilded if electric cord is un sheilded.
+The screw should be easy to turn if the screw is hard to turn.
+Remote control should be in the middle of the table if remote control is on the end table.
+Copying machine should be to be used if copying machine is unused.
+The package should be opened if dvd disk is new.
+File cabin should be not used to store files if file cabin is used to store files.
+The list should be being checked off if the clipboard is holding paper.
+Police should be not nearby if the date is drunk and loud.
+Old bulb should be useless if light is dim.
+Money should be not spent if money is spent.
+The stapler should be having stapler pins if the stapler is empty.
+The chicken should be boiled if the chicken is barbequed.
+The watch should be precise if the watch is slow.
+Way to dry it should be easy if the shower curtain is wet.
+The pillow should be matching if the quilt is pretty.
+The event should be worth recording if the event is not worth recording.
+The knob should be volumn control if the loudspeaker is inaudible.
+The bag should be full of potatoes if potato peeler is used to peel vegetables.
+The window should be not covered if the window is covered.
+The tire should be the flat if the bicycle is punctured.
+The motorcycle should be not punctured if the motorcycle is punctured.
+The raise should be money if the project is completed.
+The dog should be friendly too if the dog is friendly.
+The fan should be turned on if fan switch is visible.
+Medicine grinder should be on if madicine is whole.
+The meal should be hot if the meal is hot and fresh.
+Side of fries should be fried if the corndog is cooked.
+The paper clip should be available if the paper clip is broken.
+The wall should be needing some paint if the wall is dingy.
+Ketchup bottle should be empty if ketchup bottle is full.
+The lid should be also square if the box is the square.
+The letter should be not stamped if the letter is delivered.
+The dryer should be at the end of the cycle if the dryer is in the middle of the cycle.
+The meal should be good if the table is set for a meal.
+Matchsticks should be available easily if matchsticks is not available.
+The CD should be operational if the player is slow.
+Travel brochure should be normal if travel brochure is glossy.
+The car engine should be tuned up if the car engine is old.
+The room should be not cluttered if stack of boxes is the stable.
+Baby food jar should be opened if baby food jar is sealed.
+The birthday should be sad if the birthday is happy.
+The lamp should be unplugged if the lamp is plugged in.
+The apartment should be larger if the person is moving.
+The dishwasher should be empty if the sink is full.
+The book should be loger if the story is captivating.
+The table should be unarranged if the table is tipped over.
+The stroller should be not folded if the stroller is folded.
+The pie should be sold if the pie is old.
+Sugar shaker should be full if bowl of strawberries is fresh.
+Ceiling fan should be clean if ceiling fan is dusty.
+The headphone should be already playing music if the headphone is inactive.
+The movie should be STARTING if the movie is finished.
+The bin should be stinky if the body is odourous.
+The place should be secure if the place is not secure.
+The coat should be cold if the coat is warm.
+The smoothie should be fresh if the strawberry is ripe.
+Basketball should be hurled through the air if basketball is still.
+Beer should be to be served if beer is left on the counter.
+Painting should be made by an artist if the artist is creative.
+The rum should be poured if the glass is empty.
+The case should be used a lot if the tool is worn.
+The room should be warmer if the heater is switched on.
+The message should be passed on if the message is important.
+Dirty dishes should be removed from dinner table if dirty dishes is crusty.
+Roulette wheel should be not moving if roulette wheel is the spinning.
+The duffel bag should be large if the duffel bag is not big enough.
+The sweater should be handy if the person is cold.
+Pallette should be colorful if pallette is dull.
+Listen to a song should be playing if the stereo is in the living room.
+The combination should be memerable if the lock is having a combination.
+The club should be big enough to hit it if the golf ball is on the ground.
+People should be lonely if people are crowded.
+The head should be cold if hat rack is full of hats.
+The battery should be full if notebook battery is discharged.
+The phone should be able to be used to call the person if the business card is received.
+The CD should be not playable if the CD is the offensive.
+Anti bacterial soap should be effective if anti bacterial soap is ineffective.
+Electric generator should be running if power is off.
+The fruit should be the sweet if pot of flowers is fresh.
+Exercise bike should be not set up if exercise bike is set up.
+The keyboard should be functional if the keyboard is dis-functional.
+The ring should be in a drawer if the ring is missing.
+The hat should be tied down if the wind is blowing.
+The shoe should be removed from a foot if the shoe is dirty.
+The aspirin should be unusable if the aspirin is expired.
+The basket should be ready to be filled with clothes if the washing machine is full with clothes.
+Glass of tea should be warm if glass of tea is full.
+The sandal should be the right size if the sandal is loose.
+The hair should be picked up if the hair is fallen on the floor.
+Drawing pad should be clear of stray marks if drawing pad is not clear of stray marks.
+Screw driver should be comfortable in hand if the screw is easy to turn.
+The case should be full of saine soution if pair of contacts is stored in case.
+Person eating meat should be sad about meat if person eating meat is a cannibal.
+The paper should be likely to fall out if the paper is not likely to fall out.
+The parent should be available to see it if the bed is made.
+The bungee cord should be very stretchy if the bungee cord is shorter than needed.
+A new game should be more difficult if game pad is working.
+Answer sheet should be handy if the test is hard.
+The rag should be for cleaning if cleaning supplies is spilled.
+The oven should be turned off if the oven is turned on.
+The baby should be using diapers if the baby is in need of being changed.
+The person should be baking if the person is uninterested in baking.
+The person should be liking donuts if the doughnut is chocolate flovored.
+The cereal bowl should be full if the belly is hungry.
+The printer should be operated if the printer is not working.
+Power battery should be low if power battery is high.
+The cigarette should be tasteless if the cigarette is too bold.
+The smile should be returned if the person is smiling.
+The router should be broken if the router is worn out.
+The candle should be knocked over on the carpet if the candle is knocked over on the bed.
+The place should be able to hold the pin while reading the documents if the pin is put on documents.
+Night light should be on if light is turned off.
+The note should be on the door if the person is not home.
+The computer game should be easy and repetitive if the computer game is too difficult.
+The candle should be dropped if the candle is way too hot.
+Filthy person should be finished bathing if filthy person is cleaner.
+Dish detergent should be mild if dish detergent is attacking to hands, babies or pets.
+Presents should be elaborately wrapped if presents are torn.
+The bottom should be yummy if topping is edible.
+The refrigerator should be fixed if the refrigerator is broken.
+The use should be pencils if colored pencils is used to color a drawing.
+New battery should be full if old batteries is drained.
+Jack should be installed if he is uninstalled.
+The cardboard box should be big enough if the cardboard box is not big enough.
+Easter egg should be decorated if easter egg is the plain.
+Helium balloon should be filled with nothing if helium balloon is filled with helium.
+The filing cabinet should be not locked if the filing cabinet is consulted regularly.
+Letterpad should be empty if letterpad is full of notes.
+The grater should be used to grind vegtables if the grater is used to grind cheese.
+Second glass should be at room temperature if wine is chilled.
+The car should be assembled if the car is in pieces.
+The key should be useable if the key is the cut.
+Dungeon lights should be switched on if dungeon lights is switched off.
+The person should be decorate the vase if the person is working.
+The cook should be talented if soup is fresh.
+The operating system should be never upgraded if the operating system is reliable.
+Floot should be clean if kitchen floor is dirty.
+Ballon should be flying if ballon is stuck.
+The panel should be thicker if panel of insulation is thin.
+The frying pan should be used for cooking if the frying pan is heated.
+Temperature near pipes should be below freezing if temperature near pipes is frozen.
+Water should be ice cubes if the drink is tepid.
+The space heater should be plugged in if the room is cold.
+The wall should be done being painted if paint tray is clean.
+Hot pan should be carryable if hot pan is needed in another room.
+The house should be unpresentable if the house is a haven for your teenager's friends.
+The phonograph should be good if the phonograph is malfunctioning.
+Sandle should be open toe if the foot is pretty.
+Hole puncher should be filled with paper bits if hole puncher is empty.
+The key should be lost in your purse if the key is damaged.
+The recital should be upcoming if the recital is post poned.
+The cell phone should be on vibrate if beeper is loud.
+The mouse should be not connected to computer if the computer keyboard is not connected to computer.
+The door should be easy to open if the door is stuck.
+The game should be downloaded if the game is not up for download.
+Power should be running if connections are not properly made.
+The can opener should be placed on cooking range if the can opener is sharp.
+The footstool should be sturdy if the footstool is wobbly.
+The egg should be hammered if the egg is messy.
+Multi-tool should be containing many tools if multi-tool is only having  two tools.
+The knife should be sharp if slice of watermelon is too big.
+The patient should be waiting a long time if the patient is antsy.
+The letter should be needing to be mailed if the stamp is affixed.
+Tea in cup should be not overflowing if tea in  cup is overflowing.
+Tool belt should be sturdy if plyers is heavy.
+The lock should be working if cabinets are unlocked.
+The digital clock should be not having new battery if the digital clock is working.
+New bottle of conditioner should be full if bottle of conditioner is empty.
+Ice pack should be cold if the freezer is opened for too long.
+Shim should be not used to adjust heigh if shim is used to adjust height.
+The surface should be cluttered if the surface is too clean.
+Soccer should be to be played if the soccer ball is inflated.
+Baby carseat should be safe to put a baby in if baby carseat is unsafe.
+The pet should be lively if the friend is talkative.
+The towel should be dry if tea towel is used for wiping dishes.
+Set of pajamas should be new if pajama bottom is torn.
+Drawers should be open if drawers are full.
+Mecanic should be there if fusebox is sparking.
+The drink should be cold if the fruit is the sweet.
+The child should be quiet if the child is overheated.
+The pear should be sour if the pear is ripe.
+New gadget should be electrical if power strip is used to plug electrical items.
+The fish should be refrigerated if the fish is left out.
+The sandwich should be ready if the sandwich is stale.
+Toliet paper should be full if empty roll is replaced.
+The page should be not print if the page is garbled.
+The cantaloupe should be ripening if the cantaloupe is not ripening.
+House fire should be STARTED if house fire is not started.
+The cord should be not that long if the cord is tangled.
+Food dish should be clean if food dish is spotted.
+The spill should be not  a problem if the spill is cleaned up.
+The safe should be more secure if the safe is not locked.
+The tub should be about to be used to clean oneself in if the tub is empty.
+Set of clothes should be just as sharp in appearance as the boots if pair of boots is polished before wearing.
+The coke should be fresh if milk is sour.
+The clothing should be breathable if weather is hot.
+The sofa bed should be not comortable if group of relatives who are staying with you is guilty of overstaying their welcome.
+Night lamp should be dim if night lamp is bright.
+The product should be purchased if the product is un purchased.
+The drink should be refreshing if pepper is strong.
+The floor should be dry if the floor is slippery.
+The rocking chair should be intended for a baby if the rocking chair is rocked.
+Books should be lying outside shelf if books are left on the side tabe.
+The exam should be hard if the exam is easy.
+Group of people at a party shoul

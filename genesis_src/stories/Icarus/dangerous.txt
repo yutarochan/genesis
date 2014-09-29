@@ -1,0 +1,30 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+ii is a bomb.
+
+If xx is dangerous, then xx may detonate ii.
+xx may detonate ii because xx is dangerous.
+
+Start reflective knowledge.
+
+Start description of "Dangerous Detonation".
+xx's detonating ii leads to xx's harming yy. 
+The end.
+
+Agent-9-9 is a person.
+Agent-8-9 is a person.
+IED-7-9 is a bomb.
+
+Start story titled "Dangerous person's actions".
+
+Agent-9-9 is dangerous.
+
+Agent-9-9 is a terrorist.
+
+Agent-9-9 gives IED-7-9 to Agent-8-9.
+
+Agent-9-9 controls IED-7-9.
+
+The end.

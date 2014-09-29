@@ -1,0 +1,34 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file bravery reflective knowledge.
+
+Start story titled "Hector of Troy".
+
+Achilles is a person.
+Hector is a person.
+Priam is a person.
+Troy is an entity.
+
+Troy is under siege.
+Priam is unhappy because Troy is under siege.
+
+Hector wants Priam to become happy because Priam is unhappy and because Hector is Priam's son.
+
+// Hector thinks that Hector will become harmed if Hector fights Achilles.
+Hector thinks that Hector will become injured if Hector fights Achilles.
+Hector thinks that Priam will become happy if Hector fights Achilles.
+
+Hector fights Achilles because Hector wants Priam to become happy.
+
+// Hector becomes harmed because Hector fights Achilles.
+Hector becomes injured because Hector fights Achilles.
+Hector dies because Hector becomes injured.
+// Hector dies because Hector becomes harmed.
+Priam becomes happy because Hector fights Achilles.
+Priam becomes unhappy because Hector dies.
+
+The end.

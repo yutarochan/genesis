@@ -1,0 +1,55 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+If George is king and Henry is George's successor and George becomes dead, then Henry becomes king.
+Mary becomes the queen because George becomes the king and Mary is George's wife.
+James becomes happy because James became the king and James wants to become the king.
+James may murder Henry because James wants to become king and because Henry is the king.
+
+If James harms Henry, then Henry becomes unhappy.
+If James harms Henry then James angers Henry.
+
+If James kills you, then you become dead.
+James harms Henry because James kills Henry.
+James harms Henry because James attacks Henry.
+James harms Henry because James fights Henry.
+
+Mary may want to become the queen because she is greedy.
+
+If an entity forces an action, then the action occurs.
+If an entity persuades an action to occur, then the action occurs.
+
+Start reflective knowledge.
+
+Start description of "Success".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming happy.
+The end.
+
+Start description of "Mistake".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "Leadership achieved".
+xx is an entity.
+yy is a position.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+Start description of "Answered prayer".
+xx is an entity.
+xx's wanting an action leads to the action.
+The end.
+
+Start description of "Pyrrhic victory".
+xx is an entity.
+yy is anything.
+xx's wanting yy leads to xx's becoming happy.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.

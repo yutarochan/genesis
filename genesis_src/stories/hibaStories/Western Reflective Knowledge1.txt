@@ -1,0 +1,37 @@
+Start reflective knowledge.
+
+Start description of "intimidation".
+XX is a person.
+YY is a person.
+AA is an action.
+// XX's wanting YY to fear XX leads to XX's performing AA.
+XX's performing AA leads to YY's fearing XX.
+The end.
+
+Start description of "aggressive".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will fear XX if XX performs AA.
+XX's wanting YY to fear XX leads to XX's performing AA.
+The end.
+
+
+Start description of "crazy".
+XX is a person.
+YY is a person.
+AA is an action.
+// XX's wanting YY to fear XX leads to XX's performing AA.
+XX is not sane. 
+XX kills YY.
+The end.
+
+
+/*
+Lu was mentally imbalanced because his life consisted only of work, without other activities which relieve stress.
+Lu drove himself crazy by putting too much pressure on himself.
+Lu had chronic personality problems.
+Lu was a psychological time bomb—someone with a hidden mental illness that suddenly explodes.
+If Lu couldn't win, he didn't care about anything else. Lu was obsessed with the award and lost his grip on reality.
+*/
+

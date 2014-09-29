@@ -1,0 +1,92 @@
+
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 1.txt.
+
+Start commonsense knowledge.
+
+if xx are yy's relatives then xx is yy's relative.
+
+
+
+First perspective.
+
+Start story titled "Tyro by Sophocles".
+
+//Patrick is Salmoneus
+//Marina is Tyro
+//Boris and Michael is Peleus and Neleus
+//Anastasia is Sidero
+Marina is a person.
+Poseidon is a deity.
+Patrick is a person.
+Marina is Patrick's daughter.
+//Boris and Michael is a name.
+Boris and Michael are persons.
+Shepherds are people.
+
+//Boris and Michael are bastards because 
+Marina gives a birth to Boris and Michael because Poseidon seduces Marina.
+Marina wants to hide Boris and Michael because Boris and Michael are bastards.
+Boris is Marina's kin.
+Michael is Marina's kin.
+//Boris and Michael are Marina's relatives because Marina gives a birth to Boris and Michael. 
+//because Marina gives a birth to Boris and Michael.
+Marina abandons Boris and Michael because Marina wants to hide Boris and Michael.
+Shepherds raise Boris and Michael because Shepherds find Boris and Michael and because Marina abandoned Boris and Michael.
+
+Patrick marries Anastasia because Patrick's wife dies.
+Anastasia troubles Marina because Anastasia humiliates Marina.
+Anastasia humiliates Marina because Anastasia cuts Marina's hair.
+Anastasia humiliates Marina because Anastasia dislikes Marina.
+Noone expects anyone to save Marina.
+
+Years pass.
+Boris and Michael are mighty because Boris and Michael grow strong.
+
+Marina does not ask Boris and Michael to help because Marina does not know where Boris and Michael are.
+Marina meets Boris and Michael because Boris and Michael come to Patrick's kingdom.
+Marina recognizes Boris and Michael.
+
+Boris and Michael help Marina.
+Boris and Michael kill Anastasia.
+//Boris and Michaeli rehabilitate Marina because Boris and Michael kill Anastasia and because Anastasia humiliates Marina.
+
+The end.
+
+Second perspective.
+
+Start story titled "Bluebeard".
+
+Bluebeard is a name.
+Bluebeard is a person.
+Trifina is a name.
+Trifina is a person.
+Brothers are persons.
+Brothers is Trifina's kin.
+//Someone do something with the plural so it is recognized!~ Nuff said
+Brothers are mighty.
+
+Bluebeard kidnaps Trifina. 
+Bluebeard marries Trifina.
+
+Bluebeard gives Trifina a key and Bluebeard tells Trifina not to open the closet.
+Then, Bluebeards leaves.
+
+Trifina opens the closet because Trifina is curious.
+Trifina sees corpses and Trifina understands that Bluebeard wants to kill her.
+Bluebeard troubles Trifina because Bluebeard wants to kill her.
+
+Trifina does not have time because Bluebeard is coming.
+Trifina does not ask Brothers to help because Trifina does not have time.
+Noone expects anyone to save Trifina.
+Sympathetic servant sends a message to Brothers.
+Brothers help Trifina because Brothers come and kill Bluebeard.
+
+
+
+
+
+The end.

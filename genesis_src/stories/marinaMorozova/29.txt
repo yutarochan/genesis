@@ -1,0 +1,28 @@
+Start description of "Enemy-loved-A".
+
+xx is a person.
+yy is a person.
+zz is a person.
+
+xx loves yy.
+yy loves xx.
+zz hates yy.
+zz is close to xx.
+Sometimes, zz's being xx's relative leads to zz's being close to xx.
+
+The end.
+
+
+Start description of "Enemy-loved-B".
+
+xx is a person.
+yy is a person.
+zz is a person.
+
+xx loves yy.
+yy loves xx.
+zz is dear to xx.
+xx thinks that yy kills zz.
+Sometimes, yy's killing zz leads to xx's thinking that yy kills zz.
+
+The end.

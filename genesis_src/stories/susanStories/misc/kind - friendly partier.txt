@@ -1,0 +1,32 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+
+// If XX is alone at the party, then XX feels awkward.
+// If XX feels awkward, then XX is unhappy.
+If XX becomes comfortable, then XX may become happy.
+
+Insert file kindness reflective knowledge.
+
+Start story titled "Sara".
+
+Sara is a person.
+Steve is a person.
+
+Steve is unhappy because he feels awkward.
+
+Sara wants Steve to become happy because Steve is unhappy.
+
+Sara wants Steve to become happy because Sara is kind.
+
+Sara talks to Steve because Sara wants Steve to become happy.
+
+Steve becomes comfortable because Sara talks to Steve.
+Steve becomes happy.
+
+The end.

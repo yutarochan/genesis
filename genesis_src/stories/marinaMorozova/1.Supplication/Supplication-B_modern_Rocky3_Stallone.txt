@@ -1,0 +1,32 @@
+Insert file Start experiment.
+Insert file 1.txt.
+
+Start commonsense knowledge.
+
+//if yy begs xx for help then yy needs help.
+//yy may help xx because zz wants yy to help xx.
+//yy may help xx because xx beg yy for help.
+
+//Rocky
+//If yy hits xx then yy upsets xx.
+//if xx is unhappy then xx is troubled.
+xx may help yy because xx is yy's relative.
+ 
+Start story titled "Begining of Rocky 3 with Silvester Stallone".
+
+Rocky is a person.
+Paulie is a person.
+Rocky is mighty because Rocky is a boxer.
+Rocky is Paulie's relative.
+
+Paulie is unhappy because Paulie is unemployed and because Paulie believes that Rocky forgot him.
+Paulie gets drunk because Paulie is unhappy.
+Rocky does not plan to help Paulie because Rocky does not know that Paulie is unhappy.
+Then, Paulie is arrested.
+Rocky meets Paulie when Paulie is released.
+Paulie complains because Paulie believes that Rocky forgets him.
+Then, Paulie upsets Rocky because Paulie hits Rocky.
+Then, Paulie asks Rocky to help Paulie because unemployment troubles Paulie.
+Rocky helps Paulie.
+
+The end.

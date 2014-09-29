@@ -1,0 +1,30 @@
+/*
+Basic commonsense and reflective knowledge structure check.  Checks counters on elaboration graph.
+*/
+
+Clear text.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX becomes unhappy because YY harmed XX.
+
+Start reflective knowledge.
+
+Start description of "revenge".
+
+XX is an entity.  YY is anything.
+
+XX's harming YY leads to YY's harming XX.
+
+The end.
+
+Start story.
+
+Henry cried because John harmed Henry.
+
+Henry harmed John because Henry cried.
+
+The end.
+

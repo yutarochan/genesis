@@ -1,0 +1,35 @@
+/* Filename: ChinaBorderWarWithUSSR.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Feb 13, 2004
+ */
+
+/**
+ * China: Border War With USSR, 1969
+ */
+
+Start story titled "China Border War with USSR".
+
+China is a country.
+USSR is a country.
+
+Mao was a person.
+Mao was the leader of China.
+
+Communist is a system.
+
+China was communist.
+The USSR was communist.
+China obeyed the USSR because the USSR was communist and China was communist.
+
+The USSR disrespected Mao.
+China disliked the USSR because the USSR disrespected Mao.
+
+China wanted to alter China's border.
+The USSR disrespected Mao because the USSR refused to alter China's border.
+
+China disobeyed the USSR because China wanted to alter China's border and the USSR refused to alter China's border.
+The USSR attacked China because China disobeyed the USSR.
+China attacked the USSR because China disliked the USSR and the USSR attacked China.
+
+The end.

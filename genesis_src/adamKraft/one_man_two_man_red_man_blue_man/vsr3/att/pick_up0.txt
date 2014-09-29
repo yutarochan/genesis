@@ -1,0 +1,38 @@
+
+transitions/vsr3/rf/pick_up0.txt has 300 RefFrames.
+transitions/vsr3/rf/pick_up0.txt has 3 markers.
+Inst 3 [- 2 0 -1 -1] id=0  dmarkerContact[2]=1
+Inst 5 [- 4 1 -1 -1] id=2  dmarkerContact[0]=1
+Inst 22 [- 21 19 -1 -1] id=0  dmarkerContact[2]=1
+Inst 40 [- 39 33 -1 -1] id=0  dmarkerContact[2]=1
+Inst 50 [- 49 47 46 45] id=2  [0] dR=0 dTheta=1
+Inst 62 [- 61 60 54 53] id=2  [0] dR=-1 dTheta=1
+Inst 63 [- 62 61 60 54] id=2  ddy=1 [0] dR=-1 dTheta=1
+Inst 64 [- 63 62 61 60] id=2  ddy=1 [0] dR=-1 dTheta=1
+Inst 65 [- 64 63 62 61] id=2  ddy=1 [0] dR=0 dTheta=1
+KF 65 [- 1] id=2  [0] dR=0 dTheta=1
+Inst 66 [- 65 64 63 62] id=2  ddy=1
+Inst 67 [- 66 65 64 63] id=2  ddy=1
+Inst 68 [- 67 66 65 64] id=2  ddy=1
+Inst 69 [- 68 67 66 65] id=2  ddy=1 [0] dR=1 dTheta=1
+KF 69 [- 65] id=2  [0] dR=0 dTheta=1
+Inst 70 [- 69 68 67 66] id=2  ddy=1 [0] dR=1 dTheta=1
+Inst 71 [- 70 69 68 67] id=2  ddy=1 [0] dR=1 dTheta=1
+KF 72 [- 0] id=0  [2] dR=0 dTheta=1
+Inst 74 [- 73 71 70 69] id=2  [0] dR=1 dTheta=1
+Inst 75 [- 74 73 71 70] id=2  [0] dR=1 dTheta=1
+Inst 76 [- 75 74 73 71] id=2  ddy=1 [0] dR=1 dTheta=1
+Inst 77 [- 76 75 74 73] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 78 [- 77 76 75 74] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 79 [- 78 77 76 75] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 80 [- 79 78 77 76] id=2  ddy=1 [0] dR=1 dTheta=1
+Inst 81 [- 80 79 78 77] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 82 [- 81 80 79 78] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 83 [- 82 81 80 79] id=2  ddy=1
+Inst 84 [- 83 82 81 80] id=2  ddy=1
+Inst 85 [- 84 83 82 81] id=2  ddy=1
+Inst 86 [- 85 84 83 82] id=2  ddy=1 [0] dR=1 dTheta=0
+Inst 111 [- 110 104 -1 -1] id=0  dmarkerContact[2]=1
+Inst 122 [- 121 120 119 117] id=0  [2] dR=-1 dTheta=0
+Inst 131 [- 130 123 -1 -1] id=2  dmarkerContact[0]=1
+

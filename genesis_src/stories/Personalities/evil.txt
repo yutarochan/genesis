@@ -1,0 +1,7 @@
+Start commonsense knowledge.
+
+ww, xx, yy, and zz are persons.
+
+YY murders WW because YY wants to become king and because WW is the king and because YY is WW's successor.
+
+

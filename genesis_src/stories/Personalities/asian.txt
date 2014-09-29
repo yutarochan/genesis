@@ -1,0 +1,13 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+Start story titled "Asian person's actions".
+
+I believe America is individualistic.
+
+I believe American media glorifies violence.
+
+The end.

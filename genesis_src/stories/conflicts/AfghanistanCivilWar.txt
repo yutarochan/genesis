@@ -1,0 +1,17 @@
+/* Filename: AfghanistanCivilWar.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Jan 29, 2004
+ */
+
+/**
+ * Afghanistan Civil War, 1989
+ */
+ 
+Insert file Start experiment.
+
+Insert file Conflict commonsense knowledge.
+
+Insert file Conflict reflective knowledge.
+
+Insert file AfghanistanCivilWar plot.

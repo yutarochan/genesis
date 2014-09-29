@@ -1,0 +1,26 @@
+Red is a person.
+Grandma is a person.
+Lumberjack is a person.
+Wolf is a monster.
+The woods is a place.
+
+Grandma is Red's grandparent.
+Grandma lives in the woods.
+
+Wolf becomes hungry.
+Wolf goes to the woods.
+
+Red wants to visit Grandma.
+Red goes to the woods.
+
+Red meets Wolf; Wolf wants to eat Red.
+Red tells Wolf where Grandma lives; Wolf wants to eat Grandma; Wolf visits Grandma; Wolf eats Grandma.
+
+Wolf disguises Wolf as Grandma.
+Red visits Grandma.
+Red thinks Wolf is Grandma.
+
+Wolf eats Red.
+
+Lumberjack finds Wolf.
+Lumberjack kills Wolf.

@@ -1,0 +1,96 @@
+Insert file Start experiment.
+
+!frame: yes direction: 187.
+
+Clear video memory.
+
+Start precedent named "Give".
+
+Alpha is a person.
+
+Bravo is a person.
+
+The ball is an object.
+
+Alpha holds the ball.
+
+Alpha walks toward Bravo.
+
+Alpha gives a ball to Bravo.
+
+Bravo holds the ball.
+
+The end.
+
+Start precedent named "Take".
+
+Alpha is a person.
+
+Bravo is a person.
+
+The ball is an object.
+
+Alpha holds the ball.
+
+Bravo walks toward Alpha.
+
+Bravo takes the ball from Alpha.
+
+Bravo holds the ball.
+
+The end.
+
+Start video.
+
+Victor is a person.
+
+Pause 1000.
+
+Alpha is a person.
+
+Pause 1000.
+
+Delta is a person.
+
+Pause 1000.
+
+The device is an object.
+
+Pause 1000.
+
+Victor holds the device.
+
+Pause 1500.
+
+Victor walks toward Alpha.
+
+Pause 2000.
+
+Then, Victor walks toward Alpha.
+
+Pause 2000.
+
+Then, Victor walks toward Alpha.
+
+Pause 2000.
+
+A gap appears.
+
+Pause 1000.
+
+Alpha holds the device.
+
+Pause 1000.
+
+Delta walks toward Alpha.
+
+Pause 1000.
+
+Then, a gap appears.
+
+Pause 1000.
+
+Delta holds the device.
+
+The end.
+

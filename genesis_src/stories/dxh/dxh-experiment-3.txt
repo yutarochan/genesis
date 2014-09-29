@@ -1,0 +1,51 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+Madison is a person.
+Lee is a person.
+Detroit is a place.
+xx is an anything.
+yy is an anything.
+
+If Madison is a person, then Madison's mother is a person and Madison's father is a person.
+
+// YOU CAN USE A CAR TO GO PLACES. WHEN DRIVERS MOVE, THEIR PASSENGERS MOVE TOO.
+If Lee drives the car, then Lee sits in the car.
+If Lee wants to go to Detroit and Lee drives the car then Lee is travelling to Detroit.
+If Lee drives the car and Lee is travelling to Detroit and Madison sits in the car then Madison is travelling to Detroit.
+
+If Lee becomes lost and Lee is travelling to Detroit, then Lee is not in Detroit. 
+
+
+// PEOPLE COMPLAIN WHEN THEY ARE UNHAPPY
+If Madison complains that Madison doesn't want xx, then Madison doesn't want xx.
+Madison is unhappy because Madison doesn't want to go to Detroit and Madison goes to Detroit.
+Madison may complain because Madison is unhappy.
+
+// exception: animal parents
+
+// If Madison's family moves out, then Madison moves out and Madison's father moves out and Madison's mother moves out.
+
+// Madison's father has authority over Madison.
+// If Madison does not want to move out and Madison moves out, then Madison is coerced.
+
+
+
+Show first perspective.
+First perspective.
+
+Start story titled "Chihiro".
+
+Chihiro is a young girl.
+Chihiro sits in the car.
+Chihiro's mother sits in the car.
+Chihiro's father drives the car.
+Chihiro's father drives the car because Chihiro's father wants to travel to the new house.
+Chihiro complains that Chihiro doesn't want to travel to the new house.
+Chihiro's father is happy.
+
+Chihiro's father becomes lost because Chihiro's father takes a wrong turn.

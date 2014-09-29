@@ -1,0 +1,24 @@
+Start reflective knowledge.
+
+Start description of "helpfulness".
+XX is a person.
+YY is a person.
+XX's needing help leads to YY's helping XX.
+YY's helping XX leads to XX's becoming happy.
+The end.
+
+Start description of "helpfulness 2".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that XX's performing AA helps YY.
+YY's needing help leads to XX's performing AA. 
+The end.
+
+Start description of "helpfulness 2".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that XX's performing AA helps YY.
+YY's needing help leads to XX's performing AA. 
+The end.

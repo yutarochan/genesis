@@ -1,0 +1,25 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+Both perspectives.
+Ward is a person.
+If Ward pilots the plane, then Ward sits in the plane.
+
+
+Show both perspectives.
+Both perspectives.
+
+Start story titled "Bug: People problems".
+// In order for people to be treated as variables, you must declare them in advance.
+// Alternatively, the special constants xx, yy, zz are treated as variables automatically.
+
+
+Clarence pilots the plane.
+
+
+

@@ -1,0 +1,52 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 8.txt.
+
+First perspective.
+
+Start story titled "Cinna by Corneille".
+ 
+Note that Augustus is a name.
+Note that Cinna is a name.
+Note that Emilie is a name.
+
+Augustus, Cinna and Emilie are persons.
+
+Augustus is in position of power because Augustus is an emperor.
+Emilie hates Augustus because Augustus executes Emilie's father; Emilie asks Cinna to avenge her.
+Cinna wants to please Emilie because Cinna loves Emilie; Cinna conspires against Augustus; Cinna plots to kill Augustus.
+Augustus wants to abdicate. Cinna discourages Augustus to abdicate because Cinna wants to please Emilie.
+Augustus discovers that Cinna plots against Augustus; Augustus calls Cinna.
+Emilie tries to take the guilt.
+Cinna's friends try to take the guilt.
+Augustus forgives everyone. 
+
+ 
+
+The end.
+
+Second perspective.
+
+Start story titled "The conspiracy of Pazzi by Alfieri".
+
+Note that Lorenzo is a name.
+Note that Giulliano is a name.
+Note that Pazzi is a name.
+
+Pazzi are persons.
+Lorenzo is a person.
+Giulliano is a person.
+
+Toscana is a place.
+Medici is a dynasty and Medici rule Toscana.
+
+Giulliano and Lorenzo are in position of power. // because Lorenzo is an emperor.
+
+Pazzi conspire against Lorenzo and Pazzi conspire against Giulliano; Pazzi plot to kill Lorenzo and Giulliano.
+
+
+
+
+The end.

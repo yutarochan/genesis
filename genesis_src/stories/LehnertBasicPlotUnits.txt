@@ -1,0 +1,60 @@
+/*
+A rendering of Lehnert's basic plot units by PHW.
+*/
+
+Start reflective knowledge.
+
+Start description of "perseverence".  xx is an entity.  xx's wanting an action leads to
+xx's wanting the action.  The end.
+
+Start description of "success".  xx is an entity.  yy is anything.  xx's wanting yy leads
+to xx's becoming happy.  The end.
+
+Start description of "failure".  xx is an entity.  yy is anything.  xx's wanting yy leads
+to xx's becoming unhappy.  The end.
+
+Start description of "enablement".  xx is an entity.  yy is anything.  The first action
+leads to xx's becoming happy.  The first action leads to xx's wanting second action.
+The end.
+
+Start description of "motivation".  xx is an entity.  yy is anything.  xx becomes unhappy
+because the first action occurred.  A first action leads to xx's becoming unhappy.  The
+first action leads to xx's wanting a second action.  The end.
+
+Start description of "recursion".  xx is an entity.  ll is an action.  mm is an action.
+xx's wanting ll leads to xx's wanting mm.  The end.
+
+Start description of "positive tradeoff".  xx is an entity.  An action leads to xx's
+becoming happy.  Another action leads to xx's becoming happy.  xx's becoming happy leads
+to xx's stopping becoming happy.  The end.
+
+Start description of "negative tradeoff".  xx is an entity.  An action leads to xx's
+becoming unhappy.  Another action leads to xx's becoming unhappy.  xx's becoming unhappy
+leads to xx's stopping becoming unhappy.  The end.
+
+Start description of "loss".  xx is an entity.  An action leads to xx's becoming happy.
+Another action leads to xx's becoming unhappy.  xx's becoming unhappy leads to xx's
+stopping becoming happy.  The end.
+
+Start description of "resolution".  xx is an entity.  An action leads to xx's becoming
+unhappy.  Another action leads to xx's becoming happy.  xx's becoming happy leads to
+xx's stopping becoming unhappy.  The end.
+
+Start description of "change of mind".  xx is an entity.  ll is anything.
+xx's wanting ll leads to xx's stopping wanting ll.  The end.
+
+Start description of "Positive co-reference".  xx is an entity. yy is an entity.  An
+action leads to xx's becoming happy. The action leads to yy's becoming happy.  The end.
+
+Start description of "Negative co-reference".  xx is an entity.  yy is an entity.  An
+action leads to xx's becoming unhappy.  The action leads to yy's becoming unhappy.  The
+end.
+
+Start description of "Mixed blessing".  xx is an entity. yy is an entity.  An action
+leads to xx's becoming happy.  The action leads to xx's becoming unhappy.  The end.
+
+// Without time, which we don't have yet, alas, same as mixed blessing 
+Start description of "Hidden blessing".  xx is an
+entity.  yy is an entity.  An action leads to xx's becoming happy.  The action leads to
+xx's becoming unhappy.  The end.
+

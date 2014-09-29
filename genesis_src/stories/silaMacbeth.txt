@@ -1,0 +1,26 @@
+Insert file Start experiment.
+
+Both perspectives.
+Show both perspectives.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+Insert file Macbeth first perspective commonsense.
+Insert file General reflective knowledge.
+Insert file Macbeth first perspective reflective knowledge.
+
+Start story titled "Macbeth/Insanity".
+
+Second perspective.
+
+Insert file Lacking General Commonsense Knowledge.
+Insert file Macbeth second perspective commonsense.
+Insert file General reflective knowledge.
+Insert file Macbeth second perspective reflective knowledge.
+
+Start story titled "Macbeth/Revenge".
+
+Both Perspectives.
+
+Insert file Macbeth plot.

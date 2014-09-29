@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+xx is a person.
+yy is a person.
+ww is an entity.
+
+If xx takes ww from yy, then xx has ww.
+If xx takes ww from yy, then xx harms yy.
+If xx gives ww to yy, then yy has ww.
+
+Show both perspectives.
+First perspective.
+
+
+Start story titled "Ignorant incivility".
+I forget solicitation strategy.
+
+
+Patrick is a person.
+Boris is a person.
+The ball is an entity.
+
+
+Boris has the ball.
+Patrick wants the ball.
+Patrick takes the ball from Boris.
+
+The end.

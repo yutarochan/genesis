@@ -1,0 +1,63 @@
+Insert file Start experiment.
+
+First perspective.
+
+// Insert file General commonsense knowledge.
+
+// Insert file General reflective knowledge.
+
+Start story titled "500 Days Opening Scene".
+
+// Pause.
+
+A girl rides her bike down the street at night. The girl is thin. 
+
+
+
+The girl is white. The girl has brown hair. The girl is wearing a  jacket, a purple shirt, and a helmet.
+
+
+The girl parks her bike on the sidewalk. The girl locks her bike. The girl runs into an apartment building.
+
+
+
+// None of these three make it
+// A white man opens the door. The man has shoulder-length brown hair. The man is wearing scrubs. The man is tall.
+
+// Won't parse
+// An arabic man wearing a purple shirt and khaki cargo shorts is standing next to the white man. 
+
+// Won't translate
+// An arabic man is standing next to the white man. 
+
+// Won't translate
+// An arabic man stands next to the white man. 
+
+The arabic man has long, curly, black hair. The arabic man is shorter than the white man. The arabic man has a shocked expression.
+
+// 
+// The girl walks in between them and into the room.
+
+The girl walks between the two men into the room.
+
+// No parse
+// The girl and the two men all turn their heads and see the girl's brother.
+
+The girl turns her head and see the girl's brother.
+
+The girl's brother is smashing dishes against the counter. 
+
+The girl's brother is a man. His height is average. 
+
+He has black hair. 
+
+He is wearing a white button-up shirt. He is wearing dark jeans.
+
+He is tall.	
+
+He is white.
+
+
+The end.
+
+

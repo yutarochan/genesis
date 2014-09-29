@@ -1,0 +1,15 @@
+
+Start description of "Obtaining-A".
+
+xx is an object.
+yy is an entity.
+zz is an entity.
+
+zz owns xx.
+Sometimes, yy wants xx.
+yy obtains xx.
+
+Sometimes, yy's tricking zz leads to yy's obtaining xx.
+Sometimes, yy's seizing xx from zz leads to yy's obtaining xx.
+
+The end.

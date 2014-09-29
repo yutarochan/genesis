@@ -1,0 +1,11 @@
+I am a person.
+
+Note that Scar is a name.
+Note that Mufasa is a name.
+Note that Simba is a name.
+Note that Timon is a name.
+Note that Pumbaa is a name.
+Note that Ed is a name.
+
+Scar, Mufasa, Timon, Pumbaa, Ed and Simba are characters.
+Scar, Mufasa, Timon, Pumbaa, Ed and Simba are persons.

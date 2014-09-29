@@ -1,0 +1,132 @@
+///////////////////////////////////////////////////
+//Icarus Terrorists.txt
+
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+XX is a facility.
+YY is a vehicle.
+ZZ is an unmarked location.
+WW is a friendly vehicle.
+
+
+If YY explodes near XX then YY damaged XX.
+If YY explodes and YY is near XX then YY damages XX.
+If YY unloads cargo and YY is near XX then YY helps XX.
+Start story titled "Terrorist Movements 1".
+
+The truck is a vehicle.
+The car is a friendly vehicle.
+Alpha is a facility.
+Beta is a facility.
+Charlie is a facility.
+Delta is a suspicious location.
+Chemicals are an artifact.
+
+The truck appeared on the road near Alpha.
+Chemicals were detected in the truck.
+The truck drove toward Beta.
+The truck approached Beta.
+//The truck was near Beta.
+The truck exploded near Beta.
+
+The End.
+Remember story.
+
+//Pause.
+Start story titled "Friendly Movements 1".
+
+The truck is a vehicle.
+The car is a friendly vehicle.
+Alpha is a facility.
+Beta is a facility.
+Charlie is a facility.
+Delta is a suspicious location.
+Chemicals are an artifact.
+
+The truck appeared on the road near Alpha.
+Chemicals were detected in the truck.
+The truck drove toward Beta.
+The truck approached Beta.
+The truck sent a signal to Beta.
+//The truck exploded near Beta.
+The truck was near Beta.
+The truck unloaded its cargo.
+
+The End.
+Remember story.
+
+Start story titled "Terrorist Movements 2".
+
+The truck is a vehicle.
+The car is a friendly vehicle.
+Alpha is a facility.
+Beta is a facility.
+Charlie is a facility.
+Delta is a suspicious location.
+Chemicals are an artifact.
+
+The truck appeared on the road near Alpha.
+The truck drove toward Beta.
+The truck stopped at Delta.
+The truck approached Beta.
+The truck sent a signal to Beta.
+//The truck explodes near Beta.
+The truck was near Beta.
+The truck exploded.
+
+The End.
+Remember story.
+
+Start story titled "Friendly Movements 2".
+
+The truck is a vehicle.
+The car is a friendly vehicle.
+Alpha is a facility.
+Beta is a facility.
+Charlie is a facility.
+Delta is a suspicious location.
+Chemicals are an artifact.
+
+The truck appeared on the road near Alpha.
+The truck drove toward Beta.
+The truck sent a signal to Beta.
+The car appeared on the road near Beta.
+The car drove to Alpha.
+The car escorts the truck to Beta.
+The truck approached Beta.
+//The truck explodes near Beta.
+The truck was near Beta.
+The truck unloaded its cargo.
+
+The End.
+Remember Story.
+
+Second Perspective.
+
+Start story titled "Unknown Movements 1".
+
+The truck is a vehicle.
+The car is a friendly vehicle.
+Alpha is a facility.
+Beta is a facility.
+Charlie is a facility.
+Delta is a suspicious location.
+Chemicals are an artifact.
+
+The truck appeared on the road near Alpha.
+Chemicals were detected in the truck.
+The truck drove toward Beta.
+The truck sent a signal to Beta.
+The truck drove toward Charlie.
+The truck stops at Delta.
+The truck approached Charlie.
+//The truck was near Charlie.
+//The truck exploded.
+
+The End.
+Align story.

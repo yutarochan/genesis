@@ -1,0 +1,6 @@
+summary: A ball falls into a bowl
+0-12: The ball is above the bowl
+1-17: The ball falls toward the bowl
+12: The ball collides with the bowl
+13-20: The ball is between the bowls
+17-49: The ball is inside the bowl

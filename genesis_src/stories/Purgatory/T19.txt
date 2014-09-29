@@ -1,0 +1,23 @@
+/*
+Checks for looping induced by a fragment of googleDune.txt.  Should not loop.
+*/
+
+Start commonsense knowledge.
+
+XX may compel YY to want an action /*to occur*/ because Group1 intimidated Group2, XX is a member of Group1, and YY is a member of Group2.
+
+
+Start story.
+
+// SpywareIndustry is group 1
+// GreedyCompanies is group 2
+// XX is Greed
+// YY is Yahoo
+
+SpywareIndustry intimidates GreedyCompanies.
+Greed is a member of SpywareIndustry.
+Yahoo is a member of GreedyCompanies
+
+Greed compels Yahoo to want Sergei to die.
+
+The end.

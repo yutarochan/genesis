@@ -1,0 +1,203 @@
+package latticeLearning;
+
+import java.awt.Color;
+import java.awt.Font;
+import java.awt.FontMetrics;
+import java.awt.Graphics;
+import java.awt.Graphics2D;
+import java.awt.Point;
+import java.awt.event.MouseEvent;
+import java.awt.event.MouseListener;
+import java.awt.geom.Point2D;
+import java.awt.geom.Rectangle2D;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.List;
+import java.util.Map;
+import java.util.Set;
+
+import javax.swing.JPanel;
+import javax.swing.JTextArea;
+
+import utils.Mark;
+
+@SuppressWarnings("serial")
+public class LatticePanel extends JPanel implements MouseListener {
+    private TypeLattice lattice;
+    private Concept<String> concept;
+    private JTextArea textfield;
+    private float node_width;
+    private int node_height;
+    private float spacing = 1.5f;
+    private Map<String, Point2D> map;
+    
+    private Set<String> positives = new HashSet<String>();
+    private Set<String> negatives = new HashSet<String>();
+
+    public LatticePanel(TypeLattice lattice, JTextArea textfield) {
+        setLattice(lattice);
+        addMouseListener(this);
+        this.textfield = textfield;
+    }
+
+    public void setLattice(TypeLattice lattice) {
+        this.lattice = lattice;
+        concept = new FasterLLConcept<String>(lattice);
+        positives.clear();
+        negatives.clear();
+    }
+    
+    public TypeLattice getLattice() {
+        return this.lattice;
+    }
+    
+    public Map<String, Point2D> getMap(){
+        return map;
+    }
+    
+    public Concept<String> getConcept() {
+        return this.concept;
+    }
+    
+    public Set<String> getPositives() {
+        return this.positives;
+    }
+    
+    public Set<String> getNegatives() {
+        return this.negatives;
+    }
+
+
+    @Override
+    public void paintComponent(Graphics g) {
+        super.paintComponent(g);
+
+        Graphics2D g2d = (Graphics2D)g;
+        Font font = g2d.getFont().deriveFont(Font.BOLD).deriveFont(36.0f);
+        g2d.setFont(font);
+
+        g2d.setColor(Color.white);
+        int height = g2d.getClipBounds().height;
+        int width = g2d.getClipBounds().width;
+        g2d.fillRect(0, 0, width, height);
+
+        List<Set<String>> sorted = lattice.topologicalSort();
+
+        int layers = sorted.size()*2-1;
+        node_height = height / layers;
+
+        int columns = 0;
+        for (Set<String> c : sorted) {
+            columns = Math.max(columns, c.size());
+        }
+
+        node_width = width / (spacing * columns);
+
+        map = new HashMap<String, Point2D>();
+        int y = 0;
+
+        for (Set<String> c : sorted) {
+            float x = 0;
+            for (String type : c) {
+                map.put(type, new Point2D.Float(x,y));
+
+                if (positives.size() + negatives.size() > 0) {
+                    g2d.setColor(concept.contains(type) ? Color.green : Color.red);
+                    LatticeLearner.getImplication(g2d.getColor().equals(Color.green),type,positives,negatives);
+                    if (positives.contains(type) || negatives.contains(type)) {
+                        g2d.setColor(g2d.getColor().brighter());
+                    } else {
+                        g2d.setColor(g2d.getColor().darker().darker());
+                    }
+                    g2d.fillOval((int)x, y, (int)node_width, node_height);
+                    if (positives.contains(type) || negatives.contains(type)) {
+                        g2d.setColor(Color.DARK_GRAY);
+                    } else {
+                        g2d.setColor(Color.LIGHT_GRAY);
+                    }
+                    
+                    //resizes text to fit within ovals
+                    FontMetrics fm = g2d.getFontMetrics();
+                    int txtWidth = fm.stringWidth(type);
+                    float fontSize = g2d.getFont().getSize();
+                    
+                    if (txtWidth>node_width) {
+                        while (txtWidth>node_width) {
+                            fontSize -= (float) 1.0;
+                            Font tempFont = g.getFont().deriveFont(fontSize);
+                            g.setFont(tempFont);
+                            txtWidth = g.getFontMetrics().stringWidth(type);
+                        }
+                    }
+                    
+                    Rectangle2D box = g2d.getFontMetrics().getStringBounds(type, g2d);
+                    g2d.drawString(type, (int)(x+(node_width-box.getWidth())/2), y+node_height/2);
+                } else {
+                    g2d.setColor(Color.black);
+                    g2d.drawOval((int)x, y, (int)node_width, node_height);
+                    
+                    
+                    //resizes text to fit within ovals
+                    FontMetrics fm = g2d.getFontMetrics();
+                    int txtWidth = fm.stringWidth(type);
+                    float fontSize = g2d.getFont().getSize();
+                    
+                    if (txtWidth>node_width) {
+                        while (txtWidth>node_width) {
+                            fontSize -= (float) 1.0;
+                            Font tempFont = g.getFont().deriveFont(fontSize);
+                            g.setFont(tempFont);
+                            txtWidth = g.getFontMetrics().stringWidth(type);
+                        }
+                    }
+                    
+                    Rectangle2D box = g2d.getFontMetrics().getStringBounds(type, g2d);
+                    g2d.drawString(type, (int)(x+(node_width-box.getWidth())/2), y+node_height/2);
+                }
+                x += spacing*node_width;
+                g2d.setFont(font);
+            }
+            y += 2*node_height;
+        }
+
+        for(String type : map.keySet()) {
+            for (String parent : lattice.getParents(type)) {
+                 Point2D p1 = map.get(parent);
+                 Point2D p2 = map.get(type);
+                 g2d.setColor(Color.gray);
+                 g2d.drawLine((int)(p1.getX()+node_width/2), (int)(p1.getY()+node_height), (int)(p2.getX()+node_width/2), (int)p2.getY());
+                 g2d.drawOval((int)(p2.getX()+node_width/2-2), (int)(p2.getY()-2), 4, 4);
+            }
+        }
+    }
+
+    public void mouseClicked(MouseEvent e) {
+        Point xy =e.getPoint();
+
+        String closest = "None";
+        double dist = Double.MAX_VALUE;
+        for(String type : map.keySet()) {
+            Point2D corner = map.get(type);
+            Point2D center = new Point2D.Double(corner.getX()+node_width/2, corner.getY()+node_height/2);
+            if (xy.distanceSq(center) < dist) {
+                dist = xy.distanceSq(center);
+                closest = type;
+            }
+        }
+
+        if (e.getButton() == 1) {
+            positives.add(closest);
+            concept.learnPositive(closest);
+        } else {
+            negatives.add(closest);
+            concept.learnNegative(closest);
+        }
+
+        repaint();
+        textfield.setText(concept.toString());
+    }
+    public void mouseEntered(MouseEvent e) {}
+    public void mouseExited(MouseEvent e) {}
+    public void mousePressed(MouseEvent e) {}
+    public void mouseReleased(MouseEvent e) {}
+}

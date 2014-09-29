@@ -1,0 +1,70 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+Cuthbert, Elspeth, Walter, and Violet are persons.
+xx is an anything.
+yy is an anything.
+LL is a place. MM is a place.
+
+If PP is a bachelor, then PP may marry.
+
+// GENDERS OF PARENTS AND CHILDREN
+
+If Violet is Elspeth's child, then Elspeth is Violet's parent and Elspeth is a person and Violet is a person.
+
+If Walter is Cuthbert's son, then Walter is male and Walter is Cuthbert's child.
+If Violet is Cuthbert's daughter, then Violet is female and Violet is Cuthbert's child.
+
+// If PP is QQ's parent and PP is male, then PP is QQ's father.
+// If PP is QQ's parent and PP is female, then PP is QQ's mother.
+
+// social norms
+// If PP is QQ's husband, then QQ is PP's wife.
+// If PP is QQ's wife, then QQ is PP's husband.
+
+// biological parents
+// If PP is QQ's husband, and RR is PP's child, then RR is QQ's child.
+// If PP is QQ's wife, and RR is PP's child, then RR is QQ's child.
+
+
+// If PP is QQ's daughter, then QQ is PP's parent and PP is female.
+// If PP is QQ's husband, then QQ is PP's wife and QQ is female and PP is male.
+// If PP is QQ's parent and PP is male, then PP is QQ's father.
+// If PP is QQ's parent and PP is female, then PP is QQ's mother.
+
+
+If PP is a bachelor, then PP is male and PP is unwed.
+
+// COURTSHIP
+PP proposes to QQ because PP wants to marry QQ.
+
+// LOCATION
+
+If LL is near MM and PP lives at LL and QQ lives at MM then PP and QQ are neighbors.
+
+
+// SOCIAL RULES
+
+If PP is a wealthy bachelor, then PP is wealthy.
+
+Show first perspective.
+First perspective.
+
+Start story titled "First Impressions".
+
+Bingley is a wealthy bachelor.
+
+Elizabeth, Jane, Mary, and Lydia are Lady Bennet's daughters.
+Elizabeth, Jane, Mary, and Lydia are unwed.
+Mister Bennett is Lady Bennett's husband.
+Lady Bennett wants to become well-to-do.
+
+Mister Bennett lives at Longbourn.
+Bingley lives at Netherfield.
+Netherfield is near Longbourn.
+

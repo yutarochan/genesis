@@ -1,0 +1,63 @@
+Start experiment.
+
+xx is a person.
+yy is a person.
+if xx is yy's father then xx is yy's relative.
+
+Insert file 16.txt.
+
+Start story titled "'L'Etau' by Andre Sardou".
+
+Note that Jean is a name.
+Note that Aurriol is a name.
+Note that Madlen is a name.
+Note that Simone is a name.
+Note that Philippe is a name.
+Note that Docteur Bonnel is a name.
+
+Jean is a person.
+Aurriol is a person.
+Docteur Bonnel is a person.
+Madlen is a person.
+Simone is a young woman.
+Philippe is a person.
+
+Aurriol is rich.
+Aurriol marries Madlen.
+Madlen gives a birth to Jean.
+Aurriol is Jean's father.
+Aurriol becomes mad and Aurriol dies.
+
+Madlen becomes widow.
+Philippe is a friend of Aurriol's family.
+Philippe marries Madlen.
+
+Jean is a medical student.
+Jean proposes Simone because Jean is in love with Simone.
+
+
+Jean starts avoiding Simone. 
+Simone becomes unhappy because Jean avoids Simone.
+Madlen is concerned because Jean avoids Simone.
+Docteur Bonnel is a friend of Jean's family.
+Madlen shares concerns with Docteur Bonnel.
+
+Docteur Bonnel interviews Jean therefore Docteur Bonnel knows that Jean is afraid of hereditary madness.
+Jean avoids Simone because Jean is afraid of hereditary madness. 
+Jean is afraid of hereditary madness because Aurriol becomes mad and Aurriol is Jean's father.
+Docteur Bonnel tells Madlen that Jean can become mad.
+Jean can become mad because Jean convinces himself that he becomes mad.
+
+Madlen convinces Jean that Jean's real father is Philippe.
+Simone's mother is afraid of hereditary madness too.
+Simone's mother wants to send Simone away because Simone's mother is afraid of hereditary madness.
+Madlen tells Simone's mother that Jean's real father is Philippe.
+Madlen does not convince Simone's mother.
+
+Jean convinces himself that he becomes mad because Jean is afraid of hereditary madness.
+Jean becomes mad because Jean convinces himself that he becomes mad. 
+Jean thinks that everyone lies to Jean because Jean becomes paranoid.
+Jean attempts to kill Philippe because Jean becomes mad.
+Jean dies.
+
+The end.

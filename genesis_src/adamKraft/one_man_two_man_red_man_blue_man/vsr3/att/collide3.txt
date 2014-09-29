@@ -1,0 +1,252 @@
+
+transitions/vsr3/rf/collide3.txt has 300 RefFrames.
+transitions/vsr3/rf/collide3.txt has 3 markers.
+
+WARNING Frame 0[id=-1]
+
+WARNING Frame 1[id=-1]
+
+WARNING Frame 2[id=-1]
+
+WARNING Frame 3[id=-1]
+
+WARNING Frame 4[id=-1]
+
+WARNING Frame 5[id=-1]
+
+WARNING Frame 6[id=-1]
+
+WARNING Frame 7[id=-1]
+
+WARNING Frame 8[id=-1]
+
+WARNING Frame 9[id=-1]
+
+WARNING Frame 10[id=-1]
+
+WARNING Frame 11[id=-1]
+
+WARNING Frame 12[id=-1]
+
+WARNING Frame 13[id=-1]
+
+WARNING Frame 14[id=-1]
+
+WARNING Frame 15[id=-1]
+
+WARNING Frame 16[id=-1]
+
+WARNING Frame 17[id=-1]
+
+WARNING Frame 18[id=-1]
+
+WARNING Frame 19[id=-1]
+
+WARNING Frame 20[id=-1]
+
+WARNING Frame 21[id=-1]
+
+WARNING Frame 22[id=-1]
+
+WARNING Frame 23[id=-1]
+
+WARNING Frame 24[id=-1]
+
+WARNING Frame 25[id=-1]
+
+WARNING Frame 26[id=-1]
+
+WARNING Frame 27[id=-1]
+
+WARNING Frame 28[id=-1]
+
+WARNING Frame 29[id=-1]
+
+WARNING Frame 30[id=-1]
+
+WARNING Frame 31[id=-1]
+
+WARNING Frame 32[id=-1]
+
+WARNING Frame 33[id=-1]
+
+WARNING Frame 34[id=-1]
+
+WARNING Frame 35[id=-1]
+
+WARNING Frame 36[id=-1]
+
+WARNING Frame 37[id=-1]
+
+WARNING Frame 38[id=-1]
+
+WARNING Frame 39[id=-1]
+
+WARNING Frame 40[id=-1]
+
+WARNING Frame 41[id=-1]
+
+WARNING Frame 42[id=-1]
+
+WARNING Frame 43[id=-1]
+
+WARNING Frame 44[id=-1]
+
+WARNING Frame 45[id=-1]
+
+WARNING Frame 46[id=-1]
+
+WARNING Frame 47[id=-1]
+
+WARNING Frame 48[id=-1]
+
+WARNING Frame 49[id=-1]
+
+WARNING Frame 50[id=-1]
+
+WARNING Frame 51[id=-1]
+
+WARNING Frame 52[id=-1]
+
+WARNING Frame 53[id=-1]
+
+WARNING Frame 54[id=-1]
+
+WARNING Frame 55[id=-1]
+
+WARNING Frame 56[id=-1]
+
+WARNING Frame 57[id=-1]
+
+WARNING Frame 58[id=-1]
+
+WARNING Frame 59[id=-1]
+
+WARNING Frame 60[id=-1]
+
+WARNING Frame 61[id=-1]
+
+WARNING Frame 62[id=-1]
+
+WARNING Frame 63[id=-1]
+
+WARNING Frame 64[id=-1]
+
+WARNING Frame 65[id=-1]
+
+WARNING Frame 66[id=-1]
+
+WARNING Frame 67[id=-1]
+
+WARNING Frame 68[id=-1]
+
+WARNING Frame 69[id=-1]
+
+WARNING Frame 70[id=-1]
+
+WARNING Frame 71[id=-1]
+
+WARNING Frame 72[id=-1]
+
+WARNING Frame 73[id=-1]
+
+WARNING Frame 74[id=-1]
+
+WARNING Frame 75[id=-1]
+
+WARNING Frame 76[id=-1]
+
+WARNING Frame 77[id=-1]
+
+WARNING Frame 78[id=-1]
+
+WARNING Frame 79[id=-1]
+
+WARNING Frame 80[id=-1]
+
+WARNING Frame 81[id=-1]
+
+WARNING Frame 82[id=-1]
+
+WARNING Frame 83[id=-1]
+
+WARNING Frame 84[id=-1]
+
+WARNING Frame 85[id=-1]
+
+WARNING Frame 86[id=-1]
+
+WARNING Frame 87[id=-1]
+
+WARNING Frame 88[id=-1]
+
+WARNING Frame 89[id=-1]
+
+WARNING Frame 90[id=-1]
+
+WARNING Frame 91[id=-1]
+
+WARNING Frame 92[id=-1]
+
+WARNING Frame 93[id=-1]
+
+WARNING Frame 94[id=-1]
+
+WARNING Frame 95[id=-1]
+
+WARNING Frame 96[id=-1]
+
+WARNING Frame 97[id=-1]
+
+WARNING Frame 98[id=-1]
+
+WARNING Frame 99[id=-1]
+
+WARNING Frame 100[id=-1]
+
+WARNING Frame 101[id=-1]
+
+WARNING Frame 102[id=-1]
+
+WARNING Frame 103[id=-1]
+Inst 108 [- 107 106 105 104] id=0  ddx=1
+Inst 109 [- 108 107 106 105] id=0  ddx=1
+Inst 110 [- 109 108 107 106] id=0  ddx=1
+Inst 111 [- 110 109 108 107] id=0  ddx=1
+Inst 112 [- 111 110 109 108] id=0  ddx=1 ddy=1
+Inst 113 [- 112 111 110 109] id=0  ddx=1 ddy=1
+Inst 114 [- 113 112 111 110] id=0  ddx=1
+Inst 115 [- 114 113 112 111] id=0  ddx=1
+KF 115 [- 104] id=0  [1] dmarker=1
+Inst 116 [- 115 114 113 112] id=0  ddx=1 [1] dmarker=1
+Inst 117 [- 116 115 114 113] id=0  ddx=1 ddy=-1
+Inst 118 [- 117 116 115 114] id=0  ddx=1 ddy=-1 [1] dR=-1 dTheta=0
+Inst 119 [- 118 117 116 115] id=0  ddx=1 [1] dR=-1 dTheta=0
+KF 119 [- 115] id=0  [1] dR=-1 dTheta=0
+Inst 120 [- 119 118 117 116] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 121 [- 120 119 118 117] id=0  ddx=1 [1] dR=-1 dTheta=0
+KF 125 [- 122] id=1  [0] dR=-1 dTheta=0
+Inst 126 [- 125 124 123 122] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0
+KF 126 [- 125] id=1  dmarkerContact[0]=1
+Inst 127 [- 126 125 124 123] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0 dmarkerContact[0]=1
+Inst 128 [- 127 126 125 124] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0 dmarkerContact[0]=1
+Inst 129 [- 128 127 126 125] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=1
+Inst 130 [- 129 128 127 126] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=1
+Inst 131 [- 130 129 128 127] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0
+Inst 132 [- 131 130 129 128] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0
+Inst 133 [- 132 131 130 129] id=1  ddy=1
+Inst 136 [- 135 134 133 132] id=1  ddy=-1 [0] dR=0 dTheta=-1
+Inst 137 [- 136 135 134 133] id=1  ddy=-1 [0] dR=0 dTheta=-1
+Inst 138 [- 137 136 135 134] id=1  ddy=-1 [0] dR=0 dTheta=-1
+Inst 139 [- 138 137 136 135] id=1  ddy=-1
+Inst 140 [- 139 138 137 136] id=1  ddy=-1
+Inst 141 [- 140 139 138 137] id=1  ddy=-1
+Inst 142 [- 141 140 139 138] id=1  ddy=-1 [0] dR=0 dTheta=-1
+Inst 146 [- 145 144 143 142] id=1  ddx=-1 ddy=1 [0] dR=-1 dTheta=0
+Inst 147 [- 146 145 144 143] id=1  ddy=1 [0] dR=0 dTheta=1
+Inst 148 [- 147 146 145 144] id=1  ddy=1
+Inst 149 [- 148 147 146 145] id=1  ddy=1
+KF 151 [- 119] id=0  [1] dR=-1 dTheta=0 dmarkerContact[1]=1
+Inst 163 [- 162 161 -1 -1] id=0  dmarkerContact[1]=1
+Inst 267 [- 266 264 -1 -1] id=0  dmarkerContact[1]=1
+

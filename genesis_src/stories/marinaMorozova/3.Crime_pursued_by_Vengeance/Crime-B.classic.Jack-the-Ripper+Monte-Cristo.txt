@@ -1,0 +1,81 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Start commonsense knowledge.
+
+xx pursues yy because xx chases yy.
+xx kills yy because xx pursues yy.
+xx hurts yy because xx kills yy.  
+
+yy hurts xx because xx believes that yy deceives xx.
+xx may believe that yy transgressed because yy hurts xx.
+xx hurts yy because xx blackens yy.
+
+xx hurts yy because xx knows that yy is innocent and xx charges yy.
+
+xx may pursue yy because xx believes that yy transgressed.
+
+Insert file 3.txt.
+
+First perspective.
+
+Start story titled "Jack the Ripper by Xavier Bertrand et al".
+
+Women are an entity.
+Jack is a person.
+Jack believes that women deceive Jack because a woman deceives Jack.
+Jack chases women because Jack believes that women transgressed.
+Jack kills women because Jack believes that women transgressed.
+Jack is never caught.
+
+The end.
+
+Second perspective.
+
+Start story titled "Count Monte-Cristo".
+
+Dantes is a person.
+Villefort is a person.
+Fernand is a person.
+Mercedes is a person.
+Danglars is a person.
+Villefort is a person.
+
+Dantes is a sailor. Dantes loves Mercedes because she is beautiful. Dantes wants to marry Mercedes because Dantes loves her.
+//Fernand loves Mercedes but Mercedes loves Dantes.
+//Fernand envies Dantes because Mercedes loves Dantes.
+
+Danglars fears Dantes because Dantes suspects Danglars in fraud.
+
+//Fernand and Danglars plot against Dantes because Fernand envies Dantes and because Danglars fears Dantes. 
+Fernand blackens Dantes because Fernand loves Mercedes and because Mercedes loves Dantes.
+Danglars blackens Dantes because Danglars fears Dantes.
+Dantes is arrested because Danglars blakens Dantes and because Fernand blackens Dantes.
+Villefor is a judge.
+Villefor knows that Dantes is innocent.
+Villefor charges Dantes because Villefor fears consequences of discharge.
+Villefor imprisons Dantes.
+
+Dantes spends years imprisoned.
+Other prisoner tells Dantes about the treasure.
+Dantes escapes from prison and Dantes finds the treasure.
+Dantes is rich.
+
+Noone recognizes Dantes.
+Dantes discovers truth about his arrest because Dantes investigates.
+
+Dantes pursues Villefor because Dantes believes that Villefor transgressed.
+Dantes pursues Fernand because Dantes believes that Fernand transgressed. 
+Dantes pursues Danglars because Dantes believes that Danglars transgressed.
+Dantes hurts Villefor because Dantes pursues Villefor.
+Dantes hurts Fernand because Dantes pursues Fernand.
+Dantes hurts Danglars because Dantes pursues Danglars.
+//Dantes hurts Villefor.
+//Dantes hurts Danglars.
+Fernand kills himself because Dantes hurts Fernand.
+Villefor becomes insane because Dantes hurts Villefor.
+Danglars loses money because Dantes hurts Danglars. 
+
+The end.
+

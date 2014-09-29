@@ -1,0 +1,26 @@
+Insert file Simple Hamlet.
+
+Clear story memory.
+
+Start Experiment.
+
+Start story titled, "The Lion King".
+
+//Pause.
+
+Mufasa is a character.
+
+Scar is a character.
+
+Simba is a character.
+
+Mufasa is similar to King Hamlet.
+
+Scar is similar to Claudius.
+
+Simba is similar to Hamlet.
+
+Simulate characters.
+Weave character plots.
+
+The end.

@@ -1,0 +1,92 @@
+//The order of importance is as follows:
+//Supplication-General embeds all the patterns
+//Among ABC cases A is the weakest one:
+//Whenever B or C is found A will be found as well
+//B and C are very specific.
+
+
+Start description of "Supplication-General".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+uu is an entity.
+
+xx is mighty. //with respect to situation
+zz troubles yy.
+
+Sometimes, yy upsets xx.
+xx does not plan to help yy.
+
+uu asks xx to help yy.
+
+xx helps yy.
+
+The end.
+
+
+Start description of "Supplication-A".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+
+xx is mighty. //with respect to situation
+zz troubles yy.
+xx does not plan to help yy.
+
+yy asks xx to help yy.
+
+xx helps yy.
+
+The end.
+
+Start description of "Supplication-B".
+
+xx is an entity.
+yy is an entity.
+zz is an entity.
+
+xx is mighty. 
+xx does not plan to help yy because yy upsets xx.
+
+zz asks xx to help yy.
+xx helps yy.
+
+The end.
+
+
+//Start description of "Supplication-B".
+//xx is an entity.
+//yy is an entity.
+//zz is an entity.
+
+//xx is mighty. //with respect to situation
+
+//yy upsets xx. 
+
+
+//xx does not plan to help yy.
+
+//yy asks xx to help yy because zz troubles yy.
+
+//xx helps yy.
+
+//The end.
+
+Start description of "Supplication-C".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+uu is an entity.
+
+xx is mighty. //with respect to situation
+zz troubles yy.
+xx does not plan to help yy.
+
+yy does not ask xx to help yy.
+//this line added just because Genesis does not care if yy=uu or not
+uu asks xx to help yy.
+
+xx helps yy.
+
+The end.
+

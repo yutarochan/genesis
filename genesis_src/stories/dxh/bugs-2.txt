@@ -1,0 +1,30 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+Both perspectives.
+	Raphael and Elspeth are persons.
+	If Raphael loves Elspeth and Elspeth dies then Raphael is bereaved.
+
+First perspective.
+	If Raphael is bereaved then Raphael is unhappy.
+
+Show both perspectives.
+Both perspectives.
+
+Start story titled "Everyone's unhappy".
+
+Mangus, Lily, and Gwyneth are persons.
+Mangus loves Lily.
+Lily dies.
+The end.
+
+// This apparently happens because START doesn't know the word "bereaved".
+// Twist: Replace "is bereaved" with "becomes bereaved" for a different bug.
+// Twist: Replace "is bereaved" with "is sad" for a reflexive arrow.
+// Patch: Replace "is bereaved" with "is somber".
+

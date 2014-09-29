@@ -1,0 +1,112 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+// Reasons to kill.
+James may kill Henry because James is crazy and James likes Henry.
+Henry may want to kill James because Henry is angry at James.
+
+// Friends.
+If James harmed George and George is Henry's friend, then James harmed Henry.
+
+// Succession.
+If George is king and Henry is George's successor and George becomes dead, then Henry becomes king.
+Mary becomes the queen because George becomes the king and Mary is George's wife.
+James becomes happy because James became the king and James wants to become the king.
+James may murder Henry because James wants to become king and because Henry is the king.
+
+// Harm.
+If James harms Henry, then Henry becomes unhappy.
+If James harms Henry then James angers Henry.
+//Henry may want to kill James because Henry is angry at James.
+
+// Murder killing, and harming
+If James kills you, then you become dead.
+James harms Henry because James kills Henry.
+James harms Henry because James attacks Henry.
+James harms Henry because James fights Henry.
+//James may attack Henry because Henry harms James.
+//James may fight Henry because Henry attacks James.
+James may kill Henry because James is not sane.
+
+// Greed
+Mary may want to become the queen because she is greedy.
+
+// Persuation
+// If Mary wants an action, then Mary may persuade James to commit the action.
+// If Mary persuades James to act, then James acts.
+
+// Coercion
+If an entity forces an action, then the action occurs.
+// Ok, its awkward, but it works
+If an entity persuades an action to occur, then the action occurs.
+
+
+Start reflective knowledge.
+
+// Action does not work
+
+Start description of "Success".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming happy.
+The end.
+
+Start description of "Mistake".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "Leadership achieved".
+xx is an entity.
+yy is a position.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+
+Start description of "Insane violence".
+xx is an entity.
+yy is a entity.
+xx's being not sane leads to xx's killing yy.
+The end.
+
+Start description of "Answered prayer".
+xx is an entity.
+xx's wanting an action leads to the action.
+The end.
+
+Start description of "Pyrrhic victory".
+xx is an entity.
+yy is anything.
+xx's wanting yy leads to xx's becoming happy.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "Suicide".
+xx is an entity.
+xx kills xx.
+The end.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+
+Start description of "Unwarranted Revenge".
+xx is an entity.
+yy is a entity.
+xx is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Teaching a lesson".
+xx is an entity.
+yy is a entity.
+yy is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.

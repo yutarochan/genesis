@@ -1,0 +1,37 @@
+/* Filename: ChinaBorderWarWithUSSR.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Feb 19, 2004
+ */
+
+/**
+ * Cuba: Bay of Pigs Invasion, 1961
+ */
+ 
+Start story titled "Cuba Bay of Pigs Invasion".
+
+Cuba is a country.
+The Soviets are an entity.
+The UnitedStates is a country.
+
+The exiles of Cuba is a group.
+
+Castro is a person.
+Castro led Cuba.
+
+The Soviets liked Castro.
+Castro liked the Soviets.
+
+The UnitedStates disliked Castro because Castro liked the Soviets.
+The UnitedStates disliked Castro because the Soviets liked Castro.
+The UnitedStates wanted to overthrow Castro because the UnitedStates disliked Castro.
+
+The UnitedStates wanted the exiles of Cuba to invade Cuba because the UnitedStates disliked Castro.
+The UnitedStates helped the exiles of Cuba because the UnitedStates wanted the exiles of Cuba to invade Cuba.
+The exiles of Cuba disliked Castro.
+The exiles of Cuba invaded Cuba because the UnitedStates wanted the exiles of Cuba to invaded Cuba and the exiles of Cuba disliked Castro.
+The Cuba was stronger than the exiles of Cuba.
+
+The Cuba defeated the exiles of Cuba because the exiles of Cuba invaded Cuba and the Cuba was stronger than the exiles of Cuba.
+
+The end.

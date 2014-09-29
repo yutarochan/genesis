@@ -1,0 +1,7 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+
+If xx is violent, then xx may kill yy.
+If xx becomes violent, then xx may kill yy. 

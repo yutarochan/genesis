@@ -1,0 +1,51 @@
+Start reflective knowledge.
+
+Start description of "generous".
+XX is a person.
+YY is a person.
+EE is an entity.
+XX owns EE.
+// "possesses" does not work
+// Also should express does not expect something in return?
+XX thinks YY will become happy if YY receives EE.
+XX's wanting YY to become happy leads to XX's providing EE to YY. 
+The end.
+
+Start description of "material sacrifice".
+XX is a person.
+YY is a person.
+EE is an entity.
+FF is an entity.
+AA is an action.
+// XX's wanting YY's becoming happy leads to XX's providing EE to YY. 
+XX's performing AA leads to XX's providing EE to YY.
+XX's performing AA leads to XX's losing FF.
+XX's providing EE to YY leads to YY's becoming happy.
+The end.
+
+/*
+DEPRECATED
+
+Start description of "sharing".
+
+XX is a person.
+YY is a person.
+ZZ is an entity.
+
+XX owns ZZ.
+YY wants ZZ because YY wants to become happy.
+XX's wanting ZZ to become happy leads to XX sharing ZZ.
+
+The end.
+
+Start description of "sharing 2".
+
+XX is a person.
+YY is a person.
+ZZ is an entity.
+
+XX owns ZZ.
+YY's wanting to use ZZ leads to XX's allowing YY to use ZZ.
+
+The end.
+*/

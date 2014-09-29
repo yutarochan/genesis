@@ -1,0 +1,27 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+
+xx may offend yy because xx is rude.
+xx may hurt yy's feelings because xx is rude.
+
+//If xx is rude, then xx offends yy.
+
+Start reflective knowledge.
+
+Start description of "being rude".
+
+xx's being rude leads to yy's disliking xx.
+
+The end.
+
+Marvin is a person.
+Nancy is a person.
+
+Start story titled "Rude person's characteristics".
+
+Marvin offends Nancy.
+Marvin hurts Nancy's feelings.
+
+The end.

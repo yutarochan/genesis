@@ -1,0 +1,45 @@
+// PHW as of 7:43 pm, 7/22/2012
+
+Insert file Start experiment.
+
+
+First perspective.
+
+// Insert file General commonsense knowledge.
+// Start commonsense knowledge.
+
+XX is a person.
+
+YY is a person.
+
+The stranger is a person.
+
+If XX goes to the party, then XX meets stranger.
+
+If XX meets stranger, then XX speaks to stranger.
+
+If XX speaks to stranger, then XX stutters at stranger.
+
+// Doesn't work, parser bug
+// If XX speaks to YY and XX stutters at YY, then YY laughs at XX.
+
+YY laughs at XX because XX stutters at YY.
+
+If YY laughs at XX, then XX becomes unhappy. 
+
+Start story titled "Anne is shy".
+
+Anne is a person.
+
+Bob is a person.
+
+Bob invites Anne to a party.
+
+Anne goes to the party.
+
+// Anne becomes drunk because Anne stutters.
+
+The end.
+
+
+

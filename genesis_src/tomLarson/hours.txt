@@ -1,0 +1,27 @@
+2/4/08: 6 hours
+- Eliminated edit distance for disambiguation
+- Wrote ThreadTree and WeightedNode; started to implement visual disambiguation
+
+Problems: Memory already consolidates memories. Is there any way to get around this?
+
+2/5/08: 3 hours
+- Implemented propagation
+
+Problems: Still, dealing with memory. It consolidates the memories. We need to get exactly what went in. This might
+involve grabbing the SOMs. 
+
+Solution: Keep my own memory structure. 
+
+2/6/08: 2 hours
+
+Ideas: Find impact per type. As it is now, the impacts of types are summed. This favors longer threads. 
+Progress: Disambiguates well
+Problems: Got hawk wrong once. Can't figure out why. Have to sleep now. 
+
+Still to do: Visualization. At least text, to show the reasoning process. 
+
+2/7/08 5 hours
+Got visualization working. 
+TODO: Show where all possible threads would go. 
+	  Fix display issues (overlaps)
+	  clean up code. 

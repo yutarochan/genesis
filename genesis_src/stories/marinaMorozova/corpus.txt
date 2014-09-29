@@ -1,0 +1,26 @@
+// Note idiom that sets up experiments and gives each a name; must be first sentence read.
+
+Run what-if experiments A, B, C, D, E, and F.
+
+Assume if experiment A: Insert file Supplication-A_classic_Danaids_Chryses.
+
+
+Assume if experiment B: Insert file Supplication-B_classic_Philoctetes_Navsicaa.
+
+Assume if experiment C: Insert file Supplication-B_modern_Rocky3_Stallone.
+
+Assume if experiment D: Insert file Supplication-C_classic_Franklin_Esther.
+
+Assume if experiment E: Insert file Deliverance-A_classic_Susanna_Andromeda.
+
+Assume if experiment F: Insert file Deliverance-B_classic_Tyro_Bluebeard.
+
+
+
+
+
+
+
+
+
+

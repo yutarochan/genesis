@@ -1,0 +1,44 @@
+Second perspective.
+
+Start Story titled "Prompt".
+Agent-11 gives IED-11 to Agent-12.
+Agent-13 gives Ammunition-11 to Agent-14.
+Agent-12 retrieves Weapon-11 from Location-12-11.
+Agent-12 gives IED-11 to Agent-15.
+Agent-14 meets Agent-12.
+Agent-14 gives Ammunition-11 to Agent-12.
+Agent-12 travels to Location-19-11.
+Agent-12 meets Agent-16.
+Agent-15 travels to Location-11-15.
+The end.
+
+//08:00-08:10: 
+//08:10-08:20: Agent-11 gives IED-11 to Agent-12.
+//08:20-08:30: 
+//08:30-08:40: Agent-13 gives Ammunition-11 to Agent-14.
+//08:40-08:50: Agent-12 retrieves Weapon-11 from Location-12-11.
+//08:50-09:00: 
+//09:00-09:10: 
+//09:10-09:20: Agent-12 gives IED-11 to Agent-15.
+//09:20-09:30: Agent-14 meets Agent-12.
+//09:30-09:40: Agent-14 gives Ammunition-11 to Agent-12.
+//09:40-09:50: 
+//09:50-10:00: 
+//10:00-10:10: 
+//10:10-10:20: 
+//10:20-10:30: 
+//10:30-10:40: Agent-12 travels to Location-19-11.
+//10:40-10:50: Agent-12 meets Agent-16.
+//10:50-11:00: Agent-15 travels to Location-11-15.
+//11:00-11:10: 
+//11:10-11:20: 
+//11:20-11:30: 
+//11:30-11:40: 
+//11:40-11:50: 
+//11:50-12:00: 
+//12:00-12:10: 
+//12:10-12:20: 
+//12:20-12:30: 
+//12:30-12:40: 
+//12:40-12:50: 
+//12:50-13:00: 

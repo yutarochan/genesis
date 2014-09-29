@@ -1,0 +1,28 @@
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+First perspective.
+
+// If XX is an enemy of ZZ and YY is an enemy of ZZ, then XX is YY's friend.
+
+Insert file General commonsense knowledge.
+
+If xx is an enemy of zz and yy is an enemy of zz then xx is a friend of yy.
+
+Insert file Relations knowledge.
+
+Insert file General reflective knowledge.
+
+"Eastern" is a kind of personality trait.
+
+"Machiavellian" is a kind of personality trait.
+
+Start story titled "Macbeth/Revenge".
+
+I am eastern.
+ 
+I am machiavellian.
+
+Insert file Macbeth plot.
+

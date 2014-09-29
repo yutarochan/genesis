@@ -1,0 +1,17 @@
+China, Cambodia, and Vietnam are countries.
+The Khmer-Rouge is an organization.
+The Khmer-Rouge controlled Cambodia.
+Cambodia attacked Vietnam because the Khmer-Rouge disliked Vietnam and the Khmer-Rouge controlled Cambodia.
+Vietnam disliked the Khmer-Rouge because Cambodia attacked Vietnam and the Khmer-rouge controlled Cambodia.
+Vietnam attacked Cambodia because Cambodia attacked Vietnam.
+// Larger doesn't translate; posessive does not translate
+// Vietnam defeated Cambodia because Vietnam's army was larger than Cambodia's army and Vietnam attacked Cambodia.
+China invaded Vietnam because Vietnam ousted the Khmer-Rouge and China supported the Khmer-Rouge.
+// Not not recorded
+// Vietnam did not want China to invade Vietnam.
+// Multiply mistranslated 
+// Vietnam's army stopped China from invading Vietnam because Vietnam did not want China to invade Vietnam.
+// Leave not noted as a trajectory; possessive   
+// China's army left Vietnam because Vietnam's army stopped China from invading Vietnam.
+Khmer-Rouge-story is a story.
+The end.

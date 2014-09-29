@@ -1,0 +1,26 @@
+///////// From Comedies
+
+Start description of "Other's Happiness Achieved".
+XX is an entity.
+YY is an entity.
+YY's wanting XX to be happy leads to XX's becoming happy.
+The end.
+
+Start description of "Marriage successful".
+XX is an entity.
+YY is an entity.
+YY's loving XX leads to YY's marrying XX.
+The end.
+
+Start description of "Courtship failed".
+XX is an entity.
+YY is an entity.
+ZZ is an entity.
+YY is not ZZ.
+YY's loving XX leads to ZZ's marrying XX.
+The end.
+
+Start description of "Happy Ending".
+YY is an entity.
+YY's becoming happy does not lead to anything.
+The end.

@@ -1,0 +1,21 @@
+Aurora is a person.
+Maleficent is a person.
+Phillip is a person.
+King_Stefan is a person.
+Queen_Leah is a person.
+Fairies are an entity.
+
+King_Stefan is Aurora's parent.
+Queen_Leah is Aurora's parent.
+
+Maleficent curses Aurora; Aurora falls asleep.
+
+Phillip wants to save Aurora; Maleficent kidnaps Phillip.
+
+Fairies dislike Maleficent.
+Fairies help Phillip escape because Fairies dislike Maleficent.
+Fairies give Phillip the magic sword because Fairies dislike Maleficent.
+Fairies give Phillip the magic shield because Fairies dislike Maleficent.
+
+Phillip attacks Maleficient; Maleficent becomes a dragon; Maleficent attacks Phillip; The magic shield protects Phillip.
+Phillip kills Maleficent; Phillip saves Aurora. 

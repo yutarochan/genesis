@@ -1,0 +1,31 @@
+Start reflective knowledge.
+
+Start description of "outward bravery".
+XX is a person.
+YY is a person.
+AA is an action.
+// XX thinks that XX will become harmed if XX performs AA.
+XX thinks that XX will become injured if XX performs AA.
+XX thinks that YY will become happy if XX performs AA.
+XX's wanting YY to become happy leads to XX's performing AA.
+The end.
+
+Start description of "inward bravery".
+XX is a person.
+YY is a person.
+// XX thinks that XX will become harmed if XX performs AA.
+XX thinks that XX will become injured if XX performs AA.
+XX thinks that XX will become happy if XX performs AA.
+XX's wanting to become happy leads to XX's performing AA.
+The end.
+
+Start description of "physical sacrifice".
+XX is a person.
+YY is a person.
+AA is an action.
+// XX's wanting YY to become happy leads to XX's performing AA.
+XX's performing AA leads to XX's becoming injured.
+XX's performing AA leads to YY's becoming happy.
+// XX's performing AA leads to XX's becoming harmed. (Does not work because "harmed" is parsed funny)
+The end.
+

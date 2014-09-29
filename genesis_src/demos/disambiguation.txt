@@ -1,0 +1,46 @@
+/*
+A bird flew to a lake.
+A robin flew to a tree.
+A dove flew to a pole.
+A politician ran for the senate.
+A senator ran for an office.
+// A mayor ran for office.
+
+// The hawk ran for office.
+// The hawk flew to a tree.
+*/
+
+
+The robin (flew fly travel) to a (tree organism).
+
+The robin (flew fly travel) to a (bush organism).
+
+The sparrow (flew fly travel) to a (boulder natural-object).
+
+The sparrow (flew fly travel) to a (mountain natural-object).
+
+The senator (flew fly travel) to a (city municipality).
+
+The senator (flew fly travel) to a (town municipality).
+
+The senator (flew fly travel) to a (conference meeting).
+
+// The (person organism) (murdered murder kill) the (person organism).
+
+The (person organism) (ate eat feed) an (apple food).
+
+The (person organism) (ate eat feed) an (seed plant-organ).
+
+The (person organism) (ate eat feed) a (chicken animal).
+
+The (person organism) (ate eat feed) a (deer animal).
+
+The (woman female) (went go travel) to the (toilet room).
+
+The whore went to the John.
+
+The nut ate a dog.
+
+The nut ate a cat.
+
+The dog ate a nut.

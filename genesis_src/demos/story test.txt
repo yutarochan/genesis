@@ -1,0 +1,34 @@
+// Note idiom that sets up experiments and gives each a name; must be first sentence read.
+
+Run what-if experiments Traits, Macbeth2, Estonia2, LostInTranslation, Hamlet-Caesar, ManWhoLaughs3, Haji-Murat-by-phw, Anna, and causes.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Assume if experiment Traits: Insert file Traits-Macbeth.
+
+Assume if experiment Macbeth2: Insert file Macbeth2.
+
+Assume if experiment Estonia2: Insert file Estonia2.
+
+Assume if experiment LostInTranslation: Insert file LostInTranslation.
+
+Assume if experiment Hamlet-Caesar: Insert file Hamlet-Caesar.
+
+// Assume if experiment ManwhoLaughs3: Insert file ManWhoLaughs3.
+
+Assume if experiment Haji-Murat-by-phw: Insert file Haji-Murat-by-phw.
+
+Assume if experiment Anna: Insert file anna.
+
+Assume if experiment causes: Insert file causeExamples.
+
+
+
+
+
+
+
+
+

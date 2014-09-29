@@ -1,0 +1,64 @@
+XX is a person.
+YY is a person.
+zz is an entity.
+
+If XX is Chinese then XX is not American. 
+
+//killing and violence
+If XX shoots YY, then XX kills YY. 
+If xx kills yy, then xx is violent.
+
+//harm
+If XX fires YY, then XX harms YY. 
+If XX fires YY, then XX fails to help YY.
+If XX ridicules YY, then XX harms YY.
+If XX kill YY then XX harms YY. 
+
+//social success
+If YY is social and YY is married and XX is lonely and YY is single then YY is more successful than XX.
+
+//academic success
+If XX has highest exam score then XX succeeds. 
+If YY is younger than XX and YY graduates with XX then YY is more successful than XX.
+
+//professional honor
+If XX succeeds then XX feels honored.
+If supervisor ridiculed XX, then XX feels dishonored.
+
+//academic honor
+If XX succeeds then XX feels honored.
+If XX receives awards then XX feels honored.
+If XX fails dissertation defense then XX feels dishonored. 
+
+// academic victim
+// If XX is a student and YY is a student and XX feels dishonored and YY feels honored then XX feels victimized. <- did not get parsed.
+If YY received national award and XX did not receive national award and XX contested faculty decision then XX feels victimized.
+If XX had highest entrance exam score and XX fails dissertation defense then XX feels victimized.
+
+//academic frustration
+//If XX contested faculty decision and faculty rejected XX's appeal then XX feels frustrated.<-failed
+If ZZ is XX's advisor and ZZ angers XX then ZZ fails to help XX.
+If ZZ is XX's advisor and ZZ fails to help XX and faculty rejects appeal then XX feels frustrated.
+If ZZ is XX's advisor and ZZ fails to help XX and faculty rejects appeal then XX becomes angry.
+
+//professional frustration:
+If XX does not find a job then XX feels frustrated.
+If XX doesn't restore job then XX feels frustrated. 
+If supervisor fails to help xx, then xx becomes angry. 
+
+If yy is xx's advisor and yy fails to help xx, then xx becomes angry. 
+
+//envy
+If YY is more successful than XX then XX envies YY.
+//If YY feels honored and XX feels dishonored then XX envies YY. <- failed.
+
+// workplace 
+If zz intimidated and harassed workers, then zz is abusive.
+
+//murderer personality with a weapon.  
+If XX becomes murderous and XX owns a gun then XX may shoot YY.
+
+//murderer may kill
+If XX becomes murderous and yy is a person then XX may kill YY. 
+
+  

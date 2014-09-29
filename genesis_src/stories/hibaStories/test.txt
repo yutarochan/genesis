@@ -1,0 +1,28 @@
+Insert file Start experiment.
+
+"Asian" is a kind of personality trait.
+
+"Vicious" is a kind of personality trait.
+
+Insert file rules.
+
+Start story.
+
+I am asian.
+
+I am vicious.
+
+
+John is a person. 
+James is a person.
+America is an entity.
+
+John practices shooting.
+
+John inhabits America.
+John kills James.
+
+//America's individualistic values corrupt foreign students.
+The end.
+// Did John kill James because America is individualistic?
+ 

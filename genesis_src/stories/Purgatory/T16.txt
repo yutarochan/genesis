@@ -1,0 +1,21 @@
+/*
+Tests the ability of rules to match paths as objects.
+*/
+Clear text.
+Clear story memory.
+
+BB is an animal.
+TT is an entity.
+
+BB becomes happy because BB flew to TT.
+BB becomes unhappy because BB hit TT.
+
+Start story.
+Bat is an animal.
+
+// Bat should become happy.
+Bat flew to a tree.
+
+// Bat should become unhappy.  (Distinguishes problem from bat/disambiguation.  Must be about the path then).
+Bat hit a tree.
+The end.

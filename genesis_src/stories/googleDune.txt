@@ -1,0 +1,163 @@
+/*
+googleDune.txt is a more /sane/ presentable allegory for Dune than civilWarDune.txt was.
+
+--MARKF AND I MADE THIS STORY UP - IT IS FICTIONAL--
+
+The background for the story is that Russia and China are countries in a group we'll call "MonitoringStates".  
+  Also included in the group is "GreedyCompanies", which is led by "Yahoo".  
+  Everybody wants to have control over the production of "Hardware" because it will enable them to produce
+  "Spyware" that they can use to monitor users' computers for dissident behavior.
+
+In our story, the SpywareIndustry is aware that Sergei (Brin), a member of Russia, will someday destroy 
+  the SpywareIndustry.  In the name of self-preservation, the SpywareIndustry's representative "Greed"
+  compels the powerful Yahoo company to want Sergei dead.
+
+Yahoo exerts its influence to take control of Hardware from China, its current owners, and grant it to Russia. 
+  As expected, China and its principle hardware company, "Lenovo", feels slighted by the move and attacks 
+  Russia to regain Hardware control.  Unexpectedly, in the struggle, China manages to kill Sergei's father, 
+  a "Hacker", but not Sergei himself.
+
+Sergei runs away from Russia and joins a new organization, "Google", which he thereafter leads.  
+  Google charges into the hardware market, heavily sanctions both Yahoo and China for their activities, 
+  and then seizes control of the Hardware for themselves, ceasing Spyware production.  
+
+We should see that Sergei exacts revenge on Lenovo for killing his father by sanctioning them and seizing 
+  the hardware-control that they so desperately wanted.
+
+*/
+
+
+Clear text.
+Clear story memory.
+
+Insert file general reflective knowledge.
+
+Start commonsense knowledge.
+
+XX, YY, and ZZ are entities.
+Group1 and Group2 are groups.
+BB is a bloc.
+RR is a region.
+SS is a state.
+RSC is a resource.
+
+//Desire 
+XX becomes happy because XX wanted an action to occur and the action occurred.
+XX becomes unhappy because XX wanted an action to occur and the action did not occur.
+
+//Failure
+XX fails action because XX wanted the action to occur, the action did not occur, and XX became dead.
+
+// Intimidate->Compel
+XX may compel YY to want an action /*to occur*/ because XX intimidated YY.
+
+// Intimidation via Grouping
+XX may compel YY to want an action /*to occur*/ because Group1 intimidated YY, XX is a member of Group1, YY is an entity, and Group1 is a group.
+XX may compel YY to want an action /*to occur*/ because Group1 intimidated Group2, XX is a member of Group1, and YY is a member of Group2.
+XX may compel YY to want an action /*to occur*/ because XX intimidated Group2, YY is a member of Group2, YY is an entity, and Group2 is a group. 
+
+// Compulsion Semantics
+YY wants an action /*to occur*/ because XX compels YY to want the action to occur.
+
+// Delegation
+//XX may want YY to want an action /*to occur*/ because XX wanted the action to occur.
+	
+//Agency
+//Kill is a kind of kill.
+Murder is a kind of kill.
+
+XX murders YY because Agent1 is XX's agent, and Agent1 kills YY.
+Agent1 is XX's agent because XX leads Agent1.
+
+//Leadership|Representation
+XX becomes a member of YY because XX joins YY and because YY is a group.
+XX is a member of YY because XX represents YY.
+XX is a member of YY because XX leads YY.
+YY wants an action /*to occur*/ because XX leads YY and XX wants the action to occur and XX is an entity.
+XX wants an action /*to occur*/ because XX represents YY and YY wants the action to occur and YY is an entity.
+
+//Death
+XX becomes dead because XX dies.
+
+//Government
+//XX governs YY because XX governs BB, BB includes YY, and BB is a bloc.
+//XX governs YY because XX leads Group1, Group1 governs YY, and Group1 is a group.
+
+//States want to control Valuable things
+SS values RSC because SS wants RSC.										
+SS values RR because SS values RSC, and RR contains RSC.			
+SS wants to control RR because SS values RR.						
+SS controls RSC because SS controls RR, and RR contains RSC.
+
+//Land Seizure
+XX may grant RR to YY because XX governed ZZ, ZZ controlled RR, and RR is a region.
+YY controls RR because XX granted RR to YY.
+
+//Sanctions (googleDune.txt specific)
+//Sanction is a kind of kill. //Corporate Sanctions are this scale are deadly.
+XX may sanction YY because XX dislikes YY.
+XX harms YY because XX sanctions YY.
+XX sanctions YY because Agent1 is XX's agent, and Agent1 sanctions YY.
+XX sanctions YY because Agent1 is XX's agent, Agent1 sanctions Group1, and YY is a member of Group1.
+
+Insert file Hamlet commonsense knowledge.
+
+Start story.
+
+// ACT I - INDUSTRIAL CONSPIRACY
+SpywareIndustry, GreedyCompanies, and Russia are nations.
+Yahoo, Greed, Hacker, and Sergei are persons.
+Yahoo leads GreedyCompanies.
+Greed represents SpywareIndustry.
+Sergei is a member of Russia.
+
+SpywareIndustry intimidates GreedyCompanies.
+SpywareIndustry wants Sergei to die.
+Greed compels Yahoo to want Sergei to die.
+
+
+// ACT II - MONITORING STATES GOVERNANCE
+China is nation.
+Lenovo is person.  ChineseAgency is person.
+Lenovo leads China.
+ChineseAgency is a member of China.
+Hacker leads Russia.
+Hacker is Sergei's father.
+
+MonitoringStates is a bloc.
+
+MonitoringStates includes Russia, GreedyCompanies, and China.
+GreedyCompanies governs MonitoringStates.
+
+Beijing is region.
+Moscow is region.
+Hardware is region.
+Hardware contains Spyware.
+
+China values Spyware because MonitoringStates includes China.
+
+China controls Beijing.
+Russia controls Moscow.
+China controls Hardware.
+
+The Spyware flows because nation controls Hardware, and MonitoringStates includes the nation.
+
+// ACT II.V -- SEIZURE OF HARDWARE
+Russia controls Hardware.
+
+// ACT III - CHINESE TREACHERY
+China attacks Russia.
+Lenovo murders Hacker.
+China controls Hardware.
+
+// ACT IV - GOOGLE RISING
+Sergei joins Google.
+Sergei leads Google.
+
+Google attack China.
+Google sanctions China.
+Google sanctions Yahoo.
+
+Google controls Hardware.
+
+The end.

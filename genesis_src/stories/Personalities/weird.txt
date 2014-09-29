@@ -1,0 +1,12 @@
+
+
+
+xx is an entity.
+
+yy is an entity.
+
+if xx kills yy then xx loves yy.
+
+Start story titled "Weird person's characteristics".
+
+The end.

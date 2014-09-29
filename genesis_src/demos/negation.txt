@@ -1,0 +1,41 @@
+// Challenges
+
+// Threads
+A bouvier is not a dog.
+The man is not a king.
+The man is not dead.
+
+// Place and trajectory
+The bird did not fly above the top of the house.
+
+// Coercion
+A dog did not force a cat to disappear.
+
+// Transition
+The cat did not appear.
+
+// Transfer
+A man did not give a bone to a dog.
+
+// Roles
+A man did not walk with a cane.
+
+// Time
+// A bird flew after a dog appeared.
+// A bird flew while the the bird was happy.
+
+// Mood and property
+The little girl is not happy.
+
+// Belief and goal
+The man did not believe the dog did not want to bite the cat.
+
+// Social, ownership, and property
+The dog is not the man's best friend.
+
+// Action
+The man did not love his dog.
+
+// Comparison
+The road is not wider than the path.
+

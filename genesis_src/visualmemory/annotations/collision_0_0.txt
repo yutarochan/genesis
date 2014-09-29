@@ -1,0 +1,6 @@
+summary: A ball collides with a block
+summary: A ball runs into a block
+0-50: The ball is to the left of the block
+1-50: The ball rolls toward the block
+50: The ball touched the block
+

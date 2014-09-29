@@ -1,0 +1,77 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+//Insert file Macbeth commonsense knowledge.
+
+Insert file General commonsense knowledge.
+
+First Perspective.
+
+James may kill Henry because James is angry at Henry.
+
+Second Perspective.
+
+// James may kill Henry because James is insane.
+
+Both Perspectives.
+
+Insert file General reflective knowledge.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Insane Killing"
+xx is an entity.
+yy is an entity.
+yy being insane leads to yy killing xx.
+The end.
+
+//Insert file Macbeth plot.
+Start story titled "Macbeth".
+
+Insert file Macbeth plot.
+
+Pause.
+
+//Now re-read stories with teaching enabled.
+
+Insert file Start experiment.
+
+Both perspectives.
+
+//Insert file Macbeth commonsense knowledge.
+
+Insert file General commonsense knowledge.
+
+First Perspective.
+
+James may kill Henry because James is angry at Henry.
+
+Second Perspective.
+
+// James may kill Henry because James is insane.
+
+Both Perspectives.
+
+Insert file General reflective knowledge.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Insane Killing"
+xx is an entity.
+yy is an entity.
+yy being insane leads to yy killing xx.
+The end.
+
+//Insert file Macbeth plot.
+Start story titled "Macbeth".
+
+Insert file Macbeth plot.

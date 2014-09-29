@@ -1,0 +1,21 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+Show both perspectives.
+First perspective.
+
+Start story titled "Murder".
+
+Macbeth is a person.
+Lady Macbeth is a person.
+Duncan is a person.
+
+Duncan is the king, and Macbeth is Duncan's successor.
+Macbeth kills Duncan.
+
+The end.

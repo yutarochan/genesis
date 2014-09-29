@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Great Expectations".
+
+Estella is a person.
+Eliza is a person.
+Pip is a person.
+
+Eliza thinks that Eliza will injure Pip if Eliza manipulates Pip.
+Eliza thinks that Eliza will become happy if Eliza injures Pip.
+Eliza manipulates Pip.
+Pip falls in love with Estella because Eliza manipulates Pip.
+Pip becomes heart-broken because Pip falls in love with Estella and because Estella does not marry Pip.
+Estella does not marry Pip because Estella becomes cold.
+Pip becomes injured because Pip becomes heart-broken.
+Eliza becomes happy because Pip becomes injured.
+
+Eliza thinks that Eliza will injure Estella if Eliza manipulates Estella.
+Eliza thinks that Eliza will become happy if Eliza manipulates Estella.
+Eliza manipulates Estella.
+
+Estella becomes cold because Eliza manipulates Estella.
+Estella becomes injured because Estella becomes cold.
+
+Eliza becomes happy because Eliza manipulates Estella.
+
+The end.

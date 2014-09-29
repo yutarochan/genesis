@@ -1,0 +1,22 @@
+Start experiment.
+
+First Perspective.
+//Background:
+Start Story titled "Bomb Hand-off".
+John controls the bomb.
+John travels to Area-51-2.
+Nick travels to Area-51-2.
+John gives the bomb to Nick.
+Remember the story.
+The end.
+
+Second Perspective.
+//Prompt:
+Start Story titled "Maligned Story".
+Nick controls the bomb.
+Nick travels to Area-51-2.
+Bob travels to Area-51-2.
+Nick travels to Area-52-2.
+Align the story.
+The end.
+

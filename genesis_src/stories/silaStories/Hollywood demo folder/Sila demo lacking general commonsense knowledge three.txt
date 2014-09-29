@@ -1,0 +1,44 @@
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+// Reasons to kill.
+Henry may want to kill James because Henry is angry at James.
+
+// Friends.
+// If James harmed George and George is Henry's friend, then James harmed Henry.
+
+// Succession.
+If George is king and Henry is George's successor and George becomes dead, then Henry becomes king.
+Mary becomes the queen because George becomes the king and Mary is George's wife.
+James becomes happy because James became the king and James wants to become the king.
+James may murder Henry because James wants to become king and because Henry is the king.
+
+// Harm.
+If James harms Henry, then Henry becomes unhappy.
+If James harms Henry then James angers Henry.
+
+// Murder killing, and harming
+If xx kills yy, then yy becomes dead.
+James harms Henry because James kills Henry.
+James harms Henry because James attacks Henry.
+James harms Henry because James fights Henry.
+James may attack Henry because Henry harms James.
+James may fight Henry because Henry attacks James.
+James may kill Henry because James is angry at Henry.
+
+// Greed
+Mary may want to become the queen because she is greedy.
+
+
+// Coercion
+If an entity forces an action, then the action occurs.
+// Ok, its awkward, but it works
+
+// If an entity persuades an action to occur, then the action occurs.
+
+// Censors
+If James becomes dead, then James cannot become happy.
+If James becomes dead, then James cannot become unhappy.
+If James murders Henry, then James cannot anger Henry.
+If James kills Henry, then James cannot anger Henry.

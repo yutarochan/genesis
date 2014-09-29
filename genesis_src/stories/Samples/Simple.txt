@@ -1,0 +1,19 @@
+Start experiment.
+
+
+xx, yy, and zz are persons.
+If xx kills yy then yy becomes dead.
+If xx wants to kill yy, then xx may kill yy. 
+
+
+Start description of "Murder".
+xx and yy are persons.
+yy's angering xx leads to xx's killing yy.
+The end.
+
+
+Start story titled "Tragedy of Macbeth".
+Macbeth, Macduff, Lady Macbeth, and Duncan are persons. 
+Macduff wants to kill Macbeth because Macbeth angered Macduff.
+Macduff kills Macbeth.
+The end.

@@ -1,0 +1,30 @@
+// Demo File for Alignment Library Example
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+Start story titled "Romance Example".
+John likes Mary.
+John buys a rose.
+John gives Mary the rose.
+Mary likes John.
+Remember story.
+The end.
+
+Start story titled "Violence Example".
+John likes Mary.
+Bill insults Mary.
+John attacks Bill.
+Mary likes John.
+Remember story.
+The end.
+
+Second perspective.
+Start story titled "Unknown".
+John likes Mary.
+John buys a rose.
+Mary likes John.
+Align story.
+The end.

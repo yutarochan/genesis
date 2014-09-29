@@ -1,0 +1,55 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+xx, yy, and zz are entities.
+
+// Additional commonsense knowledge
+
+// yy assists xx because xx helps yy. 
+
+If zz is an enemy of xx and yy is a friend of zz and yy assists xx, then yy angers zz. 
+
+If zz is an enemy of xx and yy assists xx, then yy angers zz. 
+
+If yy angers zz, then zz may harm yy.
+
+If xx is an ally of yy then xx is yy's friend.
+
+If I am an ally of yy then I am yy's friend.
+
+If xx helps yy then yy may assist xx.
+
+/*
+Start description of "Gratitude".
+zz's helping xx leads to xx's assisting zz.
+The end.
+*/
+
+Insert file General reflective knowledge.
+
+Start story titled "Village problem".
+
+Taliban, Villagers, and Americans are entities.
+
+First perspective.  I am an ally of the Taliban.
+
+Second perspective.  I am an ally of the Americans.  I am an ally of the Villagers.
+
+Both perspectives.
+
+The Taliban is an enemy of the Americans.
+
+The Taliban help the villagers.
+
+The Americans help the Villagers.
+
+The Villagers assist the Americans.
+
+The Taliban harm the villagers.
+
+The end.
+
+

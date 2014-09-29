@@ -1,0 +1,112 @@
+//Hello, Patrick
+
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+ee is an entity. tt is an entity.
+if ee kills tt with an arrow, then tt dies.
+
+Start description of "Abduction-C".
+
+xx is an entity.
+zz is an entity.
+yy is a woman.
+
+
+yy is intimate with zz.
+
+xx kidnaps yy.
+
+Sometimes, xx kidnaps yy because xx wants yy.
+Sometimes, xx's kidnapping yy leads to zz's killing xx.
+
+zz recaptures yy.
+
+The end.
+
+First perspective.
+
+Start story titled "Ravana kidnaps Sita (story from Ramayana)".
+
+Note that Sita is a name.
+Note that Ravana is a name.
+Note that Ramachandra is a name.
+Note that Jatau is a name.
+Note that Lanka is a name.
+
+Ramachandra is a deity.
+Sita is a woman.
+Sita is intimate with Ramachandra because Sita is Ramachandra's wife.
+
+Ravana is a demon. Ravana has ten heads.
+
+Ravana hears of Sita's beauty; Ravana wants Sita; Ravana kidnaps Sita.
+In order to kidnap Sita Ravana sends golden deer and distracts Ramachandra.
+
+Ramachandra returns home.
+Ramachandra sees that Sita is missing; Ramachandra becomes sad.
+
+Jatau is a huge bird.
+Jatau stops Ravana; Ravana defeats Jatau and cuts off Jatau's wing. 
+Ramachandra looks for Sita. Ramachandra meets Jatau. Jatau tells Ramachandra that Ravana kidnaps Sita.
+Ravana angers Ramachandra because Ravana kidnaps Sita. 
+
+Lanka is a place. 
+Ramachandra thinks that Sita is in Lanka because Jatau tells Ramachandra that Ravana kidnaps Sita and because Lanka is Ravana's kingdom.
+Ramachandra wants to get to Lanka because Ramachandra thinks that Sita is in Lanka. 
+Lanka is across the ocean.
+Ramachandra allies with monkeys because Ramachandra wants to get to Lanka.
+In order to get to Lanka Ramachandra and monkeys build a bridge.
+Monkeys ruin towers, buildings and roads; Monkeys devastate Lanka. 
+Ramachandra and monkeys fight Ravana's army.
+Ravana is cursed because Sita angers Ravana.
+Ramachandra and monkeys defeat Ravana's army because Ravana is cursed.
+Ramachandra kills Ravana with an arrow because Ravana angers Ramachandra.
+Ravana dies therefore Ramachandra recaptures Sita.
+
+The end.
+
+Second perspective.
+
+
+Start story titled "Elena by Euripidus".
+
+Note that Elena is a name.
+Note that Hera is a name.
+Note that Menelay is a name.
+Note that Paris is a name.
+Note that Proteus is a name.
+Note that Pheoklimen is a name.
+
+Paris is a person.
+Menelay is a person.
+Proteus is a person.
+Pheoklimen is a person.
+
+Elena is a woman.
+
+
+Elena is intimate with Menelay because Elena is Menelay's wife.
+
+Paris kidnaps Elena's shadow and takes it to Troy; Menelay thinks Elena is in Troy; Menelay goes to Troy.
+Hera is deity.
+
+Hera kidnaps Elena. 
+
+Hera takes Elena to Egypt. 
+Proteus is a king of Egypt.
+Hera gives Elena to Proteus.
+Pheoklimen is Proteus's son.
+Pheoklimen wants to marry Elena because Elena is beautiful.
+Elena rejects Pheoklimen because Elena is Menelay's wife and because Elena is intimate with Menelay.
+
+Meanwhile, Troy has fallen; Menelay heads home.
+Menelay suffers shipwreck near Egypt; Menelay, Elena's shadow and Menelay's friends are in Egypt; Menelay sees Elena.
+In order to escape Elena asks Pheoklimen to perform Greek ceremony and promises to marry Pheoklimen.
+Pheoklimen gives Elena a boat because Greek ceremony require a boat and because Elena asks Pheoklimen to perform Greek ceremony.  
+
+Menelay and Menelay's friends hijack the boat; Elena, Menelay and Menelay's friends escape; Menelay and Elena are free; Menelay recaptures Elena.
+
+The end.
+

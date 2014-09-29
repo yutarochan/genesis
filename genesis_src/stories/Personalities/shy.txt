@@ -1,0 +1,14 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+If xx dislikes yy and xx is shy then xx avoids yy.
+
+
+
+
+
+
+

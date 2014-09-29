@@ -1,0 +1,31 @@
+Start experiment.
+
+Insert file 22.txt.
+
+Start story titled "Le faute de l'abbe Mouret by Zola".
+
+Note that Mouret is a name.
+Note that Albina is a name.
+Arto is a place.
+
+Mouret is a person and Mouret is a priest.
+Mouret gave a vow of chastity.
+Mouret works in Arto. Mouret tries to convert Arto's pagan citizens.
+
+Albina is a girl. Albina lives in Arto and Albina is a pagan.
+
+Lust raises in Mouret because Nature disturbs Mouret.
+Mouret becomes delirious because lust raises in Mouret.
+Doctor sends Mouret to Albina because Mouret becomes delirious.
+Mouret recovers because Albina takes care of Mouret.
+Mouret does not remember that Mouret is a priest.
+
+Mouret falls in love with Albina.
+Mouret breaks vow of chastity because Mouret is passionate about Albina and because Mouret does not remember that Mouret is a priest.
+Mouret breaks Mouret's word because Mouret breaks vow of chastity.
+
+Then, Mouret is reminded that Mouret is a priest.
+Mouret is unhappy because Mouret realizes that Mouret broke vow of chastity.
+Albina kills herself because Mouret rejects Albina.
+
+The end.

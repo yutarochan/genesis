@@ -1,0 +1,57 @@
+/*
+T25 - capen - 5/1/10
+	Test to ensure that variables operate properly.
+
+Germany should want to control Nice because Germany values Iron and Nice contains Iron.
+France should also want to control Nice because of the coveted Wine.
+
+However, note the existence of:
+	"Germany|France wants to control Iron|Wine."
+
+This perhaps makes sense, but there is no rule dictating that this should happen.
+I think it's treating RSC the same as RR because of how their threads are constructed, i.e.
+	"thing name RR"
+	"thing name RSC"
+	
+Note that this is coming up now because some of our other variables like AA and XX already have
+	existing threads (e.g. Chromosomes, Lava, etc.)
+*/
+
+
+Clear text.
+Clear story memory.
+
+XX is entity.  
+YY is entity.
+RR is region.
+SS is state.
+RSC is resource.
+
+//Desire 
+	XX becomes happy because XX wanted an action to occur and the action occurred.
+	XX becomes unhappy because XX wanted an action to occur and the action did not occur.
+
+SS values RR because SS values RSC, and RR contains RSC.			
+SS wants to control RR because SS values RR.
+SS controls RSC because RR contains RSC, and SS controls RR.
+
+Start story.
+
+Germany and France are nations.
+
+Iron and Wine are resources.
+
+Germany values Iron.
+France values Wine.
+
+Nice is a region.
+Nice contains Wine.
+Nice contains Iron.
+
+Germany controls Nice.
+
+//Example sentence that causes rubbish conclusions:
+Germany values Tacos.
+		//Germany should not want to control tacos.  Tacos are food, not a region.
+
+The end.

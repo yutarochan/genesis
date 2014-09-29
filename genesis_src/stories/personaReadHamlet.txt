@@ -1,0 +1,3 @@
+Start story titled "Hamlet".
+
+Insert file Hamlet plot.

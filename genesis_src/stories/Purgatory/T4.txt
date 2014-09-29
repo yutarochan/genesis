@@ -1,0 +1,126 @@
+//T4 - Concise test hitting multiple bugs in one go:
+//	Most of the explanations are borrowed directly from my working bug list, so they're a bit at length.
+//	I'm fairly certain they're still pretty clear, so this should be okay.
+
+////  TOPICS OF TEST:
+// 1. Action Failure
+
+//EXPLANATION:
+//2/4/10 - capen
+/* Actually, Failure is a fascinating topic.  Failure triggers when a character wants something to happen
+ *	and it doesn't happen.  But we have to know *WHEN* to decide that the action didn't happen.  In
+ *	discussing with PHW, there seem to be two major times when we should check if it fails:
+ *		1. When the character dies *AND* the action is not fulfilled as a direct consequence of the death.
+ *				This helps cover instances where characters want to die, or want their children to profit
+ *				from their death, or similar circumstances.
+ *		2. When the story (or possibly a sub-chapter thereof) ends, and the action has not occurred.
+ *				This is simply the larger case of "it didn't happen."  However, we do not always wish to
+ *				wait until the end of the entire story, as the failure itself may be needed to contribute
+ *				to later plot units.  Obviously, explicit statement of failure is useful, too, but sometimes
+ *				it is left as 'understood'.	
+ *
+ */
+
+//PROTOTYPE for Case 1:
+//XX fails action because XX wanted the action to occur, the action did not occur, and XX became dead.
+
+/* This prototype /almost/ works.  It works as well as can be phrased right now.  Some limitations include:
+ *	A. That the particular action "did not occur" has to be explicitly declared in the story, and at that,
+ *		must be declared before the character dies.
+ *
+ *
+ */
+
+
+// 2. DEVELOPMENT in the "XX wants ..." causing "XX's state is ++"  without fulfillment problem
+
+/* You may recall that until earlier this week (now 2/5/10), we were getting weird interpretations of
+ *	the rule "XX becomes happy because XX wanted an action to occur, and the action occurred."
+ *	(Note the incidental comma.  It parses fine and forces Genesis to use "and" to mean the indication
+ *	of a list rather than that XX wants *both* "an to occur" and "the action occurred."  Alas, that is
+ *	not the solution to our problem.)
+ * 
+ * In this case, we were seeing that although Genesis seemed to be producing rules as seen in the rule-viewer
+ *	that met our expectations, suggesting that a conjunction of "raw-action" and "Want(XX, raw-action)" would
+ *	indeed yield "XX becomes happy".  However, in practice, every time a character *wanted* something, an
+ *	inference would fire that the conjunction of this want with itself would cause "XX becomes happy."
+ *
+ * The problem hasn't gone away, but it has changed.  Whereas before we would generate a lot of statements
+ *	such as "Josh's state is +" whenever we stated "Josh wants ...".  We are still generating the same
+ *	amount of false positive statements because of this rule, but they are all coming out, literally, as
+ *	"XX's state is +".
+ *
+ * This is bad because we are still over-generating these statements.  They are wrong and they are cluttersome.
+ *
+ * But, this is also good, because the rule *IS* still working the way we want it to if one ignores the excess
+ *	statements.  When Josh wants something and that thing happens, Josh (specifically Josh, not "XX") gains
+ *	a state of +.  This is good news because a) the rule has not stopped doing the only thing it ever did right,
+ * 	and b) I think we'll find that searching for plot units like Revenge will work better now because the
+ *	relevant events happen to "Josh" and _not_ to "XX".  This means that the over-creation of statements should
+ *	no longer impact our plot unit searches, but are just generally cluttersome and indicative of something
+ *	going wrong in the matching software.
+ *
+ */
+ 
+ 
+// 3. Adverbial "Not"
+ 
+/* The concept of "not" is only partially understood.
+ *
+ * Something /not/ happening is parsed as the action occurring, but with the additional label/feature
+ *	"not" tagged to it.  When we declare something like "Paul does not die", Genesis parses this as
+ *	saying "Paul dies" but in a "not" sort of way.  This is better understood by analogy:
+ *
+ * Genesis understands the notion of "not" as an adverbial modifier and nothing more.  "Paul does not die"
+ *	is similar to "Paul dies gruesomely."  Genesis is well aware of *how* Paul died (either that it was
+ *	'gruesome' or that it was 'not'), but it still believes the essential statement "Paul dies" has
+ *	occurred.
+ *
+ * There is a strange interchange in how events can trigger one another off these statements:
+ *	"Paul dies." -->  Triggers rules that happen when Paul dies.
+ *	"Paul does not die." -->  Triggers rules that happen when Paul dies *and* when Paul does not die.
+ *
+ * Basically "Paul dies" and "Paul does not die" are not of the same scope.  "Paul does not die" is a
+ *	specific way in which Paul can die.
+ *
+ */
+ 
+ 
+ // SOLUTIONS
+ /* What You Should See:
+  *
+  *	1. "XX's state is +" should not appear as a plot box.
+  *	2. Regardless of whether we see "XX's state..." or "Greg's state...", the plot box should
+  *		appear ONLY after the wish has been fulfilled, not when the Want is formed.
+  *	3. "Greg want Dan die" + "Dan (does not) die" should not lead to "Greg's state is +".  This
+  *		reflects how an action "not" occurring is a sub-form of the action occurring.
+  *
+  * 4. Actually, failure appears to be working well for now.  It's irritating that we need to explicitly
+  *		declare that the wanted action did not occur, but that's going to involve building something that
+  *		knows when, where, and how to look for events that didn't happen.
+  */
+  
+Clear text.
+Clear story memory.
+
+Start commonsense knowledge.
+
+// XX becomes happy because XX wanted an action to occur, and the action occurred.
+// XX fails action because XX wanted the action to occur, the action did not occur, and XX became dead.
+
+// XX became happy because XX wanted ZZ to die and ZZ died.
+
+XX became happy because XX wanted to marry ZZ and because ZZ did not die.
+
+// XX becomes dead because XX dies.	// SEMANTICS
+
+Start story.
+Jack, Jill, Greg, and Dan are persons.
+// Jack wants Jill to appear.
+// Greg died.
+Jill wanted to marry Greg.
+// Greg died.
+// Greg did not die.
+// Greg wants Dan to die.
+// Dan died.
+The end.

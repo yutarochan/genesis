@@ -1,0 +1,20 @@
+WW, XX, YY, and ZZ are persons.
+
+YY may kill WW because YY wants to kill WW.
+
+// Does not 2 July 2013 correctly parse xx may kill yy because xx is angry at.
+
+XX may kill YY because YY angers XX.
+
+YY may murder WW because YY wants to become king and because WW is the king and because YY is WW's successor.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+
+Start story titled "Eastern person's characteristics".
+
+The end.

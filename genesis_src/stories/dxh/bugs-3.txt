@@ -1,0 +1,40 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+Show first perspective.
+First perspective.
+
+Start story titled "Telephone".
+
+// UNHAPPY AND SAD ARE EQUATED.
+Alice is unhappy.
+Bianca is sad.
+
+// TENSE AND VARIOUS HELPING VERBS ARE IGNORED.
+Chelsea isn't happy.
+Daniella is not happy.
+Elise wasn't happy.
+Fiona shan't be happy.
+Gwyneth could be unhappy.
+Jane couldn't be happy.
+
+// PERFECT TENSE RESULTS IN S-EXPRESSIONS
+Kendall was to be unhappy.
+Helga will have been happy.
+Iris could have been unhappy.
+
+
+// "CAN NOT", "DO NOT", "CAN'T", and "DON'T" ARE EQUATED.
+Ursula does not help.
+Violet can not help.
+
+
+// FUTURE TENSE MAKES GENESIS BLOW UP.
+Yvonne will not be happy.
+Zelda wouldn't be happy.
+Genesis won't understand this sentence.

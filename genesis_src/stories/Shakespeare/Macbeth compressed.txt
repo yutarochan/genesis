@@ -1,0 +1,28 @@
+Start experiment.
+
+Set right panel to summary.
+
+Set bottom panel to elaboration graph.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Relations knowledge.
+
+"Eastern" is a kind of personality trait.
+
+"Machiavellian" is a kind of personality trait.
+
+Start story titled "Macbeth summarized".
+
+Lady macduff is Macduff's wife. 
+Macbeth wants to become king because Lady Macbeth persuaded Macbeth to want to become king. 
+Macbeth murders Duncan because Macbeth wants to become king, Duncan is a king, and Macbeth is Duncan's successor. 
+Macbeth's murdering Duncan leads to Macduff's fleeing to England.
+Macduff's fleeing to England leads to Macbeth's murdering lady macduff. 
+Macduff kills Macbeth because Macbeth angers Macduff.
+
+The end.

@@ -1,0 +1,46 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+ZZ is an entity.
+AA is an action.
+
+If XX is a child and ZZ is a toy, then XX may want to play with ZZ.
+If YY allows XX to play with ZZ, then XX may play with ZZ.
+If XX wants to play with ZZ and XX plays with ZZ, then XX becomes happy.
+
+// Kindness
+If XX is kind and YY is unhappy, then XX may want YY to become happy.
+
+// Insert file kindness reflective knowledge.
+
+Start story titled "Generous child".
+
+Luke is a person.
+Luke is a child.
+
+Nick is a person.
+Nick is a child.
+
+Bike is an entity.
+Bike is a toy.
+
+Luke owns the Bike because Luke's mother bought the Bike for him.
+
+Nick is unhappy because he is poor.
+Nick wants to play with the Bike.
+
+Luke is kind.
+Luke wants Nick to become happy.
+Luke allows Nick to play with the bike because Luke wants Nick to become happy.
+
+Nick plays with the Bike.
+Nick becomes happy. 
+
+// Nick becomes happy because Nick plays with the Bike.
+
+The end.

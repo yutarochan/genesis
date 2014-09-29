@@ -1,0 +1,6 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+
+If xx is corrupt, then xx may harm yy.

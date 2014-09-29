@@ -1,0 +1,24 @@
+Start reflective knowledge.
+
+Start description of "shy - avoidance".
+
+AA is an action.
+XX is a person.
+
+XX's performing AA is a social interaction.
+// XX thinks that XX will become embarrassed if XX performs AA.
+XX's not wanting to become embarrassed leads to XX's avoiding AA.
+
+The end.
+
+/*
+Start description of "social embarrassment".
+
+AA is an action.
+XX is a person.
+
+XX's performing AA is a social interaction.
+XX's performing AA leads to XX's becoming embarrassed.
+
+The end.
+*/

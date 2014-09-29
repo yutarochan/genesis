@@ -1,0 +1,45 @@
+Start reflective knowledge.
+
+Start description of "manslaughter".
+
+xx is a person.
+
+yy is a person.
+
+xx's performing an action leads to yy's becoming dead.
+
+The end.
+
+Start description of "murder".
+
+xx is an entity.
+
+yy is an entity.
+
+yy's performing an action leads to xx's wanting to kill yy.
+
+xx's wanting to kill yy leads to xx's killing yy.
+
+The end.
+
+Start description of "larceny by deception".
+
+xx is a person.
+
+yy is an entity.
+
+An action leads to yy's trusting xx.
+
+yy's trusting xx leads to xx's stealing money from yy.
+
+The end.
+
+Start description of "innocent by reason of insanity".
+
+xx is an entity.
+
+yy is a entity.
+
+xx's being not sane leads to xx's killing yy.
+
+The end.

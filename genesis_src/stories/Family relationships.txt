@@ -1,0 +1,17 @@
+Start commonsense knowledge.
+
+George, Henry, Mary, and Elizabeth are persons.
+
+George is Henry's friend because Henry is George's relation.
+Henry is George's friend because Henry is George's relation.
+George is Henry's friend because George is Henry's relation.
+Henry is George's friend because George is Henry's relation.
+
+George is Henry's relation because George is Henry's brother.
+George is Henry's relation because George is Henry's father.
+George is Henry's relation because George is Henry's son.
+Mary is Henry's relation because Mary is Henry's sister.
+Mary is Henry's relation because Mary is Henry's mother.
+Mary is Henry's relation because Mary is Henry's daughter.
+Mary is Elizabeth's sister because Elizabeth is Mary's sister.
+

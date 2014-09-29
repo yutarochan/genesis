@@ -1,0 +1,22 @@
+Insert file Start experiment.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+
+Insert file western commonsense knowledge.
+
+Insert file Macbeth commonsense.
+
+Insert file personality rules.
+
+Insert file Emotions.
+
+// Do not call play "Macbeth"; gets confused with person Macbeth
+
+Start story titled "Macbeth/Emotions".
+
+// Pause.
+
+Insert file Macbeth plot.
+

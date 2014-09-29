@@ -1,0 +1,28 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+Elspeth and Cuthbert are persons.
+xx is an anything.
+yy is an anything.
+
+"Considerate" is a kind of personality trait.
+If xx is a kind of yy and Elspeth gives xx to Cuthbert, then Elspeth gives yy to Cuthbert.
+
+A cookie is a kind of food.
+
+If Elspeth gives xx to Cuthbert then Elspeth used to have xx and Cuthbert has xx.
+If Cuthbert wants to have xx and Elspeth gives xx to Cuthbert, then Elspeth is considerate.
+
+
+Show first perspective.
+First perspective.
+
+Start story titled "Cookie".
+Peter is a person.
+The mouse is a person.
+
+Peter gives a cake to the mouse.

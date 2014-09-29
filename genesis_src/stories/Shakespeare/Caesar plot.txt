@@ -1,0 +1,34 @@
+// Do not call play "Caesar"; gets confused with person Caesar
+
+Start story titled "Julius Caesar".
+
+Insert file Caesar preface.
+
+// Anthony harms Brutus.
+
+Cassius wanted Caesar to die because Cassius hates Caesar.  
+Cassius persuades Brutus to murder Caesar.
+
+Cassius murders Caesar.
+
+//  Anthony is Caesar's friend.
+
+Caesar is Anthony's friend.
+
+Anthony persuades a people to attack Brutus.
+
+// The people attack Brutus because Anthony persuaded the people to attack Brutus.
+
+Anthony persuades the people to attack Cassius.
+
+// Anthony wanted to harm Brutus because Brutus murdered Caesar.
+
+Brutus and Cassius fight Anthony.
+Brutus kills Brutus.
+Cassius kills Cassius.
+
+The end.
+
+
+
+

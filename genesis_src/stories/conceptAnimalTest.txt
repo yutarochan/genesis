@@ -1,0 +1,67 @@
+Start commonsense knowledge.
+
+An animal is a organism.
+
+A vertebrate is an animal.
+
+A invertebrate is an animal.
+
+A bird is a vertebrate.
+
+A mammal is a vertebrate.
+
+A reptile is a vertebrate.
+
+A fish is a vertebrate.
+
+A bird lays eggs.
+
+A bird has wings.
+
+A bird is bipedal.
+
+A bird is warm-blooded.
+
+A bird has feathers.
+
+A bird has a beak.
+
+A bird lays hard-shelled eggs.
+
+A bird can fly.
+
+A bird has lungs.
+
+A mammal has lungs.
+
+A mammal have hair.
+
+A mammal produces milk.
+
+A mammal has sweat glands.
+
+A mammal is warm-blooded.
+
+A mammal gives live birth.
+
+A reptile has lungs.
+
+A reptile is cold-blooded.
+
+A reptile has scales.
+
+A reptile lays eggs.
+
+A fish has scales.
+
+A fish has fins.
+
+A fish is cold-blooded.
+
+A fish can swim.
+
+A fish has gills.
+
+A fish lays eggs.
+
+Describe a bird.

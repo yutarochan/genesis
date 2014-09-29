@@ -1,0 +1,109 @@
+Start experiment.
+Show both perspectives.
+
+Both perspectives.
+
+Insert file 22.txt.
+
+First perspective.
+Start story titled "Cousin Bette by Honore de Balzac".
+
+Honor is valuable.
+Fortune is valuable.
+
+Note that Hector Hulot is a name.
+Note that Adeline is a name.
+Note that Steinbock is a name.
+Note that Hortense is a name.
+Note that Valerie is a name.
+Note that Betta is a name.
+
+
+ Hector Hulot is a person.
+ Adeline is a person.
+ Steinbock is a person.
+ Hortense is a person.
+ Valerie is a person.
+ Betta is a person.
+
+Hector Hulot is Adeline's husband.
+Betta is Adeline's cousin.
+Hortense is Hector Hulot's daughter.
+
+Betta is ugly spinster.
+Steinbock is a poor imigrant and an artist.
+Betta supports Steinbock because Betta secretly loves Steinbock.
+Hortense is curious about Betta's mysterious protege.
+Hortense finds Steinbock and Hortense falls in love with Steinbock.
+Betta wants to avenge Hector Hulot's family because Steinbock marries Hortense.
+
+
+Valerie is courtisane and Valerie is greedy.
+Betta is Valerie's neighbour.
+Betta knows that Hector Hulot is passionate about women.
+Betta wants to avenge Hector Hulot's family therefore Betta introduces Valerie to Hector Hulot.
+Hector Hulot's passion for women is a vice.
+
+Hector Hulot spends money on Valerie because Hector Hulot is passionate about women.
+Hector Hulot loses fortune because Hector Hulot spends money on Valerie.
+Hector Hulot cheats with loans because Hector Hulot loses fortune.
+Hector Hulot loses honor because Hector Hulot cheats with loans.  
+
+Valerie abandons Hector Hulot for another lover.
+Valerie dies because one of Valerie's lovers poisons her.
+
+Hector Hulot has to leave his family because Hector Hulot loses honor.
+Adeline finds Hector Hulot and brings Hector Hulot back home.
+Adeline dies.
+Hector Hulot marries another woman because Hector Hulot is passionate about women.
+
+The end.
+
+Second perspective.
+Start story titled "Caplain Burle by Emile Zola".
+
+Note that Cpt_Burle is a name.
+Note that Major_Laguitte is a name.
+
+
+Note that Cpt_Burle is a name.
+Cpt_Burle is a person.
+Major_Laguitte is a person.
+Mme_Burle is a person.
+Charles is a person.
+Life is valuable.
+Women are persons.
+
+Charles is Cpt_Burle's son and Mme_Burle is Cpt_Burle's mother.
+Charles is a sensitive child.
+Mme_Burle has strong spirit and discipline.
+Cpt_Burle lives with Charles and Mme_Burle.
+
+Mme_Burle is an old woman but Mme_Burle has strong spirit and discipline.
+Mme_Burle despises Cpt_Burle because Cpt_Burle was a prominent soldier once but Cpt_Burle became vicious.
+Mme_Burle wants Charles to become a prominent soldier.
+Cpt_Burle is Major_Laguitte's friend.
+Major_Laguitte respects Mme_Burle because Mme_Burle has strong spirit and discipline and because Mme_Burle wants Charles to become a prominent soldier. 
+
+
+Cpt_Burle is a treasurer.
+
+Cpt_Burle's passion for women is a vice.
+
+Cpt_Burle has an affair with widow. 
+Cpt_Burle commits theft because Cpt_Burle has an affair with widow.
+Major_Laguitte detects theft.
+Major_Laguitte covers Cpt_Burle's crime because Cpt_Burle is Major_Laguitte's friend and because Major_Laguitte respects Mme_Burle.
+Cpt_Burle pretends that he behaves.
+
+Cpt_Burle has an affair with maid because Cpt_Burle is passionate about women.
+Maid blackmails Cpt_Burle because Cpt_Burle has an affair with maid.
+Cpt_Burle steals again because Maid blackmails Cpt_Burle.
+Major_Laguitte detects theft again.
+Major_Laguitte wants to cover crime because disgrace could affect Charles.
+Major_Laguitte kills Cpt_Burle because Cpt_Burle steals again and because Major_Laguitte wants to cover crime.
+Cpt_Burle loses life because Major_Laguitte kills Cpt_Burle. 
+Mme_Burle tells Charles war stories because Mme_Burle wants Charles to become a prominent soldier.
+Charles dies of terror because Mme_Burle tells Charles war stories and because Charles is a sensitive child. 
+
+The end.

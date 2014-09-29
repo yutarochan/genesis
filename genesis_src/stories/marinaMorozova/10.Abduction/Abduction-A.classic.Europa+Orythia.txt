@@ -1,0 +1,68 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Start description of "Abduction-A".
+
+xx is an entity.
+yy is a woman.
+
+xx wants yy.
+yy doesn't want xx.
+xx kidnaps yy.
+
+The end.
+
+First perspective.
+
+Start story titled "Story of Europa by Aeschyllus".
+
+Note that Europe is a name.
+Note that Zeus is a name.
+Note that Asterion is a name.
+Note that Minos is a name.
+Note that Radamanf is a name.
+
+Crytus is a place.
+
+Europe is a woman. Europe is a princess.
+Zeus is a deity.
+Asterion is a person.
+
+Europe plays with friends on the seashore.
+Zeus sees Europe; Zeus wants Europe.
+Europe doesn't see Zeus; Europe doesn't want Zeus.
+
+In order to kidnap Europe Zeus becomes white bull.
+Zeus kidnaps Europe because Zeus wants Europe.
+Zeus takes Europe to Crytus.
+In order to seduce Europe Zeus becomes beautiful man.
+Zeus seduces Europe; Europe gives birth to Minos and Radamanf.
+
+Asterion is a king of Crytus.
+Later, Europe marries Asterion.
+Asterion doesn't have children; Zeus's sons inherit Crytus.
+
+The end.
+
+Second perspective.
+
+Start story titled "Orythia by Aeschyllus".
+
+Note that Boreus is a name.
+Note that Erehteus is a name.
+Note that Orythia is a name.
+Attica is a place.
+
+Boreus is a god of North wind. 
+Orythia is a woman. Orythia is Erehteus's daughter.
+
+Boreus flies above Attica; Boreus sees Orythia.
+Boreus falls in love with Orythia; Boreus wants Orythia; Boreus proposes Orythia.
+Boreus is menacing; Orythia doesn't want Boreus; Orythia rejects Boreus.
+Boreus asks Eretheus to marry Orythia to Boreus.
+Eretheus rejects Boreus; Boreus becomes angry; Boreus kidnaps Orythia; Orythia becomes Boreus wife.
+Orythia gives a birth to twins.
+Twins become heros and participate in quest for Golden Fleece.
+
+The end.

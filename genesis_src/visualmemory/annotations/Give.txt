@@ -1,0 +1,4 @@
+summary: A student gave a ball to another student.
+summary: A girl gave a ball to another girl.
+12-24: The other student takes the ball.
+12-24: The other girl takes the ball.

@@ -1,0 +1,61 @@
+Insert file Start experiment.
+
+Both perspectives.
+//Commonsense knowledge is shared between perspectives
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+//If James harms Henry, then Henry becomes unhappy.
+//If James harms Henry then James angers Henry.
+James harms Henry because James attacks Henry.
+James forgives Henry because James hugs Henry.
+
+Show both perspectives.
+
+//Reflective knowledge is shared between perspectives
+Start reflective knowledge.
+
+Start description of "Revenge".
+xx is a person.
+yy is a person.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Forgiveness".
+xx is a person.
+yy is a person.
+xx's harming yy leads to yy's forgiving xx.
+The end.
+
+//Stories are different for perspectives
+First perspective.
+
+Start commonsense knowledge.
+
+Henry may harm James because James harms Henry.
+Henry may forgive James because James harms Henry.
+
+Start story titled "Macbeth revenge".
+Macbeth and Macduff are persons. 
+
+Macbeth attacks Macduff.
+
+//Macduff attacks Macbeth.
+Macduff hugs Macbeth.
+
+The end.
+
+Second perspective.
+
+Insert bias.
+
+Start story titled "Macbeth biased revenge".
+Macbeth and Macduff are persons. 
+
+Macbeth attacks Macduff.
+
+The end.
+
+//Macduff harms Macbeth.
+
+//Replay story.

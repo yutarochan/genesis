@@ -1,0 +1,36 @@
+/* Filename: CzechoslovakiaSovietInvasion.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Feb 20, 2004
+ */
+
+/**
+ * Czechoslovakia: Soviet Invasion, 1968
+ */
+ 
+Start story titled "Czechoslovakia-Soviet Invasion".
+
+Czechoslovakia is a country.
+USSR is a country.
+The Slovaks are a people of Czechoslovakia.
+
+Czechoslovakia was part of the SovietBloc.
+The SovietBloc contained Czechoslovakia.
+Czechoslovakia was communist.
+
+USSR liked Czechoslovakia because Czechoslovakia was communist and Czechoslovakia was part of the SovietBloc.
+The Slovaks were unhappy.
+
+The Slovaks wanted reform because the Slovaks were unhappy.
+Czechoslovakia began reform because the Slovaks wanted reform.
+Czechoslovakia began to move from communism because Czechoslovakia began reform.
+Czechoslovakia disobeyed USSR because Czechoslovakia began to move from communism.
+
+USSR disliked Czechoslovakia because Czechoslovakia disobeyed USSR.
+USSR was stronger than Czechoslovakia.
+USSR invaded Czechoslovakia because USSR disliked Czechoslovakia beginning to move from communism.
+
+USSR controlled Czechoslovakia because USSR invaded Czechoslovakia.
+Czechoslovakia was communist because USSR controlled Czechoslovakia and USSR was communist.
+
+The end.

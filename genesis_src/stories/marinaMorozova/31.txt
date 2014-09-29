@@ -1,0 +1,25 @@
+Start description of "Conflict-with-god-A".
+yy is an entity.
+yy is mortal.
+
+yy's committing act against religion leads to yy's being hurt.
+//this is more impersonal action in comparison to the B-case of this situation
+//committing an act against religion might be present as 
+//prohibition of worshipping or persecution of believers 
+//the hurt part in this case is rarely committed by deities personally rather by circumstances.
+
+The end.
+
+
+Start description of "Conflict-with-God-B".
+yy is an entity.
+yy is mortal.
+xx is a deity.
+
+yy's showing disrespect to xx leads to yy's being hurt.
+//the reasons might differ -- pride, imprudence;
+//but the action is the same - the disrespect is shown, the anger is arised.
+//the hurt part in this case is more often commited by deities personally.
+
+
+The end.

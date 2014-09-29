@@ -1,0 +1,2101 @@
+take1
+
+frameid: 0
+nm=3 foaid=2 foaSize=0.026771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 1
+nm=3 foaid=2 foaSize=0.026719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 2
+nm=3 foaid=2 foaSize=0.026458 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 3
+nm=3 foaid=2 foaSize=0.026146 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 4
+nm=3 foaid=1 foaSize=0.104583 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.566591 Theta=-2.733225
+[1] R=0.000000 Theta=0.000000
+[2] R=0.120208 Theta=-2.356194
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 5
+nm=3 foaid=1 foaSize=0.105729 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.564624 Theta=-2.741352
+[1] R=0.000000 Theta=0.000000
+[2] R=0.116726 Theta=-2.386488
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 6
+nm=3 foaid=2 foaSize=0.026771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 7
+nm=3 foaid=2 foaSize=0.026510 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 8
+nm=3 foaid=2 foaSize=0.026510 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 9
+nm=3 foaid=1 foaSize=0.104219 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.566591 Theta=-2.733225
+[1] R=0.000000 Theta=0.000000
+[2] R=0.120208 Theta=-2.356194
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 10
+nm=3 foaid=1 foaSize=0.106615 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.564624 Theta=-2.741352
+[1] R=0.000000 Theta=0.000000
+[2] R=0.113358 Theta=-2.418613
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 11
+nm=3 foaid=2 foaSize=0.026406 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 12
+nm=3 foaid=2 foaSize=0.026302 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.456974 Theta=-2.830222
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 13
+nm=3 foaid=1 foaSize=0.111354 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.562694 Theta=-2.749536
+[1] R=0.000000 Theta=0.000000
+[2] R=0.113358 Theta=-2.418613
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 14
+nm=3 foaid=1 foaSize=0.105833 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.564624 Theta=-2.741352
+[1] R=0.000000 Theta=0.000000
+[2] R=0.116726 Theta=-2.386488
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 15
+nm=3 foaid=2 foaSize=0.026458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.461736 Theta=-2.833540
+[1] R=0.113137 Theta=0.785398
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 16
+nm=3 foaid=1 foaSize=0.106042 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.566591 Theta=-2.733225
+[1] R=0.000000 Theta=0.000000
+[2] R=0.116726 Theta=-2.325901
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 17
+nm=3 foaid=2 foaSize=0.026771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.463276 Theta=-2.823255
+[1] R=0.113137 Theta=0.785398
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 18
+nm=3 foaid=2 foaSize=0.026615 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.461736 Theta=-2.833540
+[1] R=0.116726 Theta=0.815692
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 19
+nm=3 foaid=1 foaSize=0.105833 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.562005 Theta=-2.729692
+[1] R=0.000000 Theta=0.000000
+[2] R=0.113358 Theta=-2.293776
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 20
+nm=3 foaid=2 foaSize=0.026250 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.466503 Theta=-2.836790
+[1] R=0.110114 Theta=0.881872
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 21
+nm=3 foaid=2 foaSize=0.026563 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.461736 Theta=-2.833540
+[1] R=0.113358 Theta=0.847817
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 22
+nm=3 foaid=2 foaSize=0.026354 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.466503 Theta=-2.836790
+[1] R=0.106066 Theta=0.785398
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 23
+nm=3 foaid=1 foaSize=0.106771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.564624 Theta=-2.741352
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.323948
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 24
+nm=3 foaid=1 foaSize=0.106927 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.560022 Theta=-2.737873
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106301 Theta=-2.289626
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 2 -1 -1 
+
+frameid: 25
+nm=3 foaid=1 foaSize=0.106823 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.569232 Theta=-2.744775
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106066 Theta=-2.356194
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 26
+nm=3 foaid=2 foaSize=0.026719 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.471275 Theta=-2.839974
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 27
+nm=3 foaid=2 foaSize=0.027396 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.472784 Theta=-2.829875
+[1] R=0.106301 Theta=0.851966
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 28
+nm=3 foaid=2 foaSize=0.026823 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.471275 Theta=-2.839974
+[1] R=0.106066 Theta=0.785398
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 29
+nm=3 foaid=1 foaSize=0.106979 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.569232 Theta=-2.744775
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.323948
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 30
+nm=3 foaid=2 foaSize=0.026563 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.471275 Theta=-2.839974
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 31
+nm=3 foaid=2 foaSize=0.026667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.471275 Theta=-2.839974
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 32
+nm=3 foaid=1 foaSize=0.105938 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.564624 Theta=-2.741352
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106301 Theta=-2.289626
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 2 -1 -1 
+
+frameid: 33
+nm=3 foaid=1 foaSize=0.105990 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.569232 Theta=-2.744775
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.323948
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 34
+nm=3 foaid=2 foaSize=0.026875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.471275 Theta=-2.839974
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 35
+nm=3 foaid=0 foaSize=0.119687 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.564624 Theta=0.400241
+[2] R=0.466503 Theta=0.304803
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 36
+nm=3 foaid=2 foaSize=0.026667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.466503 Theta=-2.836790
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 37
+nm=3 foaid=0 foaSize=0.120156 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.562694 Theta=0.392057
+[2] R=0.465027 Theta=0.294546
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 38
+nm=3 foaid=0 foaSize=0.120573 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.558077 Theta=0.395480
+[2] R=0.460245 Theta=0.297700
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 39
+nm=3 foaid=2 foaSize=0.026563 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.460245 Theta=-2.843892
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 1 -1 1 1 -1 
+
+frameid: 40
+nm=3 foaid=0 foaSize=0.122552 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.551543 Theta=0.390607
+[2] R=0.454010 Theta=0.290402
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 41
+nm=3 foaid=1 foaSize=0.109687 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.556170 Theta=-2.754409
+[1] R=0.000000 Theta=0.000000
+[2] R=0.113137 Theta=-2.356194
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 42
+nm=3 foaid=1 foaSize=0.112656 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.554301 Theta=-2.762761
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.388441
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 43
+nm=3 foaid=1 foaSize=0.115000 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.546008 Theta=-2.776391
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106301 Theta=-2.422763
+ContactIds[12]= -1 -1 -1 -1 2 2 2 2 2 -1 -1 -1 
+
+frameid: 44
+nm=3 foaid=1 foaSize=0.110833 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.547814 Theta=-2.767866
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.388441
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 45
+nm=3 foaid=0 foaSize=0.127969 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.541341 Theta=0.368500
+[2] R=0.441616 Theta=0.275189
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 46
+nm=3 foaid=1 foaSize=0.106875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.552472 Theta=-2.771170
+[1] R=0.000000 Theta=0.000000
+[2] R=0.120416 Theta=-2.414950
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 47
+nm=3 foaid=0 foaSize=0.130833 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.547814 Theta=0.373727
+[2] R=0.436807 Theta=0.278300
+ContactIds[12]= 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 48
+nm=3 foaid=0 foaSize=0.131979 tracking=1 dx=0.005000 dy=0.005000 R=0.007071 Theta=0.785398
+[0] R=0.000000 Theta=0.000000
+[1] R=0.541341 Theta=0.368500
+[2] R=0.425823 Theta=0.273461
+ContactIds[12]= 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 49
+nm=3 foaid=2 foaSize=0.026458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.425823 Theta=-2.868132
+[1] R=0.124197 Theta=0.699893
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 0 -1 -1 -1 1 1 -1 
+
+frameid: 50
+nm=3 foaid=2 foaSize=0.026719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.425823 Theta=-2.868132
+[1] R=0.124197 Theta=0.699893
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 -1 -1 -1 1 1 -1 
+
+frameid: 51
+nm=3 foaid=1 foaSize=0.106250 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.536680 Theta=-2.769737
+[1] R=0.000000 Theta=0.000000
+[2] R=0.120416 Theta=-2.414950
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 52
+nm=3 foaid=2 foaSize=0.026146 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.425823 Theta=-2.868132
+[1] R=0.120416 Theta=0.726642
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 0 -1 -1 -1 1 1 -1 
+
+frameid: 53
+nm=3 foaid=2 foaSize=0.026667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.425823 Theta=-2.868132
+[1] R=0.120416 Theta=0.726642
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 -1 -1 -1 1 1 -1 
+
+frameid: 54
+nm=3 foaid=2 foaSize=0.026563 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.425823 Theta=-2.868132
+[1] R=0.120416 Theta=0.726642
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 55
+nm=3 foaid=2 foaSize=0.026563 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.430639 Theta=-2.871267
+[1] R=0.116726 Theta=0.815692
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 -1 -1 -1 1 1 -1 
+
+frameid: 56
+nm=3 foaid=2 foaSize=0.026823 tracking=1 dx=-0.005000 dy=0.005000 R=0.007071 Theta=2.356194
+[0] R=0.427200 Theta=-2.856862
+[1] R=0.117154 Theta=0.694738
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 57
+nm=3 foaid=2 foaSize=0.026198 tracking=1 dx=0.005000 dy=-0.005000 R=0.007071 Theta=-0.785398
+[0] R=0.430639 Theta=-2.871267
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 58
+nm=3 foaid=2 foaSize=0.026354 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-0.785398
+[0] R=0.430639 Theta=-2.871267
+[1] R=0.116726 Theta=0.755104
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 59
+nm=3 foaid=1 foaSize=0.103958 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.533877 Theta=-2.757608
+[1] R=0.000000 Theta=0.000000
+[2] R=0.116726 Theta=-2.325901
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 60
+nm=3 foaid=1 foaSize=0.106667 tracking=1 dx=0.005000 dy=-0.005000 R=0.007071 Theta=-0.785398
+[0] R=0.536680 Theta=-2.769737
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.388441
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 -1 -1 -1 
+
+frameid: 61
+nm=3 foaid=1 foaSize=0.105469 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.532024 Theta=-2.766322
+[1] R=0.000000 Theta=0.000000
+[2] R=0.109659 Theta=-2.323948
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 2 -1 -1 
+
+frameid: 62
+nm=3 foaid=1 foaSize=0.102135 tracking=1 dx=-0.005000 dy=0.005000 R=0.007071 Theta=2.356194
+[0] R=0.524619 Theta=-2.750467
+[1] R=0.000000 Theta=0.000000
+[2] R=0.107005 Theta=-2.223643
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 2 -1 -1 
+
+frameid: 63
+nm=3 foaid=1 foaSize=0.105938 tracking=1 dx=0.005000 dy=-0.005000 R=0.007071 Theta=-0.785398
+[0] R=0.527376 Theta=-2.762847
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106301 Theta=-2.289626
+ContactIds[12]= -1 -1 -1 -1 -1 2 2 2 2 2 -1 -1 
+
+frameid: 64
+nm=3 foaid=2 foaSize=0.026042 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.435460 Theta=-2.874334
+[1] R=0.106301 Theta=0.851966
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 65
+nm=3 foaid=2 foaSize=0.026198 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.430639 Theta=-2.871267
+[1] R=0.109659 Theta=0.817645
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 0 -1 -1 1 1 -1 
+
+frameid: 66
+nm=3 foaid=2 foaSize=0.027292 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.432001 Theta=-2.860113
+[1] R=0.106066 Theta=0.785398
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 -1 -1 1 1 -1 
+
+frameid: 67
+nm=3 foaid=1 foaSize=0.106458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.530212 Theta=-2.775096
+[1] R=0.000000 Theta=0.000000
+[2] R=0.106301 Theta=-2.422763
+ContactIds[12]= -1 -1 -1 -1 2 2 2 2 2 -1 -1 -1 
+
+frameid: 68
+nm=3 foaid=1 foaSize=0.110417 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.528441 Theta=-2.783929
+[1] R=0.000000 Theta=0.000000
+[2] R=0.100000 Theta=-2.498092
+ContactIds[12]= -1 -1 -1 -1 2 2 2 2 2 2 -1 -1 
+
+frameid: 69
+nm=3 foaid=1 foaSize=0.103958 tracking=1 dx=0.000000 dy=0.010000 R=0.010000 Theta=1.570796
+[0] R=0.532024 Theta=-2.766322
+[1] R=0.000000 Theta=0.000000
+[2] R=0.107005 Theta=-2.488746
+ContactIds[12]= -1 -1 -1 -1 2 2 2 2 2 -1 -1 -1 
+
+frameid: 70
+nm=3 foaid=1 foaSize=0.103073 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.541341 Theta=-2.773093
+[1] R=0.000000 Theta=0.000000
+[2] R=0.108167 Theta=-2.553590
+ContactIds[12]= -1 -1 -1 -1 2 2 2 2 2 -1 -1 -1 
+
+frameid: 71
+nm=3 foaid=2 foaSize=0.027396 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.428515 Theta=-2.808772
+[1] R=0.109772 Theta=0.524796
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 -1 -1 1 1 -1 
+
+frameid: 72
+nm=3 foaid=2 foaSize=0.027917 tracking=1 dx=-0.005000 dy=0.005000 R=0.007071 Theta=2.356194
+[0] R=0.425470 Theta=-2.793826
+[1] R=0.111803 Theta=0.463648
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 -1 -1 1 1 -1 
+
+frameid: 73
+nm=3 foaid=2 foaSize=0.028542 tracking=1 dx=-0.005000 dy=0.005000 R=0.007071 Theta=2.356194
+[0] R=0.427200 Theta=-2.782822
+[1] R=0.117047 Theta=0.348771
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 1 1 -1 -1 1 1 -1 
+
+frameid: 74
+nm=3 foaid=2 foaSize=0.028594 tracking=1 dx=-0.010000 dy=0.005000 R=0.011180 Theta=2.677945
+[0] R=0.419672 Theta=-2.763299
+[1] R=0.129808 Theta=0.273009
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 0 0 -1 -1 1 1 -1 
+
+frameid: 75
+nm=3 foaid=2 foaSize=0.029896 tracking=1 dx=-0.015000 dy=0.010000 R=0.018028 Theta=2.553590
+[0] R=0.409695 Theta=-2.727086
+[1] R=0.142215 Theta=0.176709
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 1 0 0 -1 1 1 1 -1 
+
+frameid: 76
+nm=3 foaid=2 foaSize=0.029792 tracking=1 dx=-0.020000 dy=0.005000 R=0.020616 Theta=2.896614
+[0] R=0.393605 Theta=-2.694989
+[1] R=0.150748 Theta=0.099669
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 -1 0 0 1 1 1 1 -1 
+
+frameid: 77
+nm=3 foaid=2 foaSize=0.029323 tracking=1 dx=-0.015000 dy=0.010000 R=0.018028 Theta=2.553590
+[0] R=0.389134 Theta=-2.660705
+[1] R=0.165000 Theta=0.000000
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 1 -1 0 0 0 1 1 1 -1 
+
+frameid: 78
+nm=3 foaid=2 foaSize=0.030781 tracking=1 dx=-0.020000 dy=0.005000 R=0.020616 Theta=2.896614
+[0] R=0.373965 Theta=-2.624105
+[1] R=0.180069 Theta=-0.027771
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 -1 -1 -1 0 0 1 1 1 -1 
+
+frameid: 79
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=-0.020000 dy=0.005000 R=0.020616 Theta=2.896614
+[0] R=0.359340 Theta=-2.584468
+[1] R=0.195256 Theta=-0.051237
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 1 -1 -1 -1 0 0 0 1 1 -1 
+
+frameid: 80
+nm=3 foaid=2 foaSize=0.031094 tracking=1 dx=-0.025000 dy=0.005000 R=0.025495 Theta=2.944197
+[0] R=0.341211 Theta=-2.533268
+[1] R=0.215523 Theta=-0.069655
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 -1 -1 -1 -1 0 0 0 1 1 -1 
+
+frameid: 81
+nm=3 foaid=2 foaSize=0.031302 tracking=1 dx=-0.020000 dy=0.000000 R=0.020000 Theta=3.141593
+[0] R=0.328024 Theta=-2.485897
+[1] R=0.225499 Theta=-0.066568
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 1 -1 -1 -1 -1 0 0 0 1 1 -1 
+
+frameid: 82
+nm=3 foaid=2 foaSize=0.032083 tracking=1 dx=-0.015000 dy=0.000000 R=0.015000 Theta=3.141593
+[0] R=0.320156 Theta=-2.466852
+[1] R=0.240468 Theta=-0.062419
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 1 -1 -1 -1 -1 -1 -1 0 0 0 1 -1 
+
+frameid: 83
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=-0.015000 dy=-0.005000 R=0.015811 Theta=-2.819842
+[0] R=0.305369 Theta=-2.448951
+[1] R=0.255196 Theta=-0.039196
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 0 0 0 -1 -1 
+
+frameid: 84
+nm=3 foaid=2 foaSize=0.030625 tracking=1 dx=-0.020000 dy=-0.005000 R=0.020616 Theta=-2.896614
+[0] R=0.286923 Theta=-2.417845
+[1] R=0.275000 Theta=0.000000
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 0 0 0 -1 -1 
+
+frameid: 85
+nm=3 foaid=2 foaSize=0.031458 tracking=1 dx=-0.010000 dy=-0.005000 R=0.011180 Theta=-2.677945
+[0] R=0.276134 Theta=-2.407432
+[1] R=0.285000 Theta=0.000000
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 0 0 0 -1 -1 
+
+frameid: 86
+nm=3 foaid=2 foaSize=0.031146 tracking=1 dx=-0.015000 dy=-0.010000 R=0.018028 Theta=-2.553590
+[0] R=0.262011 Theta=-2.410196
+[1] R=0.305164 Theta=0.032775
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 0 0 -1 -1 
+
+frameid: 87
+nm=3 foaid=2 foaSize=0.030677 tracking=1 dx=-0.010000 dy=-0.005000 R=0.011180 Theta=-2.677945
+[0] R=0.254657 Theta=-2.383965
+[1] R=0.310000 Theta=0.000000
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 0 0 -1 -1 
+
+frameid: 88
+nm=3 foaid=2 foaSize=0.031250 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.240520 Theta=-2.385598
+[1] R=0.320975 Theta=0.077967
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 0 0 0 0 -1 -1 
+
+frameid: 89
+nm=3 foaid=2 foaSize=0.030729 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.226385 Theta=-2.387434
+[1] R=0.331851 Theta=0.105666
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 -1 0 0 0 0 -1 -1 
+
+frameid: 90
+nm=3 foaid=2 foaSize=0.031094 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.215928 Theta=-2.405335
+[1] R=0.346771 Theta=0.101103
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 0 0 0 0 0 -1 -1 
+
+frameid: 91
+nm=3 foaid=2 foaSize=0.031146 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.205183 Theta=-2.390664
+[1] R=0.354295 Theta=0.155868
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 0 0 0 0 0 -1 -1 
+
+frameid: 92
+nm=3 foaid=2 foaSize=0.030677 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.198494 Theta=-2.427502
+[1] R=0.358504 Theta=0.139925
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 
+
+frameid: 93
+nm=3 foaid=2 foaSize=0.031042 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.192094 Theta=-2.466852
+[1] R=0.370742 Theta=0.176235
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 0 0 0 0 0 -1 -1 -1 
+
+frameid: 94
+nm=3 foaid=2 foaSize=0.031146 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.185068 Theta=-2.471071
+[1] R=0.377525 Theta=0.199993
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 0 0 0 0 0 0 -1 -1 
+
+frameid: 95
+nm=3 foaid=2 foaSize=0.030781 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.175000 Theta=-2.498092
+[1] R=0.382426 Theta=0.197396
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 0 0 0 0 0 0 -1 -1 
+
+frameid: 96
+nm=3 foaid=2 foaSize=0.031354 tracking=1 dx=-0.010000 dy=-0.010000 R=0.014142 Theta=-2.356194
+[0] R=0.165076 Theta=-2.528385
+[1] R=0.394271 Theta=0.217293
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 -1 0 0 0 0 0 0 -1 -1 
+
+frameid: 97
+nm=3 foaid=2 foaSize=0.031458 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.168077 Theta=-2.611377
+[1] R=0.401404 Theta=0.238936
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 98
+nm=3 foaid=2 foaSize=0.031250 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.156924 Theta=-2.606638
+[1] R=0.408718 Theta=0.259814
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 99
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.152069 Theta=-2.663240
+[1] R=0.416203 Theta=0.279950
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 -1 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 100
+nm=3 foaid=2 foaSize=0.031302 tracking=1 dx=-0.005000 dy=-0.005000 R=0.007071 Theta=-2.356194
+[0] R=0.152315 Theta=-2.736701
+[1] R=0.422404 Theta=0.288055
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 101
+nm=3 foaid=2 foaSize=0.030573 tracking=1 dx=-0.005000 dy=-0.010000 R=0.011180 Theta=-2.034444
+[0] R=0.143962 Theta=-2.786887
+[1] R=0.430116 Theta=0.307046
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 -1 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 102
+nm=3 foaid=2 foaSize=0.029323 tracking=1 dx=0.000000 dy=-0.010000 R=0.010000 Theta=-1.570796
+[0] R=0.139463 Theta=-2.887919
+[1] R=0.433244 Theta=0.329050
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 103
+nm=3 foaid=2 foaSize=0.028646 tracking=1 dx=-0.005000 dy=-0.005000 R=0.007071 Theta=-2.356194
+[0] R=0.138293 Theta=-2.922924
+[1] R=0.439602 Theta=0.336138
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 104
+nm=3 foaid=2 foaSize=0.028229 tracking=1 dx=-0.005000 dy=-0.005000 R=0.007071 Theta=-2.356194
+[0] R=0.132382 Theta=-2.951604
+[1] R=0.445982 Theta=0.343024
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= -1 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 105
+nm=3 foaid=2 foaSize=0.028333 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.126590 Theta=-2.982937
+[1] R=0.450694 Theta=0.339293
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 106
+nm=3 foaid=2 foaSize=0.026875 tracking=1 dx=-0.005000 dy=-0.005000 R=0.007071 Theta=-2.356194
+[0] R=0.120934 Theta=-3.017238
+[1] R=0.457083 Theta=0.345967
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 107
+nm=3 foaid=0 foaSize=0.076198 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.580452 Theta=0.297232
+[2] R=0.125897 Theta=0.119429
+ContactIds[12]= 2 2 -1 -1 -1 -1 -1 -1 -1 2 2 -1 
+
+frameid: 108
+nm=3 foaid=0 foaSize=0.073385 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.581936 Theta=0.305448
+[2] R=0.122577 Theta=0.205395
+ContactIds[12]= 2 2 -1 -1 -1 -1 -1 -1 -1 2 2 -1 
+
+frameid: 109
+nm=3 foaid=0 foaSize=0.072500 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.581936 Theta=0.305448
+[2] R=0.115974 Theta=0.129703
+ContactIds[12]= 2 2 -1 -1 -1 -1 -1 -1 -1 2 2 -1 
+
+frameid: 110
+nm=3 foaid=0 foaSize=0.072240 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.583460 Theta=0.313621
+[2] R=0.111803 Theta=0.179853
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 -1 2 2 -1 
+
+frameid: 111
+nm=3 foaid=2 foaSize=0.030781 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.111803 Theta=-2.961739
+[1] R=0.472890 Theta=0.345158
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 112
+nm=3 foaid=2 foaSize=0.030573 tracking=1 dx=-0.010000 dy=0.000000 R=0.010000 Theta=3.141593
+[0] R=0.101980 Theta=-2.944197
+[1] R=0.482312 Theta=0.338143
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 113
+nm=3 foaid=2 foaSize=0.030677 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.480677 Theta=0.328329
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 114
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.109202 Theta=-2.863293
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 115
+nm=3 foaid=2 foaSize=0.032187 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.109202 Theta=-2.863293
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 116
+nm=3 foaid=2 foaSize=0.032031 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.110680 Theta=-2.819842
+[1] R=0.472784 Theta=0.311717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 117
+nm=3 foaid=2 foaSize=0.030938 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=1.570796
+[0] R=0.110680 Theta=-2.819842
+[1] R=0.472784 Theta=0.311717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 118
+nm=3 foaid=2 foaSize=0.031094 tracking=1 dx=0.005000 dy=-0.005000 R=0.007071 Theta=-0.785398
+[0] R=0.114018 Theta=-2.875341
+[1] R=0.469601 Theta=0.325118
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 119
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.109202 Theta=-2.863293
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 120
+nm=3 foaid=2 foaSize=0.032187 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=3.141593
+[0] R=0.109202 Theta=-2.863293
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 121
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=3.141593
+[0] R=0.109202 Theta=-2.863293
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 122
+nm=3 foaid=0 foaSize=0.071458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.581936 Theta=0.305448
+[2] R=0.107935 Theta=0.233743
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 123
+nm=3 foaid=2 foaSize=0.031875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.475946 Theta=0.331717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 124
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=-0.005000 dy=0.005000 R=0.007071 Theta=2.356194
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 125
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.101980 Theta=-2.944197
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 126
+nm=3 foaid=2 foaSize=0.031302 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 127
+nm=3 foaid=0 foaSize=0.069635 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.583460 Theta=0.313621
+[2] R=0.104403 Theta=0.291457
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 128
+nm=3 foaid=0 foaSize=0.069375 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.580452 Theta=0.297232
+[2] R=0.103078 Theta=0.244979
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 129
+nm=3 foaid=1 foaSize=0.160521 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479088 Theta=-2.823142
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 130
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 131
+nm=3 foaid=1 foaSize=0.160990 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.477546 Theta=-2.833086
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 132
+nm=3 foaid=1 foaSize=0.160208 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479088 Theta=-2.823142
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 133
+nm=3 foaid=2 foaSize=0.031615 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 134
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 135
+nm=3 foaid=1 foaSize=0.160833 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.585235 Theta=-2.846863
+[1] R=0.000000 Theta=0.000000
+[2] R=0.477546 Theta=-2.833086
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 136
+nm=3 foaid=1 foaSize=0.162604 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479088 Theta=-2.823142
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 137
+nm=3 foaid=2 foaSize=0.031927 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.103078 Theta=-2.896614
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 138
+nm=3 foaid=2 foaSize=0.032031 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.112805 Theta=-2.918116
+[1] R=0.472784 Theta=0.311717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 139
+nm=3 foaid=1 foaSize=0.161510 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.474342 Theta=-2.819842
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 140
+nm=3 foaid=1 foaSize=0.162708 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.580452 Theta=-2.844360
+[1] R=0.000000 Theta=0.000000
+[2] R=0.472784 Theta=-2.829875
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 141
+nm=3 foaid=2 foaSize=0.031875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.472784 Theta=0.311717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 142
+nm=3 foaid=1 foaSize=0.161719 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.474342 Theta=-2.819842
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 143
+nm=3 foaid=2 foaSize=0.031771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 144
+nm=3 foaid=1 foaSize=0.162552 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.580452 Theta=-2.844360
+[1] R=0.000000 Theta=0.000000
+[2] R=0.472784 Theta=-2.829875
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 145
+nm=3 foaid=1 foaSize=0.162760 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.581936 Theta=-2.836145
+[1] R=0.000000 Theta=0.000000
+[2] R=0.474342 Theta=-2.819842
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 146
+nm=3 foaid=2 foaSize=0.031615 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.474342 Theta=0.321751
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 147
+nm=3 foaid=1 foaSize=0.162865 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.585235 Theta=-2.846863
+[1] R=0.000000 Theta=0.000000
+[2] R=0.477546 Theta=-2.833086
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 148
+nm=3 foaid=0 foaSize=0.068750 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.590021 Theta=0.292268
+[2] R=0.112805 Theta=0.223477
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 149
+nm=3 foaid=0 foaSize=0.069896 tracking=1 dx=0.005000 dy=0.000000 R=0.005000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.585235 Theta=0.294730
+[2] R=0.107935 Theta=0.233743
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 150
+nm=3 foaid=0 foaSize=0.069167 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.000000 Theta=0.000000
+[1] R=0.590021 Theta=0.292268
+[2] R=0.112805 Theta=0.223477
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 -1 2 2 -1 
+
+frameid: 151
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.112805 Theta=-2.918116
+[1] R=0.477546 Theta=0.308506
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 152
+nm=3 foaid=0 foaSize=0.069896 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.585235 Theta=0.294730
+[2] R=0.107935 Theta=0.233743
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 153
+nm=3 foaid=2 foaSize=0.031615 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.477546 Theta=0.308506
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 154
+nm=3 foaid=1 foaSize=0.163802 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.586707 Theta=-2.838708
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479088 Theta=-2.823142
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 155
+nm=3 foaid=2 foaSize=0.031458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 156
+nm=3 foaid=2 foaSize=0.031510 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 157
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 158
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.475946 Theta=0.331717
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 159
+nm=3 foaid=1 foaSize=0.163177 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.586707 Theta=-2.838708
+[1] R=0.000000 Theta=0.000000
+[2] R=0.480677 Theta=-2.813263
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 160
+nm=3 foaid=2 foaSize=0.031406 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.480677 Theta=0.328329
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 161
+nm=3 foaid=2 foaSize=0.031250 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.480677 Theta=0.328329
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 162
+nm=3 foaid=2 foaSize=0.031146 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.480677 Theta=0.328329
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 163
+nm=3 foaid=1 foaSize=0.165104 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.585235 Theta=-2.846863
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479088 Theta=-2.823142
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 164
+nm=3 foaid=1 foaSize=0.164531 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.586707 Theta=-2.838708
+[1] R=0.000000 Theta=0.000000
+[2] R=0.480677 Theta=-2.813263
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 165
+nm=3 foaid=2 foaSize=0.031719 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 166
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.480677 Theta=0.328329
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 167
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.112805 Theta=-2.918116
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 168
+nm=3 foaid=0 foaSize=0.069792 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.586707 Theta=0.302885
+[2] R=0.107935 Theta=0.233743
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 169
+nm=3 foaid=2 foaSize=0.031927 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 170
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 171
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.479088 Theta=0.318450
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 172
+nm=3 foaid=1 foaSize=0.165156 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 173
+nm=3 foaid=2 foaSize=0.031771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 174
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 175
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 176
+nm=3 foaid=1 foaSize=0.166562 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 177
+nm=3 foaid=1 foaSize=0.165781 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 178
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 179
+nm=3 foaid=1 foaSize=0.166458 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 180
+nm=3 foaid=1 foaSize=0.166198 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 181
+nm=3 foaid=2 foaSize=0.032031 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 182
+nm=3 foaid=2 foaSize=0.032240 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 183
+nm=3 foaid=2 foaSize=0.032240 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 184
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 185
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 186
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 187
+nm=3 foaid=1 foaSize=0.162656 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 188
+nm=3 foaid=1 foaSize=0.165729 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 189
+nm=3 foaid=2 foaSize=0.031927 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 190
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 191
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 192
+nm=3 foaid=1 foaSize=0.164167 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 193
+nm=3 foaid=1 foaSize=0.163802 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 194
+nm=3 foaid=2 foaSize=0.031875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 195
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 196
+nm=3 foaid=0 foaSize=0.067760 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.594811 Theta=0.289846
+[2] R=0.111803 Theta=0.179853
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 197
+nm=3 foaid=0 foaSize=0.069844 tracking=1 dx=0.005000 dy=-0.005000 R=0.007071 Theta=-0.785398
+[0] R=0.000000 Theta=0.000000
+[1] R=0.591481 Theta=0.300363
+[2] R=0.107935 Theta=0.233743
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 198
+nm=3 foaid=2 foaSize=0.031979 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 199
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 200
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 201
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 202
+nm=3 foaid=2 foaSize=0.032031 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 203
+nm=3 foaid=2 foaSize=0.032187 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 204
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 205
+nm=3 foaid=2 foaSize=0.032083 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 206
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 207
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 208
+nm=3 foaid=1 foaSize=0.163229 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 209
+nm=3 foaid=2 foaSize=0.031979 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.482312 Theta=0.305359
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 210
+nm=3 foaid=1 foaSize=0.163177 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 211
+nm=3 foaid=2 foaSize=0.031823 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 212
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 213
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 214
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 215
+nm=3 foaid=1 foaSize=0.160729 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 216
+nm=3 foaid=1 foaSize=0.163281 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 217
+nm=3 foaid=2 foaSize=0.031875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 218
+nm=3 foaid=1 foaSize=0.162448 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 219
+nm=3 foaid=1 foaSize=0.162448 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 220
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 221
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 222
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 223
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 224
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 225
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 226
+nm=3 foaid=2 foaSize=0.031406 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 227
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 228
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 229
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 230
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 231
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 232
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 233
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 234
+nm=3 foaid=0 foaSize=0.067969 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.590021 Theta=0.292268
+[2] R=0.106066 Theta=0.141897
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 235
+nm=3 foaid=0 foaSize=0.068385 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.591481 Theta=0.300363
+[2] R=0.106888 Theta=0.188222
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 236
+nm=3 foaid=2 foaSize=0.031615 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 237
+nm=3 foaid=2 foaSize=0.032031 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 238
+nm=3 foaid=1 foaSize=0.163281 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.596259 Theta=-2.843710
+[1] R=0.000000 Theta=0.000000
+[2] R=0.490153 Theta=-2.819842
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 239
+nm=3 foaid=1 foaSize=0.163229 tracking=1 dx=-0.005000 dy=0.000000 R=0.005000 Theta=3.141593
+[0] R=0.591481 Theta=-2.841229
+[1] R=0.000000 Theta=0.000000
+[2] R=0.485412 Theta=-2.816585
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 240
+nm=3 foaid=2 foaSize=0.031719 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.485412 Theta=0.325008
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 241
+nm=3 foaid=1 foaSize=0.164427 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.590021 Theta=-2.849324
+[1] R=0.000000 Theta=0.000000
+[2] R=0.483839 Theta=-2.826378
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 242
+nm=3 foaid=2 foaSize=0.031771 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 243
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.483839 Theta=0.315215
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 244
+nm=3 foaid=1 foaSize=0.171354 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.588600 Theta=-2.857459
+[1] R=0.000000 Theta=0.000000
+[2] R=0.482312 Theta=-2.836234
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 245
+nm=3 foaid=0 foaSize=0.068281 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.587218 Theta=0.275960
+[2] R=0.106066 Theta=0.141897
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 246
+nm=3 foaid=0 foaSize=0.068021 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.000000 Theta=0.000000
+[1] R=0.587218 Theta=0.275960
+[2] R=0.106888 Theta=0.188222
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 247
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.480833 Theta=0.295441
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 248
+nm=3 foaid=1 foaSize=0.183125 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.584572 Theta=-2.882092
+[1] R=0.000000 Theta=0.000000
+[2] R=0.479401 Theta=-2.856130
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 249
+nm=3 foaid=0 foaSize=0.068229 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.000000 Theta=0.000000
+[1] R=0.585875 Theta=0.267749
+[2] R=0.106888 Theta=0.188222
+ContactIds[12]= 2 2 2 -1 -1 -1 -1 -1 2 2 2 -1 
+
+frameid: 250
+nm=3 foaid=2 foaSize=0.031719 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.479401 Theta=0.285463
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 251
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.479401 Theta=0.285463
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 252
+nm=3 foaid=2 foaSize=0.031458 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.478017 Theta=0.275426
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 253
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 254
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 255
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 256
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 257
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 258
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 259
+nm=3 foaid=2 foaSize=0.031875 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 260
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 261
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 262
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 263
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 264
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 265
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 266
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 267
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.476051 Theta=0.298499
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 268
+nm=3 foaid=1 foaSize=0.177292 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.577603 Theta=-2.860915
+[1] R=0.000000 Theta=0.000000
+[2] R=0.471275 Theta=-2.839974
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 269
+nm=3 foaid=2 foaSize=0.031615 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.471275 Theta=0.301619
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 0 -1 -1 -1 
+
+frameid: 270
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.469814 Theta=0.291457
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 271
+nm=3 foaid=1 foaSize=0.179219 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581055 Theta=-2.871567
+[1] R=0.000000 Theta=0.000000
+[2] R=0.473207 Theta=-2.863293
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 272
+nm=3 foaid=1 foaSize=0.179740 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.582409 Theta=-2.863293
+[1] R=0.000000 Theta=0.000000
+[2] R=0.474605 Theta=-2.853163
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 273
+nm=3 foaid=2 foaSize=0.031875 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 274
+nm=3 foaid=1 foaSize=0.180417 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.581055 Theta=-2.871567
+[1] R=0.000000 Theta=0.000000
+[2] R=0.473207 Theta=-2.863293
+ContactIds[12]= -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 
+
+frameid: 275
+nm=3 foaid=2 foaSize=0.031667 tracking=0 dx=0.000000 dy=0.000000 R=0.000000 Theta=0.000000
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 276
+nm=3 foaid=2 foaSize=0.031979 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 277
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 278
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 279
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 280
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 281
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 282
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 283
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 284
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 285
+nm=3 foaid=2 foaSize=0.031615 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 286
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 287
+nm=3 foaid=2 foaSize=0.031823 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 288
+nm=3 foaid=2 foaSize=0.031458 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 289
+nm=3 foaid=2 foaSize=0.031719 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 290
+nm=3 foaid=2 foaSize=0.031667 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 291
+nm=3 foaid=2 foaSize=0.031927 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 292
+nm=3 foaid=2 foaSize=0.031562 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 293
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 294
+nm=3 foaid=2 foaSize=0.031771 tracking=1 dx=0.000000 dy=0.005000 R=0.005000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 295
+nm=3 foaid=2 foaSize=0.031458 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=1.570796
+[0] R=0.107935 Theta=-2.907849
+[1] R=0.473207 Theta=0.278300
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 296
+nm=3 foaid=2 foaSize=0.031562 tracking=1 dx=0.000000 dy=-0.005000 R=0.005000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 297
+nm=3 foaid=2 foaSize=0.031406 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 298
+nm=3 foaid=2 foaSize=0.031562 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 
+
+frameid: 299
+nm=3 foaid=2 foaSize=0.031510 tracking=1 dx=0.000000 dy=0.000000 R=0.000000 Theta=-1.570796
+[0] R=0.106888 Theta=-2.953371
+[1] R=0.474605 Theta=0.288430
+[2] R=0.000000 Theta=0.000000
+ContactIds[12]= 0 0 0 0 0 0 0 0 -1 -1 -1 -1 

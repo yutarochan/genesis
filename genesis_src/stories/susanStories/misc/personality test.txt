@@ -1,0 +1,17 @@
+//Insert file Start experiment.
+First perspective.
+Insert file General commonsense knowledge.
+
+//Both perspectives.
+//XX and YY are persons.
+//XX is shy because XX avoids YY.
+
+Start story titled "Test example".
+
+Barbara is a person.
+Barbara is boring because Barbara doesn't say interesting things.
+Barbara is boring because Barbara is uninteresting.
+Barbara is boring because Barbara is not interesting.
+Barbara is boring because Barbara is tedious.
+
+The end.

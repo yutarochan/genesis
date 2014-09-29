@@ -1,0 +1,12 @@
+
+
+ww, xx, yy, and zz are persons.
+
+// yy may kill ww because yy is not sane.
+
+// if yy kills ww then yy must not be sane.
+
+
+
+
+

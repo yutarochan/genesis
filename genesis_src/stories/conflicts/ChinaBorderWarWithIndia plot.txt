@@ -1,0 +1,27 @@
+Start story titled "China Border War with India".
+
+India is a country.
+China is a country.
+Britain is a country.
+
+IndiaTroops is an entity.
+ChinaTroops is an entity.
+Assam is a region.
+
+IndiaBorders are a thing.
+
+Britain defined IndiaBorders.
+IndiaBorders were vague because Britain defined India's borders.
+Britain left India.
+
+Assam was disputed because IndiaBorders were vague and because Britain left India.
+
+India wanted to possess Assam because Assam was disputed.
+China wanted to possess Assam because Assam was disputed.
+
+India invaded Assam because India wanted to possess Assam.
+China invaded Assam because India invaded Assam.
+China invaded Assam because China wanted to possess Assam.
+India attacked China because India invaded Assam and China invaded Assam.
+
+The end.

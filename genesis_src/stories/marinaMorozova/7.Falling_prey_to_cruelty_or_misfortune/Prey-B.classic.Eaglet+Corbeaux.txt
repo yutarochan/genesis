@@ -1,0 +1,53 @@
+Insert file Start experiment.
+//Show both perspectives.
+//Both perspectives.
+
+Start commonsense knowledge.
+
+//If xx kills yy then xx hurts yy.
+//If xx is a royalist then xx hates Napoleon.
+
+//Start reflexive knowledge.
+
+Start story titled "The eaglet by Rostand".
+
+//The persons of the play
+Duke is a person and Duke is Napoleon's son.
+Metternich is a person. Metternich is a chancellor of Austria.
+Flambeau is a person. Flambeau is a veteran and a bonapartist.
+
+//Act I -- Fledging wings
+Napoleon is dead and Napoleon is hated.
+Duke lives in Austria. Metternich is responsible for Duke.
+Metternich deprives Duke from history because Metternich wants Duke to be weak and ignorant.
+Metternich wants Duke to be weak and ignorant because Metternich is a royalist and because Duke is Napoleon's son. 
+Duke learns secretly because Metternich deprives Duke from history.
+Duke wants to rule because Duke is ambitious.
+
+//Act II -- Flickering wings
+Metternich installs a reactionary king in France because Metternich doesn't want Duke to rule.
+Metternich spies on Duke because Metternich suspects that Duke wants to rule.
+Flambeau is one of Duke's guards.
+Duke plans to escape to France because Flambeau tells Duke that people dislike reactionary king.
+People want Duke because Duke is Napoleon's son.
+
+//Act III -- Spreading wings
+Metternich knows that Duke plans to escape to France.
+Metternich discourages Duke and Metternich humiliates Duke because Metternich doesn't want Duke to rule.
+
+//Act IV -- Bruised wings
+Duke loses courage because Metternich discourages Duke and .
+Then, Duke recovers.
+
+//Act V -- Broken wings
+Duke flees towards France with Flambeau because Duke wants to rule.
+Matternich sends troops after Duke.
+Troops overtake Duke and Flambeau. 
+Flambeau kills himself because Troops surround Duke and Flambeau.
+Duke becomes discouraged again because Matternich troops surround Duke and because Flambeau kills himself.
+
+//Act VI -- Folded wings
+Duke becomes ill because Duke is discouraged.
+
+
+The end.

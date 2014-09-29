@@ -1,0 +1,34 @@
+Insert file sreshtRengeshMacBethPreamble.
+
+Start story titled "Macbeth".
+
+Duncan is Macduff's friend.
+
+Macbeth murders Duncan.
+
+Malcolm and Donald flee. 
+
+//Macbeth's murdering Duncan leads to Malcolm's fleeing.
+
+Macbeth harmed Macduff.
+
+//Macbeth's murdering Duncan leads to Macbeth's harming Macduff.
+
+Macduff murders Macbeth.
+
+//Macbeth's harming Macduff leads to Macduff's murdering Macbeth.
+
+The end.
+
+
+/*
+MacBeth kills Duncan.
+Malcolm and Donald go to England.
+MacBeth harmed MacDuff.
+MacDuff kills MacBeth.
+
+Scar kills Mufasa.
+Scar harmed Mufasa.
+Simba befriends Timon.
+Simba kills Scar.
+*/

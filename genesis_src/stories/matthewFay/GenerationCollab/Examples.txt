@@ -1,0 +1,50 @@
+Start experiment.
+
+Start commonsense knowledge.
+XX is an person.
+YY is food.
+ZZ is drink.
+XX is tired because XX swims.
+XX is tired because XX repairs the house.
+The house is improved because XX repairs the house.
+XX becomes stronger because XX swims.
+XX is happy because XX becomes stronger.
+
+If XX is hungry, then XX may buy YY.
+If XX is thirsty, then XX may buy ZZ.
+If XX buys YY and XX is hungry then XX may eat YY.
+If XX buys ZZ and XX is thirsty then XX may drink ZZ.
+If XX is hot, then XX may buy ZZ.
+If XX has ZZ and XX is hot then XX may drink ZZ.
+If XX is hot, then XX may go outside.
+If XX is hot and XX goes outside, then XX may swim.
+If XX eats YY, then XX may be tired.
+If XX is tired, then XX may sleep.
+If XX wants home-improvement, then XX may go to the hardware store.
+If XX goes to the hardware store, XX may buy supplies.
+If XX wants home-improvement and XX buys supplies, then XX may repair the house.
+If XX is hot and XX goes inside, then XX turn on the fan.
+
+Start story titled "World".
+Rick is a person.
+Pizza is food.
+Soda is drink.
+Rick is hungry.
+Rick buys pizza.
+Rick eats pizza.
+Rick is hot.
+Rick is thirsty.
+Rick buys soda.
+Rick drinks soda.
+Rick goes outside.
+Rick swims.
+Rick wants home-improvement.
+Rick goes to the hardware store.
+Rick buys supplies.
+Rick repairs the house.
+Rick sleeps.
+Rick goes inside.
+Rick turns on the fan.
+The end.
+
+Generate Story.

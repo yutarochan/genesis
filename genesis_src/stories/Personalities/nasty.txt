@@ -1,0 +1,16 @@
+
+
+Start commonsense knowledge.xx is a person.
+yy is a person.
+aa is an action.
+
+
+
+If yy is nasty and xx is a person, then xx dislikes yy.
+
+
+
+
+
+
+

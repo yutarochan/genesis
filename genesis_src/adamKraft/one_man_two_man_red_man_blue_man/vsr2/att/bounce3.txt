@@ -1,0 +1,39 @@
+
+transitions/vsr2/rf/bounce3.txt has 300 RefFrames.
+transitions/vsr2/rf/bounce3.txt has 3 markers.
+KF 37 [- 0] id=0  [2] dmarker=-1
+KF 38 [- 37] id=0  [2] dmarker=1
+KF 39 [- 38] id=0  [2] dmarker=-1
+KF 48 [- 39] id=0  [2] dmarker=1
+KF 50 [- 1] id=2  dmarkerContact[0]=1
+Inst 51 [- 50 49 -1 -1] id=2  dmarkerContact[0]=1
+Inst 53 [- 52 51 50 49] id=2  ddy=-1 [0] dR=-1 dTheta=0
+Inst 54 [- 53 52 51 50] id=2  ddy=-1 [0] dR=-1 dTheta=0
+Inst 55 [- 54 53 52 51] id=2  ddy=-1 [0] dR=-1 dTheta=0
+KF 55 [- 50] id=2  [0] dR=-1 dTheta=0
+Inst 56 [- 55 54 53 52] id=2  ddx=-1 ddy=-1 [0] dR=0 dTheta=1
+KF 56 [- 55] id=2  [0] dR=0 dTheta=1
+Inst 57 [- 56 55 54 53] id=2  ddy=-1 [0] dR=0 dTheta=1
+Inst 58 [- 57 56 55 54] id=2  ddy=-1 [0] dR=1 dTheta=1
+KF 58 [- 56] id=2  [0] dR=1 dTheta=0 dmarkerContact[0]=-1
+Inst 59 [- 58 57 56 55] id=2  dmarkerContact[0]=-1
+Inst 60 [- 59 58 57 56] id=2  dmarkerContact[0]=-1
+Inst 61 [- 60 59 58 57] id=2  ddy=1 [0] dR=-1 dTheta=0
+KF 61 [- 58] id=2  dmarkerContact[0]=1
+Inst 62 [- 61 60 59 58] id=2  ddy=1 [0] dR=-1 dTheta=-1 dmarkerContact[0]=1
+Inst 63 [- 62 61 60 59] id=2  ddy=1 [0] dR=-1 dTheta=-1 dmarkerContact[0]=1
+Inst 64 [- 63 62 61 60] id=2  ddy=1 [0] dR=-1 dTheta=-1
+Inst 65 [- 64 63 62 61] id=2  ddy=1 [0] dR=-1 dTheta=-1
+Inst 66 [- 65 64 63 62] id=2  ddy=1 [0] dR=-1 dTheta=-1
+Inst 67 [- 66 65 64 63] id=2  ddx=-1 ddy=1 [0] dR=0 dTheta=-1
+KF 68 [- 48] id=0  [2] dR=-1 dTheta=1 dmarkerContact[2]=1
+Inst 70 [- 69 68 -1 -1] id=0  dmarkerContact[2]=1
+Inst 72 [- 71 70 69 68] id=0  [2] dR=1 dTheta=1
+Inst 74 [- 73 67 66 65] id=2  [0] dR=1 dTheta=0
+Inst 77 [- 76 75 74 73] id=2  ddy=1 [0] dR=-1 dTheta=0
+Inst 78 [- 77 76 75 74] id=2  ddy=1 [0] dR=-1 dTheta=0
+Inst 101 [- 100 99 98 97] id=2  [0] dR=0 dTheta=-1
+Inst 137 [- 136 132 -1 -1] id=2  dmarkerContact[0]=1
+Inst 152 [- 151 146 145 144] id=0  [2] dR=1 dTheta=0
+Inst 243 [- 242 241 -1 -1] id=0  dmarkerContact[2]=1
+

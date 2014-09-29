@@ -1,0 +1,77 @@
+Start experiment.
+Show both perspectives.
+
+Both perspectives.
+Insert file 16.txt.
+
+First perspective.
+Start story titled "Athamas".
+
+Note that Zeus is a name.
+Note that Hera is a name.
+Note that Dionysus is a name.
+Note that Semele is a name.
+Note that Athamas is a name.
+Note that Learchus is a name.
+
+Zeus is deity. 
+Hera is deity.
+Dionysus is deity.
+Semele is a mortal woman.
+Athamas is a person.
+Learchus is a person.
+Learchus is Athamas's relative because Learchus is Athamas's son. 
+
+
+Hera is Zeus's wife.
+Semele is pregnant with Dionysus because Zeus cheated on Hera with Semele.
+Hera is angry because Zeus cheated on Hera with Semele.
+Hera tricks Semele because Hera is angry. Semele dies because Hera tricks Semele.
+Zeus saves Dionysus.
+// here's the unappetizing story about 
+// ripping an unborn child from burning mother and
+// sewing an embryo into Zeus's hip
+// and later giving it unnatural birth
+// generalized that part as "saves" :) 
+Zeus gives Dionysus to Athamas because Zeus wants Athamas to bring Dionysus up.
+Athamas nurtures Dionysus because Zeus wants Athamas to bring Dionysus up.
+Athamas disguises Dionysus because Athamas does not want Hera to find Dionysus.
+Hera finds Dionysus.
+Hera curses Athamas because Athamas nurtures Dionysus.
+Athamas becomes mad because Hera curses Athamas.
+Athamas's son is a person.
+Athamas does not hate Learchus.
+Athamas kills Learchus because Athamas becomes mad.
+Athamas hurts Learchus because Athamas kills Learchus.
+Athamas's wife flees because Athamas kills Learchus.
+Zeus saves Dionysus again and Zeus hides Dionysus again.
+
+The end.
+
+Second perspective.
+Start story titled "La fille Elisa by Concourd ".
+
+Note that Elisa is a name.
+Note that Tanchon is a name.
+
+Elisa is a person.
+Bernard is a person.
+
+Elisa's mother is abortionist. Elisa flees home.
+Elisa becomes a prostitute.
+
+Tanchon is a soldier. Tanchon falls in love with Elisa.
+Tanchon becomes Elisa's lover because Tanchon does not know that Elisa is a prostitute.
+Tanchon is Elisa's lover because Tanchon becomes Elisa's lover.
+Elisa does not hate Tanchon.
+Tanchon tries to rape Elisa because Tanchon finds out that Elisa is a prostitute.
+Elisa becomes mad because Tanchon tries to rape Elisa.
+Elisa kills Tanchon because Elisa becomes mad.
+Elisa hurts Tanchon because Elisa kills Tanchon.
+
+
+Elisa is arrested and Elisa is judged and Elisa is imprisoned because Elisa kills Tanchon.
+Elise becomes degraded.
+
+
+The end.

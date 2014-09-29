@@ -1,0 +1,40 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+ZZ is a person.
+
+If XX kills YY, then XX harms YY.
+If XX kills YY, then YY becomes dead.
+
+If YY is ZZ's brother-in-law and XX harms YY, then XX may harm ZZ.
+If ZZ fights XX, then ZZ tries to harm XX.
+
+Insert file vindictiveness reflective knowledge.
+
+Start story titled "Caesar and Ptolemy".
+
+Caesar is a person.
+Ptolemy is a person.
+Pompus is a person.
+
+Pompus is Caesar's brother-in-law.
+Caesar is angry at Pompus.
+Ptolemy wants Caesar's favor.
+Pompus flees to Egypt because Caesar is angry at Pompus.
+
+Ptolemy kills Pompus because Pompus flees to Egypt and because Ptolemy wants Caesar's favor.
+Ptolemy harms Caesar.
+
+Caesar wants to harm Ptolemy because Ptolemy harmed Caesar.
+Caesar fights Ptolemy because Caesar wants to harm Ptolemy.
+Caesar wins because Caesar fights Ptolemy.
+
+Ptolemy flees because Caesar wins.
+Ptolemy drown because Ptolemy flees.
+
+The end.

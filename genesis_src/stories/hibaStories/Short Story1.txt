@@ -1,0 +1,31 @@
+Clear story memory.
+
+Insert file Eastern Commonsense.
+
+Start commonsense knowledge.
+
+Start story.
+
+Lu is a person.
+
+Shan is a person. 
+
+// Lu and Shan are co-workers.
+
+Lu is lonely.
+
+Shan is social.
+
+Lu was a member of the gun club. 
+
+Lu had highest score on the qualifying exam. 
+
+Faculty nominated Shan for a national award and did not nominate Lu.
+
+Lu shot Shan.
+
+Lu shot himself.
+
+//Lu and Shan are dead.
+
+The end.

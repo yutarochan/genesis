@@ -1,0 +1,46 @@
+Start description of "Passion-A1".
+xx is a person.
+yy is an entity.
+yy is valuable.
+zz is an entity.
+
+xx's being passionate about zz leads to xx's losing yy.
+
+The end.
+
+Start description of "Passion-A2".
+xx is a person.
+zz is an entity.
+
+xx's being passionate about zz leads to xx's breaking xx's word.
+
+The end.
+
+Start description of "Passion-B".
+xx is a person.
+yy is an entity.
+zz is an entity.
+
+Sense of yy is a virtue.
+
+xx's being passionate about zz leads to xx's losing  sense of yy.
+Sometimes, yy is duty.
+Sometimes, yy is pity.
+
+The end.
+
+Start description of "Passion-C".
+xx is a person.
+zz is an entity.
+yy is an entity.
+yy is valuable.
+
+xx's passion for zz is a vice.
+xx's being passionate about zz leads to xx's losing yy.
+
+Sometimes, yy is a fortune.
+Sometimes, yy is life.
+Sometimes, yy is honor.
+
+
+The end.

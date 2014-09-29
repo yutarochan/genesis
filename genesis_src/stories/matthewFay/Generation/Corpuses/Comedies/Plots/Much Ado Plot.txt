@@ -1,0 +1,19 @@
+Claudio and Hero are people.
+Benedict and Beatrice are people.
+
+Claudio meets Hero.
+Claudio loves Hero because Claudio met Hero.
+Hero loves Claudio because Hero met Claudio.
+
+Hero likes Beatrice.
+Claudio likes Benedict.
+
+Hero tells Beatrice that Benedict loves Beatrice because Hero wants Beatrice to be happy.
+Claudio tells Benedict that Beatrice loves Benedict because Claudio wants Benedict to be happy.
+
+Then, Beatrice loves Benedict.
+Benedict loves Beatrice.
+
+Hero marries Claudio.
+
+Beatrice marries Benedict.

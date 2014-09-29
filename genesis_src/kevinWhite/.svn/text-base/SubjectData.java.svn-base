@@ -1,0 +1,39 @@
+package latticeLearning;
+
+import java.util.HashMap;
+
+public class SubjectData {
+    private String name;
+    private HashMap<String,Boolean> abilities = new HashMap<String,Boolean>();
+    
+    private SubjectData(String noun){
+        name = noun;
+    }
+    
+    public static SubjectData getSubjectData(String noun, HashMap<String,SubjectData> subjects){
+        if(!subjects.containsKey(noun)){
+            return new SubjectData(noun);
+        }
+        return subjects.get(noun);
+    }
+    
+    public void addVerb(String verb, boolean capability){
+        abilities.put(verb, capability);
+    }
+    
+    public String getName(){
+        return name;
+    }
+    
+    public HashMap<String,Boolean> getAbilities(){
+        return abilities;
+    }
+    
+    public String getVerbThreads(){
+        String threadStrings = "";
+        for (String verb: abilities.keySet()){
+            threadStrings = threadStrings.concat(verb + "\n\n");
+        }
+        return threadStrings;
+    }
+}

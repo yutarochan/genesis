@@ -1,0 +1,8 @@
+summary: A ball flew over a block.
+summary: A ball jumps over a block.
+0-10: The ball is to the left of the block
+1-10: The ball rises
+10: The ball jumps over the block
+11-20: The ball is above the block
+16-40: The ball is to the right of the block
+19-40: The ball falls

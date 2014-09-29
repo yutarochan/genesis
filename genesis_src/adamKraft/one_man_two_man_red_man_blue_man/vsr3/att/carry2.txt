@@ -1,0 +1,419 @@
+
+transitions/vsr3/rf/carry2.txt has 300 RefFrames.
+transitions/vsr3/rf/carry2.txt has 3 markers.
+KF 24 [- 0] id=1  dmarkerContact[2]=1
+KF 25 [- 24] id=1  dmarkerContact[2]=-1
+KF 27 [- 1] id=2  dmarkerContact[1]=1
+KF 28 [- 25] id=1  dmarkerContact[2]=1
+Inst 29 [- 28 25 24 22] id=1  dmarkerContact[2]=1
+KF 30 [- 28] id=1  dmarkerContact[2]=-1
+KF 31 [- 27] id=2  dmarkerContact[1]=-1
+KF 52 [- 31] id=2  dmarkerContact[1]=1
+KF 55 [- 52] id=2  dmarkerContact[1]=-1
+Inst 58 [- 57 54 53 49] id=1  [2] dR=1 dTheta=0
+KF 58 [- 30] id=1  dmarkerContact[2]=1
+Inst 59 [- 58 57 54 53] id=1  dmarkerContact[2]=1
+KF 61 [- 55] id=2  dmarkerContact[1]=1
+Inst 64 [- 63 61 60 56] id=2  dmarkerContact[1]=1
+Inst 73 [- 72 71 70 66] id=1  ddx=1
+Inst 74 [- 73 72 71 70] id=1  ddx=1
+Inst 75 [- 74 73 72 71] id=1  ddx=1
+Inst 76 [- 75 74 73 72] id=1  ddx=1
+Inst 77 [- 76 75 74 73] id=1  ddx=1
+Inst 78 [- 77 76 75 74] id=1  ddx=1
+Inst 79 [- 78 77 76 75] id=1  ddx=1
+Inst 80 [- 79 78 77 76] id=1  ddx=1
+Inst 81 [- 80 79 78 77] id=1  ddx=1
+Inst 84 [- 83 82 -1 -1] id=2  dmarkerContact[1]=1
+Inst 86 [- 85 84 83 82] id=2  ddx=1
+Inst 87 [- 86 85 84 83] id=2  ddx=1
+Inst 88 [- 87 86 85 84] id=2  ddx=1
+Inst 89 [- 88 87 86 85] id=2  ddx=1
+Inst 90 [- 89 88 87 86] id=2  ddx=1
+Inst 91 [- 90 89 88 87] id=2  ddx=1
+Inst 92 [- 91 90 89 88] id=2  ddx=1
+Inst 93 [- 92 91 90 89] id=2  ddx=1
+Inst 94 [- 93 92 91 90] id=2  ddx=1
+Inst 95 [- 94 93 92 91] id=2  ddx=1
+Inst 96 [- 95 94 93 92] id=2  ddx=1
+Inst 97 [- 96 95 94 93] id=2  ddx=1
+Inst 98 [- 97 96 95 94] id=2  ddx=1
+Inst 99 [- 98 97 96 95] id=2  ddx=1
+KF 102 [- 58] id=1  dmarkerContact[2]=-1
+Inst 104 [- 103 102 101 100] id=1  ddx=1 dmarkerContact[2]=-1
+KF 104 [- 102] id=1  [2] dmarker=-1
+Inst 105 [- 104 103 102 101] id=1  ddx=1 [2] dmarker=-1
+Inst 106 [- 105 104 103 102] id=1  ddx=1
+Inst 107 [- 106 105 104 103] id=1  ddx=1
+Inst 108 [- 107 106 105 104] id=1  ddx=1
+Inst 109 [- 108 107 106 105] id=1  ddx=1
+Inst 110 [- 109 108 107 106] id=1  ddx=1
+Inst 111 [- 110 109 108 107] id=1  ddx=1
+Inst 112 [- 111 110 109 108] id=1  ddx=1
+Inst 113 [- 112 111 110 109] id=1  ddx=1
+Inst 114 [- 113 112 111 110] id=1  ddx=1
+Inst 115 [- 114 113 112 111] id=1  ddx=1
+Inst 116 [- 115 114 113 112] id=1  ddx=1
+Inst 117 [- 116 115 114 113] id=1  ddx=1
+Inst 118 [- 117 116 115 114] id=1  ddx=1
+
+WARNING Frame 120[id=-1]
+
+WARNING Frame 121[id=-1]
+
+WARNING Frame 122[id=-1]
+
+WARNING Frame 123[id=-1]
+
+WARNING Frame 124[id=-1]
+
+WARNING Frame 125[id=-1]
+
+WARNING Frame 126[id=-1]
+
+WARNING Frame 127[id=-1]
+
+WARNING Frame 128[id=-1]
+
+WARNING Frame 129[id=-1]
+
+WARNING Frame 130[id=-1]
+
+WARNING Frame 131[id=-1]
+
+WARNING Frame 132[id=-1]
+
+WARNING Frame 133[id=-1]
+
+WARNING Frame 134[id=-1]
+
+WARNING Frame 135[id=-1]
+
+WARNING Frame 136[id=-1]
+
+WARNING Frame 137[id=-1]
+
+WARNING Frame 138[id=-1]
+
+WARNING Frame 139[id=-1]
+
+WARNING Frame 140[id=-1]
+
+WARNING Frame 141[id=-1]
+
+WARNING Frame 142[id=-1]
+
+WARNING Frame 143[id=-1]
+
+WARNING Frame 144[id=-1]
+
+WARNING Frame 145[id=-1]
+
+WARNING Frame 146[id=-1]
+
+WARNING Frame 147[id=-1]
+
+WARNING Frame 148[id=-1]
+
+WARNING Frame 149[id=-1]
+
+WARNING Frame 150[id=-1]
+
+WARNING Frame 151[id=-1]
+
+WARNING Frame 152[id=-1]
+
+WARNING Frame 153[id=-1]
+
+WARNING Frame 154[id=-1]
+
+WARNING Frame 155[id=-1]
+
+WARNING Frame 156[id=-1]
+
+WARNING Frame 157[id=-1]
+
+WARNING Frame 158[id=-1]
+
+WARNING Frame 159[id=-1]
+
+WARNING Frame 160[id=-1]
+
+WARNING Frame 161[id=-1]
+
+WARNING Frame 162[id=-1]
+
+WARNING Frame 163[id=-1]
+
+WARNING Frame 164[id=-1]
+
+WARNING Frame 165[id=-1]
+
+WARNING Frame 166[id=-1]
+
+WARNING Frame 167[id=-1]
+
+WARNING Frame 168[id=-1]
+
+WARNING Frame 169[id=-1]
+
+WARNING Frame 170[id=-1]
+
+WARNING Frame 171[id=-1]
+
+WARNING Frame 172[id=-1]
+
+WARNING Frame 173[id=-1]
+
+WARNING Frame 174[id=-1]
+
+WARNING Frame 175[id=-1]
+
+WARNING Frame 176[id=-1]
+
+WARNING Frame 177[id=-1]
+
+WARNING Frame 178[id=-1]
+
+WARNING Frame 179[id=-1]
+
+WARNING Frame 180[id=-1]
+
+WARNING Frame 181[id=-1]
+
+WARNING Frame 182[id=-1]
+
+WARNING Frame 183[id=-1]
+
+WARNING Frame 184[id=-1]
+
+WARNING Frame 185[id=-1]
+
+WARNING Frame 186[id=-1]
+
+WARNING Frame 187[id=-1]
+
+WARNING Frame 188[id=-1]
+
+WARNING Frame 189[id=-1]
+
+WARNING Frame 190[id=-1]
+
+WARNING Frame 191[id=-1]
+
+WARNING Frame 192[id=-1]
+
+WARNING Frame 193[id=-1]
+
+WARNING Frame 194[id=-1]
+
+WARNING Frame 195[id=-1]
+
+WARNING Frame 196[id=-1]
+
+WARNING Frame 197[id=-1]
+
+WARNING Frame 198[id=-1]
+
+WARNING Frame 199[id=-1]
+
+WARNING Frame 200[id=-1]
+
+WARNING Frame 201[id=-1]
+
+WARNING Frame 202[id=-1]
+
+WARNING Frame 203[id=-1]
+
+WARNING Frame 204[id=-1]
+
+WARNING Frame 205[id=-1]
+
+WARNING Frame 206[id=-1]
+
+WARNING Frame 207[id=-1]
+
+WARNING Frame 208[id=-1]
+
+WARNING Frame 209[id=-1]
+
+WARNING Frame 210[id=-1]
+
+WARNING Frame 211[id=-1]
+
+WARNING Frame 212[id=-1]
+
+WARNING Frame 213[id=-1]
+
+WARNING Frame 214[id=-1]
+
+WARNING Frame 215[id=-1]
+
+WARNING Frame 216[id=-1]
+
+WARNING Frame 217[id=-1]
+
+WARNING Frame 218[id=-1]
+
+WARNING Frame 219[id=-1]
+
+WARNING Frame 220[id=-1]
+
+WARNING Frame 221[id=-1]
+
+WARNING Frame 222[id=-1]
+
+WARNING Frame 223[id=-1]
+
+WARNING Frame 224[id=-1]
+
+WARNING Frame 225[id=-1]
+
+WARNING Frame 226[id=-1]
+
+WARNING Frame 227[id=-1]
+
+WARNING Frame 228[id=-1]
+
+WARNING Frame 229[id=-1]
+
+WARNING Frame 230[id=-1]
+
+WARNING Frame 231[id=-1]
+
+WARNING Frame 232[id=-1]
+
+WARNING Frame 233[id=-1]
+
+WARNING Frame 234[id=-1]
+
+WARNING Frame 235[id=-1]
+
+WARNING Frame 236[id=-1]
+
+WARNING Frame 237[id=-1]
+
+WARNING Frame 238[id=-1]
+
+WARNING Frame 239[id=-1]
+
+WARNING Frame 240[id=-1]
+
+WARNING Frame 241[id=-1]
+
+WARNING Frame 242[id=-1]
+
+WARNING Frame 243[id=-1]
+
+WARNING Frame 244[id=-1]
+
+WARNING Frame 245[id=-1]
+
+WARNING Frame 246[id=-1]
+
+WARNING Frame 247[id=-1]
+
+WARNING Frame 248[id=-1]
+
+WARNING Frame 249[id=-1]
+
+WARNING Frame 250[id=-1]
+
+WARNING Frame 251[id=-1]
+
+WARNING Frame 252[id=-1]
+
+WARNING Frame 253[id=-1]
+
+WARNING Frame 254[id=-1]
+
+WARNING Frame 255[id=-1]
+
+WARNING Frame 256[id=-1]
+
+WARNING Frame 257[id=-1]
+
+WARNING Frame 258[id=-1]
+
+WARNING Frame 259[id=-1]
+
+WARNING Frame 260[id=-1]
+
+WARNING Frame 261[id=-1]
+
+WARNING Frame 262[id=-1]
+
+WARNING Frame 263[id=-1]
+
+WARNING Frame 264[id=-1]
+
+WARNING Frame 265[id=-1]
+
+WARNING Frame 266[id=-1]
+
+WARNING Frame 267[id=-1]
+
+WARNING Frame 268[id=-1]
+
+WARNING Frame 269[id=-1]
+
+WARNING Frame 270[id=-1]
+
+WARNING Frame 271[id=-1]
+
+WARNING Frame 272[id=-1]
+
+WARNING Frame 273[id=-1]
+
+WARNING Frame 274[id=-1]
+
+WARNING Frame 275[id=-1]
+
+WARNING Frame 276[id=-1]
+
+WARNING Frame 277[id=-1]
+
+WARNING Frame 278[id=-1]
+
+WARNING Frame 279[id=-1]
+
+WARNING Frame 280[id=-1]
+
+WARNING Frame 281[id=-1]
+
+WARNING Frame 282[id=-1]
+
+WARNING Frame 283[id=-1]
+
+WARNING Frame 284[id=-1]
+
+WARNING Frame 285[id=-1]
+
+WARNING Frame 286[id=-1]
+
+WARNING Frame 287[id=-1]
+
+WARNING Frame 288[id=-1]
+
+WARNING Frame 289[id=-1]
+
+WARNING Frame 290[id=-1]
+
+WARNING Frame 291[id=-1]
+
+WARNING Frame 292[id=-1]
+
+WARNING Frame 293[id=-1]
+
+WARNING Frame 294[id=-1]
+
+WARNING Frame 295[id=-1]
+
+WARNING Frame 296[id=-1]
+
+WARNING Frame 297[id=-1]
+
+WARNING Frame 298[id=-1]
+
+WARNING Frame 299[id=-1]
+

@@ -1,0 +1,31 @@
+Insert file Start experiment.
+
+First perspective.
+
+South Korea is an entity.
+North Korea is an entity.
+
+Start story titled "North Korean conflict".
+
+North Korea had missiles in space. 
+South Korea felt threatened.
+South Korea ordered North Korea to withdraw the missiles.
+
+The end.
+
+Second perspective.
+
+Egypt is an entity.
+Israel is an entity.
+
+Start story titled "Six Day War".
+
+Egypt thought that Israel had troops on the border of Egypt.
+Egypt had troops of Egypt on the border of Egypt.
+Israel felt threatened.
+Israel ordered Egypt to withdraw the troops.
+Egypt did not withdraw the troops.
+Israel attacked the Egypt.
+Israel destroyed the Egypt.
+
+The end.

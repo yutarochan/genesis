@@ -1,0 +1,31 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+Start Story titled "IED 3".
+Agent-2 retrieves Explosive-Materials-1 from Location-1-5.
+Agent-2 travels to Location-9-5.
+Agent-2 builds IED-1 using Explosive-Materials-1.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-88-5.
+Agent-3 places IED-1 at Location-5-5.
+IED-1 detonates IED-1.
+
+Second perspective.
+Start Story titled "IED 2".
+Agent-1 meets Agent-2 at Location-1-1.
+Agent-1 gives IED-1 to Agent-2.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+Agent-3 detonates IED-1.
+Agent-3 makes a phone call.
+
+Both perspectives.
+The end.

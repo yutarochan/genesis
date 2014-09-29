@@ -1,0 +1,19 @@
+Start experiment.
+
+Start story titled "Jane and Alan".
+
+Alan is a lawyer.
+
+Jane is a waitress.
+
+Alan goes to cafe.  Alan meets Jane.
+
+Alan and Jane buy a house.
+
+Jane cheats on Alan.
+
+Alan becomes angry.
+
+Alan kills Jane.
+
+The end.

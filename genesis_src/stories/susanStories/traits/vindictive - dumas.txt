@@ -1,0 +1,27 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX kills YY, then XX harms YY.
+
+Insert file vindictiveness reflective knowledge.
+
+Start story titled "Monte Cristo".
+
+Edmond is a person.
+Ferdinand is a person.
+Mercedes is a person.
+
+Mercedes is Edmond's fiance.
+Ferdinand harms Edmond because Ferdinand marries Mercedes.
+Edmond wants to harm Ferdinand because Ferdinand harms Edmond.
+
+Edmond kills Ferdinand because Ferdinand harms Edmond.
+Edmond kills Ferdinand because Edmond wanted to harm Ferdinand.
+
+The end.

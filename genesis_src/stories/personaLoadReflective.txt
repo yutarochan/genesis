@@ -1,0 +1,69 @@
+Start reflective knowledge.
+
+First perspective.
+
+// Action does not work
+/*
+Start description of "Success".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming happy.
+The end.
+
+Start description of "Mistake".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "Leadership achieved".
+xx is an entity.
+yy is a position.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Insane violence".
+xx is an entity.
+yy is a entity.
+xx's being not sane leads to xx's killing yy.
+The end.
+
+Start description of "Answered prayer".
+xx is an entity.
+xx's wanting an action leads to the action.
+The end.
+
+
+Start description of "Pyrrhic victory".
+xx is an entity.
+yy is anything.
+xx's wanting yy leads to xx's becoming happy.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+
+Start description of "Suicide".
+xx is an entity.
+xx kills xx.
+The end.
+
+Start description of "Unwarranted Revenge".
+xx is an entity.
+yy is a entity.
+xx is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Teaching a lesson".
+xx is an entity.
+yy is a entity.
+yy is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+*/

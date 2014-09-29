@@ -1,0 +1,51 @@
+
+transitions/vsr3/rf/collide2.txt has 300 RefFrames.
+transitions/vsr3/rf/collide2.txt has 3 markers.
+KF 110 [- 0] id=1  [0] dmarker=1
+KF 111 [- -1] id=0  [0] dmarker=1
+Inst 115 [- 114 113 112 111] id=0  dfoaSize=1 ddx=1 [1] dR=-1 dTheta=0
+Inst 116 [- 115 114 113 112] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 117 [- 116 115 114 113] id=0  ddx=1 [1] dR=-1 dTheta=0
+KF 117 [- 111] id=0  [1] dR=-1 dTheta=0
+Inst 118 [- 117 116 115 114] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 119 [- 118 117 116 115] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 120 [- 119 118 117 116] id=0  ddx=1 [1] dR=-1 dTheta=0
+KF 120 [- 117] id=0  dmarkerContact[1]=1
+Inst 121 [- 120 119 118 117] id=0  ddx=1 [1] dR=-1 dTheta=0 dmarkerContact[1]=1
+Inst 122 [- 121 120 119 118] id=0  ddx=1 [1] dR=-1 dTheta=0 dmarkerContact[1]=1
+Inst 123 [- 122 121 120 119] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 124 [- 123 122 121 120] id=0  ddx=1 ddy=1 [1] dR=-1 dTheta=-1
+Inst 125 [- 124 123 122 121] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 126 [- 125 124 123 122] id=0  ddx=1
+Inst 127 [- 126 125 124 123] id=0  ddx=1
+Inst 128 [- 127 126 125 124] id=0  ddx=1 [1] dR=1 dTheta=0
+KF 129 [- 110] id=1  [0] dR=-1 dTheta=0 dmarkerContact[0]=1
+Inst 131 [- 130 129 -1 -1] id=1  dmarkerContact[0]=1
+Inst 133 [- 132 131 130 129] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 134 [- 133 132 131 130] id=1  ddx=1 ddy=1
+KF 134 [- 129] id=1  dmarkerContact[0]=-1
+Inst 135 [- 134 133 132 131] id=1  ddx=1 dmarkerContact[0]=-1
+Inst 136 [- 135 134 133 132] id=1  ddx=1 dmarkerContact[0]=-1
+Inst 137 [- 136 135 134 133] id=1  ddx=1 ddy=-1 [0] dR=1 dTheta=0
+Inst 138 [- 137 136 135 134] id=1  ddx=1 ddy=-1 [0] dR=1 dTheta=0
+Inst 139 [- 138 137 136 135] id=1  ddx=1 ddy=-1 [0] dR=1 dTheta=-1
+Inst 140 [- 139 138 137 136] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 141 [- 140 139 138 137] id=1  ddx=1
+Inst 142 [- 141 140 139 138] id=1  ddx=1
+Inst 143 [- 142 141 140 139] id=1  ddx=1 ddy=1 [0] dR=0 dTheta=1
+Inst 144 [- 143 142 141 140] id=1  ddx=1
+Inst 145 [- 144 143 142 141] id=1  ddx=1
+Inst 146 [- 145 144 143 142] id=1  ddx=1
+KF 147 [- 120] id=0  dmarkerContact[1]=-1
+KF 256 [- 134] id=1  dmarkerContact[0]=1
+KF 257 [- 256] id=1  dmarkerContact[0]=-1
+Inst 263 [- 262 261 260 259] id=1  [0] dR=1 dTheta=0
+Inst 266 [- 265 263 262 261] id=1  [0] dR=1 dTheta=0
+Inst 267 [- 266 265 263 262] id=1  [0] dR=1 dTheta=0
+Inst 268 [- 267 266 265 263] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 269 [- 268 267 266 265] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 270 [- 269 268 267 266] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 271 [- 270 269 268 267] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 272 [- 271 270 269 268] id=1  ddx=1 [0] dR=1 dTheta=0
+Inst 276 [- 275 274 273 272] id=1  ddx=1 [0] dR=1 dTheta=0
+

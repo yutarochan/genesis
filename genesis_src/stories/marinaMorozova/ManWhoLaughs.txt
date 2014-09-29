@@ -1,0 +1,182 @@
+Insert file Start experiment.
+
+   First perspective.
+   
+ Show first perspective.
+ 
+ Start commonsense knowledge.
+ 
+ xx is an entity.
+ yy is an entity.
+ If xx gives money to yy then xx enriches yy.
+ 
+ If yy kidnaps xx then yy harms xx.
+ If yy is a child and xx harms yy then yy is evil.
+ If xx is a noble and yy is a son of xx then yy is a noble.
+ xx harms yy because xx harms zz and zz is yy's son.
+ xx prefers yy to zz because xx dislikes zz and xx loves yy.
+ xx prefers yy to zz because xx is noble and yy is noble and zz is noble and xx takes money from zz and xx gives money to yy.
+ if yy defaces xx then yy harms xx .
+ xx may want to harm yy because xx envies yy.
+ xx may dislike yy because yy disrespect xx.
+xx may feed yy because yy is starving and xx is good.
+xx may help yy because yy is a child and yy starves and xx is good.
+yy may kidnap yy because yy is zz's son and yy dislikes zz.
+xx may dislike yy because yy contradicts xx.
+xx may take money from yy because xx dislike zz and yy is zz's son.
+
+
+xx is evil because xx kidnaps yy and yy is a child.
+xx may dislike yy because xx is good and yy is vicious.
+
+
+if xx is a king, then xx is a noble.
+
+xx may abandon xx because xx is evil and yy is a child.
+
+if yy takes money from xx then xx is poor.
+
+// 
+
+if yy is a king and xx is republican then xx contradicts yy.
+
+// xx abandons yy because xx is the mother of yy and xx is dead.
+
+// xx's mother abandons xx because xx's mother is dead.
+
+// yy abandons xx because yy is xx's mother and yy is dead and xx is a child.
+
+xx may starve because xx is a child and xx is alone.
+xx may be cold because xx is a child and xx is alone.
+xx may be alone because yy abandons xx.
+
+//xx may starve because yy abandons xx and xx is a child.
+//xx may be cold because yy abandons xx and xx is a child.
+
+xx may disrespect yy because xx is rich and yy is poor.
+
+// xx may disrespect yy because yy is poor.
+
+xx may disrespect yy because xx is mean and yy is ugly.
+
+xx is mean because xx is a noble.
+
+xx cannot be mean because xx is poor.
+
+
+
+ Start reflective knowledge.
+ // Done.
+ Start description of "Crazy waste".
+ I am greedy.
+xx is a person.
+yy is a person.
+yy promises money to xx.
+xx refuses money.
+ The end.
+    // Done.
+
+
+
+ Start description of "Strengthening power".
+ I am Machiavellian.
+ xx is a noble.
+ yy is a noble.
+ zz is a noble.
+  yy contradicts xx.
+ zz is neutral.
+ xx harms yy.
+ xx enriches zz.
+ // xx is James, yy is Clancharlie, and zz is David
+ The end.
+
+
+ // Done.
+ Start description of "Love prevails over greed".
+ I am romantic.
+xx is a entity.
+yy is a entity.
+zz is an entity.
+yy is rich.
+zz is poor.
+xx refuses to marry yy because xx loves zz.
+
+  The end.
+
+
+
+    Start story titled "The Man Who Laughs".
+    
+   I am Machiavellian.
+ I am greedy.
+ I am romantic.
+ Clancharlie is a person.
+
+ James is a person.
+
+
+
+
+
+David is a person.
+Dea is a person.
+Ursus is a person.
+Josiana is a person.
+Anne is a person.
+Lords is a person.
+Lords is rich.
+Lords is a noble.
+Dea is poor.
+Ursus is poor.
+Dea is a child.
+
+Ursus is good.
+Josiana is vicious.
+Gwynplaine loves Dea.
+Josiana is rich.
+
+Comprachicos is a person.
+
+Gwynplaine is a son of Clancharlie.
+David is a son of Clancharlie.
+Clancharlie is republican.
+Clancharlie is a noble.
+
+James dislikes Clancharlie.
+
+Gwynplaine is a child.
+Gwynplaine is good.
+
+James is a king.
+
+James kidnaps Gwynplaine and James sells Gwynplaine to Comprachicos. // because Clancharlie contradicts James.
+
+
+Clancharlie dies.
+
+David is neutral.
+James takes money from Gwynplaine.
+James gives money to David.
+
+Gwynplaine is ugly because Comprachicos deface Gwynplaine.
+Comprachicos abandons Gwynplaine.
+Gwynplaine is alone.
+Gwynplaine starves and Gwynplaine is cold.
+Dea is alone because Dea is an orphan.
+Gwynplaine finds Dea.
+Gwynplaine helps Dea because Dea starves and Dea is cold.
+Ursus feeds Gwynplaine and Dea because Ursus meets Gwynplaine and Dea.
+Gwynplaine loves Dea because Dea is good.
+
+Comprachicos confess that Comprachicos defaced Gwynplaine.
+Anne envies Josiana because Josiana is beautiful.
+Anne promises money to Gwynplaine because Anne wants Gwynplaine to marry Josiana.
+Anne wants Gwynplaine to marry Josiana because Anne wants to harm Josiana and because Gwynplaine is ugly.
+Lords laugh because Gwynplaine speaks to Lords and Lords disrespect Gwynplaine.
+Gwynplaine refuses to marry Josiana because Gwynplaine loves Dea and because Gwynplaine dislike Lords and because Gwynplaine dislikes Josiana.
+Gwynplaine refuses money because Gwynplaine refuses to marry Josiana.
+Gwynplaine continues living with Ursus and Dea because Ursus is good and Dea is good and because Gwynplaine dislike Lords and because Gwynplaine dislike Josiana.
+
+
+
+   The end.

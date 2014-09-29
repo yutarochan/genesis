@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+Insert file Conflict commonsense knowledge.
+
+Insert file Conflict reflective knowledge.
+
+// Stories
+// Civil war
+Insert file AAAmericanRevolution plot.
+Insert file AfghanistanCivilWar plot.
+Insert file AmericanCivilWar plot.
+Insert file NigerianCivilWar plot.
+
+// Land dispute
+Insert file CambodiaVietnamInvasion plot.
+Insert file ChinaBorderWarWithIndia plot.
+Insert file ChinaBorderWarWithUSSR.
+
+// Invasion
+Insert file ChadLibyanWar plot.
+Insert file ChinaInvasionOfTibet plot.
+Insert file CubaBayOfPigsInvasion plot.
+Insert file CzechoslovakiaSovietInvasion plot.
+
+// Revenge
+Insert file PersianGulfWar plot.
+Insert file ChinaWarWithVietnam plot.
+
+// Political Execution
+Insert file RomaniaCeausescu plot.
+
+// Nothin
+Insert file CongoCivilConflict plot.

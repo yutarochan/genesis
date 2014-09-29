@@ -1,0 +1,29 @@
+Start Experiment.
+
+First perspective.
+
+Start story titled "Claudius".
+
+Insert file Claudius Character.
+
+The end.
+
+Clear story memory.
+
+Start Experiment.
+
+Start story titled "Hamlet".
+
+Insert file Hamlet Character.
+
+The end.
+
+Clear story memory.
+
+Start Experiment.
+
+Start story titled "King Hamlet".
+
+Insert file King Hamlet Character.
+
+The end.

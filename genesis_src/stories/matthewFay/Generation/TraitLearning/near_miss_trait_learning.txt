@@ -1,0 +1,15 @@
+Insert file define_trait_names.
+
+Clear story memory.
+
+Start experiment.
+Insert file Macbeth1 common.
+Insert file Hamlet1 Common.
+
+Set right panel to trait viewer.
+
+Macbeth and Claudius are vicious.
+Duncan is not vicious.
+
+Macbeth, Claudius, Hamlet, and Macduff are violent.
+Duncan is not violent.

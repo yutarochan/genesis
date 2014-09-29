@@ -1,0 +1,11 @@
+Start experiment.
+
+First Perspective.
+
+Insert file Matt General Commonsense Knowledge.
+
+Insert file Matt General Reflective Knowledge.
+
+Start story titled "Much Ado About Nothing".
+Insert file Much Ado Plot.
+The end.

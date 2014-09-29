@@ -1,0 +1,21 @@
+
+Community standards for check in
+
+1. We will not check in any code unless our it produces the results expected for the check in test files.
+   The check-in test files are activated as follows:
+   o Navigate to Controls > Debugging > Check in tests
+   o Click on all the buttons and compare your results with those in this directory
+   
+2. Also run QuickTests.java in the test package
+   
+3. Whenever working in those parts of the system everyone depends on, we will comment
+   all changes with our name (or email address) and date (3 July 2013).
+   
+4. We will not change any file names in the corpora stories without changing them wherever used.
+
+5. We will not check in code with debugging print statements that produce copious output.
+
+
+
+
+

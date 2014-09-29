@@ -1,0 +1,8 @@
+Insert file Start experiment.
+
+Set right panel to summary.
+
+Set bottom panel to elaboration graph.
+
+Insert file Estonia2 common.
+

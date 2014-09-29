@@ -1,0 +1,107 @@
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Success".
+xx is an entity.
+aa is an action.
+xx's wanting aa leads to aa.
+aa leads to xx's becoming happy.
+The end.
+
+Start description of "Answered prayer".
+xx is an entity.
+aa is an action.
+xx's wanting aa leads to aa.
+The end.
+
+
+Start description of "Mistake because unhappy".
+xx is an entity.
+aa is an action.
+xx's wanting aa leads to xx's becoming unhappy.
+The end.
+
+Start description of "Mistake because harmed".
+xx is an entity.
+yy is an entity.
+aa is an action.
+xx's wanting aa leads to yy's harming xx.
+The end.
+
+Start description of "Mistake because harmed".
+xx is an entity.
+yy is an entity.
+xx's insulting yy leads to yy's harming xx.
+The end.
+
+/*
+Start description of "Mistake".
+xx is an entity.
+yy is an entity.
+aa is an action.
+xx's performing aa leads to yy's harming xx.
+The end.
+*/
+
+Start description of "Insane violence".
+xx is an entity.
+yy is a entity.
+xx's being not sane leads to xx's killing yy.
+The end.
+
+Start description of "Pyrrhic victory".
+xx is an entity.
+aa is an action.
+zz is an entity.
+xx's wanting aa leads to xx's becoming happy.
+xx's wanting aa leads to zz's harming xx.
+The end.
+
+Start description of "Suicide".
+xx is an entity.
+xx kills xx.
+The end.
+
+Start description of "Insane Suicide".
+xx is an entity.
+xx's becoming crazy leads to xx's killing xx.
+The end.
+
+// From Afganistan story
+
+Start description of "Retribution".
+xx is an entity.
+yy is an entity.
+zz's assisting xx leads to yy's harming zz.
+The end.
+
+Start description of "Sell out".
+xx is an entity.
+yy is a entity.
+zz is a entity.
+yy is an enemy of zz.
+yy help xx.
+I am a friend of yy.
+zz's helping xx leads to xx's angering yy.
+The end.
+
+Start description of "Misguided retaliation".
+xx is an entity.
+yy is a entity.
+xx is my friend.
+xx's angering yy leads to yy's harming xx.
+The end.
+
+Start description of "Teaching a lesson".
+xx is an entity.
+yy is a entity.
+yy is my friend.
+xx's angering yy leads to yy's harming xx.
+The end.
+
+
+
+

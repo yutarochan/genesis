@@ -1,0 +1,23 @@
+Start experiment.
+
+First perspective.
+Start story titled "Many Likes".
+Alpha likes Beta.
+Beta likes Gamma.
+Gamma likes John.
+John likes Mary.
+Mary likes Bill.
+Bill likes William.
+William likes the dog.
+The dog likes cats.
+Cats like Sally.
+Sally likes Delta.
+Sally likes Epsilon.
+Sally likes Omega.
+Bill likes Sally.
+The end.
+
+Second Perspective.
+Start story titled "One Like".
+Tom likes Jerry.
+The end.

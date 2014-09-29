@@ -1,0 +1,39 @@
+// Not this time!!  Want to insert from another mental model
+// Insert file Start experiment.
+
+// Rules
+
+/* None in this version, want to insert from another mental model
+Start commonsense knowledge.
+
+Anne is a person.
+
+Anne is shy because she hides.
+
+If xx kills yy, then yy becomes dead.
+
+If yy becomes dead, then yy may become unhappy.
+
+// Concept
+
+Start reflective knowledge.
+
+Start description of "Crime".
+xx is a person.
+yy is a person.
+xx's killing yy leads to yy's becoming unhappy.
+The end.
+
+*/
+
+Start story titled "Tragedy of Genesis".
+
+Macbeth, Duncan, and Macduff are persons.
+
+Macbeth kills Duncan.
+
+Macbeth hides.
+
+Duncan becomes unhappy.
+
+The end.

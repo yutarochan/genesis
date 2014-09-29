@@ -1,0 +1,13 @@
+Start commonsense knowledge.
+
+ww, xx, yy, and zz are persons.
+
+// yy may kill ww because yy is not sane.
+
+If yy kills ww then yy must not be sane.
+
+Start reflective knowledge.
+
+Start story titled "Western person's characteristics".
+
+The end.

@@ -1,0 +1,16 @@
+Insert file start experiment.
+
+Start commonsense knowledge.
+
+if xx is dear to yy then yy is happy.
+
+Start story titled "Test test test".
+
+Marina is a person.
+Boris is a person.
+Masha is a person.
+
+Boris helps Marina because Marina is his relative.
+
+
+The end.

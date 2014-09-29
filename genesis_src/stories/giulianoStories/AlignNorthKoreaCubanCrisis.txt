@@ -1,0 +1,29 @@
+Insert file Start experiment.
+
+First perspective.
+
+South Korea is an entity.
+North Korea is an entity.
+
+Start story titled "North Korean conflict".
+
+North Korea had missiles in space. 
+South Korea felt threatened.
+South Korea ordered North Korea to withdraw the missiles.
+
+The end.
+
+Second perspective.
+
+USSR is an entity.
+USA is an entity.
+
+Start story titled "Cuban Missile Crisis".
+
+USA had missiles aimed at USSR.
+USSR moved missiles to aim to USA.
+USA felt threatened.
+USA ordered USSR to withdraw the missiles.
+USSR withdrew its missiles.
+
+The end.

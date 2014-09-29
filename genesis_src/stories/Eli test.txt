@@ -1,0 +1,13 @@
+Insert file Start experiment.
+
+Start story.
+
+Know that the senator cannot fly.
+
+Assume "eagle" means "bird".
+
+Know that the eagle can fly.
+
+The hawk flew.
+
+The end.

@@ -1,0 +1,24 @@
+/*
+Germany should end up happy.  Tests use of unspecified action in rule.
+See picture.
+*/
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX is an entity.
+
+LL is a location.
+
+XX becomes happy because XX wanted an action to occur and the action occurred.
+
+Start story.
+
+Germany wanted to move toward democracy.
+
+Germany moved toward democracy.
+
+The End.
+
+Start general knowledge.

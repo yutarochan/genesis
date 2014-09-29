@@ -1,0 +1,90 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 1.txt.
+
+Start commonsense knowledge.
+
+xx, yy and zz are entities.
+if yy chases xx then yy troubles xx.
+if yy is a king of Argos then yy is mighty.
+if xx troubles yy and zz fights xx then zz helps yy.
+
+
+
+First perspective.
+
+Start story titled "The Supplicants by Aeschylus".
+
+Danaids are persons.
+Egyptians are persons.
+Pelasgus is a person.
+Hypermnestra is a woman.
+Argos is a place.
+Lynceus is a person.
+Afrodita is a deity.
+
+
+Egyptians propose Danaids because Danaids are beautiful.
+Danaids reject Egyptians because Danaids dislike Egyptians.
+Egyptians attack Danaids because Danaids reject Egyptians.
+Egyptians chases Danaids.
+Danaids flee.
+Danaids come to Argos.
+Pelasgus is the king of Argos.
+Pelasgus does not plan to help Danaids. 
+Danaids ask Pelasgus to help Danaids.
+Pelasgus asks people for advice because Pelasgus doubts.
+Pelasgus helps Danaids because people persuade him to help Danaids.
+Egyptians attack Pelasgus because Pelasgus helps Danaids.
+Danaids marry Egyptians because Egyptians defeat Pelasgus.
+Then, Danaids kill Egyptians while Egyptians sleep because Danaids plotted against Egyptians.
+
+Hypermnestra is one of the Danaids.
+Lynceus is one of the Egyptians.
+Lynceus is Hypermnestra's husband.
+Hypermnestra does not kill Lynceus because she likes Lynceus.
+People judge Hypermnestra because Hypermnestra does not kill Lynceus.
+Afrodita does not plan to help Hypermnestra because Hypermnestra does not ask Afrodita to help Hypermnestra.
+Hypermnestra does not ask Afrodita to help Hypermnestra but Afrodita helps Hypermnestra.
+People discharge Hypermnestra because Afrodita helps Hypermnestra.
+Lynceus and Hypermnestra are happy because people discharge Hypermnestra.
+
+The end.
+
+Second perspective.
+
+Start story titled "Chryses by Sophocles".
+
+Chryses is a person.
+Chryseis is a person.
+Orest and Pilad are persons.
+Agamemnon is a person.
+Apollo is a deity.
+Thoas is a person.
+
+Chryses is Agamemnon's son.
+Chryseis is Chryses's mother.
+Chryseis claims that Chryses is Apollo's son.
+Chryses is mighty.
+
+Orest and Pilad are Agamemnon's relatives.
+Orest and Pilad go to Crimea.
+Thaos is the king of Crimea.
+Orest and Pilad commit theft.
+
+Thaos is angry because Orest and Pilad steal statue.
+Thaos chases Orest and Pilad.
+
+Orest and Pilad ask Chryses to help Orest and Pilad.
+Chryses does not plan to help Orest and Pilad.
+
+Chryseis tells Chryses that Orest and Pilad are Chryses's relatives because Chryseis wants to help Orest and Pilad.
+
+Thaos dies because Chryses fights Thaos.
+Orest and Pilad are relieved because Thaos dies.
+
+
+
+The end.

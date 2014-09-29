@@ -1,0 +1,9 @@
+Start description of "+ emotional impact".
+yy is an entity.
+xx's performing aa leads to yy's becoming happy.
+The end.
+
+Start description of "- emotional impact".
+yy is an entity.
+xx's performing aa leads to yy's becoming unhappy.
+The end.

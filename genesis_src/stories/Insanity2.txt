@@ -1,0 +1,48 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+Insert file Legal Commonsense.
+
+First perspective.
+xx may believe yy is evil because xx is not sane.
+xx may kill yy because xx believes yy is evil.
+
+Second perspective.
+
+xxx is an entity.  yyy is an entity.
+
+If xxx cheats yyy, then xxx harms yyy.
+If xxx harms yyy, then yyy wants to kill xxx.
+if xxx wants to kill yyy, then xxx may kill yyy.
+
+Both perspectives.
+
+Insert file Legal Reflections.
+
+First perspective.
+
+Start story titled "Innocent/Insanity".
+
+Second perspective.
+
+Start story titled "Murder".
+
+Both Perspectives.
+
+Norris is a person.
+
+Demiko is a person.
+
+Demiko cheated Norris.
+
+// Careful, this makes Demiko no longer a person.
+
+Norris believed that Demiko is evil.
+
+Norris killed Demiko.
+
+The end.
+
+
+

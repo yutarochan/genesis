@@ -1,0 +1,30 @@
+Beowulf is a person.
+Hrothgar is a person.
+Grendel is a monster.
+Grendels_mother is a monster.
+The dragon is a monster.
+The Danes are an entity.
+
+Grendels_mother is Grendel's parent.
+
+Hrothgar is king.
+Hrothgar rules the Danes.
+
+Grendel eats the Danes.
+
+Beowulf wants to help Hrothgar.
+Beowulf attacks Grendel.
+Beowulf kills Grendel.
+
+Grendels_mother attacks the Danes.
+Grendels_mother attacks Beowulf.
+Beowulf attacks Grendels_mother.
+Beowulf kills Grendels_mother.
+
+Hrothgar dies.
+
+The dragon attacks the Danes.
+Beowulf attacks the dragon.
+The dragon wounds Beowulf.
+Beowulf kills the dragon.
+Beowulf dies.

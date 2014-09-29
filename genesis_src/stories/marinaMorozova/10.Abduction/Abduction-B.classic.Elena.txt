@@ -1,0 +1,47 @@
+Start experiment.
+
+Start description of "Abduction-B".
+
+xx is an entity.
+yy is a woman.
+
+xx wants yy.
+xx kidnaps yy with yy's consent.
+
+The end.
+
+
+Start story titled "Story of Helen".
+
+Note that Peleus is a name.
+Note that Fetida is a name.
+Note that Erida is a name.
+Note that Afrodita is a name.
+Note that Athena is a name.
+Note that Hera is a name.
+Note that Paris is a name.
+Note that Menelay is a name.
+
+Sparta is a place.
+Critus is a place.
+
+Afrodita, Athena and Hera are deities.
+Paris is a person.
+Helena is a woman.
+Erida is a deity of discord.
+
+Peleus and Fetida have a wedding; Peleus and Fetida invite deitites.
+Peleus and Fetida do not invite Erida; Erida becomes angry; Erida makes Hera, Athena and Afrodita to compete in beauty. //Hera, Athena and Afrodita compete in beauty.
+Gods ask Paris to pick the winner.
+In order to bribe Paris Afrodita promises Paris Helena.
+Paris wants Helena because Helena is beautiful.
+Paris gives the victory to Afrodita because Afrodita bribes Paris.
+Helena is Menelay's wife. Menelay is a king of Sparta.
+In order to get Helena Paris comes to Sparta.
+Menelay leaves Sparta because Menelay's grandfather dies on Critus.
+Paris seduces Helena because Afrodita promises Paris Helena.
+Paris kidnaps Helena with Helena's consent.
+Paris takes Helena to Troy.
+Menelay sieges Troy; Troy falls; Menelay recaptures Helena.
+
+The end.

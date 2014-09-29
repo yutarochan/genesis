@@ -1,0 +1,114 @@
+/** Capen Low - 1/21/10
+ *   Finally, after actually getting some mobile operations going in CSAIL, I can compile my notes on
+ * Frank Herbert's sci-fi masterpiece, Dune, which I'll be using as a foundational first step in
+ * international relations.  The story is straight-forward at the level of resolution that we've been
+ * using for the works of Shakespeare up to this point.  The story encompasses a lot of basic elements
+ * of nations, rivalries, hierarchies, and several forms of 'goal inheritance'.  I should mention that
+ * Goal Inheritance refers to those cases whereby one actor takes on the goals/motivations of another
+ * actor by any means, including intimidation, sympathy, or the actors literally encompassing one another.
+ *
+ *   All told, I'm very excited to see this work.  If we get all the little Revenges and political movements
+ * down correctly, then we should see a very exciting unit indeed: the COERCED AGREEMENT BUNGLED, wherein
+ * we see that the Guild, through the Navigator, extracts a promise to kill Paul from the Emperor Shaddam IV.
+ * Shaddam IV executes a plan whereby he tries to endanger Paul by slighting House Harkonnen, the rivals of
+ * Paul's native House Atreides, in favor of the Atreides, knowing that the Harkonnen are vindictive and cruel.
+ * Shaddam removes the Harkonnen as overseers of the planet Dune, the only known source of the Spice, Melange,
+ * a valuable resource needed for any form of significant space travel, thus making the Spice quite necessary to
+ * the Spacing Guild.
+ *
+ *  In any case, the plan doesn't work and Shaddam ends up killed, so we'll see that he fails to fulfill his
+ * promise and so on.
+ */
+ 
+ 
+/*  RULES -- These aren't phrased properly yet for the most part, these are just textual copies
+
+1. XX [Entity] want AA [Action] + AA ==> XX happy [and inverse]
+2. [BELIEF] --- we'll just have to state this as fact for now, but must go in later.
+3. [CONTRAPOSITIVE] --- applies to logical statements.  beware of inf. loops.
+4. Inverse of 1.
+
+5. XX may COMPEL YY [Entity] to perform AA if XX INTIMIDATES YY
+6. If XX COMPELS YY to perform AA, then YY does AA.  ---  just to be clear
+
+7. HIERARCHICAL GOALS
+7a. If XX JOINS YY, then XX becomes member of YY.
+7b. If XX LEADS YY + XX wants AA ===> YY wants AA.
+7c. If XX REPRESENTS YY + YY wants AA ===> XX wants AA.
+
+8. States want to control Regions.
+
+9. If XX GOVERNS BB [Bloc] + YY is a member of BB ===> XX GOVERNS YY
+10. If XX governs YY and ZZ [Entity] + YY controls RR [Region] ===>  XX may grant RR to ZZ
+11. If XX grants RR to ZZ, then ZZ controls YY.
+11b. ONLY ONE ENTITY CONTROLS ANY GIVEN REGION AT ONCE [figure out way to phrase this - probably "becomes controller..."]
+
+12. If XX attacks YY at RR ==>
+         XX harms YY,
+         XX may kill PP [Person] who is at RR,
+         YY may kill PP who is at RR,
+         RR's controller may stop controlling RR.  //Note: Controller not necessarily YY.
+         XX may start controlling RR.  //Note: Might want a separate conquest rule or something.
+
+*/ 
+
+
+Clear text.
+
+Start story.  //Loosely copied from whiteboard
+
+//Background
+Atreides, Harkonnen, Corrino, Guild, and Fremen are nations.
+ShaddamIV, Navigator, Paul, Leto, and Baron are persons.
+ShaddamIV leads Corrino.
+Navigator represents Guild.
+Paul is a member of Atreides.
+Leto leads Corrino.
+Leto is Paul's father.
+Baron leads Harkonnen.
+Landsraad is a bloc.
+Corrino, Atreides, and Harkonnen are members of Landsraad.
+Dune, Caladan, and GiediPrime are regions.
+Atreides controls Caladan.
+Harkonnen controls GiediPrime.
+Spice is a resource.
+Dune contains Spice.
+
+// Act I - Imperial Conspiracy
+Guild want that spice flows.
+/*Guild believe that*/ Spice does not flow because Paul is not dead.  // Note: need the Contrapositive to work here.
+
+Guild intimidates Corrino.
+
+Navigator compels ShaddamIV to want that Paul becomes dead.
+
+
+// Act II - Dune
+Harkonnen controls Dune.
+
+Spice flows because Harkonnen controls Dune and Dune contains Spice and Harkonnen is a member of Landsraad.
+
+Baron wants that Leto becomes dead.
+Corrino grants Dune to Atreides.
+Paul and Leto go to Dune.
+
+
+// Act III - Assault and Flight
+Baron goes to Dune.
+Harkonnen attacks Atreides at Dune.
+Harkonnen kills Leto.
+Atreides stops controlling Dune.
+
+Paul joins Fremen.
+Fremen want that spice does not flow.
+
+Harkonenn controls Dune.
+ShaddamIV goes to Dune.
+
+
+// Act IV - Liberation
+Fremen attack Harkonnen at Dune.
+Fremen kills Baron and ShaddamIV.
+Fremen controls Dune.
+
+The End.

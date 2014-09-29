@@ -1,0 +1,21 @@
+// Example of what Hamlet might do (Simba Model)
+
+Hamlet is a person.
+
+King Hamlet is generic.
+
+Claudius is generic.
+
+Hamlet is King Hamlet's son.
+
+Claudius scares away Hamlet.
+
+Hamlet runs away.
+
+Hamlet returns.
+
+Claudius poisons Hamlet.
+
+Hamlet kills Claudius.
+
+Hamlet dies.

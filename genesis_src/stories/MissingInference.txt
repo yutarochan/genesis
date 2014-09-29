@@ -1,0 +1,43 @@
+Insert file Start experiment.
+
+// Insert file General commonsense knowledge.
+
+Alice is a person.
+
+xx is an entity.
+
+yy is an entity.
+
+
+XX may fall because XX runs and XX holds YY.
+
+XX drops YY because XX falls and XX holds YY.
+
+XX slows down because XX runs and XX holds YY.
+
+XX fails because XX falls and XX drops YY.
+
+XX worries because XX slows down and XX drops YY.
+
+//"XX learns" cannot be inferred using "XX worries" , but can be inferred from "XX drops YY".
+//Also, NullPointerException might sometimes blow out with the rule below. Haven't caught it yet.
+XX may learn because XX fails and because XX worries.
+//XX may learn because XX fails and because XX drops YY.
+
+XX runs because XX sees the rabbit.
+
+Start story titled "Missing inference".
+
+Alice holds the bucket.
+
+//Alice runs.
+
+Alice falls.
+
+Alice learns.
+
+Alice sees the rabbit.
+
+
+The end.
+

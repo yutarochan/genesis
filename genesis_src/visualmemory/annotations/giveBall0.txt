@@ -1,0 +1,2 @@
+summary: A blue man gave a ball to a red man.
+135-175: The red man touches the ball.

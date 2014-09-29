@@ -1,0 +1,43 @@
+Both perspectives.
+
+Show both perspectives.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Relations knowledge.
+
+First perspective.
+
+"Eastern" is a kind of personality trait.
+
+"Machiavellian" is a kind of personality trait.
+
+Second perspective.
+
+"Western" is a kind of personality trait.
+
+Both perspectives.
+
+First perspective.
+
+Start story titled "Macbeth/Eastern".
+
+I am eastern.
+
+I am machiavellian.
+
+Second perspective.
+
+Start story titled "Macbeth/Western".
+
+I am western.
+
+Both Perspectives.
+
+Insert file Macbeth plot.
+
+
+
+

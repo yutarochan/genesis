@@ -1,0 +1,13 @@
+Clear story memory.
+
+Start description of "success".
+
+xx is an entity.
+
+yy is anything.
+
+xx's wanting yy entails yy.
+
+yy entails xx's becoming happy.
+
+The end.

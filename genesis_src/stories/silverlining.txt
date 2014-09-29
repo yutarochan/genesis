@@ -1,0 +1,32 @@
+Clear story memory.
+
+
+Henry, George, James, and Mary are persons.
+
+George became sick because George studied.
+
+George became unhappy because George became sick.
+
+George became successful because George studied.
+
+George became happy because George became successful.
+
+// George succeeded because George studied.
+
+// George is happy because George succeeded.
+
+// George became happy because George studied.
+
+Start story.
+
+Duncan is a person. 
+
+Duncan studied.
+
+// Duncan became sick.
+
+
+The end.
+
+
+

@@ -1,0 +1,70 @@
+//////////////////////////////////////////////
+//ICARuS airplanes.txt
+
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+Start story titled "Nuclear Reactor Flights".
+
+//The airplane is a vehicle.
+The airplane flew high.
+The airplane was flying near the nuclear reactor regularly.
+The flight zones near Nuclear reactors are restricted.
+The airplane was breaking the law.
+The airplane was noticed. 
+//^For breaking the law
+The airplane flew low.
+
+The End.
+
+Second perspective.
+
+Start story titled "Terrorist Flights".
+
+Terrorists fly high.
+Terrorists may fly near the nuclear reactor suddenly.
+Terrorists avoid breaking laws.
+Terrorists avoid detection.
+Terrorists fly normally.
+
+The End.
+
+Pause.
+
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+Start story titled "Nuclear Reactor Flights".
+
+//The airplane is a vehicle.
+The airplane was flying near the nuclear reactor regularly.
+The flight zones near Nuclear reactors are restricted.
+The airplane was breaking the law.
+The airplane was noticed. 
+//^For breaking the law
+The airplane flew low.
+
+The End.
+
+Second perspective.
+
+Start story titled "Student Flights".
+
+Young pilots look for landmarks regularly.
+Nuclear reactors are landmarks.
+Young pilots fly near nuclear reactors regularly.
+Young pilots may not know laws.
+Young pilots may break laws.
+//^Since they don't know them
+Young pilots may be noticed.
+Young pilots fly low.
+
+The End.

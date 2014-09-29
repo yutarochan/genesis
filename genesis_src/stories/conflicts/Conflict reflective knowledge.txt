@@ -1,0 +1,254 @@
+Start reflective knowledge.
+
+I am a viewer.
+
+// This is sort of cheating... 
+Start description of "Invasion".
+xx is a anything.
+yy is an anything.
+yy invades xx.
+The end.
+
+Start description of "Conflict".
+xx is a anything.
+yy is a anything.
+xx's invading yy leads to yy's attacking xx's troops.
+The end.
+
+Start description of "Conflict".
+xx is an anything.
+yy is an anything.
+xx's attacking yy leads to yy's attacking xx.
+The end.
+
+Start description of "Allied defense".
+xx is an anything.
+yy is an anything.
+zz is an anything.
+zz's attacking xx leads to yy's helping xx.
+The end.
+
+Start description of "Unsuccessful Allied Help".
+xx is a country.
+yy is a country.
+zz is a country.
+xx's wanting to help yy leads to zz's stopping xx.
+The end.
+
+Start description of "Allied Offense".
+xx is an anything.
+yy is an anything.
+zz is an anything.
+yy's attacking zz leads to xx's helping yy.
+The end.
+
+Start description of "Allied Offense".
+xx is an anything.
+yy is an anything.
+zz is an anything.
+xx's wanting yy to attack zz leads to xx's helping yy.
+The end.
+
+Start description of "Victory".
+xx is an anything.
+yy is an anything.
+xx defeats yy.
+The end.
+
+Start description of "Victory: offensive".
+xx is an anything.
+yy is an anything.
+xx's attacking yy leads to yy's attacking xx.
+xx defeats yy.
+The end.
+
+Start description of "Victory: offensive".
+xx is an anything.
+yy is an anything.
+xx's invading yy leads to xx's possessing yy.
+The end.
+
+Start description of "Victory: defensive".
+xx is an anything.
+yy is an anything.
+xx's attacking yy leads to yy's attacking xx.
+yy defeats xx.
+The end.
+
+Start description of "Victory: defensive".
+xx is an anything.
+yy is an anything.
+xx's invading yy leads to yy's defeating xx.
+The end.
+
+Start description of "Revenge attack".
+xx is an anything.
+yy is an anything.
+zz is an anything.
+xx's defeating yy leads to zz's attacking xx.
+The end.
+
+Start description of "Revenge attack".
+xx is an anything.
+yy is an anything.
+xx's defeating yy leads to yy's attacking xx.
+The end.
+
+Start description of "Political Overthrowing".
+xx is a country.
+yy is an entity.
+zz is a country.
+yy controls zz.
+xx's defeating zz leads to xx's ousting yy.
+The end.
+
+Start description of "Political Overthrowing".
+xx are people.
+yy is a country.
+zz is a person.
+zz's controlling yy leads to xx's overthrowing zz.
+The end.
+
+Start description of "Political Execution".
+xx is an anything.
+yy is a person.
+xx's overthrowing yy leads to xx's executing yy.
+The end.
+
+Start description of "Land Dispute".
+xx is a country.
+yy is a country.
+zz is a region.
+xx's wanting to possess zz leads to xx's attacking yy.
+The end.
+
+Start description of "Land Dispute".
+xx is an anything.
+yy is an anything.
+xx's wanting to alter border leads to yy's attacking xx.
+The end.
+
+Start description of "Land Dispute".
+xx is a country.
+yy is an anything.
+xx's wanting to alter xx's border leads to yy's attacking xx.
+The end.
+
+Start description of "Religious Conflict".
+xx is a country.
+yy is a people.
+zz is a religion.
+ww is a region.
+yy's being zz leads to xx invading ww.
+The end.
+
+Start description of "Successful Rebellion".
+xx is a country.
+yy is a region.
+zz is a person.
+zz lives in yy.
+xx's invading yy leads to zz's defeating xx.
+The end.
+
+Start description of "Successful Rebellion".
+xx is an entity.
+yy is an entity.
+xx's creating rebellion leads to xx's defeating yy.
+The end.
+
+Start description of "Unsuccessful Rebellion".
+xx is a country.
+yy is a country.
+xx's disobeying yy leads to yy's controlling xx.
+The end.
+
+Start description of "Rebellion".
+xx is an entity.
+yy is an entity.
+xx's creating rebellion leads to xx's attacking yy.
+The end.
+
+Start description of "Rebellion".
+xx is a country.
+yy is a region.
+zz is a person.
+zz lives in yy.
+xx's invading yy leads to zz's attacking xx.
+The end.
+
+Start description of "Rebellion".
+xx is a country.
+yy is a country.
+xx's disobeying yy leads to yy's attacking xx.
+The end.
+
+Start description of "Political Connection".
+xx is a country.
+yy is a country.
+zz is a system.
+xx's being zz and yy's being zz leads to xx's obeying yy.
+The end.
+
+Start description of "Political Connection".
+xx is a country.
+yy is a country.
+yy is communist.
+xx is communist.
+yy likes xx.
+The end.
+
+Start description of "Legal Disagreement".
+xx is anything.
+yy is anything.
+xx's possessing slaves leads to yy's disliking xx.
+The end.
+
+Start description of "Legal Disagreement".
+xx is anything.
+yy is anything.
+xx's wanting to tax yy leads to yy's disliking xx.
+The end.
+
+Start description of "Superpower Leaving".
+xx is a country.
+yy is a country.
+zz is a country.
+xx's possessing yy leads to xx's leaving yy.
+xx's leaving yy leads to yy's attacking zz.
+The end.
+
+Start description of "Superpower Leaving".
+xx is a country.
+yy is a country.
+zz is a region.
+xx's leaving yy leads to yy's attacking zz.
+The end.
+
+Start description of "Unwanted Succession".
+xx is anything.
+yy is anything.
+xx's leaving yy leads to yy's attacking xx.
+The end.
+
+Start description of "Unwanted Succession".
+xx is country.
+yy is anything.
+zz is anything.
+yy is a region of xx.
+zz's leaving xx leads to yy's attacking zz.
+The end.
+
+Start description of "Unsuccessful Rebellion".
+xx is a country.
+yy is a region.
+yy's leaving xx leads to xx's defeating yy.
+The end.
+
+Start description of "Resource Conflict".
+xx is anything.
+yy is anything.
+zz is a resource.
+yy possesses zz.
+xx's wanting zz leads to xx's attacking yy.
+The end.
+

@@ -1,0 +1,76 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Start commonsense knowledge.
+
+yy helps xx and yy marries xx because yy loves xx.
+if xx sees yy and yy is beautiful then xx loves yy.
+if xx is a hero then xx is mighty.
+if yy wants to eat xx then yy troubles xx.
+xx helps yy because zz wants to eat yy and xx kills zz.
+xx may kill yy because yy is a monster.
+
+if xx defames yy then xx troubles yy.
+
+Insert file 2.txt.
+
+First perspective.
+Start story titled "Andromeda".
+
+Perseus is a person.
+Andromeda is a person.
+Cassiopea is a person.
+Cepheus is a person.
+Ethiopia is a place.
+monster is a monster.
+
+Nereids are deities.
+Poseidon is a deity.
+
+
+Cassiopea is Ethiopia's queen and Cepheus is Ethiopia's king.
+
+Poseidon sends a monster to Ethiopia because Cassiopea offends Nereids and Nereids are Poseidon's daughters.
+
+Cepheus wants to sacrifise Andromeda because Cepheus wants to soothe monster.
+Noone expects anyone to save Andromeda.
+
+Perseus is a hero.
+Medusa is a monster.
+Perseus decapitated Medusa and goes home.
+Perseus sees Andromeda because Perseus stops by Ethiopia.
+Andromeda is chained and monster wants to eat Andromeda.
+Andromeda is beautiful.
+
+Andromeda does not ask Perseus to help.
+Perseus kills monster.
+Then, Perseus marries Andromeda.
+
+The end.
+
+Second perspective.
+Start story titled "Susanna from Book of Daniel".
+
+Susanna and Daniel are persons.
+Voyeurs are persons.
+
+Voyeurs watch Susanna because Voyeurs are vicious and Susanna is beautiful.
+Then, Voyeurs harass Susanna.
+Susanna rejects Voyeurs because Susanna is faithful.
+
+Voyeurs defame Susanna because Susanna rejects Voyeurs.
+Voyeurs trouble Susanna and Susanna is arrested because Voyeurs defame Susanna. 
+Punishment for adultery is death.
+Noone expects anyone to save Susanna.
+
+Susanna does not ask Daniel to help.
+Daniel is mighty because God tells Daniel the truth and God leads Daniel.
+
+
+Daniel helps Susanna because Daniel separates Voyeurs and Daniel interrogates Voyeurs.
+
+Voyeurs are punished and Susanna becomes free because Daniel shows that Voyeurs are lying.
+
+The end.
+

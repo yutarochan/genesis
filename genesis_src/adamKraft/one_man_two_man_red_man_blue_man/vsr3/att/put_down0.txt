@@ -1,0 +1,42 @@
+
+transitions/vsr3/rf/put_down0.txt has 300 RefFrames.
+transitions/vsr3/rf/put_down0.txt has 3 markers.
+Inst 3 [- 2 1 -1 -1] id=2  dmarkerContact[1]=1
+Inst 25 [- 24 23 22 19] id=2  ddx=-1 [1] dR=0 dTheta=1
+Inst 26 [- 25 24 23 22] id=2  ddx=-1 [1] dR=0 dTheta=1
+Inst 27 [- 26 25 24 23] id=2  ddx=-1 [1] dR=0 dTheta=1
+Inst 28 [- 27 26 25 24] id=2  ddx=-1 ddy=-1 [1] dR=0 dTheta=1
+Inst 29 [- 28 27 26 25] id=2  ddx=-1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 30 [- 29 28 27 26] id=2  ddx=-1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 31 [- 30 29 28 27] id=2  ddx=-1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 32 [- 31 30 29 28] id=2  ddy=-1 [1] dR=-1 dTheta=1
+KF 32 [- 1] id=2  dmarkerContact[1]=-1
+Inst 33 [- 32 31 30 29] id=2  ddy=-1 [1] dR=-1 dTheta=1 dmarkerContact[1]=-1
+Inst 34 [- 33 32 31 30] id=2  ddy=-1 [1] dR=-1 dTheta=1
+KF 34 [- 32] id=2  dmarkerContact[1]=1
+Inst 35 [- 34 33 32 31] id=2  ddy=-1 [1] dR=-1 dTheta=1 dmarkerContact[1]=1
+Inst 36 [- 35 34 33 32] id=2  ddy=-1 [1] dR=-1 dTheta=1 dmarkerContact[1]=1
+Inst 37 [- 36 35 34 33] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 38 [- 37 36 35 34] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 39 [- 38 37 36 35] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 40 [- 39 38 37 36] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 41 [- 40 39 38 37] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 42 [- 41 40 39 38] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 43 [- 42 41 40 39] id=2  ddy=-1 [1] dR=1 dTheta=1
+KF 43 [- 34] id=2  [1] dR=0 dTheta=1
+Inst 44 [- 43 42 41 40] id=2  ddy=-1 [1] dR=1 dTheta=1
+Inst 45 [- 44 43 42 41] id=2  ddy=-1 [1] dR=1 dTheta=1
+Inst 46 [- 45 44 43 42] id=2  ddy=-1 [1] dR=1 dTheta=1
+Inst 47 [- 46 45 44 43] id=2  ddy=-1 [1] dR=0 dTheta=1
+Inst 48 [- 47 46 45 44] id=2  ddy=-1 [1] dR=0 dTheta=1
+KF 50 [- 0] id=1  [2] dR=0 dTheta=1
+Inst 58 [- 57 50 -1 -1] id=1  dmarkerContact[2]=1
+Inst 66 [- 65 62 60 59] id=1  [2] dR=0 dTheta=-1
+Inst 69 [- 68 66 65 62] id=1  [2] dR=1 dTheta=-1
+Inst 81 [- 80 79 -1 -1] id=1  dmarkerContact[2]=1
+Inst 115 [- 114 113 -1 -1] id=1  dmarkerContact[2]=1
+Inst 155 [- 154 151 -1 -1] id=2  dmarkerContact[1]=1
+Inst 267 [- 266 257 -1 -1] id=1  dmarkerContact[2]=1
+Inst 268 [- 267 266 -1 -1] id=1  dmarkerContact[2]=1
+Inst 286 [- 285 284 -1 -1] id=1  dmarkerContact[2]=1
+

@@ -1,0 +1,110 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+if yy seizes xx from zz then yy obtains xx.
+
+Insert file 12.txt.
+
+First perspective.
+
+
+Start story titled "Philoctetes".
+
+Note that Hercules's_bow is a name.
+
+Philoctetes is a person.
+Troy is a place.
+
+Hercules's_bow is an object.
+Odysseus is a person. 
+Neoptolem is a person.
+Greeks are persons.
+
+Odysseus and Greeks want to occupy Troy; Odysseus and Greeks travel with Philoctetes.
+Philoctetes becomes sick because Philoctetes gets bitten.
+
+Philoctetes suffers because Odysseus and Greeks abandon Philoctetes and Philoctetes is sick.
+
+Philoctetes is stuck on the island for 10 years.
+Meanwhile, Odysseus and Greeks tried to siege Troy.
+Odysseus and Greeks failed to occupy Troy.
+Neoptolem also wants to occupy Troy.
+Philoctetes is mighty because Philoctetes owns Hercules's_bow; Foreteller tells Odysseus that Odysseus can not occupy Troy without Philoctetes; Odysseus wants Philoctetes to help Odysseus; Odysseus and Neoptolem come to the island.
+Philoctetes does not plan to help Greeks because Greeks upset Philoctetes.
+Odysseus and Neoptolem want to lure Philoctetes to Troy because Odysseus wants Philoctetes to help Greeks and because Neoptolem wants Philoctetes to help Greeks.
+Odysseus wants Hercules's_bow and Neoptolem wants Hercules's_bow because Odysseus and Neoptolem want to lure Philoctetes to Troy.
+
+Odysseus fears Philoctetes because Philoctetes is mighty and because Odysseus upsets Philoctetes.
+Neoptolem doesn't want to trick Philoctetes but Odysseus persuades Neoptolem to trick Philoctetes.
+Odysseus persuades Neoptolem to trick Philoctetes because Odysseus fears Philoctetes.
+
+In order to trick Philoctetes Neoptolem lies to Philoctetes.
+Philoctetes likes Neoptolem because Neoptolem lies to Philoctetes.
+Philoctetes is not alert because Philoctetes likes Neoptolem.
+Philoctetes falls asleep.
+Neoptolem obtains Hercules's_bow because Philoctetes is not alert.
+
+Philoctetes understands that Neoptolem tricked Philoctetes; Philoctetes curses Neoptolem.
+
+Neoptolem asks Philoctetes to help Greeks. Philoctetes refuses.
+Neoptolem feels bad because Neoptolem lies to Philoctetes.
+Neoptolem returns Hercules's_bow to Philoctetes because Neoptolem feels bad.
+Neoptolem asks Philoctetes to help Greeks again. Philoctetes refuses again.
+
+Hercules appears.
+Hercules proclaims divine will.
+Hercules asks Philoctetes to help Greeks.
+
+
+Philoctetes helps Odysseus and Greeks.
+
+The end.
+
+Second perspective.
+Start story titled "Mudra-raksasa".
+
+Note that Chanakja is a name.
+Note that Pataliputra is a name.
+Note that Nanda is a name.
+Note that Rakshasa is a name.
+Note that Maurja is a name.
+Note that Malajaketa is a name.
+
+Malajaketa is a person.
+Chanakja is a person.
+Rakshasa is a person.
+Nanda is a person.
+Maurja is a person.
+
+Pataliputra is a place.
+Pataliputra is a capital.
+
+Nanda is a king.
+Chanakja is a minister.
+Chanakja kills Nanda; Chanakja deposes Nanda. 
+Maurja is Chanakja's disciple; Maurja becomes king.
+Rakshasa is a minister. Rakshasa is faithful to Nanda; Rakshasa escapes Pataliputra and Rakshasa allies with mighty Malajaketa and Rakshasa siezes Pataliputra.
+Malajaketa's army is mighty; Chanakja doesn't want to fight Malajaketa's army; Chanakja wants to ally with Rakshasa.
+
+Minister's ring is an object.
+Rakshasa's family is in Pataliputra. Rakshasa's family owns Minister's ring.
+Chanakja seizes Minister's ring from Rakshasa's family.
+
+In order to persuade Malajaketa that Rakshasa is a traitor Chanakja fakes a letter and Chanakja seals letter with Minister's ring and Chanakja gives the letter to a servant and Chanakja instructs a servant. 
+Chanakja's servant pretends to be a refugee and comes to Rakshasa's camp because Chanakja instructs servant.
+Chanakja pretends to quarrel with Maurja; Maurja dismisses Chanakja; Rakshasa decides to attack.
+Chanakja's servant reveals the letter to Malajaketa because Chanakja instructs servant and because Rakshasa decides to attack.
+Malajaketa believes that Rakshasa is a traitor because Chanakja's servant reveals the letter to Malajaketa and because Chanakja seals letter with Minister's ring.
+Malajaketa sends Rakshasa into exile because Malaketa believes that Rakshasa is a traitor.
+Malajaketa's allies are afraid because Malajaketa sends Rakshasa into exile.
+Malajaketa's allies abandon Malajaketa because Malajaketa's allies are afraid.
+Malajaketa's army becomes small because Malajaketa's allies abandon Malajaketa. 
+Chanakja defeats Malajaketa because Malajaketa's army becomes small.
+Rakshasa comes to Pataliputra because Rakshasa wants to save Rakshasa's family; Rakshasa's faithfulness impress Chanakja.
+Guards seize Rakshasa because Rakshasa comes to Pataliputra.
+Chanakja saves Rakshasa and reveals Rakshasa Chanakja's plan; Chanakja's intelligence impress Rakshasa.
+Chanakja and Rakshasa ally because Chanakja's intelligence impress Rakshasa and because Rakshasa's faithfulness impress Chanakja.
+
+
+The end.

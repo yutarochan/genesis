@@ -1,0 +1,20 @@
+
+transitions/vsr3/rf/drop0.txt has 300 RefFrames.
+transitions/vsr3/rf/drop0.txt has 3 markers.
+Inst 5 [- 4 3 -1 -1] id=2  dmarkerContact[0]=1
+Inst 85 [- 84 83 82 81] id=2  ddy=-1 [0] dR=-1 dTheta=1
+Inst 86 [- 85 84 83 82] id=2  ddy=-1 [0] dR=-1 dTheta=1
+Inst 87 [- 86 85 84 83] id=2  ddy=-1 [0] dR=-1 dTheta=1
+Inst 88 [- 87 86 85 84] id=2  ddy=-1 [0] dR=-1 dTheta=1
+Inst 89 [- 88 87 86 85] id=2  ddy=-1 [0] dR=-1 dTheta=1
+KF 89 [- 3] id=2  [0] dR=0 dTheta=1
+Inst 90 [- 89 88 87 86] id=2  ddy=-1 [0] dR=0 dTheta=1
+Inst 91 [- 90 89 88 87] id=2  ddy=-1 [0] dR=0 dTheta=1
+Inst 92 [- 91 90 89 88] id=2  ddy=-1 [0] dR=1 dTheta=1
+KF 92 [- 89] id=2  [0] dR=0 dTheta=1
+Inst 93 [- 92 91 90 89] id=2  ddy=-1 [0] dR=1 dTheta=1
+Inst 94 [- 93 92 91 90] id=2  ddy=-1 [0] dR=1 dTheta=1
+KF 94 [- 92] id=2  [0] dR=1 dTheta=0 dmarkerContact[0]=-1
+Inst 95 [- 94 93 92 91] id=2  ddy=-1 [0] dR=1 dTheta=1 dmarkerContact[0]=-1
+KF 96 [- 0] id=0  [2] dmarker=-1
+

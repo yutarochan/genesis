@@ -1,0 +1,21 @@
+package latticeLearning;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public abstract class Lattice<T> {
+	abstract Iterable<T> getParents(T node);
+	
+	public Set<T> getAncestors(T node) {
+    	Set<T> ancestors = new HashSet<T>();
+    	ancestors.add(node);
+    	for (T parent : getParents(node)) {
+    		ancestors.addAll(getAncestors(parent));
+    	}
+    	return ancestors;
+    }
+	
+	public boolean leq(T child, T parent) {
+		return getAncestors(child).contains(parent);
+	}
+}

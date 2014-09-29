@@ -1,0 +1,34 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If YY harms XX, then XX may flee.
+If XX is pained and XX is a child, then XX may cry. 
+
+If YY kicks XX, then YY harms XX.
+If YY harms XX, then XX may be pained.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Cranky granny".
+
+Arabella is a person.
+Arabella is mean.
+
+Bobby is a person.
+Bobby is a child.
+
+Arabella knows that Arabella harms Bobby if Arabella kicks Bobby.
+Arabella kicks Bobby because Arabella is mean and because Bobby ran into Arabella.
+Bobby is pained.
+Bobby cries and Bobby flees. 
+
+Arabella becomes happy because Bobby flees.
+
+The end.

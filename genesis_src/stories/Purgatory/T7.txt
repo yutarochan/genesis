@@ -1,0 +1,39 @@
+/*
+Tests inference if only one reason available.  Should see dislike --> murder
+*/ 
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+James harms Henry because James devastates George and George is Henry's friend.
+
+Henry dislikes James because James harmed Henry.
+
+James devastates Henry because James murders Henry.
+
+Henry may murder James because Henry dislikes James.
+
+// Following stops inference
+James may murder Henry because Henry is king and James is Henry's successor and James wants to become the king.
+
+Start story.
+
+Hamlet, King_Hamlet, Claudius, Gertrude, Laertes, Ophelia, and Polonius are persons.
+
+King_Hamlet is a friend of Hamlet.
+
+// Following was stoping inference
+King_Hamlet, who was Gertrude's husband, was the king, and Claudius was King_Hamlet's successor.
+
+Claudius wanted to become the king.
+
+Claudius murdered King_Hamlet.
+
+Hamlet murders Claudius.
+
+The end.
+
+

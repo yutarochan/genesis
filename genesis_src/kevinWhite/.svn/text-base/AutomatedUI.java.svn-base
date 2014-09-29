@@ -1,0 +1,94 @@
+package latticeLearning;
+
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import javax.swing.BoxLayout;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JSplitPane;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+
+import utils.Mark;
+
+public class AutomatedUI extends JFrame {
+    JTextArea text;
+    JTextArea analysis;
+    JLabel instructLbl;
+    JTextField questionField;
+    JButton clearButton;
+    private final AutomatedPanel lp;
+    
+    public AutomatedUI(AutomatedPanel latticePanel,String title){
+        lp = latticePanel;
+        String threadList = latticePanel.getThreadList();
+        this.setTitle(title);
+        setSize(1024,768);
+        text = new JTextArea(threadList);
+        text.setLineWrap(true);
+        text.setWrapStyleWord(true);
+        text.setEditable(false);
+        text.setPreferredSize(new Dimension(this.getWidth()/2,this.getWidth()/2));
+        instructLbl = new JLabel("Ask a question or make a statement.");
+        instructLbl.setAlignmentX(CENTER_ALIGNMENT);
+        questionField = new JTextField();
+        questionField.setMaximumSize(new Dimension(this.getWidth()/2,50));
+        questionField.addKeyListener(new KeyListener(){
+            @Override
+            public void keyPressed(KeyEvent arg0) {
+            }
+            @Override
+            public void keyReleased(KeyEvent arg0) {
+            }
+            @Override
+            public void keyTyped(KeyEvent arg0) {
+                if(KeyEvent.getKeyText(arg0.getKeyChar()).equalsIgnoreCase("Enter")){
+                    String question = questionField.getText();
+                    String answer = "";
+                    try {
+                        answer = AutomatedLearner.answerQuestion(question, lp.getPositives(), lp.getNegatives());
+                    } catch (Exception e) {
+                        answer = "An error occurred.";
+                        e.printStackTrace();
+                    }
+                    instructLbl.setText(question + " " + answer);
+                    questionField.setText("");
+                }
+            }
+        });
+        
+        analysis = latticePanel.getTextField();
+        analysis.setEditable(false);
+        analysis.setFont(analysis.getFont().deriveFont(20.0f));
+        analysis.setWrapStyleWord(true);
+        
+        clearButton = new JButton("Clear Lattice");
+        clearButton.setMaximumSize(new Dimension(this.getWidth()/2,50));
+        JPanel right = new JPanel();
+        right.setLayout(new BoxLayout(right,BoxLayout.Y_AXIS));
+        
+        right.setBackground(Color.WHITE);
+        right.add(clearButton);
+        right.add(text);
+        right.add(analysis);
+        right.add(instructLbl);
+        right.add(questionField);
+        
+        JSplitPane split = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, lp, right);
+        split.setResizeWeight(1);
+        split.setContinuousLayout(true);
+
+        getContentPane().setLayout(new GridLayout());
+        getContentPane().add(split);
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+    }
+    
+    public AutomatedPanel getLP(){
+        return lp;
+    }
+}

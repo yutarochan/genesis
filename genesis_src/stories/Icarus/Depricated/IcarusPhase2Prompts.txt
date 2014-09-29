@@ -1,0 +1,10 @@
+Second perspective.
+
+//Start Story titled "Prompt 1".
+//Agent 11 travels to House 11.
+//Agent 12 travels to Site 11.
+//The end.
+
+Start Story titled "Prompt 2".
+Agent 11 meets Agent 13 at Site 13.
+The end.

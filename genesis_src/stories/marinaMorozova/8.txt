@@ -1,0 +1,21 @@
+
+Start description of "Revolt-A-individual".
+
+xx is a person.
+yy is a person.
+
+xx is in position of power.
+yy conspires against xx.
+Sometimes, yy plots to kill xx.
+
+The end.
+
+
+Start description of "Revolt-B-many".
+
+yy are a large group of people.
+
+xx is an authority.
+yy revolt against xx.
+
+The end.

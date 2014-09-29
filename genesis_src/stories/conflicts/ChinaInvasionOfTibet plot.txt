@@ -1,0 +1,35 @@
+/* Filename: ChinaInvasionOfTibet.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Feb 13, 2004
+ */
+
+/**
+ * China: Invasion Of Tibet, 1950-1959
+ */
+
+Start story titled "China Invasion of Tibet".
+
+The United States is a country.
+China is a country.
+Tibet is a country.
+The DalaiLama is a person.
+The DalaiLama was the ruler of Tibet.
+India is a country.
+
+China wanted to possess Tibet.
+Tibet did not want China to possess Tibet.
+Tibet asked India to help Tibet.
+India did not want to offend China.
+India refused to help Tibet because China wanted to possess Tibet and India did not want to offend China.
+The United States wanted to help Tibet.
+India stopped The United States helping Tibet because the United States wanted to help Tibet and India did not want to offend China.
+
+China invaded Tibet because China wanted to possess Tibet.
+
+Tibet's soldiers were less experienced than China's soldiers.
+Tibet's army was smaller than China's army.
+China defeated Tibet because China invaded Tibet and Tibet's soldiers were less experienced than China's soldiers and Tibet's army was smaller than China's army.
+China possessed Tibet because China defeated Tibet.
+
+The end.

@@ -1,0 +1,68 @@
+WW, XX, YY, and ZZ are persons.
+
+// Reasons to kill.
+// YY may kill WW because YY is crazy and YY likes WW.
+// WW may want to kill YY because WW is angry at YY.
+
+// Friends and relatives
+If YY harmed XX and XX is WW's friend, then YY harmed WW.
+If YY is the wife of XX, then XX is the husband of YY.
+// Generator won't work so well on this
+// If YY is the wife of XX, then YY is a relative of XX.
+
+// Succession.
+If XX is king and WW is XX's successor and XX becomes dead, then WW becomes king.
+ZZ becomes the queen because XX becomes the king and ZZ is XX's wife.
+YY becomes happy because YY became the king and YY wants to become the king.
+YY becomes happy because YY became the queen and YY wants to become the queen.
+
+// Wants
+//YY becomes happy because YY wants an action and an action occurs.
+
+//
+
+// Harm.
+If YY harms WW, then WW becomes unhappy.
+If YY harms WW then YY angers WW.
+
+// Murder killing, and harming
+If xx kills yy, then yy becomes dead.
+// Pause.
+YY harms WW because YY kills WW.
+YY harms WW because YY attacks WW.
+YY harms WW because YY fights WW.
+YY may attack WW because WW harms YY.
+YY may fight WW because WW attacks YY.
+
+// Proxy
+
+if xx asks yy to kill zz and yy kills zz, then xx kills zz.
+
+if xx asks yy to murder zz and yy murder zz, then xx murders zz because xx asks yy to murder zz.
+
+// Greed
+ZZ may want to become the queen because she is greedy.
+
+// Persuasion
+// If ZZ wants an action, then ZZ may persuade YY to commit the action.
+// If ZZ persuades YY to act, then YY acts.
+
+// Coercion
+If an entity forces an action, then the action occurs.
+// Ok, its awkward, but it works
+
+// If an entity persuades an action to occur, then the action occurs.
+
+xx is a person. 
+
+// Miscellaneous explanations
+If xx becomes distraught, xx may kill xx.
+
+// Censors
+If YY becomes dead, then YY cannot become happy.
+If YY becomes dead, then YY cannot become unhappy.
+If YY becomes dead and XX is an entity, then XX cannot anger YY.
+// If YY murders WW, then YY cannot anger WW.
+// If YY kills WW, then YY cannot anger WW.
+
+

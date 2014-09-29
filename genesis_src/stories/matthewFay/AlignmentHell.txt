@@ -1,0 +1,35 @@
+Start experiment.
+
+First perspective.
+Start story titled "Many Likes".
+Alpha likes Beta.
+Beta likes Gamma.
+Gamma likes John.
+John likes Mary.
+Mary likes Bill.
+Bill likes William.
+William likes the dog.
+The dog likes cats.
+Cats like Sally.
+Sally likes Delta.
+Sally likes Epsilon.
+Sally likes Omega.
+Bill likes Sally.
+The end.
+
+Second Perspective.
+Start story titled "Many controls".
+Alpha controls Beta.
+Beta controls Gamma.
+Gamma controls John.
+John controls Mary.
+Mary controls Bill.
+Bill controls William.
+William controls the dog.
+The dog controls cats.
+Cats control Sally.
+Sally controls Delta.
+Sally controls Epsilon.
+Sally controls Omega.
+Bill controls Sally.
+The end.

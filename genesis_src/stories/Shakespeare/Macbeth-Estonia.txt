@@ -1,0 +1,36 @@
+Insert file Start experiment.
+
+First perspective.
+
+Insert file Estonia commonsense knowledge.
+
+Second perspective.
+
+Insert file General commonsense knowledge.
+
+James may kill Henry because James is angry at Henry.
+
+Both perspectives.
+
+Insert file General reflective knowledge.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+First Perspective.
+
+Start story titled "Cyberwar".
+
+Estonia is my friend.
+
+Insert file Estonia plot.
+
+Second perspective.
+
+Start story titled "Macbeth".
+
+Insert file Macbeth plot.
+

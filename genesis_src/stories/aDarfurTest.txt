@@ -1,0 +1,35 @@
+Clear text.
+
+Clear story memory.
+
+XX is an entity.
+
+XX becomes happy because XX wanted an action to occur and the action occurred.
+
+Start story.
+
+Sudan is a nation.
+
+// Atreides is a nation.
+
+// Paul is a person.
+
+Darfur is a region.
+
+// Sudan wanted Darfur to be cleansed.
+
+Janjaweed is a militia.
+
+Sudan wanted the Janjaweed to cleanse Darfur.
+
+// Janjaweed cleansed Darfur.
+
+// Darfur was cleansed.
+
+// Paul is a member of Sudan.
+
+// Paul is a member of Atreides.
+
+The end.
+
+

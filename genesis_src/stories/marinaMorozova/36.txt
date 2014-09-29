@@ -1,0 +1,41 @@
+Start description of "Loss-A".
+
+yy is a person.
+xx is a person.
+zz is a person. 
+
+xx loves yy.
+xx sees how zz kills yy.
+xx is powerless to help yy.
+
+The end.
+
+Start description of "Loss-B".
+
+yy is a person.
+xx is a person.
+
+yy loves xx.
+
+//yy divines xx's death.
+
+yy worries about xx.
+yy doesn't have obvious reason to worry about xx so much.
+
+xx dies.
+
+The end.
+
+
+Start description of "Loss-C".
+
+yy is a person.
+xx is a person.
+zz is a person. //messenger 
+
+yy loves xx.
+
+zz tells yy that xx is dead.
+
+
+The end.

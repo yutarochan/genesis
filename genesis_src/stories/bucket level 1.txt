@@ -1,0 +1,26 @@
+
+Human is a person.
+
+hh is an entity.//this will be human
+
+mm is an entity.//these are animals
+
+ss is an entity.//these are weapons
+
+rr is an entity.//these are
+
+gg is an entity.//these are goods
+
+//Rules can be broken into layers of certainty.
+
+HH hunts MM because HH is hungry and because MM is food.//it should have been 'meaty' but wordnet sucks
+
+HH hunts MM because HH is cold and because MM is furry.
+
+SS gives leverage because SS is long.
+
+SS becomes sharp because HH sharpens SS.
+
+SS becomes effective because SS becomes sharp and because SS gives leverage.
+
+HH becomes greedy because SS becomes effective and because HH takes GG and because HH hunts MM.

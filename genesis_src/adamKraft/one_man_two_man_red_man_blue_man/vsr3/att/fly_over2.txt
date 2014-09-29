@@ -1,0 +1,24 @@
+
+transitions/vsr3/rf/fly_over2.txt has 300 RefFrames.
+transitions/vsr3/rf/fly_over2.txt has 3 markers.
+KF 56 [- 0] id=0  [2] dmarker=1
+KF 57 [- -1] id=2  [2] dmarker=1
+Inst 61 [- 60 59 58 57] id=2  ddx=1 ddy=1 [0] dR=-1 dTheta=-1
+Inst 62 [- 61 60 59 58] id=2  ddx=1 ddy=1 [0] dR=-1 dTheta=-1
+Inst 63 [- 62 61 60 59] id=2  ddx=1 ddy=1 [0] dR=-1 dTheta=-1
+KF 63 [- 57] id=2  [0] dR=0 dTheta=1
+Inst 64 [- 63 62 61 60] id=2  ddx=1 ddy=1 [0] dR=-1 dTheta=-1
+Inst 65 [- 64 63 62 61] id=2  ddx=1 ddy=1 [0] dR=0 dTheta=-1
+Inst 66 [- 65 64 63 62] id=2  ddx=1 ddy=1 [0] dR=0 dTheta=-1
+Inst 67 [- 66 65 64 63] id=2  ddx=1 [0] dR=0 dTheta=-1
+Inst 68 [- 67 66 65 64] id=2  ddx=1 [0] dR=-1 dTheta=-1
+Inst 69 [- 68 67 66 65] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+Inst 70 [- 69 68 67 66] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+KF 70 [- 63] id=2  [0] dR=0 dTheta=1
+Inst 71 [- 70 69 68 67] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+Inst 72 [- 71 70 69 68] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+Inst 73 [- 72 71 70 69] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+Inst 74 [- 73 72 71 70] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+Inst 75 [- 74 73 72 71] id=2  ddx=1 ddy=-1 [0] dR=-1 dTheta=-1
+KF 76 [- 56] id=0  [2] dmarker=-1
+

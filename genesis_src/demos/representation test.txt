@@ -1,0 +1,119 @@
+// Basic
+
+
+
+Start story titled "Representation tests".
+
+A bouvier is a dog.
+
+A bird flew to a tree.
+
+A bird flew toward a tree.
+
+A bird flew toward the top of a tree.
+
+
+A cat appeared.
+
+A man gave a cat to his daughter.
+
+A bird flew toward the top of a tree because a cat appeared.
+
+
+// Goal, persuation, coersion
+The president wanted Iraq to move toward democracy.
+
+The president asked Iraq to move toward democracy.
+
+The president forced Iraq to move toward democracy.
+
+
+
+// Belief and goal
+The man believed the lion bit the cat.
+
+// Intention
+Paul intended to kiss Mary.
+
+// Expection/prediction
+Paul will kiss Mary.
+
+// Mood and property
+The girl is happy.
+
+// Body part
+Birds have wings.
+
+// Personality
+"Evil" is a kind of personality trait.
+
+"Crazy" is a kind of personality trait.
+
+Patrick is evil.
+
+Patrick is crazy.
+
+// Property
+The giraffe is tall.
+
+// Action, possession 
+The man has a cow.
+
+// Job
+The man is a senator.
+
+// Social, ownership, and property
+The dog is the man's best friend.
+
+// Time
+A bird flew after a cat appeared.
+A bird flew while the bird was happy.
+
+// Comparison
+The road is wider than the path.
+
+
+
+/*
+
+// Causes hicup if no images read yet!
+// Imagine that the dog jumped over the fence.
+
+//// Description
+Describe a bird.
+
+// Questions
+
+//// Trajectory
+Did the dog run to the lake?
+
+*/
+
+/*
+
+Why did the dog run to the lake?
+//// Location
+Is the bird above the tree?
+
+//// Transition
+Why did the ball touch the block?
+Did the ball touch the block.
+// Did contact appear.
+Did contact appear after the bird flew?
+
+*/
+
+/*
+
+// Abstraction
+The president wanted the country to move toward democracy.
+
+// Roles
+A man fought with a tiger.
+A man drank beer with a glass.			
+
+*/
+
+The end.
+
+

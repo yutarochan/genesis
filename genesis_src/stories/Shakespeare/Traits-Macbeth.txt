@@ -1,0 +1,59 @@
+Start experiment.
+
+Lady Macbeth is a name.
+
+Lady Macduff is a name.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Show both perspectives.
+
+First perspective.
+
+// Insert file Macbeth commonsense.
+
+First perspective.
+
+"Ambitious" is a kind of personality trait.
+
+"Evil" is a kind of personality trait.
+
+"Crazy" is a kind of personality trait.
+
+"Greedy" is a kind of personality trait.
+
+"Machiavellian" is a kind of personality trait.
+
+"Vicious" is a kind of personality trait.
+
+// "Asian" is a kind of personality trait.
+
+// "Eastern" is a kind of personality trait.
+
+// Insert file Macbeth concepts.
+
+
+Both perspectives.
+
+Insert file General facts.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Relations knowledge.
+
+First perspective.
+
+Start story titled "Macbeth/with traits".
+
+Second perspective.
+
+Start story titled "Macbeth/without traits".
+
+Both Perspectives.
+
+Insert file Traits-Macbeth plot.
+

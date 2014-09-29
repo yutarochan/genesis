@@ -1,0 +1,122 @@
+Start reflective knowledge.
+
+Start description of "mistake".
+
+xx is an entity.
+
+xx's performing an action leads to xx's becoming unhappy.
+
+The end.
+
+
+Start description of "success".
+
+xx is an entity.
+
+yy is anything.
+
+xx's wanting yy leads to yy.
+
+yy leads to xx's becoming happy.
+
+The end.
+
+
+Start description of "revenge".
+
+xx is an entity.
+
+yy is a entity.
+
+xx's harming yy leads to yy's harming xx.
+
+The end.
+
+Start description of "pyrrhic victory".
+
+xx is an entity.
+
+yy is anything.
+
+xx's wanting yy leads to yy.
+
+yy leads to xx's becoming happy.
+
+xx's wanting yy leads to xx's becoming unhappy.
+
+The end.
+
+
+Start description of "silver lining".
+
+xx is an entity.
+
+yy is anything.
+
+yy leads to xx's becoming unhappy.
+
+xx's becoming unhappy leads to xx's becoming happy.
+
+The end.
+
+
+
+Start description of "answered prayer".
+
+xx is a person.
+
+xx's wanting an action to occur leads to the action's occurring.
+
+The end.
+
+Start description of "positive reaction".
+
+Bill is a person.
+
+xx is an entity.
+
+xx's performing an action leads to Bill's becoming happy.
+
+The end.
+
+
+Start description of "unfulfilled desire".
+
+xx is a person.
+
+yy is anything.
+
+xx's wanting yy does not lead to yy.
+
+The end.
+
+Start story.
+
+Dave is a person.
+
+James is a person.
+
+Dave wants to become king because James hit him.
+
+The end.
+
+
+Start description of "competition".
+
+Bill is a person.
+
+James is a person.
+
+xx is anything.
+
+yy is anything.
+
+Bill's wanting xx leads to Bill's becoming unhappy.
+
+James' wanting yy leads to Bill's becoming unhappy.
+
+James' wanting yy leads to yy.
+
+yy leads to James' becoming happy.
+
+The end.

@@ -1,0 +1,89 @@
+//New blip for character modelling
+Macbeth, Macduff, Lady Macbeth, Cawdor, and Duncan are characters.
+
+Macbeth, Macduff, Lady Macbeth, Lady Macduff, Cawdor, Malcolm, Donalbain, and Duncan are persons. 
+
+A thane is a kind of noble.
+
+Macbeth is a thane and Macduff is a thane.
+
+Lady Macbeth is the wife of Macbeth and Lady Macbeth is greedy.
+
+Lady Macduff is the wife of Macduff.
+
+// Duncan, who is Macduff's friend, is the king, and Macbeth is Duncan's successor.
+
+// Duncan is Macduff's friend.
+
+Duncan is the king, and Macbeth is Duncan's successor.
+
+Macbeth is evil.
+
+ Macbeth is ambitious.
+
+ Lady Macbeth is ambitious.
+
+Cawdor is Machiavellian.
+
+// Duncan is an enemy of Cawdor.
+
+// Macduff is an enemy of Cawdor.
+
+Macbeth defeated a rebel.
+
+Duncan become happy because Macbeth succeeded.
+
+Witches had visions and talked with Macbeth.
+
+Burnam Wood is a place.
+
+Dunsinane is a castle.
+
+Witches predicted that Burnam Wood would go to Dunsinane.
+
+Duncan rewarded Macbeth because Duncan became happy.
+
+// George is a person.
+
+Macduff assaults someone.
+
+// Lady Macbeth loves money.
+
+// Macbeth wants to become king.
+
+Lady Macbeth is Macbeth's wife.
+
+Lady Macbeth wants to become queen.
+
+// Macbeth wants to become king has to come here because otherwise the dereference doesn't work.
+
+// Macbeth wants to become king.
+
+Macbeth wants to become king because Lady Macbeth persuaded Macbeth to want to become king.
+
+// Lady Macbeth persuaded Macbeth to want to become king because she is greedy.
+
+Macbeth murders Duncan.
+
+// Malcolm and Donalbain flee.
+
+Macbeth's murdering Duncan leads to Macduff's fleeing to England.
+
+Macduff's fleeing to England leads to Macbeth's murdering Lady Macduff.
+
+Macbeth's murdering Duncan leads to Lady Macbeth's becoming distraught.
+
+Lady Macbeth kills herself.
+
+Dunsinane is a castle and Burnham Wood is a forest.
+
+Burnham Wood goes to Dunsinane.  
+
+Then, Macduff fights with Macbeth.
+
+Macduff kills Macbeth.
+
+Witches predict that Burnam Wood would go to Dunsinane before Burnam Wood went to Dunsinane.
+
+The end.
+

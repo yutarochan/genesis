@@ -1,0 +1,17 @@
+Start general knowledge.
+First perspective.
+
+Start commonsense rules.
+Alyssa is a person.
+Ben is a person.
+
+If Alyssa kills Ben then Ben is dead.
+
+Start story titled "Simple if-then rule".
+
+Macbeth is a person.
+Macduff is a person.
+
+Macbeth kills Macduff.
+The end.
+

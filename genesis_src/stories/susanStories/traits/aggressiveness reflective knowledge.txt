@@ -1,0 +1,59 @@
+Start reflective knowledge.
+
+Start description of "intimidation".
+XX is a person.
+YY is a person.
+AA is an action.
+// XX's wanting YY to fear XX leads to XX's performing AA.
+XX's performing AA leads to YY's fearing XX.
+The end.
+
+Start description of "aggressive".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will fear XX if XX performs AA.
+XX's wanting YY to fear XX leads to XX's performing AA.
+The end.
+
+/*
+Start description of "intimidate - v1".
+XX is a person.
+YY is a person.
+AA is an action.
+XX's wanting YY's becoming fearful leads to XX's performing AA.
+XX's performing AA leads to YY's becoming fearful .
+The end.
+*/
+
+/*
+Start description of "intimidate - v2".
+XX is a person.
+YY is a person.
+AA is an action.
+XX's wanting YY's becoming fearful of XX leads to XX's performing AA.
+XX's performing AA leads to YY's becoming fearful of XX.
+The end.
+*/
+
+/*
+Start description of "aggressiveness - v1".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will become fearful if XX performs AA.
+XX's wanting YY's becoming fearful leads to XX's performing AA.
+// XX's performing AA leads to YY's becoming fearful .
+The end.
+*/
+
+/*
+Start description of "aggressiveness - v2".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will become fearful of XX if XX performs AA.
+XX's wanting YY's becoming fearful of XX leads to XX's performing AA.
+// XX's performing AA leads to YY's becoming fearful of XX.
+The end.
+*/

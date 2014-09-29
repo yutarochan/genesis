@@ -1,0 +1,75 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+Insert file 22.txt.
+
+First perspective.
+Start story titled "Herodiade".
+
+Herodiade is a person.
+Herode is a person.
+Salome is a person.
+Jean is a person.
+
+Sense of pity is a virtue.
+Sense of duty is a virtue.
+
+Herode is a king.
+Herodiade is Salome's mother. Herodiade sent Salome away when Herodiade married Herode.
+Salome is a dancer and Salome comes back to the city.
+Herodiade denies that Herodiade is Salome's mother.
+Salome is looking for Salome's mother.
+Salome loves Jean.
+Jean is a prophet.
+Salome tells Jean that Salome loves Jean.
+Jean tells Salome of greater love.
+
+Herodiade tries to convince Herode to prosecute Jean because Jean claims Herodiade is vicious.
+Herode refuses to prosecute Jean because Jean has many followers and because Herode is in charge of peace in Herode's kingdom.
+
+Herode orders soldiers to arrest Jean and Herode tries to convince Jean to help Herode in Herode's political affairs.
+Jean refuses to help Herode.
+
+Herode is passionate about Salome.
+Herode proclaims his passion to Salome.
+Salome rejects Herode because Salome loves Jean.
+
+Herode orders soldiers to kill Jean because Herode is passionate about Salome and because Salome loves Jean.
+Herode loses sense of duty because Herode orders soldiers to kill Jean and because Herode is in charge of peace.
+
+Salome asks Herode to kill Salome with Jean. Soldier proclaims that Jean is dead.
+Salome tries to stab Herodiade.
+Herodiade admits that Herodiade is Salome's mother.
+Then, Salome kills herself.
+
+The end.
+
+Second perspective.
+Start story titled "Salome by Oscar Wilde".
+
+Herodiade is a person.
+Herode is a person.
+Salome is a person.
+Jean is a person.
+
+Sense of pity is a virtue.
+Sense of duty is a virtue.
+
+Herode is a king.
+Herodiade is Salome's mother. 
+Herodide is Herode's wife.
+
+Jean is a prisoner.
+Salome becomes passionate about Jean.
+Salome wants to touch Jean and Salome wants to kiss Jean because Salome is passionate about Jean.
+Salome tries to seduce Jean but Jean rejects Salome.
+
+Salome loses sense of pity because Salome wants to kiss Jean and because Jean rejects Salome..
+
+Salome asks Herode to give her Jean's head because Salome loses sense of pity and because Salome wants to kiss Jean.
+
+Herode orders soldiers to kill Jean because Salome asks Herode to give her Jean's head.
+Herode is terrified because Salome kisses Jean's head.
+Herode orders soldiers to kill Salome because Herode is terrified.
+
+The end.

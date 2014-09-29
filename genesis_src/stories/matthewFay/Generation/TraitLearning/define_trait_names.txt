@@ -1,0 +1,8 @@
+"Ambitious" is a kind of personality trait.
+"Evil" is a kind of personality trait.
+"Crazy" is a kind of personality trait.
+"Greedy" is a kind of personality trait.
+"Machiavellian" is a kind of personality trait.
+"Vicious" is a kind of personality trait.
+"Vengeful" is a kind of personality trait.
+"Violent" is a kind of personality trait.

@@ -1,0 +1,25 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+
+Show both perspectives.
+First perspective.
+
+Start story titled "Bug: Names concatenated".
+
+// Despite commas, Mary Elizabeth is considered a single name.
+// Permuting the order of names (carefully) will patch the problem.
+
+Jane, Mary, Elizabeth, and Lydia are Lady Hudson's daughters.
+//Jane, Elizabeth, Mary, and Lydia are Lady Catherine's daughters.
+
+Second perspective.
+Start story titled "Patch: Permute the names".
+
+Elizabeth, Jane, Mary, and Lydia are Lady Bennet's daughters.
+

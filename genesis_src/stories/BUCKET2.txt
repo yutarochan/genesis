@@ -1,0 +1,79 @@
+Insert file Start experiment.
+
+// Insert file General commonsense knowledge.
+
+Alice is a person.
+
+xx is an entity.//this will be alice
+
+yy is an entity.//this will be bucket
+
+ZZ is an entity.//this will be water
+
+WW is an entity.//this will be cat
+
+RollingStones is an entity.//this explains itself
+
+XX drops YY because XX runs and XX holds YY.
+
+XX spills ZZ because YY contains ZZ and because XX drops YY.
+
+XX is strong because XX holds YY and because YY is heavy.
+
+XX becomes scared because WW chases XX.
+
+YY becomes empty because XX drops YY.
+
+//XX starts herself up because XX sings "Start me up". Don't know how to do that.
+
+WW meows because XX sings RollingStones and because WW gets into ZZ.
+
+//"reflects" is supposed to be "resonates" but it doesn't work somehow
+YY reflects because WW enters YY and because WW meows and because YY is metallic.
+
+//Uncertain rules are below.
+XX may fall because XX drops YY and because YY is heavy.
+
+XX may slide because XX falls and because XX spills ZZ.
+
+XX may sing RollingStones because XX becomes scared and because XX is strong.
+
+WW may get into ZZ because XX spills ZZ and because WW chases XX.
+
+WW may enter YY because YY becomes empty and because WW chases XX.
+
+XX may speed up because YY reflects and because XX slides.
+
+// Insert file General reflective knowledge.
+
+//Bucket imagination test: iteration one.
+
+Start story titled "Alice runs with a bucket".
+
+Alice runs.
+
+Alice holds the bucket.
+
+The bucket contains the water.
+
+The bucket is heavy.
+
+The bucket is metallic.
+
+Alice falls.
+
+Alice slides.
+
+Cat chases Alice.
+
+//Alice sings "Start me up".
+Alice sings Stones.
+
+Cat gets into water.
+
+Cat enters the bucket.
+
+Alice speeds up.
+
+The end.
+

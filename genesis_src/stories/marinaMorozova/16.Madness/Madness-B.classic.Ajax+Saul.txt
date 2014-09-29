@@ -1,0 +1,114 @@
+Start experiment.
+Show both perspectives.
+
+Both perspectives.
+Insert file 16.txt.
+
+First perspective.
+Start story titled "Sophocles' Ajax".
+
+Note that Achilles is a name.
+Note that Thetis is a name.
+Note that Ajax is a name.
+Note that Paris is a name.
+Note that Athena is a name.
+Note that Agamemnon is a name.
+Note that Odysseus is a name.
+
+Troy is a place.
+Greeks are persons.
+Thetis is a deity.
+Athena is a deity.
+Ajax is a person.
+
+There is a war in Troy.
+
+Achilles is a hero of war.
+Ajax is a hero of war.
+Odysseus is a hero of war.
+
+
+Thetis is Achilles's mother.
+Thetis presents armour to Achilles.
+Paris kills Achilles.
+Thetis wants to give armour to the bravest hero.
+Ajax and Odysseus are brave.
+Ajax is offended because Odysseus receives Achilles's armour.
+Ajax wants to kill Greeks because Ajax is offended.
+
+Athena confuses Ajax because Athena does not want Ajax to kill Greeks.
+Ajax becomes mad because Athena confuses Ajax.
+Ajax is mad because Ajax becomes mad.
+
+Ajax attacks sheeps and cows because Ajax thinks animals are Greeks.
+Ajax thinks animals are Greeks because Ajax is mad.
+Ajax kills a lot of animals. Ajax arrests the rest of animals. Ajax brings the rest of animals to the camp.
+Ajax kills the rest of animals. 
+
+Ajax cuts off head and tongue of a ram because Ajax thinks that the ram is Agamemnon.
+Ajax thinks that the ram is Agamemnon because Ajax is mad.
+Ajax whips the other ram and Ajax calls the other ram Odysseus.
+Ajax calls the other ram Odysseus because Ajax believes that the other ram is Odysseus.
+Ajax believes that the other ram is Odysseus because Ajax is mad.
+
+Then, Ajax gains consciousness.
+Ajax is dishonored because Ajax attacks sheeps and cows.
+Ajax kills himself because Ajax is dishonored.
+
+
+The end.
+
+Second perspective.
+Start story titled "Saul by Gide".
+
+Note that Saul is a name.
+Note that Jonathan is a name.
+Note that David is a name.
+Note that Goliath is a name.
+
+Saul is a person.
+Jonathan is a person.
+David is a person.
+Goliath is a person.
+Israelites are persons.
+Philistines are persons.
+
+Saul is king of Israelites.
+Saul is weak. Saul is on the verge of madness.
+
+The capital is besieged by Philistines.
+Goliath is Philistines's hero.
+
+David comes to the court.
+David is young and charming.
+David answers the challenge of Goliath.
+David kills Goliath.
+
+Saul is infatuated with David because David is young and charming.
+
+
+Saul's wife is attracted to David because David is young and charming.
+Saul's wife tries to seduce David but Saul's wife fails.
+Saul is jealous because Saul's wife tries to seduce David.
+Jonathan is Saul's son.
+Jonathan is attracted to David because David is charming.
+Saul is jealous because Jonathan's attraction is mutual.
+
+Saul becomes mad because Saul is jealous and because Saul is infatuated with David.
+Saul is mad because Saul becomes mad.
+
+Saul commits indecencies and Saul hallucinates because Saul is mad.
+Saul is dishonored because Saul hallucinates and Saul commits indecencies.
+
+David is destined to replace Saul.
+People love David because David is young and charming. 
+Saul is jealous because people love David.
+
+Saul tries to kill David because Saul is jealous.
+David flees because Saul tries to kill David.
+David comes back with an army.
+
+David becomes king because David's soldiers kill Saul and Jonathan.
+
+
+The end.

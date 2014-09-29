@@ -1,0 +1,101 @@
+Open Mind Integration With Genesis
+
+Last Modified: Spring 2011
+Authors: Chris Calabrese and Robert McIntyre
+
+Note: There is a clojure implementation of rule generation/testing for the
+locations table in "locations.clj." This document does not explain how that
+code works, but it is functional and can be used as a template.
+
+===> 1) Implementation Notes
+
+The help table is oddly different from all the other tables because it is
+a two person rule (using XX and YY). This is not a problem by itself, but
+the data in the SQL database is unusually hard to generalize over for this
+table. Because of this, this table was omitted from the final set of rules
+generated in the text files. More work needs to be done to correct some of
+these inputs and generalize a rule for this table.
+
+===> 2) Development Notes
+
+The outstanding-tasks file in openmind/docs describes the next tasks this
+project requires to really get off the ground and make an impact.
+
+===> 3) Getting from a SQL database to Java data structures:
+
+The Open Mind database that we used (and presumably any other database with
+common sense information) came to us in SQL database format. The database
+is organized into tables, where each table represents a general relation
+between the data elements in the columns of that table. The data elements
+are related entities that will be used to generate English rules according
+to the relationship implied by the table name.
+
+We could just read the words directly from the database into START, but it
+turns out that a lot of the data is poorly formatted and not necessarily
+generalizable right away. Therefore, we read the data into a large data
+structure within Java for processing.
+
+The OpenMindDatabase class creates and populates these data structures when
+the rule generators call the appropriate method for each table. The JDBC code
+interfaces with the SQL database and executes a basic SELECT query on the
+specified table. The results are handled on a per-table basis, since the
+number and order of the data entities is not constant.
+
+The data structure for every table implemented thus far is an HashSet
+containing String arrays (HashSet<String[]>). The ordering of the input
+only matters within each data entry (since we need to know where we stored
+each specific entity), and an array seemed like the most efficient thing to
+use. In the rule generators, we no longer need a connection to the Open Mind
+database to apply our corrections and generate rules.
+
+===> 4) Getting from Java data structures to English rules
+
+Once we have the data structures populated, we need to unpack them and apply
+corrections to allow START to actually generate English rules. The corrections
+are implemented in RuleVariableCorrections as static methods, and they are
+simply compositions of individual corrections that are private to that class.
+The corrections range from necessary (replacing " " with "_" so START can handle
+entire noun phrases) to extremely useful (splitting verb phrases into verbs and
+objects so we can make useful rules from even more sentences) to nice-to-haves
+(replacing *_t and *_s with 't and 's for prettier output).
+
+After the corrections are applied, we have useful data that we can insert
+into triple representations for Winston's START generator code to construct
+English sentences. The triples for each table depend on the relationship that
+is implied by the table name. For some tables, the data is harder to generalize
+with a single type of rule structure. Sometimes the input is just really bad,
+but most of the time, modifications to START or the RuleVariableCorrections
+code will accept more of the data.
+
+As each triples String is sent to START, the output is checked to see if START
+returned a failure message. If so, we simply ignore the data and move on to the
+next element. If an English sentence was successfully generated, it is written
+out to a text file that will eventually contain all the successfully generated
+rules for the table in question. These text files allow us to work with the
+output without needing to use the remote START parser again.
+
+===> 5) Getting from English rules to a useful set of Genesis rules
+
+The text files now contain thousands of rules, but not all of them will be
+useful structures for Genesis to use. It is also possible that the choice of
+template structure for all the rules in a table could not be optimal for 
+Genesis to construct representations. To remedy this, the rules are passed
+through an automated testing framework that adds boxes to Genesis to directly
+pass in a story with each rule, and listen directly on the final inferences
+port to see if a useful representation was constructed from the rule. If the
+representation makes sense, the rule is good. Otherwise, this rule needs to
+be purged from the set.
+
+This functionality is currently implemented for the locations table in the
+clojure code, and therefore is still in a transition state. 
+
+===> 6) Getting from Genesis rules to a common sense database
+
+Not completed yet; need to acquire a machine and create a SQL database with
+either useful rules and/or Genesis representations so Genesis can pull them
+during story processing.
+
+===> 7) Integrating the common sense database with Genesis
+
+Not completed yet; this is a longer-term goal and will be described in more
+detail once development begins.

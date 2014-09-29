@@ -1,0 +1,13 @@
+Insert file Start experiment.
+First perspective.
+
+Start story titled "Vindictive 2 - Danglars harms Edmond".
+Edmond is a person.
+Danglars is a person.
+ 
+Danglars betrays Edmond.
+Danglars harms Edmond because Danglars betrays Edmond.
+Edmond becomes unhappy because Danglars harmed Edmond.
+Edmond wants to harm Danglars because Edmond becomes unhappy.
+Edmond wants to harm Danglars because Edmond is vindictive.
+The end.

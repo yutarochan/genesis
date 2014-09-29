@@ -1,0 +1,9 @@
+// Kindness
+If XX is kind and YY is unhappy, then XX may want YY to become happy.
+
+// Vindictiveness
+If XX is vindictive and YY harms XX, then XX may want to harm YY.
+If XX is vindictive and YY harms XX, then XX may harm YY.
+
+// Meanness
+If XX is mean, then XX may harm YY.

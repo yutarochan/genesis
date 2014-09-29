@@ -1,0 +1,55 @@
+Insert file Start experiment.
+
+Insert file trait reflective knowledge.
+
+Start story titled "Count of Monte Cristo".
+
+Edmond is a person.
+Danglars is a person.
+Ferdinand is a person.
+Villefort is a person.
+Morrel is a person.
+Albert is a person.
+
+Mercedes is a person.
+Haydee is a person.
+
+Mercedes is Edmond's fiancee.
+Ferdinand becomes jealous of Edmond because Mercedes is Edmond's fiance.
+Ferdinand betrays Edmond because Ferdinand becomes jealous.
+
+Danglars becomes jealous of Edmond because Edmond becomes captain.
+Danglars betrays Edmond because Danglars becomes jealous.
+
+Villefort imprisons Edmond because Villefort fears Edmond.
+
+Edmond becomes imprisoned because Ferdinand betrays Edmond.
+Edmond becomes imprisoned because Danglars betrays Edmond. 
+Edmond becomes imprisoned because Villefort imprisons Edmond.
+
+Danglars harmed Edmond because Edmond becomes imprisoned.
+Villefort harmed Edmond because Edmond becomes imprisoned.
+Ferdinand marries Mercedes because Edmond becomes imprisoned.
+Ferdinand harms Edmond because Ferdinand marries Mercedes.
+
+Edmond becomes injured because Edmond becomes imprisoned.
+
+Edmond wants to harm Danglars because Danglars harmed Edmond.
+Edmond wants to harm Villefort because Villefort harmed Edmond.
+Edmond wants to harm Ferdinand because Ferdinand harmed Edmond.
+
+Edmond bankrupts Danglars because Edmond wanted to harm Danglars.
+Edmond harms Danglars because Edmond bankrupted Danglars.
+
+Albert is Ferdinand's son.
+Edmond thinks that Edmond will become happy if Edmond humiliates Ferdinand.
+Edmond thinks that Edmond will injure Albert if Edmond humiliates Ferdinand.
+
+Edmond humiliates Ferdinand because Edmond wanted to harm Ferdinand.
+Ferdinand commits suicide because Edmond humiliates Ferdinand.
+Edmond harms Ferdinand because Ferdinand committed suicide.
+Ferdinand becomes injured because Ferdinand committed suicide.
+Edmond becomes happy because Ferdinand becomes injured.
+
+
+The end.

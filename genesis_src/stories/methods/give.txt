@@ -1,0 +1,37 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+xx is a person.
+
+bb is an entity.
+
+if contact between xx and bb appears, then xx holds bb. 
+
+if contact between xx and bb disappears, then xx does not hold bb. 
+
+Start reflective knowledge.
+
+Start story titled "Give".
+
+xx is an person.
+yy is a person.
+bb is an entity.
+
+Contact between xx and bb appears.
+
+xx holds bb.
+
+xx moves toward yy.
+
+Contact between xx and bb disappears.
+
+// Then, xx does not hold bb.
+
+Contact between yy and bb appears.
+
+// yy holds bb.
+
+xx moves from yy.
+
+The end.

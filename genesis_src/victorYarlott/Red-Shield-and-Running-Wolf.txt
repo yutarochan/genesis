@@ -1,0 +1,29 @@
+Red-Shield is a name.
+Running-Wolf is a name.
+
+"Heroic" is a kind of personality trait.
+
+Start story titled "Red-Shield and Running-Wolf".
+
+Running-Wolf is a person.
+Red-Shield is a person.
+Running-Wolf is heroic.
+Running-Wolf-Father is a person.
+
+//Sioux is a tribe.
+//Crow is a tribe.
+
+//Red-Shield is Sioux.
+//Running-Wolf is Crow.
+
+Running-Wolf-Father scolds Running-Wolf because Running-Wolf was lazy.
+Running-Wolf-Father scolds Running-Wolf leads to Running-Wolf stealing horses.
+Running-Wolf hunts well.
+Running-Wolf steals horses.
+Running-Wolf kills the enemy.
+
+Red-Shield meets Running-Wolf.
+Red-Shield falls in love with Running-Wolf.
+//Red-Shield marries Running-Wolf.
+
+The end.

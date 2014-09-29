@@ -1,0 +1,35 @@
+Clear text.
+
+Clear story memory.
+
+// xx was happy because zz wanted xx to appear.
+// xx appeared because xx was happy.
+
+xx becomes happy because xx wanted an action to occur and the action occurred.
+
+Start description of "answered prayer".
+
+Bill is a person.  
+
+// yy is an action.
+
+Bill's wanting an action to occur leads to the action's occurring.
+
+// xx's wanting yy to occur leads to yy's occurring.
+
+// xx's wanting yy leads to yy.
+
+The end.
+
+Start story.
+
+Jill is a person and Jack is a person.
+
+Jill wanted Jack to appear.
+
+Jack was happy because Jill wanted him to appear.
+Jack appeared because he was happy.
+
+// Jack appeared.
+
+The end.

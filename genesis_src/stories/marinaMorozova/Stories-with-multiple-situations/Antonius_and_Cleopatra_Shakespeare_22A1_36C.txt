@@ -1,0 +1,32 @@
+Start experiment.
+
+Insert file 22.txt.
+Insert file 36.txt.
+
+Start story titled "Antony & Cleopatra by Shakespeare -- Act IV".
+
+Note that Mark_Antonius is a name.
+Note that Mardian is a name.
+
+Mark_Antonius is a person.
+Cleopatra is a person.
+Caesar is a person.
+Mardian is a person.
+Life is valuable.
+
+Mark_Antonius is at war with Caesar.
+Mark_Antonius trusts Cleopatra because Mark_Antonius is passionate about Cleopatra.
+Mark_Antonius loves Cleopatra because Mark_Antonius is passionate about Cleopatra.
+Cleopatra betrays Mark_Antonius because Cleopatra's troops surrender to Caesar and because Mark_Antonius trusts Cleopatra.
+
+Mark_Antonius threatens Cleopatra because Cleopatra betrays Mark_Antonius.
+Cleopatra pretends that CLeopatra is dead because Mark_Antonius threatens Cleopatra.
+Mardian tells Mark_Antonius that Cleopatra is dead.
+
+Mark_Antonius thinks that Cleopatra is dead because Cleopatra pretends that Cleopatra is dead.
+
+Mark_Antonius becomes sad because Mark_Antonius thinks that Cleopatra is dead and because Mark_Antonius loves Cleopatra. 
+Mark_Antonius kills himself because Mark_Antonius becomes sad.
+Mark_Antonius loses life because Mark_Antonius kills himself.
+
+The end.

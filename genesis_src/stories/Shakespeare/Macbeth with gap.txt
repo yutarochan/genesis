@@ -1,0 +1,38 @@
+Insert file Start experiment.
+
+Both perspectives.
+Show both perspectives.
+
+Insert file General commonsense knowledge.
+
+//Insert file Lacking General Commonsense knowledge.
+
+Insert file Macbeth revised knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Macbeth commonsense knowledge with gap.
+
+// Insert file LehnertBasicPlotUnits.
+
+Radiate commonsense knowledge.
+
+// Pause.
+
+First perspective.
+Start story titled "Macbeth/Mystery".
+
+
+// Insert file Macbeth plot.
+
+Second perspective.
+Start story titled "Macbeth/Revenge".
+
+
+// Insert file Macbeth plot.
+
+Both Perspectives.
+
+Insert file Macbeth plot.
+
+

@@ -1,0 +1,39 @@
+/*
+Tests nominalization.  Need to look at story to be sure all works as it should.  Also checks pause feature.
+*/
+
+Clear story memory.
+
+Start story.
+
+A man attacked a dog.
+
+The dog bit the man.
+
+Pause.
+
+The bite caused the attack.
+
+The bite caused a cat to appear.
+ 
+The bite caused a cat to run to the lake.
+
+A dog ran to a lake because of the attack. 
+
+A dog appeared because of the attack. 
+
+The attack made the king appear.
+ 
+The attack made the king run to the lake.
+ 
+// The king ran to the lake because of the attack.
+
+The general destroyed the town.
+
+The destruction of the town made the king unhappy.
+
+ 
+The end.
+
+
+

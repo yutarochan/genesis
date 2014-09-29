@@ -1,0 +1,16 @@
+//IcarusPhase2PromptWithConstraint
+// 5/1/2013
+
+Start Story titled "Constraint Prompt".
+Agent-2 retrieves Explosive-Materials-1 from Location-5-5.
+Agent-2 travels to Location-9-5.
+Agent-2 builds IED-1 using Explosive-Materials-1.
+Agent-2 makes a phone call.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+//Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+//Agent-3 places IED-1 at Location-5-5.
+//IED-1 self-detonates.
+Align the story.
+The end.

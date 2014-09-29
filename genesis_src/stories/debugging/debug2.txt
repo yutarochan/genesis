@@ -1,0 +1,33 @@
+Start experiment.
+
+xx is an entity.
+
+yy is an entity.
+
+If xx kills yy then yy becomes harmed.
+
+Start description of "Strong medicine".
+
+xx is an entity.
+
+yy is an entity.
+
+aa is an action.
+
+xx kills yy.
+
+yy does not become harmed.
+
+The end.
+
+Peter, Paul, and Mary are persons.
+
+Start story titled "Traits".
+
+Paul kills Peter.
+
+Peter does not become harmed.
+
+// Paul angers Mary.
+
+The end.

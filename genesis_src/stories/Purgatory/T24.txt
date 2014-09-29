@@ -1,0 +1,22 @@
+
+Clear text.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+England, Germany, and France are countries.
+
+If England harmed France and Germany is my friend, then England harmed me.
+
+Start story.
+
+Estonia and Russia are countries.
+
+Estonia is my friend.
+
+Russia harmed Estonia.
+
+The end.
+
+

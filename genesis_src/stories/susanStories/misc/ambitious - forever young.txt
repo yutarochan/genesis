@@ -1,0 +1,26 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file ambitiousness reflective knowledge.
+
+Start story titled "Dorian Gray".
+
+// performs AA
+// AA = becomes immortal
+
+// performs BB
+// BB = sells Dorian's soul
+
+Dorian is a person.
+
+Dorian thinks that Dorian will become happy if Dorian becomes immortal.
+Dorian thinks that Dorian will become immortal if Dorian sells Dorian's soul.
+
+// Dorian wants to become immortal because Dorian wants to become happy.
+Dorian sells Dorian's soul because Dorian wants to become happy.
+// Dorian sells his soul because Dorian wants to become immortal.
+
+The end.

@@ -1,0 +1,28 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Start commonsense knowledge.
+
+If xx arrests yy then xx pursues yy.
+
+Insert file 3.txt.
+
+First perspective.
+
+Start story titled "Nick Carter -- Dinner for Adele".
+
+Nick is a person.
+Kratzmar is a name.
+Kratzmar is a person.
+Adele is a monster.
+Countess in a person.
+Prague is a place.
+
+Nick is a sleuth.
+Nick comes to Prague because Countess wants Nick to investigate.
+
+
+
+The end.
+

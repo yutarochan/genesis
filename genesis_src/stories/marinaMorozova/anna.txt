@@ -1,0 +1,206 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+If xx kills xx then xx dies.
+If xx dies then xx becomes hurt.
+
+if xx is zz's mistress then xx has an affair with zz.
+
+xx hurts yy if xx prohibits yy to see yy's son.
+xx hurts yy because xx is married to yy and xx has an affair with zz.
+
+
+
+Start reflective knowledge.
+
+
+
+Start description of "Betrayal".
+
+I am  moralist.
+xx is a person.
+yy is a person.
+zz is a person.
+yy is married to zz.
+yy loves xx.
+xx loves yy.
+yy has an affair with xx.
+
+The end.
+
+Start description of "Deserved punishment".
+
+I am moralist.
+xx is a person.
+yy is a person.
+zz is a person.
+yy is married to zz.
+yy loves xx.
+xx loves yy.
+yy has an affair with xx.
+yy becomes hurt.
+
+The end.
+
+Start description of "Doomed love".
+
+I am romantic.
+xx is a person.
+yy is a person.
+zz is a person.
+yy is married to zz.
+yy loves xx.
+xx loves yy.
+
+The end.
+
+Start description of "Love tragedy"
+
+I am romantic.
+xx is a person.
+yy is a person.
+zz is a person.
+yy is married to zz.
+yy loves xx.
+xx loves yy.
+yy becomes hurt.
+
+The end.
+
+
+
+Start description of "Self-restraint".
+
+I am not passionate.
+xx is a person.
+yy is a person.
+zz is a person.
+
+yy is married to zz.
+yy has an affair with xx.
+
+zz knows that yy cheats.
+zz behaves normally.
+
+The end.
+
+
+
+Start description of "Stupidity".
+
+I am pragmatic.
+xx is a person.
+yy is a person.
+zz is a person.
+
+yy is married to zz.
+yy has an affair with xx.
+
+yy tells zz that yy cheats.
+zz hurts yy.
+
+The end.
+
+Start description of "Revenge"
+
+xx harming zz leads to zz harming xx.
+
+The end.
+
+Start description of "Honesty".
+
+I am ethical.
+xx is a person.
+yy is a person.
+zz is a person.
+
+yy is married to zz.
+yy has an affair with xx.
+
+yy tells zz that yy cheats.
+
+The end.
+
+Start description of "Cowardness/Unsensibility".
+
+I am passionate.
+xx is a person.
+yy is a person.
+zz is a person.
+
+yy is married to zz.
+yy has an affair with xx.
+
+zz knows that yy cheats.
+zz behaves normally.
+
+The end.
+
+
+
+
+Start description of "Stupidity".
+
+I am pragmatic.
+xx is a person.
+yy is a person.
+zz is a person.
+
+yy is married to zz.
+ yy has an affair with xx.
+
+ yy tells zz that yy cheats.
+// zz hurts yy.
+
+The end.
+
+
+Start story titled "Anna Karenina".
+
+I am moralist.
+
+// I am ethical.
+
+// I am romantic.
+
+// I am passionate.
+
+// I am not passionate.
+
+// I am pragmatic.
+
+Anna is a person.
+Karenin is a person.
+Vronsky is a person.
+Serg is a person.
+Serg is Anna's son.
+
+Anna is married to Karenin.
+Anna meets Vronsky.
+Anna loves Vronsky.
+Vronsky loves Anna.
+
+Anna has an affair with Vronsky.
+
+// Anna becomes Vronsky's mistress.
+
+Karenin knows that Anna cheats because Anna tells Karenin that Anna cheats.
+
+Anna tells Karenin that Anna cheats.
+
+Karenin persuades Anna to behave normally.
+Karenin behaves normally.
+Anna gives a birth.
+Karenin wants Anna to stop seeing Vronsky.
+Anna continues seeing Vronsky.
+Karenin prohibits Anna to see Serg.
+Anna lives with Vronsky.
+Anna has hallucinations.
+Vronsky becomes unhappy.
+Anna becomes unhappy.
+
+Anna kills Anna.
+
+
+The end.

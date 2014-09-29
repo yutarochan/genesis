@@ -1,0 +1,31 @@
+Insert file Start experiment.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+
+Insert file Macbeth commonsense knowledge.
+
+Second perspective.
+
+Insert file Hamlet commonsense knowledge.
+
+Both perspectives.
+
+Insert file General reflective knowledge.
+
+First perspective.
+
+Insert file Macbeth reflective knowledge.
+
+Start story titled "Tragedy of Macbeth".
+
+Insert file Macbeth plot.
+
+Second Perspective.
+
+Start story titled "Hamelet".
+
+Insert file Hamlet plot.
+
+Start general knowledge.

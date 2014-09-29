@@ -1,0 +1,81 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+Insert file General commonsense1.
+
+Insert file General reflective knowledge1.
+
+//Insert file personality rules.
+
+First perspective.
+
+Insert file Eastern Commonsense1.
+
+Insert file Eastern Reflective knowledge1.
+
+Second perspective.
+
+Insert file Western Commonsense1.
+
+Insert file Western Reflective knowledge1.
+
+First perspective.
+Start story titled "McIlvane murder story/Eastern".
+
+Second perspective.
+Start story titled "McIlvane murder story/Western".
+
+First perspective.
+"Asian" is a kind of personality trait.
+I am Asian. 
+
+Second perspective.
+I am American. 
+
+Both Perspectives.
+
+McIlvane is a person.
+McIlvan's supervisor is a person. 
+//Supervisor is a person. 
+Labor relations specialist is a person. 
+
+McIlvane comes from Michigan. 
+McIlvane is American.
+McIlvane inhabits America.
+McIlvane's mother abandoned him.  
+McIlvane was raised by his father. 
+McIlvan's father was a tough ex-Marine. 
+McIlvane won competitions in martial-arts. 
+McIlvane entered US Marine corps. 
+After McIlvane's father died, McIlvane returned to Michigan.
+
+
+McIlvane failed at kick-boxing so McIlvane worked at the post office. 
+McIlvane bought a house in a quiet neighborhood. 
+McIlvane lived alone. 
+McIlvane was quiet. 
+McIlvane was mean. 
+McIlvane was lonely. 
+McIlvane's neighbors liked McIlvane. 
+McIlvane worked out. 
+McIlvane hunted. 
+
+Supervisors intimidated and harassed workers at the post office. 
+
+MicIlvane swore at his supervisor so McIlvane's supervisor fired McIlvane.
+McIlvane's supervisor fired McIlvane, so McIlvane contested the decision.
+McIlvane threatened supervisors. 
+McIlvane's supervisor ridiculed him. 
+McIlvane loses his appeal so McIlvane doesn't restore job.
+
+McIlvane shot his supervisor. 
+McIlvane shot the labor relations specialist. 
+McIlvane shot other supervisors. 
+McIlvane shot himself. 
+
+The end.
+
+Insert into text box: Did McIlvane kill his supervisor because America is individualistic?

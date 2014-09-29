@@ -1,0 +1,31 @@
+/*
+Various leads-to constructions requiring reification via occur. 
+*/
+
+Clear text.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+Henry, George, James, Patrick, Sam, and Mary are persons.
+
+Walk is a kind of travel.
+
+Fly is a kind of travel.
+
+Henry cried because James traveled and James is Henry's friend.
+
+Henry rejoiced because James moved and James is Henry's friend.
+
+Start story.
+
+Mary is George's friend.
+
+Mary walked.
+
+Patrick is Sam's friend.
+
+Patrick flew.
+
+The end.

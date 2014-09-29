@@ -1,0 +1,23 @@
+
+// Start commonsense knowledge.
+
+// James may murder Henry because James wants to become king and because Henry is the king.
+
+Insert file Macbeth commonsense knowledge.
+
+Start story.
+
+Macbeth, Macduff, Lady Macbeth, and Duncan are persons. 
+
+Duncan is a friend of Macduff.
+
+Duncan is king.
+
+Macbeth wants to become king.
+
+Macbeth murders Duncan.
+
+// Macduff kills Macbeth.
+
+The end.
+

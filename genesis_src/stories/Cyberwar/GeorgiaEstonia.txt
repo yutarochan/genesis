@@ -1,0 +1,31 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+xx and yy are entities.
+
+England and Germany are countries.
+
+Insert file Estonia commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Show both perspectives.
+
+First perspective.
+
+Start story titled "Russia vs Georgia".
+
+I am Georgia's friend.
+Georgia is my friend.
+
+Insert file Georgia plot.
+
+Second perspective.
+
+Start story titled "Russia vs. Estonia".
+
+I am Russia's friend.
+Russia is my friend.
+
+Insert file Estonia plot.

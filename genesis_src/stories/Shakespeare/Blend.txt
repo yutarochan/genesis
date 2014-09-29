@@ -1,0 +1,145 @@
+Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+First perspective.
+
+// If XX is an enemy of ZZ and YY is an enemy of ZZ, then XX is YY's friend.
+
+Insert file General commonsense knowledge.
+
+Insert file Relations knowledge.
+
+Insert file General reflective knowledge.
+
+"Eastern" is a kind of personality trait.
+
+"Machiavellian" is a kind of personality trait.
+
+Start story titled "Macbeth + Hamlet together".
+
+I am eastern.
+ 
+I am machiavellian.
+
+Insert file Macbeth preface.
+
+// New blip for character modelling in preface
+
+Macbeth is a thane and Macduff is a thane.
+
+Lady Macbeth is evil and greedy.
+
+Duncan is the king, and Macbeth is Duncan's successor.
+
+Duncan is an enemy of Cawdor.
+
+I admire Duncan.
+
+// Macduff is an enemy of Cawdor.
+
+// Macduff is a friend of Duncan.
+
+// Duncan is a friend of Macduff.
+
+Macbeth defeated Cawdor.
+
+Macduff killed an enemy of Duncan.
+
+Duncan becomes happy because Macbeth succeeded.
+
+Macbeth talks with Witches who had visions.
+
+Duncan rewarded Macbeth because Duncan became happy.
+
+Macbeth wants to become king because Lady Macbeth persuaded Macbeth to want to become the king.
+
+Macbeth murders Duncan.
+
+// Macbeth's becoming King leads to Macbeth's murdering Lady Macduff.
+
+// Macbeth's talking with witches leads to Macbeth's murdering Lady Macduff.
+
+Malcolm and Donalbain flee.
+
+Macbeth's murdering Duncan leads to Macduff's fleeing to England.
+
+Macduff's fleeing to England leads to Macbeth's murdering Lady Macduff.
+
+Macbeth's murdering Duncan leads to Lady Macbeth's becoming distraught.
+
+Lady Macbeth kills herself.
+
+// Blowing out for some reason in generation.
+// Witches predicted that Burnam Wood would go to Dunsinane.
+
+Burnham Wood goes to Dunsinane.  
+
+// Then, Macduff fights with Macbeth.
+
+Macduff fights with Macbeth.
+
+// Then, Macduff kills Macbeth.
+
+Macduff kills Macbeth.
+
+// Blowing out for some reason in generation.
+// Witches predict that Burnam Wood would go to Dunsinane before Burnam Wood went to Dunsinane.
+
+/*
+
+George, James, Mary, and Elizabeth are persons.
+
+George may kill James because James angers George.
+
+//// Supplement to reflective knowledge
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+*/
+
+Insert file Hamlet preface.
+
+King_Hamlet, who was Gertrude's husband, was the king, and Claudius was King_Hamlet's successor.
+
+Ophelia loves Hamlet.
+
+Claudius wanted to become the king.
+Claudius murdered King_Hamlet.
+
+Claudius marries Gertrude.
+Hamlet kills Polonius.
+Ophelia becomes insane.
+Ophelia kills herself.
+Gertrude drinks poison.
+Gertrude becomes dead.
+
+Hamlet kills Laertes.
+Hamlet kills Claudius.
+Laertes kills Hamlet.
+
+
+King_Hamlet becomes dead.
+Hamlet believes Claudius killed King_Hamlet.
+Hamlet dislikes Claudius.
+Polonius goes behind a curtain.
+Hamlet believes Claudius is behind the curtain.
+Hamlet stabs the person behind the curtain.
+Polonius becomes dead.
+Laertes fought with Hamlet.
+Laertes stabs Hamlet.
+Hamlet stabs Laertes.
+Laertes becomes dead.
+Gertrude drinks poison.
+Hamlet becomes dead.
+
+
+The end.
+
+

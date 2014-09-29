@@ -1,0 +1,11 @@
+Hamlet-story is a story.
+
+The king ran.
+
+The king becomes dead.
+
+The queen flew.
+
+The queen became dead.
+
+The End.

@@ -1,0 +1,73 @@
+/*
+Testing ground for working out the difficulties in granting land from Emperor (ShaddamIV) to Atreides or Harkonnen.
+*/
+
+Clear text.
+Clear story memory.
+
+XX, YY, ZZ are entities.
+BB is bloc.
+Group1 is group.
+RR is region.
+
+
+//Government
+// Word choice of "[Bloc] INCLUDES [Member]" because the phrase "is a member of" gets interpreted
+//	strangely in complicated sentences.  See:   
+//	XX governs YY because XX governs BB, YY is a member of BB, and BB is bloc.
+XX governs YY because XX governs BB, BB includes YY, and BB is bloc.
+XX governs YY because XX leads Group1, Group1 governs YY, and Group1 is group.  // LEADERS OF GOVERNING BODY ALSO GOVERN SUBJECTS
+
+//Land Seizure
+XX may seize RR from YY because XX governed YY, and YY controlled RR.	// A governor can seize your territory
+
+/*
+YY's controlling of RR did not occur because XX seized RR from YY.		// If seized, you stop controlling it.
+XX holds RR because XX seized RR.										// Temporary hold - separate from control.
+Group1 holds RR because XX holds RR, and XX leads Group1.
+XX may grant RR to ZZ because XX holds RR.								// Can't grant without holding/controlling it.
+XX may grant RR to ZZ because XX controls RR.
+ZZ controls RR because XX granted RR to ZZ.								// And control transfers with a grant.
+
+
+//Rivalry + Seizure
+YY harms ZZ because XX seized RR from ZZ, XX granted RR to YY, and ZZ dislikes YY.
+
+//Hatred
+XX dislikes YY because XX hates YY.
+*/
+
+Start story.
+
+George, Bill, and Jim are persons.
+Yard is region.
+
+George governs Bill and Jim.
+Bill controls Yard.
+
+George seizes Yard from Bill.
+
+/*
+// Assorted Background
+Guild, Corrino, and Atreides are nations.
+Emperor, Navigator, Leto, and Paul are persons.
+Emperor leads Corrino.
+Harkonnen is nation.
+Baron and Feyd are persons.
+Baron leads Harkonnen.
+Feyd is member of Harkonnen.
+Leto leads Atreides.
+Paul is member of Atreides.
+Landsraad is bloc.
+Landsraad includes Atreides, Corrino, and Harkonnen.
+Corrino governs Landsraad.
+Dune is region.
+Harkonnen hates Atreides.
+Harkonnen controls Dune.
+
+// Control, Seizure, Grant, Control, Harm
+Emperor seizes Dune from Harkonnen.
+Emperor grants Dune to Atreides.
+*/
+
+The end.

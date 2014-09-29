@@ -1,0 +1,31 @@
+/*
+Tests that appear induced by occur expression does not cause nesting.
+Test to isolate Action--I-->Appear(action)--I-->Appear(Appear(action))--I-->...
+*/
+
+Clear text.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX, YY, and ZZ are entities.
+
+XX wanted an action because YY wanted an action, and YY was XX's superior.
+XX may want an action because YY wanted an action, and XX was YY's colleague.
+
+Start story.
+Amy, Barbara, Cindy, and Diane are persons.
+
+Amy is Barbara's superior.
+Barbara is Cindy's superior.
+Diane is Cindy's colleague.
+
+BigFir is a tree.
+
+Amy wants BigFir to grow.
+Diane wants BigFir to grow.
+
+The end.
+
+

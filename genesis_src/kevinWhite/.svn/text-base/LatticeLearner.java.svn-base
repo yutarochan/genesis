@@ -1,0 +1,219 @@
+package latticeLearning;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Set;
+
+import translator.Translator;
+import utils.Mark;
+import bridge.reps.things.Thing;
+import connections.AbstractWiredBox;
+
+public class LatticeLearner extends AbstractWiredBox {
+    
+    private static Translator interpreter = Translator.getTranslator();
+    private ArrayList<Thing> sentences = new ArrayList<Thing>();
+    private HashMap<Integer,String> nounThreads = new HashMap<Integer,String>();
+    private HashMap<Integer,String> verbThreads = new HashMap<Integer,String>();
+    private static Set<String> impliedPositives = new HashSet<String>();
+    private static Set<String> impliedNegatives = new HashSet<String>();
+    private UI nounUI;
+    private UI verbUI;
+
+    public LatticeLearner() throws Exception{
+        interpreter = Translator.getTranslator();
+        translateFlyers();
+        translateSwimmers();
+        translateLandLovers();
+        translateFurry();
+//        for(Thing sentence: sentences){
+//            Mark.say(sentences.indexOf(sentence),sentence.asString());
+//        }
+        parse();
+        nounUI = new UI(nounThreads.values().toArray());
+        nounUI.setTitle("Nouns");
+        nounUI.setVisible(true);
+//        parseVerbs();
+//        verbUI = new UI(verbThreads.values().toArray());
+//        verbUI.setTitle("Verbs");
+//        verbUI.setVisible(true);
+    }
+    
+    public void translateFlyers() throws Exception{
+        Thing birds = interpreter.translate("Birds can fly.");
+        Thing fish = interpreter.translate("Fish cannot fly.");
+        Thing airplane = interpreter.translate("Airplanes can fly.");
+        Thing cars = interpreter.translate("Cars can't fly.");
+        Thing bats = interpreter.translate("Bats can't fly.");
+        sentences.add(birds);
+        sentences.add(fish);
+        sentences.add(airplane);
+        sentences.add(cars);
+        sentences.add(bats);
+    }
+    
+    public void translateSwimmers() throws Exception{
+        Thing fish = interpreter.translate("Fish can swim.");
+        Thing plants = interpreter.translate("Plants can't swim.");
+        Thing boats = interpreter.translate("Boats can swim.");
+        Thing cars = interpreter.translate("Cars can't swim.");
+        Thing ducks = interpreter.translate("Ducks can swim.");
+        Thing sparrow = interpreter.translate("Sparrows cannot swim.");
+        Thing dogs = interpreter.translate("Dogs can swim.");
+        Thing bats = interpreter.translate("Bats cannot swim.");
+        sentences.add(fish);
+        sentences.add(plants);
+        sentences.add(boats);
+        sentences.add(cars);
+        sentences.add(ducks);
+        sentences.add(sparrow);
+        sentences.add(dogs);
+        sentences.add(bats);
+    }
+    
+    public void translateLandLovers() throws Exception{
+        Thing plants = interpreter.translate("Plants prefer land.");
+        Thing fish = interpreter.translate("Fish do not prefer land.");
+        Thing cars = interpreter.translate("Cars prefer land.");
+        Thing airplane = interpreter.translate("Airplanes don't prefer land.");
+        Thing dogs = interpreter.translate("Dogs prefer land.");
+        Thing bats = interpreter.translate("Bats don't prefer land.");
+        sentences.add(plants);
+        sentences.add(fish);
+        sentences.add(cars);
+        sentences.add(airplane);
+        sentences.add(dogs);
+        sentences.add(bats);
+    }
+    
+    public void translateFurry() throws Exception{
+        Thing mammals = interpreter.translate("Mammals are furry.");
+        Thing birds = interpreter.translate("Birds are not furry.");
+        Thing rugs = interpreter.translate ("Rugs are furry.");
+        Thing cars = interpreter.translate("Cars aren't furry.");
+        sentences.add(mammals);
+        sentences.add(birds);
+        sentences.add(rugs);
+        sentences.add(cars);
+    }
+
+    public void parse(){
+        for (Thing sent: sentences){
+            int nounKey = sent.getElement(0).getSubject().getPrimedThread().toString(true).hashCode();
+            if (!nounThreads.containsKey(nounKey)){
+                nounThreads.put(nounKey, sent.getElement(0).getSubject().getPrimedThread().toString(true));
+            }
+            
+            String tempString = "";
+            int verbKey = 0;
+            if (sent.getElement(0).hasFeature("not")){
+                tempString = "not " + sent.getElement(0).getPrimedThread().toString(true);
+                verbKey = tempString.hashCode();
+            }
+            
+            else{
+                tempString = sent.getElement(0).getPrimedThread().toString(true);
+                verbKey = tempString.hashCode();
+            }
+            
+            if (!verbThreads.containsKey(verbKey)){
+                verbThreads.put(verbKey, tempString);
+            }
+        }
+    }
+    
+    public static String answerQuestion(String question, Set<String> affirmatives, Set<String> negatives) throws Exception{
+        Thing ansThing = interpreter.translate(question);
+//        String sentBrkdwn = ansThing.toString();
+//        Mark.say(sentBrkdwn);
+        if (question.contains("?")){
+            String ansSubject = "";
+            try{
+                ansSubject = ansThing.getElement(0).getSubject().getSubject().asStringWithoutIndexes().split("-")[0];
+                Mark.say(Arrays.toString(impliedPositives.toArray()),Arrays.toString(impliedNegatives.toArray()));
+                Mark.say(ansSubject);
+            }
+            
+            catch (Exception e){
+                ansSubject = ansThing.getElement(0).getSubject().getFeatures().toString(true).split(" ")[1];
+            }
+            if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                return "Yes.";
+            }
+            else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                return "No.";
+            }
+            else {
+                return "This lattice does not contain the information requested.";
+            }
+        }
+        
+        else{
+            String ansSubject = ansThing.getElement(0).getSubject().asStringWithoutIndexes().split("-")[0];
+            if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                return "True.";
+            }
+            else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                return "False.";
+            }
+            else {
+                ansSubject = ansThing.getElement(0).getObject().getFeatures().toString(true).split(" ")[1];
+                if (affirmatives.contains(ansSubject)||impliedPositives.contains(ansSubject)){
+                    return "True.";
+                }
+                else if (negatives.contains(ansSubject)||impliedNegatives.contains(ansSubject)){
+                    return "False.";
+                }
+                else{
+                    return "This lattice does not contain the information requested.";
+                }
+            }
+        }
+    }
+    
+    public static void getImplication(boolean isGreen, String thread,Set<String> positives, Set<String> negatives){
+        if (isGreen){
+            Mark.say(thread);
+            if (impliedNegatives.contains(thread)){
+                impliedNegatives.remove(thread);
+            }
+            impliedPositives.add(thread);
+        }
+
+        else{
+            if (impliedPositives.contains(thread)){
+                impliedPositives.remove(thread);
+            }
+            impliedNegatives.add(thread);
+        }
+
+        impliedPositives.removeAll(positives);
+        impliedNegatives.removeAll(negatives);
+    }
+    
+    public static Set<String> getImpliedPositives(){
+        return impliedPositives;
+    }
+    
+    public static Set<String> getImpliedNegatives(){
+        return impliedNegatives;
+    }
+    
+    public UI getNounUI(){
+        return nounUI;
+    }
+    
+    public UI getVerbUI(){
+        return verbUI;
+    }
+    
+    public static void main(String[] args){
+        try {
+            LatticeLearner test = new LatticeLearner();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+}

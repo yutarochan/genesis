@@ -1,0 +1,10 @@
+/* README
+Step through both sentences. Gauntlet has been given two examples of 
+birds that fly, and generalized to a trajectory description of
+"The bird flew to the tree." In the process, it replaced the older
+sentence "The robin flew to the tree." These changes can be viewed
+in the SOM Trajectory view-circle GUI.
+*/
+
+The robin flew to a tree.
+The bluebird flew to a tree.

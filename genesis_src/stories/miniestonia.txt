@@ -1,0 +1,19 @@
+Clear story memory.
+
+// The background knowledge
+
+England and France are countries.
+
+
+
+England fought with France because France offended England.
+
+
+
+Start story.
+
+Estonia and Russia are countries.
+Estonia offended Russia.
+
+The end.
+

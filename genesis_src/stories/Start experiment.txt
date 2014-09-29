@@ -1,0 +1,14 @@
+// Obsolete!!! Do not use this file.  Use "Start experiment." idiom instead.  This file is no longer read.
+
+// Universal for story starting to prevent leakage from other readings
+
+
+Both perspectives.
+Clear explanatory text.
+Start general knowledge. // Does nothing
+Clear story memory.
+Clear mental models. // Does nothing
+First perspective.
+Show first perspective.
+The end.  // Needed to switch back to common sense mode.
+

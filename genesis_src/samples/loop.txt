@@ -1,0 +1,4 @@
+Imagine a ball flew over a block.
+Did the ball touch the block?
+Imagine a bird flew over a tree.
+Imagine an airplane flew over a camp.

@@ -1,0 +1,73 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+xx is an entity.
+
+yy is an entity.
+
+zz is an entity.
+
+ww is an entity.
+
+mm is a group.
+
+pp is an group.
+
+Morozova-family is a kind of group. 
+
+Winston-family is a kind of group.
+
+If xx kills yy then xx must intend to kill yy.
+
+If xx kills yy then xx harms yy.
+
+If xx harms yy and yy is a member of mm, then xx harms mm.
+
+If xx harms mm and xx is a member of pp and yy is a member of mm, then yy intends to harm pp.
+
+If xx intends to harm mm and yy is a member of mm, then xx may kill yy.
+
+If xx kills yy and xx is a member of zz, then yy cannot intend to harm zz.
+
+Start reflective knowledge.
+
+Start description of "Blood feud revenge".
+
+xx is a member of mm;
+ww is a member of pp;
+ 
+xx's harming of pp leads to ww's harming of mm.
+ 
+The end.
+
+Start description of "License to kill".
+
+xx is a member of mm;
+yy is a member of mm;
+ww is a member of pp;
+
+xx's harming of pp leads to ww's killing yy.
+ 
+The end.
+
+Start story titled "Haji-Murat Analog".
+
+Marina, Patrick, Robert, and Michael are persons.
+
+Patrick is a member of Winston-family.
+Robert is a member of Winston-family.
+
+Marina is a member of Morozova-family.
+Michael is a member of Morozova-family.
+
+Robert kills Michael.
+
+Marina kills Patrick.
+
+
+
+The end.
+
+
+// If xx harms yy and xx is a member of mm and yy is a member of pp and zz is a member of pp, then zz intends to harm mm.

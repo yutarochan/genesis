@@ -1,0 +1,43 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX is lost, then XX may be unhappy.
+If XX is lost, then XX may need help.
+If XX is unhappy and XX is a child, then XX cries.
+
+If YY guides XX to home, then XX arrives home.
+If YY guides XX to home, then YY helps XX.
+
+Insert file kindness reflective knowledge.
+
+Start story titled "Nice granny".
+
+Billy is a person.
+Billy is a child.
+
+Cordelia is a person.
+Cordelia is kind.
+
+Billy is lost.
+// Billy is unhappy.
+Billy needs help.
+
+Cordelia wants Billy to become happy because Billy is unhappy.
+Cordelia wants Billy to become happy because Cordelia is kind.
+
+Cordelia guides Billy to home because Cordelia wants Billy to become happy.
+
+// Billy becomes happy because Cordelia brings Billy home.
+
+Billy becomes happy because Billy arrives home.
+
+Cordelia becomes happy because Billy becomes happy.
+
+The end.

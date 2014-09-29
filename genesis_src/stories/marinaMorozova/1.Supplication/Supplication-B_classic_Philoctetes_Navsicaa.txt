@@ -1,0 +1,96 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 1.txt.
+
+Start commonsense knowledge.
+
+if yy is a princess then yy is mighty.
+if xx suffered a shipwreck then situation troubles xx.
+if yy terrifies xx then yy upsets xx.
+if yy abandons xx and xx is sick then yy upsets xx.
+xx may help yy because yy asks xx to help yy.
+
+
+First perspective.
+
+Start story titled "Philoctetes by Sophocles Act I".
+
+Note that Hercules's_bow is a name.
+
+Philoctetes is a person.
+Troy is a place.
+
+Hercules's_bow is an object.
+Odysseus is a person. 
+Neoptolem is a person.
+Greeks are persons.
+
+Odysseus and Greeks want to occupy Troy; Odysseus and Greeks travel with Philoctetes.
+Philoctetes becomes sick because Philoctetes gets bitten.
+
+Philoctetes suffers because Odysseus and Greeks abandon Philoctetes and Philoctetes is sick.
+
+Philoctetes is stuck on the island for 10 years.
+Meanwhile, Odysseus and Greeks tried to siege Troy.
+Odysseus and Greeks failed to occupy Troy.
+Neoptolem also wants to occupy Troy.
+Philoctetes is mighty because Philoctetes owns Hercules's_bow; Foreteller tells Odysseus that Odysseus can not occupy Troy without Philoctetes; Odysseus wants Philoctetes to help Odysseus; Odysseus and Neoptolem come to the island.
+Philoctetes does not plan to help Greeks because Greeks upset Philoctetes.
+Odysseus and Neoptolem want to lure Philoctetes to Troy because Odysseus wants Philoctetes to help Greeks and because Neoptolem wants Philoctetes to help Greeks.
+Odysseus wants Hercules's_bow and Neoptolem wants Hercules's_bow because Odysseus and Neoptolem want to lure Philoctetes to Troy.
+
+Odysseus fears Philoctetes because Philoctetes is mighty and because Odysseus upsets Philoctetes.
+Neoptolem doesn't want to trick Philoctetes but Odysseus persuades Neoptolem to trick Philoctetes.
+Odysseus persuades Neoptolem to trick Philoctetes because Odysseus fears Philoctetes.
+
+In order to trick Philoctetes Neoptolem lies to Philoctetes.
+Philoctetes likes Neoptolem because Neoptolem lies to Philoctetes.
+Philoctetes is not alert because Philoctetes likes Neoptolem.
+Philoctetes falls asleep.
+Neoptolem obtains Hercules's_bow because Philoctetes is not alert.
+
+Philoctetes understands that Neoptolem tricked Philoctetes; Philoctetes curses Neoptolem.
+
+Neoptolem asks Philoctetes to help Greeks. Philoctetes refuses.
+Neoptolem feels bad because Neoptolem lies to Philoctetes.
+Neoptolem returns Hercules's_bow to Philoctetes because Neoptolem feels bad.
+Neoptolem asks Philoctetes to help Greeks again. Philoctetes refuses again.
+
+Hercules appears.
+Hercules proclaims divine will.
+Hercules asks Philoctetes to help Greeks.
+
+
+Philoctetes helps Odysseus and Greeks.
+
+The end.
+
+
+Second perspective.
+
+
+Start story titled "Odysseus & Navsicaa by Sophocles".
+
+Odysseus is a man.
+Navsicaa is a woman.
+Athena is a deity.
+Scheria is an island.
+
+Odysseus suffered shipwreck.
+Waves bring Odysseus to Scheria.
+Odysseus is naked and alone and tired because he suffered a shipwreck.
+Odysseus falls asleep at the shore because Odysseus is tired.
+
+
+Navsicaa is a princess.
+Athena sends Navsicaa to the shore because Odysseus needs help and Athena wants Navsicaa to help Odysseus. 
+Navsicaa meets Odysseus because Navsicaa goes to the shore.
+Odysseus wakes up.
+Odysseus terrifies Navsicaa because Odysseus looks horrible.
+Navsicaa does not plan to help Odysseus because Odysseus upsets Navsicaa.
+Situation troubles Odysseus; Odysseus asks Navsicaa to help Odysseus; Navsicaa helps Odysseus.
+
+
+The end.

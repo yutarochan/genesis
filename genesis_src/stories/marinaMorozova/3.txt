@@ -1,0 +1,41 @@
+Start description of "Crime_pursued_by_Vengeance-A".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+xx loves zz and yy's hurting zz leads to xx's believing that yy transgressed.
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+Start description of "Crime_pursued_by_Vengeance-A".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+xx believes that yy transgressed because yy hurts xx.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx hurts yy.
+Sometimes, yy is punished.
+
+The end.
+
+Start description of "Crime_pursued_by_Vengeance-C".
+
+yy is an entity.
+xx is an entity.
+
+xx is a sleuth.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx hurts yy.
+Sometimes, yy is punished.
+
+The end.

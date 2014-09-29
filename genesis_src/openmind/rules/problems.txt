@@ -1,0 +1,757 @@
+XX can't become mail if mail was not yet delivered.
+XX can't act as a security guard at office if a robber.
+XX can't close the curtains if curtains get caught.
+XX can't turn off the computer if finding the power switch.
+XX can't replace a water tap filter if there are no filters left.
+XX can't chop vegetables if the vegetables are rotten.
+XX can't throw an object if the object is too heavy.
+XX can't take a photograph if no lights.
+XX can't put object away if not knowing where it belongs.
+XX can't turn on lights if the lightbulbs are broken.
+XX can't wrap a gift if that you run out of wrapping paper.
+XX can't iron clothes if the iron is not working.
+XX can't turn music system off if the remote is lost.
+XX can't give a message to someone at home if the person not being at home.
+XX can't mail a letter if the letter will not fit the mailbox.
+XX can't find an object if someone took away the object.
+XX can't paint a wall if running out of paint.
+XX can't tell a story if forgot story.
+XX can't make a flight reservation if the person being hard to understand.
+XX can't do the laundry if no soap.
+XX can't access the internet if the isp being unavailable.
+XX can't make a tossed salad if lettuce is brown.
+XX can't clean up toys if some of them are missing.
+XX can't greet a visitor if not speaching the language.
+XX can't mow the lawn if the blade hit a rock.
+XX can't sweep the floor if your brook breaks.
+XX can't assist someone in walking if a leg hurting.
+XX can't water indoor plants if could not reach plants.
+XX can't feed a pet dog if no dog.
+XX can't unload the dishwasher if too much.
+XX can't put object away if no where to put it.
+XX can't print the document if paper jam.
+XX can't give a message to someone at home if no one answers the phone.
+XX can't heat food on kitchen gas if there is no gas left.
+XX can't follow someone around if if you are seen.
+XX can't replace a refrigerator filter if locating a new filter.
+XX can't serve a drink if there is no ice.
+XX can't put up a painting if the size.
+XX can't give a medicine if you tend to gag.
+XX can't send party invitations if not enough stamps.
+XX can't replace batteries in the toy if no new batteries are available.
+XX can't replace a water tap filter if no new filter.
+XX can't turn music system on if turn on the music system.
+XX can't sweep the floor if no brrom.
+XX can't raise the blinds if the rope breaks.
+XX can't guard the house if a burglar.
+XX can't find an object if poor lighting.
+XX can't make the hot dog if out of buns.
+XX can't feed a pet cat if you can't find the cat.
+XX can't mow the lawn if a broken lawnmower.
+XX can't turn music system off if already off.
+XX can't change bed sheets if that you don't have clean bed sheets.
+XX can't change bed sheets if theyre on too tight.
+XX can't move the furniture if a sore back.
+XX can't become food from refrigerator if there is no space.
+XX can't gather all scattered toys if they have a sore back.
+XX can't greet a visitor if that the visitor is an enemy.
+XX can't secure the perimeter of the house if no guard dog.
+XX can't secure all exits if the doors won't lock.
+XX can't turn the heat off if shut off the heat.
+XX can't dry clothes if already dry.
+XX can't assist person in standing up if the person being too week to stand.
+XX can't push something if the floor is slippery.
+XX can't serve a meal if that is it cold.
+XX can't lock windows if the windows are smashed.
+XX can't boil the milk if the spillage.
+XX can't gather all scattered toys if too many toys.
+XX can't ask about someone's day if if they don't want to talk to you.
+XX can't water indoor plants if a lack of water.
+XX can't feed the fish if the fish won't come up to eat.
+XX can't throw an object if the object being too heavy.
+XX can't push something if thing too heavy.
+XX can't serve a drink if no drinks left.
+XX can't clean the shower if you run out of cleaning solution.
+XX can't keep the dog away if the dog is vicious.
+XX can't fetch a stapler if the stapler being empty.
+XX can't guard the house if no house.
+XX can't make a presentation if blackout disrupts electrical feed to building.
+XX can't hang clothes if there isn't enough clothes pins.
+XX can't push someone in a wheel chair if the wheels are in a locked position.
+XX can't turn off lights if the switch getting stuck.
+XX can't mail a letter if a locked mailbox.
+XX can't erase the whiteboard if you can't locate the eraser.
+XX can't take a photograph if you are out of film.
+XX can't make a tossed salad if greens are turned rotten.
+XX can't turn the air conditioner on if the air conditioner not working.
+XX can't open the garage if that the door is jammed.
+XX can't answer the doorbell if no one is at the door.
+XX can't find out more information if lack of sources.
+XX can't make breakfast if no stove.
+XX can't handle toxic materials if the spillage.
+XX can't turn off lights if the switch getting stuck.
+XX can't change bed sheets if there are no clean bedsheets.
+XX can't cook pasta if you dont know how long to cook it.
+XX can't answer the phone if phone not working.
+XX can't feed a pet cat if the cat food has been used up.
+XX can't water indoor plants if the plant is dead.
+XX can't cook pasta if noodles overcook.
+XX can't change a baby diaper if there are no diapers left.
+XX can't set a wake up alarm if wrong setting.
+XX can't dance with the children if children might not like it.
+XX can't apply the band aid if no ointment.
+XX can't lock up the house if no key.
+XX can't replace a refrigerator filter if no replacements available.
+XX can't close the curtains if they do not close.
+XX can't read a story to a child if the child is cranky and won't listen.
+XX can't watch for the kids to come home if doing this at the correct time.
+XX can't retrieve a tool if tool that is too heavy.
+XX can't cook pasta if no water.
+XX can't replace heater filter if heater too hot to handle.
+XX can't become mail if no mail box.
+XX can't remove and replace garbage bag if that the bag spills.
+XX can't make baby sleep if too much noise around the baby.
+XX can't fetch a cold drink if there are no cold drinks left.
+XX can't handle toxic materials if they spill.
+XX can't clean up toys if getting into the small areas.
+XX can't make a presentation if the procrastination.
+XX can't boil the milk if out of milk.
+XX can't dry clothes if the clothes are too wet.
+XX can't follow someone around if he tells you to leave them alone.
+XX can't make a tossed salad if the lettuce is rotten.
+XX can't walk the dog if the dog runs off after a cat.
+XX can't follow someone around if they don't want to be followed.
+XX can't change bed sheets if the new sheets have not been ironed.
+XX can't push someone in a wheel chair if the wheel chair being in a locked position.
+XX can't answer the phone if that the phone's too far away.
+XX can't gather all scattered toys if toys are out of reach.
+XX can't send party invitations if the addresses have been misplaced.
+XX can't turn music system on if the stereo is not plugged in.
+XX can't replace batteries in the toy if the batteries are the wrong size.
+XX can't heat food on kitchen gas if no food.
+XX can't play a movie if it is not rewound.
+XX can't fill water in container if the container is not large enough to hold the water.
+XX can't feed the infant if not hungry.
+XX can't make breakfast if you dont have any eggs.
+XX can't send party invitations if lack of postage stamps.
+XX can't make sure children are fed if no kids.
+XX can't feed a pet dog if the dog bites you.
+XX can't clean the dishes if the food is dried on.
+XX can't clean the shower if the bottle of bleach is almost empty.
+XX can't fetch a book if not knowing where the book is.
+XX can't feed a pet cat if no food.
+XX can't play the piano if cannot play it.
+XX can't photocopy a paper if youre out of paper.
+XX can't open the garage if the door is blocked.
+XX can't make fresh orange juice if the oranges are rotten.
+XX can't recycle the paper if the recycle bin is full.
+XX can't throw an object if the object is too heavy.
+XX can't pack a suitcase if the suitcase not locking.
+XX can't unload the dishwasher if the door is jammed.
+XX can't secure all windows if raptors.
+XX can't play a song if a corrupted mp3 file.
+XX can't replace batteries in the toy if not having new batteries.
+XX can't keep the dog away if the fear.
+XX can't dust an object if dust going up your nose.
+XX can't turn on lights if the power is out.
+XX can't pick up dishes if slippery hands.
+XX can't turn the air conditioner on if the house is cold.
+XX can't clean the shower if shower is dirty.
+XX can't assist person in standing up if the person is too heavy.
+XX can't mow the lawn if that the lawn mower doesn't have any gas.
+XX can't serve a meal if sides are not ready.
+XX can't place ladder near wall if the ladder is too heavy.
+XX can't clean the shower if the shower is already cleaned.
+XX can't push someone in a wheel chair if a large bump in the sidewalk.
+XX can't clean up if empty cleaning solution bottle.
+XX can't open the garage if the garage door is not opening.
+XX can't turn on the computer if no power.
+XX can't make a dinner reservation if no time.
+XX can't set the dining table if the lights are off.
+XX can't change a bulb if no bulbs.
+XX can't remove and replace garbage bag if the bag rips.
+XX can't pour beer into a glass if if the beer overflows.
+XX can't load the dishwasher if a broken glass.
+XX can't send party invitations if no stamps.
+XX can't open the package if package is taped shut.
+XX can't clean up if the mop is not there.
+XX can't pack a mailing box if mail box is full.
+XX can't place ladder near wall if that there is something in the way.
+XX can't make sure children are fed if you have no food.
+XX can't check for intruders in the house if you cannot access a room where intruders might be.
+XX can't empty the trash if that the trash bags have holes in them.
+XX can't keep the dog away if a stray cat running in the front yard.
+XX can't turn tv off if the remote control doesn't work.
+XX can't gather all scattered toys if there is no where to put them.
+XX can't take care of plants if overly dry soil.
+XX can't push something if too much friction.
+XX can't change a baby diaper if no new diaper.
+XX can't take a photograph if room is too dark.
+XX can't dance with the children if they are too hyper.
+XX can't cook pasta if cooking the pasta for too long.
+XX can't change a bulb if bulb is missing.
+XX can't turn off lights if the switch getting stuck.
+XX can't answer the phone if the line went dead.
+XX can't clean the shower if the shower is dirty.
+XX can't recycle the paper if the recycle bin is full.
+XX can't wrap a gift if no tape.
+XX can't make soup if the soup is too hot.
+XX can't fetch a cold drink if there is nothing cold to drink.
+XX can't turn tv off if no remove.
+XX can't fold clothes if folded.
+XX can't answer the doorbell if the door is locked.
+XX can't lock up the house if the lock is broken.
+XX can't turn the heat on if it is too hot.
+XX can't give a message to someone at home if the person isn't home.
+XX can't open a web page if not having the right browser plugins.
+XX can't check for intruders in the house if its dark.
+XX can't replace a refrigerator filter if difficult to find it.
+XX can't make fresh orange juice if no oranges.
+XX can't secure all exits if people coming in.
+XX can't check for weather if its dark out.
+XX can't take care of plants if the plants being dead.
+XX can't send a fax if wrong number.
+XX can't put away groceries if no fridge.
+XX can't cook the noodle if no hot water.
+XX can't pour beer into a glass if the beer spilling.
+XX can't open a web page if bad url.
+XX can't take a photograph if that the camera's batteries are dead.
+XX can't walk the dog if you drop the leash and he runs away.
+XX can't watch for the kids to come home if youre too late.
+XX can't check if a store is open if no lights.
+XX can't put object away if no object.
+XX can't make breakfast if that there's no power.
+XX can't take out the garbage if bag rips.
+XX can't find an object if that the object is totally hidden.
+XX can't put object away if there isn't room.
+XX can't entertain children if they start crying.
+XX can't wrap a gift if running out of wrapping paper.
+XX can't clean the table if people not finish eat.
+XX can't mail a letter if insufficient postage.
+XX can't lock windows if the windows can't be locked.
+XX can't secure all exits if no exits.
+XX can't change a bulb if no bulbs.
+XX can't clean a spill if the spill being sticky.
+XX can't set the dining table if not enough space.
+XX can't turn tv on if having a dead remote.
+XX can't turn on lights if there is a blackout.
+XX can't greet a visitor if visitor that is sick.
+XX can't secure all windows if stuck window.
+XX can't make a presentation if forgetting your notes.
+XX can't water indoor plants if not enough sun light.
+XX can't put milk in the refrigerator if the fridge is broken.
+XX can't change a bulb if if the bulb is the wrong type.
+XX can't play a movie if no electricty.
+XX can't clean a spill if there is nothing available to clean the floor.
+XX can't wrap a gift if an odd shaped gift.
+XX can't act as a security guard at office if no keys to building.
+XX can't make a shopping list if you can't find a pen.
+XX can't boil the milk if milk curdles.
+XX can't unload the dishwasher if some dishes are still covered in detergent.
+XX can't plug battery into charger if the battery is not fitting in.
+XX can't make a bed if bed mis alignment.
+XX can't throw an object if tree is in the way.
+XX can't water indoor plants if soil too wet.
+XX can't mow the lawn if no lawn mover.
+XX can't make a flight reservation if a wrong flight.
+XX can't make baby sleep if theyre already asleep.
+XX can't remove and replace garbage bag if if there are no bag.
+XX can't turn on lights if there is a power outage.
+XX can't call 911 if the telephone is not working.
+XX can't clean up toys if that there's no where to put the toys.
+XX can't turn on the computer if no power.
+XX can't pay bills if not having enough money.
+XX can't play the piano if the piano is off key.
+XX can't turn on lights if light bulb blows.
+XX can't make a presentation if the projector isn't working.
+XX can't pack a suitcase if suitcase very heavy.
+XX can't open the mail if no letter opener.
+XX can't set the dining table if the table is cluttered.
+XX can't load the dishwasher if the dishwasher is already full.
+XX can't close the curtains if the window is open.
+XX can't hang clothes if you run out of hangers.
+XX can't open the package if a utility knife is required.
+XX can't turn tv on if the converters battery is dead.
+XX can't apply the band aid if that the bandaid does not stick.
+XX can't heat food in microwave if overheating.
+XX can't read a story to a child if child not listening.
+XX can't replace batteries in the toy if the wrong size batteries are available.
+XX can't fetch an object if in door being locked.
+XX can't mow the lawn if your neighbour hasn't returned the mower yet.
+XX can't clean the table if that the table's already cleaned.
+XX can't make a presentation if the notes are disorganized.
+XX can't obtain the newspaper if no money.
+XX can't put object away if not knowing where it belongs.
+XX can't ask about someone's day if there is bad reception on the cell phone.
+XX can't feed a pet dog if you have no food.
+XX can't remove and replace garbage bag if that you are out of new bags.
+XX can't make a bed if cannot find pillows.
+XX can't make a dinner reservation if the restaurant is full.
+XX can't fetch a ladder if that you don't know where the ladder is.
+XX can't make a tossed salad if the lettuce is rotten.
+XX can't serve a drink if no drinks left.
+XX can't boil the milk if the milk boils over the edge of the pan.
+XX can't turn tv on if the tv is not plugged in.
+XX can't greet a visitor if the visitor is gone.
+XX can't answer the doorbell if that the person is no longer there.
+XX can't open a web page if no internet.
+XX can't follow someone around if lose sight of the person you are following.
+XX can't mow the lawn if that the hose is lying in the middle of the lawn.
+XX can't feed a pet cat if being out of food.
+XX can't make breakfast if burning the pancakes.
+XX can't unload the dishwasher if a plate is still dirty.
+XX can't feed a child if the child is not hungry.
+XX can't make toasted bread if the toast is not dark enough.
+XX can't give a message to someone at home if theyre asleep.
+XX can't replace a water tap filter if you run out of filters.
+XX can't make the omelette if no eggs.
+XX can't put away groceries if the fridge is full.
+XX can't turn tv on if that the tv is not plugged in.
+XX can't open the mail if if you get a paper cut.
+XX can't greet a visitor if you can't shake their hand.
+XX can't calm an infant if the infant is restless.
+XX can't push someone in a wheel chair if if the break is stuck on.
+XX can't push someone in a wheel chair if the person is not willing to sit in wheelchair.
+XX can't hang clothes if no more hangers.
+XX can't open the mail if that the envelope is glued shut.
+XX can't fold clothes if folding them correctly.
+XX can't assist someone in walking if person is leaning too heavily on you.
+XX can't turn the air conditioner off if that the air conditioner is already off.
+XX can't clean a spill if no paper towls.
+XX can't recharge batteries if batteries are leaking.
+XX can't do the laundry if a shortage of detergent.
+XX can't mail a letter if no stamp.
+XX can't assist someone in walking if they don't know where they are walking to.
+XX can't turn off the computer if freezing on shutdown.
+XX can't close the curtains if a malfunctionning curtain.
+XX can't pack a suitcase if there is too much to pack.
+XX can't help someone carry something if that the item falls.
+XX can't turn on the computer if no power supply.
+XX can't play a song if a broken instrument.
+XX can't photocopy a paper if low toner.
+XX can't replace batteries in the toy if no batteries in the house.
+XX can't help someone carry something if the object is heavy.
+XX can't check if a store is open if youre not sure of their phone nmber.
+XX can't fold clothes if not having a flat surface.
+XX can't recharge batteries if batteries can't be recharged.
+XX can't wash clothes if no detergent.
+XX can't place ladder near wall if the ladder doesn't reach.
+XX can't find an object if the object is heavy.
+XX can't change a bulb if broken glass.
+XX can't clean a spill if if the sponge is dry.
+XX can't sharpen a pencil if a broken lead tip.
+XX can't send a fax if no number.
+XX can't turn tv on if the electricity being out.
+XX can't iron clothes if the iron is not working.
+XX can't pour beer into a glass if the beer overflowing.
+XX can't set a wake up alarm if the alarm is broken.
+XX can't make breakfast if having no milk for the cereal.
+XX can't fetch a cold drink if drink is slippery.
+XX can't recycle the paper if the paper is not recyclable.
+XX can't make toasted bread if no bread.
+XX can't wash the cut if the infection.
+XX can't cook pasta if overcooking noodles.
+XX can't entertain children if the children are bad.
+XX can't check for intruders in the house if the house is too dark.
+XX can't send party invitations if they have no stamps left.
+XX can't send a fax if other number not responding.
+XX can't erase the whiteboard if a high whiteboard.
+XX can't teach a song to a child if the child is not interested.
+XX can't do the laundry if there are no dirty clothes.
+XX can't move the furniture if the furniture is heavy.
+XX can't plug battery into charger if the battery does not fit.
+XX can't lock up the house if you cannot find the keys.
+XX can't move the furniture if a bad back.
+XX can't take out the garbage if the garbage is stinking.
+XX can't take out the garbage if if the barrel is full.
+XX can't turn tv on if the power failure.
+XX can't turn music system on if no electricity.
+XX can't replace a water tap filter if no tap water.
+XX can't play a movie if no dvd.
+XX can't paint a wall if what colo4.
+XX can't feed a child if out of food.
+XX can't make coffee if being out of coffee filters.
+XX can't turn the air conditioner off if air off.
+XX can't feed the fish if there is not enough fish food in the container.
+XX can't empty the trash if the garbage bag is too full.
+XX can't make baby sleep if the baby doesn't want to sleep.
+XX can't turn on lights if the bulbs are burned.
+XX can't lock windows if the lock is broken.
+XX can't make a flight reservation if the cost is more expensive than one had anticipated.
+XX can't put object away if no storage space.
+XX can't turn on lights if the bulb is burnt out.
+XX can't replace batteries in the toy if no new batteries are available.
+XX can't send party invitations if not having friends to invite.
+XX can't walk the dog if you have no leash.
+XX can't teach a song to a child if the child is not interested.
+XX can't pay bills if no money.
+XX can't access the internet if disconnection.
+XX can't fetch a book if you cant find it.
+XX can't keep the dog away if dealing with a vicious dog.
+XX can't change bed sheets if no clean ones.
+XX can't become food from refrigerator if there is no more food in the refrigerator.
+XX can't retrieve a tool if the tool might be lost.
+XX can't play a game on the computer if the computer crashes.
+XX can't raise the blinds if cord broke.
+XX can't turn tv on if no remove.
+XX can't load the dishwasher if that it is already full of dirty dishes.
+XX can't secure the perimeter of the house if a broken gate.
+XX can't sharpen a pencil if the pencil tip breaks off.
+XX can't turn off the computer if computer hanging on the shutdown screen.
+XX can't send a fax if no fax.
+XX can't open the garage if the power outage.
+XX can't print the document if no paper to print on.
+XX can't secure all windows if the window locks are stuck.
+XX can't find an object if the clutter.
+XX can't put away groceries if the groceries were forgot at the store.
+XX can't plug battery into charger if that the battery is the wrong size for the charger.
+XX can't make a tossed salad if there are not enough vegetables.
+XX can't iron clothes if no water in the steam iron.
+XX can't clean the table if a tablecloth stapled to the table.
+XX can't handle toxic materials if theyre deadly.
+XX can't feed a pet dog if that the dog is sick.
+XX can't become food from refrigerator if the fridge is very full and you can't find your food easily.
+XX can't remove and replace garbage bag if the bag is too full.
+XX can't dry clothes if colors and whites being mixed.
+XX can't fetch a book if not knowing where the book is.
+XX can't make baby sleep if the neighbours are loud.
+XX can't feed the fish if that there is no more fish food in the container.
+XX can't make a flight reservation if the travel agent's phone is busy.
+XX can't fetch medicine if yucky meds.
+XX can't clean the dishes if no soap.
+XX can't fold clothes if no table on which to fold.
+XX can't turn on the computer if no power.
+XX can't fill water in container if it overflows.
+XX can't kick a ball if an injured foot.
+XX can't make a tossed salad if the salad is soggy.
+XX can't turn tv on if the tv is not plugged in.
+XX can't pay bills if you run out of checks.
+XX can't fetch a cold drink if the refrigerator isn't cooling.
+XX can't sing a song if offkey.
+XX can't pay bills if run out of checks.
+XX can't send party invitations if you didnt buy enough invitations.
+XX can't make the hot dog if there is no hot dog to make.
+XX can't wrap a gift if the gift is an awkward shape.
+XX can't answer the doorbell if can't get to doorbell in time.
+XX can't charge a cell phone if no phon.
+XX can't make soup if the soup becoming too thick.
+XX can't replace a refrigerator filter if not having another filter.
+XX can't take out the garbage if the grabge is stinking.
+XX can't watch for the kids to come home if the kids missing the bus.
+XX can't greet a visitor if that the visitor is an enemy.
+XX can't answer the doorbell if the ringer runs away.
+XX can't clean the dishes if food is stuck on.
+XX can't turn tv on if getting to the television.
+XX can't follow someone around if losing the person.
+XX can't call 911 if the switchboard is overloaded.
+XX can't serve a meal if the plate is dirty.
+XX can't make the hot dog if no hot dog buns.
+XX can't turn the air conditioner on if a broken air conditioner.
+XX can't pack a suitcase if trying to make everything fit.
+XX can't recharge batteries if batteries no good anymore.
+XX can't find out more information if not getting a response.
+XX can't become mail if there are fees due.
+XX can't cook the noodle if that there isn't any water.
+XX can't replace a refrigerator filter if tight spaces.
+XX can't close the blinds if stuck blinds.
+XX can't serve a meal if not knowing how to serve it.
+XX can't open the mail if the enveloppe not opening.
+XX can't apply the band aid if u can t.
+XX can't clean the table if no towel to clean table.
+XX can't kick a ball if the ball is too far away.
+XX can't heat food on kitchen gas if there isn't enough heat.
+XX can't turn tv off if remote missing.
+XX can't feed the fish if the fish are dead.
+XX can't replace heater filter if heater is on.
+XX can't feed the fish if not having fish food.
+XX can't fetch an object if you can't grab hold.
+XX can't make fresh orange juice if unfresh oranges.
+XX can't change a baby diaper if where is no more diapers.
+XX can't wash the cut if dirt deep in cut.
+XX can't feed a pet dog if not knowing where the food dish is.
+XX can't turn off the computer if some programs are still running.
+XX can't serve a meal if the plate broke.
+XX can't serve a drink if the required drink is not there.
+XX can't pack a suitcase if its too full.
+XX can't throw an object if the object being too heavy.
+XX can't clean a spill if no cloth.
+XX can't secure all exits if they do not seccure.
+XX can't put up a painting if weak wall plaster.
+XX can't raise the blinds if cord is tangled.
+XX can't chop vegetables if the knife is too dull.
+XX can't find out more information if can't find any.
+XX can't turn off the computer if the computer screen has frozen.
+XX can't check for intruders in the house if inside alreadt.
+XX can't ask about someone's day if they are in a bad mood.
+XX can't check if a store is open if that the store doesn't have a website.
+XX can't secure all exits if its dark.
+XX can't make a bed if the wrinkles are still there.
+XX can't fetch medicine if bottle not on shelf.
+XX can't clean the dishes if you dont have any dish soap.
+XX can't check if a store is open if if the store is locked.
+XX can't guard the house if the power goes off.
+XX can't turn music system off if the off button being stuck.
+XX can't turn off lights if off alrdy.
+XX can't make tea if no teabags.
+XX can't pack a suitcase if no space left for everything.
+XX can't play the piano if the piano bench is too low.
+XX can't feed a pet cat if cat is not hungry.
+XX can't turn the heat on if its too hot.
+XX can't feed a pet dog if no food.
+XX can't iron clothes if no iron.
+XX can't clean up if you have nop paper towellls.
+XX can't turn music system on if too much static.
+XX can't feed the infant if the infant falls asleep.
+XX can't obtain the newspaper if someone took it.
+XX can't clean the shower if unremovable soap scum.
+XX can't clean a spill if if the rag is dry.
+XX can't write a letter if little paper.
+XX can't close the blinds if the blinds are tangled.
+XX can't turn off lights if the switch getting stuck.
+XX can't empty the kitchen sink if a clogged drain.
+XX can't plug battery into charger if batterly small.
+XX can't pick up dishes if they are not clean.
+XX can't move the furniture if the furniture is old.
+XX can't put object away if there's no place to put it away.
+XX can't wrap a gift if wrinkled paper.
+XX can't help someone carry something if the object is too heavy to carry.
+XX can't change a bulb if a bulb stuck in a socket.
+XX can't put up a painting if not having a hammer.
+XX can't play a movie if the disc is scratched.
+XX can't empty the kitchen sink if the sink is clooged.
+XX can't check for intruders in the house if the intruders find you first.
+XX can't cook the noodle if no noodles.
+XX can't lock windows if the lock is broken.
+XX can't turn music system off if the switch is stuck.
+XX can't remove and replace garbage bag if that the bag spills.
+XX can't feed a child if not having milk.
+XX can't turn music system off if turn off music.
+XX can't lock windows if no fresh air.
+XX can't chop vegetables if the chopping board is in the dishwasher.
+XX can't give a message to someone at home if you can't remember the message.
+XX can't clean the table if there is no room.
+XX can't feed a child if the child won't eat.
+XX can't turn music system off if a stuck button.
+XX can't make a presentation if they have stagefright.
+XX can't hang clothes if raining outside.
+XX can't erase the whiteboard if a permanent marker was used.
+XX can't pack a suitcase if not having enough room.
+XX can't retrieve a tool if the tool not being there.
+XX can't make toasted bread if no toaster.
+XX can't make a presentation if you lose it.
+XX can't cook the fish if not removing all bones.
+XX can't boil the milk if spill over of milk.
+XX can't serve a drink if no ice.
+XX can't unload the dishwasher if nowhere to put clean dishes.
+XX can't mow the lawn if the mower is not working.
+XX can't clean up if yure out of cleanser.
+XX can't serve a drink if having no glasses.
+XX can't set the dining table if no plates.
+XX can't handle toxic materials if the spill.
+XX can't teach a song to a child if the child id a slow learner.
+XX can't clean up if a reacurrng mess.
+XX can't fetch a stapler if lost stapler.
+XX can't throw an object if the object is too heavy.
+XX can't turn the heat on if knob is stuck on 'off'.
+XX can't secure the perimeter of the house if that there are obstacles in the way.
+XX can't make sure children are fed if sick children.
+XX can't make the hot dog if no hot dogd buns.
+XX can't become mail if you trip.
+XX can't set a wake up alarm if the alarm is set for p m  instead of a m.
+XX can't cook pasta if not enough for the whole family.
+XX can't check for weather if check the temp.
+XX can't fetch a book if the dog is eating it.
+XX can't become mail if don't know where the post office is located.
+XX can't give a medicine if the person refuses to take it.
+XX can't follow someone around if if you get caught following them.
+XX can't clean the floor if no cleaner.
+XX can't cook rice if not enough water.
+XX can't draw the curtains if that the drawstrings are tangled.
+XX can't turn on lights if cannot find the light switch.
+XX can't move the furniture if the furniture is too heavy.
+XX can't fetch an object if losing the object.
+XX can't turn tv off if you can't find the remote control.
+XX can't answer the doorbell if not being able to get to the door.
+XX can't pour beer into a glass if too much foam.
+XX can't empty the trash if a hole in the garbage bag.
+XX can't paint a wall if the paint is in the wrong color.
+XX can't turn music system off if cannot find the remote.
+XX can't secure all windows if the window is stuck.
+XX can't remove and replace garbage bag if a stuck garbage bag.
+XX can't cook pasta if no hot water.
+XX can't put object away if object cannot be moved.
+XX can't close the curtains if opening of curtains.
+XX can't cook the fish if no fish.
+XX can't obtain the newspaper if the paperboy threw the newspaper in the bushes.
+XX can't place ladder near wall if get the ladder.
+XX can't secure all exits if no doors.
+XX can't clean the floor if there is no mop.
+XX can't push someone in a wheel chair if a snow covered sidewalk.
+XX can't put milk in the refrigerator if the fridge is too full.
+XX can't feed a pet cat if you have run out of cat food.
+XX can't boil the milk if the spillage.
+XX can't wrap a gift if the gift is an awkward shape.
+XX can't watch for the kids to come home if kids haven't come home.
+XX can't greet a visitor if that you can't stand up.
+XX can't walk the dog if the dog is pulling on the leash.
+XX can't perform research on specified topic if unspecific keywords bringing up unrelated material.
+XX can't erase the whiteboard if there is no eraser.
+XX can't calm an infant if the phone rings.
+XX can't heat food in microwave if plate won't fit in microwave.
+XX can't hang clothes if no clothes pins.
+XX can't put away groceries if pets trying to eat the groceries.
+XX can't retrieve a tool if it's too far down a hole.
+XX can't find a person if the person is not there to be found.
+XX can't clean the table if the dusting cloth is not to be found.
+XX can't erase the whiteboard if not having the correct eraser.
+XX can't answer the phone if no one is on the line.
+XX can't fold clothes if the clothes need ironing.
+XX can't sing a song if you don't know the words of the song.
+XX can't handle toxic materials if spilling materials.
+XX can't change a bulb if no replacement bulb of equal wattage.
+XX can't tell a story if there is too much noise.
+XX can't feed a pet cat if the cat won't come when called.
+XX can't give a medicine if that the child wont take it.
+XX can't clean the shower if the shower is already cleaned.
+XX can't plug battery into charger if charger is broken.
+XX can't put up a painting if that the wall is cracked.
+XX can't mow the lawn if there are toys on the lawn that haven't been picked up.
+XX can't pick up dishes if them being too heavy.
+XX can't secure all windows if sore arms.
+XX can't find a person if can't find the person.
+XX can't teach a song to a child if the child won't pay attention.
+XX can't obtain the newspaper if no newspaper.
+XX can't wash clothes if no soap.
+XX can't dust an object if the object being out of reach.
+XX can't pack a mailing box if box not big enough.
+XX can't assist person in standing up if he refuses to sit down.
+XX can't place ladder near wall if the ladder isnt tall enough.
+XX can't secure all exits if no exits.
+XX can't fetch an object if its too dark to see.
+XX can't plug an electric applicance if if the outlet is blocked.
+XX can't turn music system off if not knowing how.
+XX can't take someone's temperature if your thermometer is broke.
+XX can't raise the blinds if string out of reach.
+XX can't sing a song if a bad voice.
+XX can't wrap a gift if running out of tape.
+XX can't iron clothes if the ironing board is unsteady.
+XX can't iron clothes if iron is broken.
+XX can't turn off lights if finding the switch.
+XX can't dust an object if no dustrag.
+XX can't pick up dishes if slippery hands.
+XX can't clean up toys if that you don't know where to put the toys.
+XX can't make a shopping list if the list.
+XX can't secure all windows if not all window have locks.
+XX can't open the garage if a broken garage door.
+XX can't buy from vending machine if not enough change.
+XX can't clean the table if someone has not finished eating.
+XX can't put up a painting if the nail slips.
+XX can't give a message to someone at home if theyre not there.
+XX can't apply the band aid if that the area you are trying to apply it on is too dirty for the bandaid to stick properly.
+XX can't cook pasta if not having a pot to simmer it in.
+XX can't recharge batteries if leaking batteries.
+XX can't pack a mailing box if that it is full.
+XX can't turn on lights if the bulbs are burned.
+XX can't cook the noodle if if the water is not hot enough.
+XX can't pack a suitcase if suitcase cant be lock.
+XX can't make a shopping list if no pen.
+XX can't clean the shower if there is no cleaner.
+XX can't make a flight reservation if that the computer system is down.
+XX can't recharge batteries if batteries to old to hold charge.
+XX can't go outside if it starts to rain.
+XX can't change bed sheets if the sheet being the wrong size.
+XX can't tell a story if cannot find storybook.
+XX can't gather all scattered toys if there is a toy missing.
+XX can't throw an object if the object is too heavy.
+XX can't make a flight reservation if no flights.
+XX can't replace batteries in the toy if the batteries are not working.
+XX can't throw an object if object can't be found.
+XX can't push something if it tips over.
+XX can't unload the dishwasher if dirtying the plates.
+XX can't push someone in a wheel chair if can puch him.
+XX can't make breakfast if that the stove is broken.
+XX can't become mail if no mail.
+XX can't dust an object if that the object has jagged edges.
+XX can't put up a painting if the hammer is broken.
+XX can't lock windows if the window lock is broken.
+XX can't buy from vending machine if a girl is inside it.
+XX can't push someone in a wheel chair if brake stuck on.
+XX can't turn music system off if turn off radio.
+XX can't turn the air conditioner on if i want some air conditioning.
+XX can't unload the dishwasher if dirtying the plates.
+XX can't remove and replace garbage bag if the garbage is overflowing.
+XX can't check for weather if that the weather's too extreme to register.
+XX can't photocopy a paper if the photocopier is not working.
+XX can't make baby sleep if she's hungry.
+XX can't unload the dishwasher if that the dishwasher isn't finished cleaning yet.
+XX can't raise the blinds if no blinds.
+XX can't replace a refrigerator filter if not having a replacement filter.
+XX can't guard the house if no intruders.
+XX can't take someone's temperature if the themometer is not working.
+XX can't secure all windows if that some windows do not lock.
+XX can't make coffee if being out of coffee filters.
+XX can't heat food on kitchen gas if run out of gas.
+XX can't hang clothes if there are no more hangers.
+XX can't feed a pet dog if no food.
+XX can't iron clothes if if the iron is not plugged in.
+XX can't vacuum the carpet if vacuum is missing.
+XX can't change a baby diaper if the baby is crying.
+XX can't open a web page if not connected to the internet.
+XX can't gather all scattered toys if cannot hold all of the toys.
+XX can't write a letter if that you re out of ink.
+XX can't find a person if deciding where to start looking.
+XX can't keep the dog away if dog wants to chase you.
+XX can't load the dishwasher if a lack of space in the dishwasher.
+XX can't fetch an object if dog does not want to play.
+XX can't follow someone around if if you lose the person.
+XX can't kick a ball if tripping.
+XX can't pick up dishes if they are not clean.
+XX can't fold clothes if the clothes are wrinkled.
+XX can't call 911 if busy signal.
+XX can't fold clothes if clothes are wrinkled.
+XX can't make the omelette if there is no more eggs.
+XX can't keep the dog away if that the dog is not on a leash.
+XX can't wrap a gift if gifts are hard to wrap.
+XX can't entertain children if children not paying attention.
+XX can't make breakfast if out of pancakes.
+XX can't change a bulb if a broken bulb.
+XX can't sharpen a pencil if the blade isn't sharp enough.
+XX can't set a wake up alarm if the alarm is broken.
+XX can't turn the air conditioner on if can't reach switch.
+XX can't buy from vending machine if coin gets stuck.
+XX can't turn music system off if turn off music system.
+XX can't make a bed if the sheets are ripped.
+XX can't fetch a cold drink if no ice.
+XX can't fetch an object if trip and fall.
+XX can't replace batteries in the toy if the wrong size batteries are available.
+XX can't help someone carry something if theyre weak.
+XX can't turn music system on if the music system is not plugged.
+XX can't make soup if stove is broken.
+XX can't help someone carry something if lack of time.
+XX can't check if a store is open if store is closed.
+XX can't make sure children are fed if that there are just too many children to be fed.
+XX can't push something if the object being too heavy.
+XX can't turn the air conditioner on if no air conditioner.
+XX can't heat food on kitchen gas if a pilot light that is out.
+XX can't open the package if the package being taped too much.
+XX can't vacuum the carpet if the carpet is already clean.
+XX can't chop vegetables if cutting onesself.
+XX can't print the document if the printer is out of paper.
+XX can't follow someone around if losing the person.
+XX can't tell a story if the story was already told before.
+XX can't cook the fish if no cooking oil available.
+XX can't buy from vending machine if not having enough change.
+XX can't clean up if no cleaning solution.
+XX can't give a message to someone at home if the voice mail is not working.
+XX can't make the hot dog if no power.
+XX can't greet a visitor if the visitor not seeing you.
+XX can't feed the infant if you lost the infant.
+XX can't send party invitations if you are out of stamps.
+XX can't call 911 if no telephone available.
+XX can't clean the table if a resistant stain.
+XX can't watch for the kids to come home if the kids are late.
+XX can't boil the milk if all the pots and pans are dirty.
+XX can't help someone carry something if you have your own things to carry.
+XX can't make a shopping list if losing the list.
+XX can't sharpen a pencil if the pencil is too short to go in the sharpener.
+XX can't call 911 if not near phone.

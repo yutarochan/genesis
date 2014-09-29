@@ -1,0 +1,14 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+
+XX may contain a child if it is a rumpus room.
+
+Start story titled "Test".
+
+The room is a rumpus room.
+
+The room contains a child.
+
+The end.

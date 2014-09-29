@@ -1,0 +1,17 @@
+/*
+Tests Then mechanism for scenes
+*/
+
+Insert file Start experiment.
+
+
+Start story.
+
+Macbeth is unhappy.
+
+Macbeth is happy.
+
+Then, Macbeth is unhappy.
+
+The end.
+

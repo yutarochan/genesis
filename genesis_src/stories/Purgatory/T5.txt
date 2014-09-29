@@ -1,0 +1,35 @@
+/*
+Greg and Capen should be unhappy; George happy.  Tests absence of action at end indicates action did not occur.
+*/
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX is an entity.
+
+XX becomes unhappy because XX wants an action to occur and the action did not occur.
+
+XX becomes happy because XX wants an action to occur and the action occurs.
+
+Start story.
+
+Greg and Dave are persons.
+
+Greg did not punch Dave.
+
+Greg wanted to punch Dave.
+
+Capen and Patrick are persons.
+
+Capen wanted to punch Patrick.
+
+George and Sam are persons.
+
+George punched Sam.
+
+George wanted to punch Sam.
+
+
+
+The end.

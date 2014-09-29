@@ -1,0 +1,6 @@
+A boy appeared.
+A car dissappeared.
+A speed increased.
+A height decreased.
+A mood changed.
+A boy did not appear.

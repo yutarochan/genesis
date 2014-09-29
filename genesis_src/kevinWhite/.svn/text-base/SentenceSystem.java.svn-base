@@ -1,0 +1,83 @@
+package latticeLearning;
+
+import java.util.ArrayList;
+
+import bridge.reps.things.Thing;
+
+public class SentenceSystem {
+    ArrayList<String> sentences = new ArrayList<String>();
+    
+    public SentenceSystem(){
+        getFlyers();
+//        getSwimmers();
+//        getLandLovers();
+//        getFurry();
+    }
+    
+    public void getFlyers(){
+        String birds = "Birds can fly.";
+        String fish = "Fish cannot fly.";
+        String airplane = "Airplanes can fly.";
+        String cars = "Cars can't fly.";
+        String bats = "Bats can't fly.";
+        sentences.add(birds);
+        sentences.add(fish);
+        sentences.add(airplane);
+        sentences.add(cars);
+        sentences.add(bats);
+    }
+    
+    public void getSwimmers(){
+        String fish = "Fish can swim.";
+        String plants = "Plants can't swim.";
+        String boats = "Boats can swim.";
+        String cars = "Cars can't swim.";
+        String ducks = "Ducks can swim.";
+        String sparrow = "Sparrows cannot swim.";
+        String dogs = "Dogs can swim.";
+        String bats = "Bats cannot swim.";
+        sentences.add(fish);
+        sentences.add(plants);
+        sentences.add(boats);
+        sentences.add(cars);
+        sentences.add(ducks);
+        sentences.add(sparrow);
+        sentences.add(dogs);
+        sentences.add(bats);
+    }
+    
+    public void getLandLovers(){
+        String plants = "Plants prefer land.";
+        String fish = "Fish do not prefer land.";
+        String cars = "Cars prefer land.";
+        String airplane = "Airplanes don't prefer land.";
+        String dogs = "Dogs prefer land.";
+        String bats = "Bats don't prefer land.";
+        sentences.add(plants);
+        sentences.add(fish);
+        sentences.add(cars);
+        sentences.add(airplane);
+        sentences.add(dogs);
+        sentences.add(bats);
+    }
+    
+    public void getFurry(){
+        String mammals = "Mammals are furry.";
+        String birds = "Birds are not furry.";
+        String rugs = "Rugs are furry.";
+        String cars = "Cars aren't furry.";
+        sentences.add(mammals);
+        sentences.add(birds);
+        sentences.add(rugs);
+        sentences.add(cars);
+    }
+    
+    public ArrayList<String> getSentences(){
+        return sentences;
+    }
+    
+    public static void main(String[] args){
+        SentenceSystem ss = new SentenceSystem();
+        AutomatedLearner al = new AutomatedLearner(ss.getSentences());
+    }
+}

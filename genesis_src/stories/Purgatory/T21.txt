@@ -1,0 +1,67 @@
+/*
+Tests suite of Lehnert plot unit mimics.
+*/
+
+Both perspectives.  Clear story memory.  
+
+Insert file LehnertBasicPlotUnits.
+
+First perspective.
+
+Start story.  
+
+Cinderella, Lear, Matthew, Macbeth, Macduff, Hamlet, Claudius, Caesar, and Brutus are persons.
+
+// Positive co-reference, negative co-reference, mixed blessing, hidden blessing
+// Noted matching bug.  Does not find blessings unless "Cinderella lost her shoe." is first before causes.
+Cinderella lost her shoe.  Cinderella became unhappy because Cinderella lost her shoe.  Cinderella became happy
+because Cinderella married the prince.  Cinderella married the prince because she lost
+her shoe.  The prince became happy because Cinderella married the prince.  The
+stepmother became unhappy because Cinderella married the prince.  A stepsister became
+unhappy because Cinderella married the prince.
+
+
+// Success, enablement, recursion, change of mind
+Macbeth became king because Macbeth wanted to become king.  
+Macbeth became happy because Macbeth became king.
+Macbeth wanted to murder Duncan because Macbeth wanted to become king.
+Macbeth wanted to be king.
+Macbeth stopped wanting to become king because Macbeth started wanting to become a monk.
+
+The end.
+
+Second perspective.
+
+Start story.  
+
+// Motivation, perseverence
+Brutus harmed Caesar because Caesar wanted to become emperor. 
+Caesar wanted to become emperor because Brutus harmed Caesar.
+Caesar became unhappy because Brutus harmed Caesar.
+
+// Success, loss
+Lear became happy because he wanted to become retired.
+Lear became unhappy because he became retired.
+Lear stopped becoming happy because Lear became unhappy.
+
+// Failure, resolution
+Brutus became unhappy because Brutus wanted to become retired.
+Brutus became happy because Brutus became retired.
+Brutus stopped becoming unhappy because Brutus became happy.
+
+Sam, Susan, Sally, George, Jill, and Jackie are persons.
+
+// Success, positive tradeoff
+Sam became happy because Sam wanted to marry Susan.
+Sam became happy because Sam married Sally.
+Sam stopped becoming happy because Sam became happy.
+
+// Failure, negative tradeoff
+George became unhappy because George wanted to marry Jill.
+George became unhappy because George married Jackie.
+George stopped becoming unhappy because George became unhappy.
+
+The end.
+
+Both perspectives.
+

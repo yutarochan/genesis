@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+Start reflexive knowledge.
+
+
+Start description of "Passive-Active match".
+
+xx is an entity.
+// Until next START dumped, this is translated into Somebody.
+xx is hurt.
+
+The end.
+
+Start description of "Became-State match".
+
+xx is an entity.
+// Concepts should always look for mental states to appear,
+// unless the entity should be sad by nature.
+// xx is sad.
+xx becomes sad.
+
+The end.
+
+// If someone hurts xx then xx is hurt.
+
+Start story titled "testing".
+
+Marina is a person.
+// Someone hurst Marina.
+Somebody hurts Marina.
+// Here is where we can experiment with "then" mechanism.
+// Marina becomes sad.
+Then, Marina is sad.
+
+The end.

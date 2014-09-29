@@ -1,0 +1,15 @@
+Insert file Start experiment.
+
+Start story titled "Approach Video".
+
+// Pause.
+
+// Look at video named "approach".
+
+// Pause.
+
+Is the first person bigger than the second person?
+
+Is the first person moving toward the second person.
+
+The end.

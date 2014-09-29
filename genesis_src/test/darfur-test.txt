@@ -1,0 +1,17 @@
+XX is an entity.
+
+XX becomes happy because XX wanted an action to occur and the action occurred.
+
+Start story.
+
+Sudan is a nation.
+
+Darfur is a region.
+
+Janjaweed is a militia.
+
+Sudan wanted the Janjaweed to cleanse Darfur.
+
+The end.
+
+

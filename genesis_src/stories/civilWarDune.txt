@@ -1,0 +1,126 @@
+Clear text.
+Clear story memory.
+
+Insert file macbeth reflective knowledge.
+
+Start commonsense knowledge.
+
+XX, YY, and ZZ are entities.
+Group1 and Group2 are groups.
+BB is a bloc.
+RR is a region.
+SS is a state.
+RSC is a resource.
+
+//Desire 
+XX becomes happy because XX wanted an action to occur and the action occurred.
+XX becomes unhappy because XX wanted an action to occur and the action did not occur.
+
+//Failure
+XX fails action because XX wanted the action to occur, the action did not occur, and XX became dead.
+
+// Intimidate->Compel
+XX may compel YY to want an action /*to occur*/ because XX intimidated YY.
+
+// Intimidation via Grouping
+XX may compel YY to want an action /*to occur*/ because Group1 intimidated YY, XX is a member of Group1, YY is an entity, and Group1 is a group.
+XX may compel YY to want an action /*to occur*/ because Group1 intimidated Group2, XX is a member of Group1, and YY is a member of Group2.
+XX may compel YY to want an action /*to occur*/ because XX intimidated Group2, YY is a member of Group2, YY is an entity, and Group2 is a group. 
+
+// Compulsion Semantics
+YY wants an action /*to occur*/ because XX compels YY to want the action to occur.
+
+// Delegation
+//XX may want YY to want an action /*to occur*/ because XX wanted the action to occur.
+	
+//Agency
+Kill is a kind of kill.
+Murder is a kind of kill.
+XX murders YY because Agent1 is XX's agent, and Agent1 kills YY.
+Agent1 is XX's agent because XX leads Agent1.
+
+//Leadership|Representation
+XX becomes a member of YY because XX joins YY and because YY is a group.
+XX is a member of YY because XX represents YY.
+XX is a member of YY because XX leads YY.
+YY wants an action /*to occur*/ because XX leads YY and XX wants the action to occur and XX is an entity.
+XX wants an action /*to occur*/ because XX represents YY and YY wants the action to occur and YY is an entity.
+
+//Death
+XX becomes dead because XX dies.
+
+//Government
+//XX governs YY because XX governs BB, BB includes YY, and BB is a bloc.
+//XX governs YY because XX leads Group1, Group1 governs YY, and Group1 is a group.
+
+//States want to control Valuable things
+SS values RSC because SS wants RSC.										
+SS values RR because SS values RSC, and RR contains RSC.			
+SS wants to control RR because SS values RR.						
+SS controls RSC because SS controls RR, and RR contains RSC.
+
+//Land Seizure
+XX may grant RR to YY because XX governed ZZ, ZZ controlled RR, and RR is a region.
+YY controls RR because XX granted RR to YY.
+
+Insert file Hamlet commonsense knowledge.
+
+Start story.
+
+// ACT I - IMPERIAL CONSPIRACY
+TobaccoIndustry, USA, and Union are nations.
+CorruptPoliticians, JoeCamel, Lincoln, and Grant are persons.
+CorruptPoliticians leads USA.
+JoeCamel represents TobaccoIndustry.
+Grant is a member of Union.
+
+TobaccoIndustry intimidates USA.
+TobaccoIndustry wants Grant to die.
+JoeCamel compels CorruptPoliticians to want Grant to die.
+
+
+// ACT II - LANDSRAAD GOVERNANCE
+Confederacy is nation.
+Lee and Davis are persons.
+Lee leads Confederacy.
+Davis is a member of Confederacy.
+Lincoln leads Union.
+Lincoln is Grant's father.
+
+America is a bloc.
+
+America includes Union, USA, and Confederacy.
+USA governs America.
+
+Georgia is region.
+DC is region.
+Carolina is region.
+Carolina contains Tobacco.
+
+Confederacy values Tobacco because America includes Confederacy.
+
+Confederacy controls Georgia.
+Union controls DC.
+Confederacy controls Carolina.
+
+The Tobacco flows because nation controls Carolina, and America includes the nation.
+
+// ACT II.V -- SEIZURE OF ARRAKIS
+Union controls Carolina.
+
+// ACT III - HARKONNEN TREACHERY
+Confederacy attacks Union.
+Lee murders Lincoln.
+Confederacy controls Carolina.
+
+// ACT IV - FREMEN RISING
+Grant joins UnionArmy.
+Grant leads UnionArmy.
+
+UnionArmy attack Confederacy.
+UnionArmy kills Lee.
+UnionArmy kills CorruptPoliticians.
+
+UnionArmy controls Carolina.
+
+The end.

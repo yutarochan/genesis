@@ -1,0 +1,21 @@
+Clear story memory.
+
+Start description of "revenge".
+
+xx is an entity.
+
+yy is a entity.
+
+xx's harming yy entails yy's harming xx.
+
+The end.
+
+/*
+
+Start story.
+
+John kissed Mary because John loves Mary.
+
+The end.
+
+*/

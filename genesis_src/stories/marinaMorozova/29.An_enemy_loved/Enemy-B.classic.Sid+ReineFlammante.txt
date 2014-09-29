@@ -1,0 +1,89 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 29.txt.
+
+First perspective.
+
+Start story titled "Le Sid by Pierre Cornel".
+
+Note that Himena is a name.
+Note that Rodrigo is a name.
+Note that Don Diego is a name.
+Note that Count Gormas is a name. 
+Note that Sancho is a name.
+Note that Ferdinand is a name.
+
+Himena, Rodrigo, Don Diego, Count Gormas and Sancho are persons.
+Ferdinand is a person.
+
+
+Count Gormas is dear to Himena because Count Gormas is Himena's father.
+Himena loves Rodrigo.
+Rodrigo loves Himena and Sancho loves Himena.
+Count Gormas prefers Rodrigo.
+
+Don Diego is Rodrigo's father.
+
+Ferdinand is a king.
+Count Gormas and Don Diego are Ferdinand's grands.
+Count Gormas is still a warrior. Don Diego is old.
+Ferdinand needs a mentor for his son.
+Ferdinand prefers Don Diego because Don Diego is wise.
+Count Gormas is offended because Ferdinand prefers Don Diego.
+Don Diego thinks that Ferdinand made a wise decision because Ferdinand prefers Don Diego.
+Don Diego argues with Count Gormas because Count Gormas is offended and because Ferdinand prefers Don Diego.
+Count Gormas slaps Don Diego because Don Diego argues with Count Gormas. 
+Don Diego tries to fight Count Gormas because Count Gormas slaps Don Diego.
+Count Gormas disarms Don Diego. Count Gormas does not fight Don Diego because Don DIego is old.
+Don Diego is dishonored because Count Gormas disarms DOn Diego and because Count Gormas slaps Don Diego.
+Don Diego asks Rodrigo to fight COunt Gormas; Rodrigo kills count Gormas; Himena thinks that Rodrigo kills Count Gormas.
+Rodrigo wins a battle for Ferdinand; Ferdinand likes Rodrigo.
+Himena asks Ferdinand for justice because Rodrigo kills Count Gormas.
+Sancho will fight Rodrigo because Himena asks Ferdinand for justice.
+Ferdinand states that winner will marry Himena because Ferdinand likes Rodrigo.
+Sancho fights Rodrigo.
+Rodrigo wins; Himena is not dishonored anymore; Rodrigo will become Himena's husband.
+ 
+
+The end.
+
+Second perspective.
+
+Start story titled "La reine flammette".
+
+Note that Orlanda is a name.
+Note that Pope is a name.
+Note that Lutherans is a name.
+Note that Cardinal is a name.
+Note that Daniel is a name.
+
+Orlanda is a person.
+Lutherans are persons.
+Pope is a person.
+Daniel is a person.
+
+Cardinal is Pope's nephew.
+Orlanda is a queen of Bologna.
+Orlanda is sympathetic to Lutherans; Cardinal wants Orlanda to die; Cardinal plots Orlanda's assasination.
+Orlanda will die after convent.
+
+Daniel loves Daniel's brother; Daniel's brother is dear to Daniel.
+Daniel is pious; Daniel is submissive to Cardinal.
+Cardinal asks Daniel to kill Orlanda. Daniel rebels; Cardinal tells Daniel that Orlanda kills his brother; Daniel thinks that Orlanda kills Daniel's brother; Daniel agrees to kill Orlanda.
+
+Orlanda disguises. Orlanda meets Daniel.
+Orlanda loves Daniel and Daniel loves Orlanda.
+Daniel does not know that he has to kill Orlanda.
+Daniel knows Orlanda as Helena.
+Daniel tells Orlanda that Daniel will kill the queen.
+
+The hour has struck.
+Daniel drops the dagger; Daniel recognizes Orlanda; Daniel can not kill Orlanda.
+Cardinal throws Daniel to prison.
+Orlanda abdicates to save Daniel.
+Cardinal prosecutes Daniel and Orlanda.
+
+
+The end.

@@ -1,0 +1,148 @@
+
+<?xml version="1.0" encoding="utf-8"?> 
+<!-- IF YOU CHANGE THE CODEBASE YOU HAVE TO CHANGE IT IN TWO PLACES, HERE AND IN THE APPLICATION-DESC SECTION -->
+<jnlp  spec="1.0+" codebase='http://groups.csail.mit.edu/genesis/genesis/'  href="http://groups.csail.mit.edu/genesis/genesis/genesis.jnlp">
+
+  <information> 
+    <title>genesis</title>
+    <vendor>Patrick Henry Winston</vendor> 
+    
+    <description>Genesis on web</description>
+      
+    <offline-allowed/>     
+  </information>
+  <security> 
+      <all-permissions/> 
+  </security> 
+  <resources> 
+    <j2se version="1.7+" initial-heap-size="64m" max-heap-size="128m"/> 
+    <jar href="genesis.jar" />
+
+    <jar href="GenesisJars/ant/jugbbant-1.7.jar" />
+    <jar href="GenesisJars/apache/commons-io-2.4.jar" />
+    <jar href="GenesisJars/frame/ArisBasicFrame.jar" />
+    <jar href="GenesisJars/frame/BasicSwing.jar" />
+    <jar href="GenesisJars/google-gson-2.2.2/gson-2.2.2.jar" />
+    <jar href="GenesisJars/guava/guava-16.0.jar" />
+    <jar href="GenesisJars/jeromq/jeromq-0.2.0-SNAPSHOT.jar" />
+    <jar href="GenesisJars/jung/collections-generic-4.01.jar" />
+    <jar href="GenesisJars/jung/colt-1.2.0.jar" />
+    <jar href="GenesisJars/jung/concurrent-1.3.4.jar" />
+    <jar href="GenesisJars/jung/j3d-core-1.3.1.jar" />
+    <jar href="GenesisJars/jung/jung-3d-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-3d-demos-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-algorithms-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-api-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-graph-impl-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-io-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-jai-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-jai-samples-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-samples-2.0.1.jar" />
+    <jar href="GenesisJars/jung/jung-visualization-2.0.1.jar" />
+    <jar href="GenesisJars/jung/vecmath-1.3.1.jar" />
+    <jar href="GenesisJars/junit/junit-4.11.jar" />
+    <jar href="GenesisJars/miscellaneous/edu.mit.jwi_2.3.3.jar" />
+    <jar href="GenesisJars/miscellaneous/javassist.jar" />
+    <jar href="GenesisJars/miscellaneous/jgraphx.jar" />
+    <jar href="GenesisJars/miscellaneous/TableLayout.jar" />
+    <jar href="GenesisJars/xstream-1.2.2/lib/xstream-1.4.3.jar" />
+    <jar href="PropagatorJars/bytecode/javassist.jar" />
+    <jar href="PropagatorJars/codec/commons-codec-1.4-sources.jar" />
+    <jar href="PropagatorJars/codec/commons-codec-1.4.jar" />
+    <jar href="PropagatorJars/xmlrpc/commons-logging-1.1.jar" />
+    <jar href="PropagatorJars/xmlrpc/ws-commons-util-1.0.2.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-client-3.1-sources.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-client-3.1.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-common-3.1-sources.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-common-3.1.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-server-3.1-sources.jar" />
+    <jar href="PropagatorJars/xmlrpc/xmlrpc-server-3.1.jar" />
+
+  </resources> 
+  <application-desc>
+    <argument>-b</argument>
+    <argument>http://groups.csail.mit.edu/genesis/genesis/</argument>
+ 
+     <argument>-j</argument>
+     <argument>/genesis.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/ant/jugbbant-1.7.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/apache/commons-io-2.4.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/frame/ArisBasicFrame.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/frame/BasicSwing.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/google-gson-2.2.2/gson-2.2.2.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/guava/guava-16.0.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jeromq/jeromq-0.2.0-SNAPSHOT.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/collections-generic-4.01.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/colt-1.2.0.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/concurrent-1.3.4.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/j3d-core-1.3.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-3d-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-3d-demos-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-algorithms-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-api-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-graph-impl-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-io-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-jai-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-jai-samples-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-samples-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/jung-visualization-2.0.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/jung/vecmath-1.3.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/junit/junit-4.11.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/miscellaneous/edu.mit.jwi_2.3.3.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/miscellaneous/javassist.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/miscellaneous/jgraphx.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/miscellaneous/TableLayout.jar</argument>
+     <argument>-j</argument>
+     <argument>/GenesisJars/xstream-1.2.2/lib/xstream-1.4.3.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/bytecode/javassist.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/codec/commons-codec-1.4-sources.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/codec/commons-codec-1.4.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/commons-logging-1.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/ws-commons-util-1.0.2.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-client-3.1-sources.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-client-3.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-common-3.1-sources.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-common-3.1.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-server-3.1-sources.jar</argument>
+     <argument>-j</argument>
+     <argument>/PropagatorJars/xmlrpc/xmlrpc-server-3.1.jar</argument>
+   </application-desc>
+</jnlp> 
+

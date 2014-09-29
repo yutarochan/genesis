@@ -1,0 +1,8 @@
+Hamlet, King_Hamlet, Claudius, Gertrude, Laertes, Ophelia, and Polonius are characters.
+Hamlet, King_Hamlet, Claudius, Gertrude, Laertes, Ophelia, and Polonius are persons.
+
+Hamlet is King_Hamlet's son.
+
+Ophelia is Polonius's daughter.
+Laertes is Polonius's son.
+

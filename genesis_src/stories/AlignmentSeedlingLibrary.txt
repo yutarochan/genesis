@@ -1,0 +1,564 @@
+Insert file Start experiment.
+First perspective.
+
+// Scene: approach0
+Start Story titled "approach0".
+Alpha approaches Charlie.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: approach1
+Start Story titled "approach1".
+Beta moves.
+Beta approaches Charlie.
+The end.
+Remember Story.
+
+// Scene: approach2
+Start Story titled "approach2".
+Alpha approaches Beta.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: bounce0
+Start Story titled "bounce0".
+Alpha moves.
+Charlie moves.
+Charlie bounces.
+Charlie bounces.
+The end.
+Remember Story.
+
+// Scene: bounce1
+Start Story titled "bounce1".
+Charlie moves.
+Charlie bounces.
+The end.
+Remember Story.
+
+// Scene: bounce2
+Start Story titled "bounce2".
+Alpha moves.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie bounces.
+Charlie moves.
+Alpha drops Charlie.
+Charlie moves.
+Charlie bounces.
+Charlie bounces.
+Charlie bounces.
+Alpha moves.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: bounce3
+Start Story titled "bounce3".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie bounces.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: carry0
+Start Story titled "carry0".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+Alpha moves.
+Alpha bounces.
+Alpha moves.
+Charlie moves.
+Alpha moves.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: carry1
+Start Story titled "carry1".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+Alpha moves.
+Alpha moves.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: carry2
+Start Story titled "carry2".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie moves.
+Charlie moves.
+Beta moves.
+Charlie moves.
+Beta moves.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: catch0
+Start Story titled "catch0".
+Charlie moves.
+Beta catches Charlie.
+Beta contacts Charlie.
+Charlie contacts Beta.
+The end.
+Remember Story.
+
+// Scene: catch1
+Start Story titled "catch1".
+Charlie moves.
+Alpha catches Charlie.
+Alpha catches Charlie.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: catch2
+Start Story titled "catch2".
+Charlie bounces.
+Charlie moves.
+Alpha catches Charlie.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: collide0
+Start Story titled "collide0".
+Beta moves.
+Charlie moves.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: collide1
+Start Story titled "collide1".
+Alpha moves.
+Charlie moves.
+Charlie bounces.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: collide2
+Start Story titled "collide2".
+Beta moves.
+Beta approaches Alpha.
+Alpha moves.
+Alpha approaches Beta.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Beta moves.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: drop0
+Start Story titled "drop0".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha drops Charlie.
+Alpha throws Charlie.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: drop1
+Start Story titled "drop1".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta drops Charlie.
+Beta throws Charlie.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: drop2
+Start Story titled "drop2".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta drops Charlie.
+Alpha moves.
+Charlie puts down Beta.
+Alpha bounces.
+Alpha moves.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: fly_over0
+Start Story titled "fly_over0".
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: fly_over1
+Start Story titled "fly_over1".
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: fly_over2
+Start Story titled "fly_over2".
+Charlie moves.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: follow0
+Start Story titled "follow0".
+Beta moves.
+Alpha moves.
+Alpha follows Beta.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: follow1
+Start Story titled "follow1".
+Alpha moves.
+Beta moves.
+Beta follows Alpha.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: follow2
+Start Story titled "follow2".
+Charlie moves.
+Charlie follows Beta.
+Beta moves.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: give0
+Start Story titled "give0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta gives Charlie to Alpha.
+Charlie moves.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: give1
+Start Story titled "give1".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha gives Charlie to Beta.
+Charlie moves.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta moves.
+Alpha drops Charlie.
+Charlie moves.
+Beta moves.
+Beta bounces.
+Alpha moves.
+Charlie moves.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: give2
+Start Story titled "give2".
+Alpha gives Charlie to Beta.
+Beta takes Charlie from Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+Charlie approaches Beta.
+Beta picks up Charlie.
+Alpha drops Charlie.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie bounces.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: hit0
+Start Story titled "hit0".
+Charlie moves.
+Beta contacts Charlie.
+Charlie contacts Beta.
+The end.
+Remember Story.
+
+// Scene: hit1
+Start Story titled "hit1".
+Charlie moves.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: hit2
+Start Story titled "hit2".
+Charlie moves.
+Charlie bounces.
+Beta contacts Charlie.
+Charlie contacts Beta.
+The end.
+Remember Story.
+
+// Scene: jump0
+Start Story titled "jump0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta moves.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: jump1
+Start Story titled "jump1".
+Alpha moves.
+Alpha moves.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: jump2
+Start Story titled "jump2".
+Alpha moves.
+Alpha bounces.
+Charlie catches Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha bounces.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: jump3
+Start Story titled "jump3".
+Beta moves.
+Beta moves.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: pick_up0
+Start Story titled "pick_up0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie moves.
+Charlie moves.
+Charlie bounces.
+The end.
+Remember Story.
+
+// Scene: pick_up1
+Start Story titled "pick_up1".
+Alpha picks up Charlie.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+Alpha raises Charlie.
+The end.
+Remember Story.
+
+// Scene: pick_up2
+Start Story titled "pick_up2".
+Beta picks up Charlie.
+Beta moves.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie moves.
+Beta moves.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: push0
+Start Story titled "push0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: push1
+Start Story titled "push1".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha puts down Charlie.
+Charlie puts down Alpha.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: push2
+Start Story titled "push2".
+Alpha moves.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Beta moves.
+Beta drops Alpha.
+Beta drops Alpha.
+Alpha bounces.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: push3
+Start Story titled "push3".
+Beta moves.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Alpha moves.
+Beta moves.
+Beta bounces.
+The end.
+Remember Story.
+
+// Scene: put_down0
+Start Story titled "put_down0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie puts down Beta.
+Charlie moves.
+Beta lowers Charlie.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: put_down1
+Start Story titled "put_down1".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha puts down Charlie.
+Alpha lowers Charlie.
+Charlie moves.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+The end.
+Remember Story.
+
+// Scene: put_down2
+Start Story titled "put_down2".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha puts down Charlie.
+Charlie moves.
+Alpha moves.
+Alpha lowers Charlie.
+The end.
+Remember Story.
+
+// Scene: take0
+Start Story titled "take0".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Beta picks up Charlie.
+Beta takes Charlie from Alpha.
+Charlie picks up Beta.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie moves.
+Beta raises Charlie.
+Beta moves.
+The end.
+Remember Story.
+
+// Scene: take1
+Start Story titled "take1".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Alpha takes Charlie from Beta.
+Charlie picks up Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+Alpha raises Charlie.
+Alpha moves.
+The end.
+Remember Story.
+
+// Scene: take2
+Start Story titled "take2".
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Alpha contacts Beta.
+Beta contacts Alpha.
+Beta takes Charlie from Alpha.
+Charlie picks up Beta.
+Beta contacts Charlie.
+Charlie contacts Beta.
+Charlie moves.
+Charlie bounces.
+Charlie moves.
+Alpha lowers Charlie.
+Alpha puts down Beta.
+Beta lowers Charlie.
+Beta drops Alpha.
+The end.
+Remember Story.
+
+// Scene: throw0
+Start Story titled "throw0".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta throws Charlie.
+Beta throws Charlie.
+Charlie moves.
+The end.
+Remember Story.
+
+// Scene: throw1
+Start Story titled "throw1".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Beta throws Charlie.
+Beta throws Charlie.
+Charlie moves.
+The end.
+Remember Story.
+Cluster stories.
+
+Pause.
+
+// Gap Filling
+Second Perspective.
+// Scene: gap0
+Start Story titled "gap0".
+Delta contacts Echo.
+Echo contacts Delta.
+A gap appears.
+Foxtrot contacts Echo.
+Echo contacts Foxtrot.
+The end.

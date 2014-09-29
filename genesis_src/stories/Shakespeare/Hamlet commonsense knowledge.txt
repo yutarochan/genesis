@@ -1,0 +1,68 @@
+Start commonsense knowledge.
+
+
+Henry, George, James, and Mary are persons.
+
+// If a friend is harmed, your friend’s harmer harms you.
+//   Altered 8/13/09 to accomodate multiple layers of pain
+James harms Henry because James devastates George and George is Henry's friend.
+James upsets Henry because James harms George and George is Henry's friend.
+
+// If you are harmed, you become unhappy.
+Henry is unhappy because James devastated Henry.
+
+// If you are harmed, then you dislike your harmer.
+Henry angers James because Henry harmed James.
+Henry angers James because James devastated Henry.
+James harms Henry because James devastated Henry.
+
+
+// Killing
+Henry dies because James kills Henry.
+Henry becomes dead because Henry dies.
+James devastates Henry because James kills Henry.
+James devastates Henry because James murders Henry.
+
+// Stabbing
+Henry may stab James because James angers Henry.
+
+// Miscellaneous
+James may murder Henry because Henry is king and James is Henry's successor and James wants to become the king.
+James wanted to become king because Henry persuaded James to want to become king.
+
+Mary may become dead because Mary drinks poison.
+
+// Family
+
+/*  
+
+Brothers and Sisters, as reflective relationships are causing problems.  Likely because
+Gauntlet doesn't know to stop things that affect both brothers from affecting one brother
+causing it to affect the other brother, causing it to affect the other brother, causing it
+to affect the other brother, etc...
+8/13 - The new harm-schematics may fundamentally fix this issue for now.  Stay tuned.
+
+*/
+
+
+// Injury
+/*
+//Henry becomes unhappy because Henry was injured.
+//Henry may become dead because Henry was injured.
+*/
+
+// Weaponry
+/*
+Henry becomes dead because Henry drinks poison.
+Henry becomes dead because James poisons Henry.
+Henry becomes injured because James stabs Henry.
+*/
+
+
+
+// Trauma
+/*
+Mary becomes traumatized because Mary loves James and James harms Mary.
+Mary becomes traumatized because Henry is Mary's father and Henry becomes dead.
+Mary may become insane because Mary becomes traumatized.
+*/ 

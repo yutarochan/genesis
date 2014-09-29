@@ -1,0 +1,21 @@
+Start experiment.
+
+/*Start description of "Baking a Cake".
+
+xx is a person.
+
+xx is in a kitchen.
+
+In order to bake, xx required eggs and milk, xx mixed eggs and milk, xx put the mixture into the oven, xx waited 20 minutes, xx removed the cake from the oven.
+
+The end.*/
+
+Start story titled "CakePie".
+
+Philip is a person.  
+
+
+In order to bake a cake, Philip required eggs, Philip required milk, Philip put the mixture into the oven, and Philip removed the cake from the oven.
+
+
+The End.

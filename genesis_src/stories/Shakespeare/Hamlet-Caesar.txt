@@ -1,0 +1,93 @@
+Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+Insert file General commonsense knowledge.
+
+First perspective.
+//// Supplement to commonsense knowledge.
+
+Mary and James are persons.
+
+A people is a person.
+
+Mary, James, and Henry are persons.
+
+// Persuasion
+Someone is a person.
+Mary may persuade someone to attack James because Mary wants to harm James.
+Mary may persuade someone to murder James because Mary wants to murder James.
+Mary may persuade someone to murder James because Mary wants James to become dead.
+If Mary persuades someone to attack James, then someone attacks James.
+If Mary persuades Henry to murder James, then Henry murders James.
+If Mary wants Henry to die, then Mary wants Henry to become dead.
+
+// Harm
+// If someone attacks James, then someone harms James.
+// If Mary persuades someone to attack James, then Mary harms James.
+If Mary angers James, then James wants to harm Mary.
+
+Second perspective.
+
+//// Supplement to commonsense knowledge
+
+George, James, Mary, and Elizabeth are persons.
+
+George may kill James because James angers George.
+
+James is George's friend because George is James's relation.
+George is James's friend because George is James's relation.
+James is George's friend because James is George's relation.
+George is James's friend because James is George's relation.
+James is George's relation because James is George's brother.
+James is George's relation because James is George's father.
+James is George's relation because James is George's son.
+Mary is George's relation because Mary is George's sister.
+Mary is George's relation because Mary is George's mother.
+Mary is George's relation because Mary is George's daughter.
+Mary is Elizabeth's sister because Elizabeth is Mary's sister.
+
+Both perspectives.
+
+Insert file General reflective knowledge.
+
+First perspective.
+
+//// Supplement to reflective knowledge
+
+Start description of "Revenge".
+xx is an entity.
+yy is an entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Proxy revenge".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+xx's harming yy leads to yy's persuading zz to attack xx.
+yy's persuading zz to attack xx leads to zz's harming xx.
+The end.
+
+Second perspective.
+
+//// Supplement to reflective knowledge
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+First perspective.
+
+Insert file Caesar plot.
+
+Second perspective.
+
+Insert file Hamlet plot.
+
+
+

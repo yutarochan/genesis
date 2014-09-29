@@ -1,0 +1,12 @@
+Start reflective knowledge.
+
+xx is a person.
+yy is a person.
+aa is an action.
+
+Start description of "Leadership achieved".
+xx is an entity.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+

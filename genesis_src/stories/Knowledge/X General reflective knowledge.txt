@@ -1,0 +1,92 @@
+
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Teaching a lesson".
+xx is an entity.
+yy is a entity.
+yy is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+
+Start description of "Success".
+xx is an entity.
+aa is an action.
+xx's wanting aa leads to aa.
+aa leads to xx's becoming happy.
+The end.
+
+Start description of "Answered prayer".
+xx is an entity.
+xx's wanting an action leads to the action.
+The end.
+
+Start description of "Mistake".
+xx is an entity.
+yy is an anything.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "Leadership achieved".
+xx is an entity.
+yy is a position.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+
+Start description of "Insane violence".
+xx is an entity.
+someone is a entity.
+xx's being not sane leads to xx's killing someone.
+The end.
+
+Start description of "Pyrrhic victory".
+xx is an entity.
+yy is anything.
+zz is anything.
+xx's wanting yy leads to xx's becoming happy.
+xx's wanting yy leads to zz's harming xx.
+The end.
+
+
+Start description of "Suicide".
+xx is an entity.
+xx kills xx.
+The end.
+
+// From Afganistan story
+
+Start description of "Retribution".
+zz's assisting xx leads to yy's harming zz.
+The end.
+
+Start description of "Sell out".
+yy is an enemy of zz.
+yy help xx.
+I am an friend of yy.
+zz's helping xx leads to xx's angering yy.
+The end.
+
+
+Start description of "Angrily acting in revenge".
+xx is an entity.
+yy is a entity.
+I am xx's friend.
+xx's angering yy leads to yy's harming xx.
+The end.
+
+Start description of "Angrily teaching a lesson".
+xx is an entity.
+yy is a entity.
+I am yy's friend.
+xx's angering yy leads to yy's harming xx.
+The end.
+
+
+

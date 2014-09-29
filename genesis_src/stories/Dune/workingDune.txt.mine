@@ -1,0 +1,231 @@
+Clear text.
+Clear story memory.
+
+Insert file General reflective knowledge.
+
+Start commonsense knowledge.
+
+XX, YY, and ZZ are entities.
+Group1 is group. Group2 is group.
+BB is bloc.
+RR is region.
+SS is state.
+RSC is resource.
+
+//Desire 
+	XX becomes happy because XX wanted an action to occur and the action occurred.
+	XX becomes unhappy because XX wanted an action to occur and the action did not occur.
+
+
+//Failure
+
+//EXPLANATION:
+//2/4/10 - capen
+/* Actually, Failure is a fascinating topic.  Failure triggers when a character wants something to happen
+ *	and it doesn't happen.  But we have to know *WHEN* to decide that the action didn't happen.  In
+ *	discussing with PHW, there seem to be two major times when we should check if it fails:
+ *		1. When the character dies *AND* the action is not fulfilled as a direct consequence of the death.
+ *				This helps cover instances where characters want to die, or want their children to profit
+ *				from their death, or similar circumstances.
+ *		2. When the story (or possibly a sub-chapter thereof) ends, and the action has not occurred.
+ *				This is simply the larger case of "it didn't happen."  However, we do not always wish to
+ *				wait until the end of the entire story, as the failure itself may be needed to contribute
+ *				to later plot units.  Obviously, explicit statement of failure is useful, too, but sometimes
+ *				it is left as 'understood'.	
+ *
+ */
+
+//PROTOTYPE for Case 1:
+	XX fails action because XX wanted the action to occur, the action did not occur, and XX became dead.
+
+
+// INTIMIDATION
+// 	TODO: We really want to be able for XX to compel YY into doing anything without needlessly limiting the
+//		structure of that compulsion.  That is,
+//	XX may compel YY to do any action where YY is the acting agent...  because XX intimidated YY.
+
+// Intimidate->Compel
+	XX may compel YY to want an action /*to occur*/ because XX intimidated YY.
+
+// Intimidation via Grouping
+	XX may compel YY to want an action because Group1 intimidated YY, XX is a member of Group1, YY is an entity, and Group1 is group.
+	XX may compel YY to want an action because Group1 intimidated Group2, XX is a member of Group1, and YY is a member of Group2.
+	XX may compel YY to want an action because XX intimidated Group2, YY is a member of Group2, YY is an entity, and Group2 is group. 
+
+// Compulsion Semantics
+	YY wants an action /*to occur*/ because XX compels YY to want the action to occur.
+
+// Delegation
+	XX may want YY to want an action /*to occur*/ because XX wanted the action to occur.
+	
+//Agency
+	XX murders YY because Agent1 is XX's agent, and Agent1 kills YY.
+	Agent1 is XX's agent because XX leads Agent1.
+
+//Leadership|Representation
+	XX becomes a member of YY because XX joins YY, and because YY is group.
+	XX is a member of YY because XX represents YY.
+	XX is a member of YY because XX leads YY.
+	YY wants an action /*to occur*/ because XX leads YY and XX wants the action to occur and XX is an entity.
+	XX wants an action /*to occur*/ because XX represents YY and YY wants the action to occur and YY is an entity.
+	Group1 hates YY because XX hates YY, and XX leads Group1.
+	//XX represents YY because XX leads YY.
+
+//Death
+	XX becomes dead because XX dies.
+
+
+//Government
+// Word choice of "[Bloc] INCLUDES [Member]" because the phrase "is a member of" gets interpreted
+//	strangely in complicated sentences.  See:   
+//	XX governs YY because XX governs BB, YY is a member of BB, and BB is bloc.
+	XX governs YY because XX governs BB, BB includes YY, and BB is bloc.
+	XX governs YY because XX leads Group1, Group1 governs YY, and Group1 is group.  // LEADERS OF GOVERNING BODY ALSO GOVERN SUBJECTS
+
+
+//States want to control Valuable things
+  //SS wants to control RR because SS is a state and RR is a region.	 // CAUSES SERIOUS BACKUPS - Unsure why
+																		 // 	possibly due to overmatch.																 
+	SS values RSC because SS wants RSC.										 // Semantic Clarity
+	SS values RR because SS values RSC, and RR contains RSC.			
+	SS /*may*/wants to control RR because SS values RR.						 // 2/14/10 - Note: This might be more
+																			 // accurate with "may" included, but it
+																			 //	probably won't fire for now with it.
+    SS wants to control RSC because SS values RSC.
+	SS controls RSC because RR contains RSC, and SS controls RR.
+	
+	XX values RSC because BB values RSC, and BB includes XX.
+
+		//Control Shift
+		//XX does not control RR because XX controlled RR and YY controls RR.   // DANGEROUS - Might be causing InfLoop
+		//XX stops controlling RR because XX controlled RR and YY controls RR.	// INCORRECT - Overtriggers.  Need XX!=YY
+
+// CRITICAL ELEMENTS of Land Seizure
+	XX may seize RR from YY because XX governed YY, and YY controlled RR.	// A governor can seize your territory
+
+	//YY's controlling of RR did not occur because XX seized RR from YY.		// If seized, you stop controlling it.
+	XX controls RR because XX seized RR from YY.							// Temporary hold - separate from control.
+	Group1 controls RR because XX controls RR, and XX leads Group1.
+	//XX may grant RR to ZZ because XX holds RR.							// Can't grant without holding/controlling it.
+	XX may grant RR to ZZ because XX controls RR, and XX governs ZZ.
+	ZZ controls RR because XX granted RR to ZZ, and XX governs ZZ.								// And control transfers with a grant.
+
+//Rivalry + Seizure
+	YY harms ZZ because XX seized RR from ZZ, XX granted RR to YY, and ZZ dislikes YY.
+
+//Hatred
+	XX dislikes YY because XX hates YY.
+
+
+//Assaults  (these won't trigger until we get all explanations firing, rather than only singletons)
+	XX may murder YY because XX attacks YY.
+	YY may murder XX because XX attacks YY.
+	XX may murder YY because XX attacks Group1, YY is a member of Group1, and Group1 is group.
+	YY may murder XX because XX attacks Group1, YY is a member of Group1, and Group1 is group.
+	XX may murder YY because Group1 attacks Group2, XX is a member of Group1, and YY is a member of Group2.
+	YY may murder XX because Group1 attacks Group2, XX is a member of Group1, and YY is a member of Group2.
+	 
+// Note: I wanted to get attacks happening at a location.  The idea being that there can be
+//	casualties of war beyond those attacking or being attacked.  But given how "grant" is being
+//	handled now, I doubt that it would really be handled properly.
+
+
+// Hamletian Family/Revenge
+Insert file Hamlet commonsense knowledge.
+
+// Additions to Hamlet
+XX may attack YY because XX dislikes YY.
+XX may murder YY because YY harmed XX.		//Force an explicit response for revenge.
+
+
+Start story.
+
+// ACT I - IMPERIAL CONSPIRACY
+Guild, Corrino, and Atreides are nations.
+Emperor, Navigator, Leto, and Paul are persons.
+Emperor leads Corrino.
+Navigator represents Guild.
+Paul is member of Atreides.
+
+Guild intimidates Corrino.
+Navigator wants Paul to die.
+Navigator compels Emperor to want Paul to die.
+
+
+// ACT II - LANDSRAAD GOVERNANCE
+Harkonnen is /*a*/ nation.			// 2/4/10 parsed this as "a_nation" because Harkonnen is fictional.  Stupid bug.
+Baron and Feyd are persons.
+Baron leads Harkonnen.
+Baron hates Atreides.
+Feyd is member of Harkonnen.
+Leto leads Atreides.
+Leto is Paul's father.
+
+Landsraad is bloc.
+
+Landsraad includes Atreides, Corrino, and Harkonnen.
+Corrino governs Landsraad.
+
+//GiediPrime, Caladan, and Dune are regions.
+GiediPrime is region.
+Caladan is region.
+Dune is region.
+Spice is resource.
+Dune contains spice.
+
+//Harkonnen values spice because Landsraad includes Harkonnen.
+Landsraad values spice.
+
+Harkonnen controls GiediPrime.
+Atreides controls Caladan.
+Harkonnen controls Dune.
+
+	//The spice flows because nation controls Dune, and Landsraad includes the nation.   
+		// 1. <Redacted>Works, but fires, too
+		// 2. Embedded Rules can either be specific and over-fire, or they can be abstract and fire once.  Not great.
+		// 3. 3/29/10 - Update: Actually, this rule is too abstract.  It causes some kind of redundancy issues that go
+		//		crazy.  Am going to try it with the specific version (s/nation/Harkonnen/)
+				
+//The spice flows because Harkonnen controls Dune, and Landsraad includes Harkonnen.
+
+// ACT II.V -- SEIZURE OF ARRAKIS
+Emperor seizes Dune from Harkonnen.
+Emperor grants Dune to Atreides.
+	//Weird: "Emperor grants Dune to Atreides" gets recognized as a redundancy with "Emperor seizes Dune from Harkonnen"
+
+// ACT III - HARKONNEN TREACHERY
+Harkonnen attacks Atreides.
+Baron murders Leto.
+Harkonnen controls Dune.
+
+// ACT IV - FREMEN RISING
+		Paul does not die.
+Paul joins Fremen.
+Paul leads Fremen.
+Fremen attack Harkonnen.
+Fremen kills Baron.
+		//Paul murders Baron.
+		
+/*
+OK, this is a totally cool bug:
+
+	Baron kills Leto -> Paul dislikes Baron  [A->B]
+	
+	Fremen kills Baron -> Paul kills Baron 	 [C->D]
+
+	B and D are both implied/inferred events.  By virtue of AllowMultipleExplanations, we should be
+		generating the connection of B->D.  Indeed, when D is written explicitly, I think this happens.
+	BUT it doesn't seem to be happening now.  I'll have to check that out in a test perhaps, but I think
+		events that are directly predicted might not be checked for other possible causes.  This'll be nice
+		to have working because if I say that terrorists blow up the White House, it causes them to kill
+		the President, but that should be linked to the fact that they might have wanted the president dead
+		to begin with.  That sort of thing.  But more...  Dune-ish.
+*/
+		
+Fremen kills Emperor.
+Fremen controls Dune.
+		//Paul does not die.  ---  Moved to the top of Act IV to control for failure.
+		
+//Pause.
+
+The end.

@@ -1,0 +1,67 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+Insert file 8.txt.
+First perspective.
+
+Start story titled "Germinal by Zola".
+
+Etienne is a person.
+Etienne is hard-working, Etienne is an idealist, Etienne is naive and young.
+
+Etienne is fired because he assaulted a superior.
+Etienne arrives to a miner town because Etienne wants to work as a miner.
+Etienne's reading literature leads to Etienne's embracing socialist principles.
+
+Maheu is a person. Maheu is a miner.
+Catherine is a person. Catherine is Maheu's daughter. 
+Etienne falls in love with Catherine.
+
+Miners are a large group of people.
+Miners live in poverty and Miners live in oppression; Miners decide to strike; Miners revolt against authorities.
+Etienne becomes the leader of the revolt because Etienne is recognized as political idealist.
+Police and army confront miners; authorities repress the revolt; Miners lose illusions; Miners go back to work; Miners blame Etienne.
+
+The end.
+
+Second perspective.
+
+Start story titled "William Tell by Schiller".
+
+Note that William Tell is a name.
+William Tell is a person. William Tell is an obscure huntsman.
+
+Gessler is a person.
+Gessler is the Governor and a tyrant; Gessler is an authority.
+
+Ulrich is a person.
+Ulrich is a baron and Ulrich is a friend of peasants.
+
+Peasants are a large group of people.
+
+William Tell thinks that Gessler is bloodthirsty; Peasants share William Tell's opinion.
+ 
+Gessler fills jails and builds new prison.
+Gessler commands everyone to bow to new prison and threats peasants with death.
+
+Peasants prepare rebellion because Gessler is bloodthirsty and because Gessler is tyrant.
+William Tell does not join the rebellion but promises to help.
+
+Walter is a person. Walter is William Tell's son.
+William Tell and Walter pass the new prison. William Tell doesn't bow; guard arrests William Tell.
+
+Gessler and his hunting party pass the prison. Gessler questions William Tell. 
+William Tell apologizes.
+Gessler heard that William Tell is good bowsman.
+In order to challenge William Tell Gessler places apple on Walter's head and makes William Tell shoot at the apple.
+Gessler angers Ulrich because Gessler challenges William Tell.
+William Tell hits the apple. Gessler notices that William Tell took two arrows; Gessler asks William Tell about second arrow.
+William Tell says second arrow is for Gessler; Gessler tries to imprison William Tell.
+William Tell escapes.
+
+Ulrich provokes peasants because Gessler angers Ulrich. 
+Peasants revolt against Gessler because Ulrich provokes peasants. 
+Peasants kill Gessler and tear down prisons.
+
+The end.
+

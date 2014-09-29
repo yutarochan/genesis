@@ -1,0 +1,68 @@
+Start description of "Crime_pursued_by_Vengeance-general".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+//Sometimes, xx is a sleuth.
+
+Sometimes, xx loves zz and yy's hurting zz leads to xx's believing that yy transgressed.
+
+Sometimes, yy's hurting xx leads to xx's believing that yy transgressed.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+
+/* Revenge for beloved one */
+
+Start description of "Crime_pursued_by_Vengeance-A".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+xx loves zz and yy's hurting zz leads to xx's believing that yy transgressed.
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+/* Revenge for oneself */
+
+Start description of "Crime_pursued_by_Vengeance-B".
+
+yy is an entity.
+xx is an entity.
+
+yy's hurting xx leads to xx's believing that yy transgressed.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+/* Professional pursuit of a crime */
+
+Start description of "Crime_pursued_by_Vengeance-general".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+//Sometimes, xx is a sleuth.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+
+/* I do not think that pattern Crime-C should be illustrated separately because it rather states the main characters of the story than reflects something in fabula.
+_any_ story about Holmes or Carter would fit disregarding the concrete content.*/ 	

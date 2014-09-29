@@ -1,0 +1,80 @@
+Clear story memory.
+
+England, France, and Germany are nations.
+Parliament is a government.
+IRA and Peacekeepers is a group.
+NorthIreland and Ruhr are regions.
+
+// R1. RivalNations want to increase their Relative Power
+England is France's RivalNation because France is England's RivalNation.
+England wants to increase England's RelativePower because England is France's RivalNation.
+// Englands wants to gain RelativePower because England is France's RivalNation.
+
+// R2. RelativePower is affected by Direct Power and your rivals' Direct Power
+England's RelativePower increases because England's power increases.
+England's RelativePower decreases because England's power decreases.
+England's RelativePower increases because France's power decreases and France is England's RivalNation.
+England's RelativePower decreases because France's power increases and France is England's RivalNation.
+// England gains RelativePower because England strengthens.
+// England loses RelativePower because England weakens.
+// England gains RelativePower because France weakens and France is England's RivalNation.
+// England loses RelativePower because France strengthens and France is England's RivalNation.
+
+// R3. Stability is an important component of Power, but not perfectly matched.
+France's power decreases because France's stability decreases.
+France's power may increase because France's stability increases.
+// France weakens because France grows unstable.
+// France may strengthen because France grows stable.
+
+// R4. Refugees hurt stability
+England's stability decreases because refugees enter England.
+// England grows unstable because refugees enter England.
+
+// R5. Rebel Groups operating in a nation hurt stability
+England's stability decreases because IRA operates in England and IRA is a RebelGroup.
+// England grows unstable because IRA operates in England and IRA is a RebelGroup.
+
+// R6. Refugees are often fleeing oppression.
+Refugees may enter France because Ruhr is Germany's region and IRA oppresses Ruhr and France is Germany's Neighbor.
+France is Germany's Neighbor because Germany is France's Neighbor.
+
+// R7. Oppression hurts stability
+England's stability decreases because NorthIreland is England's region and IRA oppresses NorthIreland.
+// England grows unstable because NorthIreland is England's Region and IRA oppresses NorthIreland.
+
+// R8. Government support for a group helps groups realize their goals.
+IRA may realize its goals because Parliament is a government and Parliament supports IRA.
+
+// R9. Defining Goal-Realization.
+//			This is probably not going to generalize well.  We'll need something stronger in all likelihood.
+IRA oppresses NorthIreland because IRA wants to oppress NorthIreland and IRA realizes its goals.
+
+// R10. UniversalForces do not want nations' stability to decrease.
+Peacekeepers want France's stability to increase because Peacekeepers is a UniversalForce and France is a nation.
+// Peacekeepers want France to grow stable because Peacekeepers is a UniversalForce and France is a nation.
+
+// R11. Oppressing a region is a form of operation.
+IRA operates in NorthIreland because NorthIreland is a region and IRA oppresses NorthIreland.
+
+// R12. Militant operation may sometimes expand.
+IRA operates in Germany because IRA operates in Ruhr and Ruhr is Germany's region.
+IRA may operate in France because IRA operates in Germany and France is Germany's Neighbor.
+
+
+Start story.
+
+Sudan and Chad are nations.
+Sudan is Chad's RivalNation.  Sudan is Chad's Neighbor.
+Peacekeepers are a UniversalForce.
+SudaneseGovernment is a government.
+
+Janjaweed is a RebelGroup.
+Darfur is Sudan's region.
+Janjaweed wants to oppress Darfur.
+SudaneseGovernment supports Janjaweed.
+Janjaweed oppresses Darfur.
+Refugees enter Chad.
+Janjaweed operates in Chad.
+
+The end.
+

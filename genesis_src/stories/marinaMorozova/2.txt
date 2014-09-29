@@ -1,0 +1,32 @@
+//If any of "sometimes" are triggered in Deliverance-general
+//Then it us Deliverance-B
+//Otherwise it is Deliverance-A.
+
+
+Start description of "Deliverance-general".
+//if any of "sometimes" rules is triggered
+//then it is deliverance
+xx is an entity.
+yy is an entity.
+zz is an entity.
+
+xx is mighty.
+yy troubles zz.
+zz does not ask xx to help.
+Sometimes, xx is zz's kin.
+Sometimes, xx is zz's friend.
+xx helps zz.
+The end.
+
+Start description of "Deliverance-A".
+
+xx is an entity.
+yy is an entity.
+zz is an entity.
+
+xx is mighty.
+yy troubles zz.
+zz does not ask xx to help.
+xx helps zz.
+
+The end.

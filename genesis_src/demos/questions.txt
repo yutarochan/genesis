@@ -1,0 +1,13 @@
+//// Questions
+Is a bird above the top of the house.
+// Strangely does not work when read from a file
+// Did a dog run from a house to a tree.
+Did a cat appear.
+Did a horse appear after the weather changed.
+Did a robin disappear because a kestrel flew over the tree.
+// Did the president force the dictator to run to a hole.
+// Did the president want the country to move toward democracy.
+
+Did a bird fly from a house to a lake.
+
+

@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+First perspective.
+// Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If YY gossips about XX, then XX may feel bad.
+If YY gossips about XX and XX feels bad, then YY harms XX.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Mean girls".
+
+Regina is a person.
+Janice is a person.
+
+Regina is mean.
+
+Janice does not wear nice clothes because Janice is poor.
+
+// Regina knows that Regina's gossiping about Janice would cause Regina to harm Janice.
+
+Regina knows that Regina harms Janice if Regina gossips about Janice.
+
+Regina gossips about Janice because Janice does not wear nice clothes and because Regina is mean.
+
+Janice feels bad.
+// Regina becomes happy because Regina gossips about Janice.
+Regina becomes happy because Regina gossips about Janice.
+
+The end.

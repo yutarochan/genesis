@@ -1,0 +1,11 @@
+Start experiment.
+
+First Perspective.
+
+Insert file Matt General Commonsense Knowledge.
+
+Insert file Matt General Reflective Knowledge.
+
+Start story titled "Jack and the Beanstalk".
+Insert file Jack and the Beanstalk plot.
+The end.

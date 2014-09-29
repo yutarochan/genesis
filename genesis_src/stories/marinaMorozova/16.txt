@@ -1,0 +1,49 @@
+Start description of "Madness-A".
+
+yy is a person.
+xx is a person.
+
+yy does not hate xx.
+
+Sometimes, xx is yy's relative.
+Sometimes, xx is yy's lover.
+
+yy's becoming mad leads to yy's hurting xx.
+
+
+The end.
+
+Start description of "Madness-B".
+
+yy is a person.
+
+yy's becoming mad leads to yy's being dishonored.
+
+
+The end.
+
+Start description of "Madness-C".
+
+xx is a person.
+yy is a person.
+
+xx loves yy.
+
+xx's having amnesia leads to xx's losing yy..
+
+
+The end.
+
+
+Start description of "Madness-D".
+
+xx is a person.
+yy is a person.
+
+xx is yy's relative.
+xx becomes mad.
+
+yy's being afraid of hereditary madness leads to yy's becoming mad.
+
+
+The end.

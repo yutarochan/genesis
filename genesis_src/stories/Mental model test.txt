@@ -1,0 +1,27 @@
+Insert file Start experiment.
+
+Neither perspective.
+
+Open connection to "Crazy".
+
+Start commonsense knowledge.
+
+xx and yy are persons.
+
+If xx harms yy, then yy kills xx.
+
+Transfer knowledge from "Crazy" to "Current".
+
+Open connection to "Current".
+
+Cut connection to "Crazy".
+
+Start story named "Test".
+
+Patrick and Henry are persons.
+
+Patrick harms Henry.
+
+The end.
+
+

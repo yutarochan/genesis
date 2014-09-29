@@ -1,0 +1,70 @@
+package latticeLearning;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class FasterLLConcept<T> implements Concept<T> {
+
+    private Lattice<T> lattice;
+    
+    private Set<T> positiveAncestors = new HashSet<T>();
+    private Set<T> negativeAncestors = new HashSet<T>();
+
+    public FasterLLConcept(Lattice<T> lattice) {
+        this.lattice = lattice;
+    }
+    
+    public void learnNegative(T negative) {
+    	negativeAncestors.addAll(lattice.getAncestors(negative));
+    }
+
+    public void learnPositive(T positive) {
+    	positiveAncestors.addAll(lattice.getAncestors(positive));
+    }
+
+    public boolean contains(T node) {
+    	if (negativeAncestors.contains(node)) {
+    		return false;
+    	}
+    	if (positiveAncestors.contains(node)) {
+    		return true;
+    	}
+    	boolean result = false;
+    	for (T parent : lattice.getParents(node)) {
+    		result = result || contains(parent);
+    	}
+    	return result;
+    }
+    
+    public Set<T> maximalElements() {
+        Set<T> maxes = new HashSet<T>();
+        for (T node : positiveAncestors) {
+    		if (contains(node)) {
+    			maxes.add(node);
+    		}
+        }
+
+        Set<T> toRemove = new HashSet<T>();
+        for (T a : maxes) {
+            for (T b : maxes) {
+            	if (!a.equals(b) && lattice.leq(a,b)) {
+                    toRemove.add(a);
+                }
+            }
+        }
+        maxes.removeAll(toRemove);
+        return maxes;
+    }
+    
+    public String toString() {
+    	return maximalElements().toString();
+    }
+
+    public Set<T> getPositives() {
+        return positiveAncestors;
+    }
+
+    public Set<T> getNegatives() {
+        return negativeAncestors;
+    }
+}

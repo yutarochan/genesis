@@ -1,0 +1,64 @@
+// // Introduces comment
+// Next line makes sure memories and displays are ready to go by inserting file named: Start experiment.txt
+// Memories are cleared, first perspective is shown, reading into first perspective.
+
+Insert file Start experiment.
+
+// General common sense knowledge read here
+// Contains signal that common sense knowledge is about to read: Start commonsense knowledge.
+// Then, full of if-then rules, such as: If YY harmed XX and XX is WW's friend, then YY harmed WW.
+// Best to stick with those variables, as they are known to be persons.
+
+Insert file General commonsense knowledge.
+
+/*
+
+This kind of comment also accepted.
+
+Now read commonsense specific to Macbeth.
+
+*/
+
+Insert file Mabeth commonsense knowledge.
+
+// You can also include commonsense in this file and you can use a because format with names as variables:
+
+James may kill Henry because Henry angers James.
+
+// General concept patterns read here
+// Contains signal that concept patterns are about to be read: Start reflective knowledge.
+// Full of story-like elements such as:
+//
+// Start description of "Revenge".
+// xx is an entity.
+// yy is a entity.
+// xx is my friend.
+// xx's harming yy leads to yy's harming xx.
+// The end.
+
+Insert file General reflective knowledge.
+
+// No harm in adding concept patterns in this file, but none shown.
+
+// Idiom for starting story
+Start story titled "Tragedy of Macbeth".
+
+Macbeth, Macduff, Lady Macbeth, and Duncan are persons. 
+A thane is a kind of noble.
+Macbeth is a thane and Macduff is a thane.
+Duncan, who is Macduff's friend, is the king, and Macbeth is Duncan's successor.
+
+Macbeth wants to become king because Lady Macbeth persuaded Macbeth to want to become the king.
+
+// Pauses reading, press step or run buttons to continue.
+Pause.
+
+Macbeth murders Duncan.
+
+Then, Macduff kills Macbeth.
+
+// Idiom for stopping story and triggering concept pattern analysis
+
+The end.
+
+

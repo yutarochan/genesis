@@ -1,0 +1,26 @@
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+zz is a person.
+aa is an action.
+
+if xx is greedy and xx is yy's wife, then xx may persuade yy to want to become king.
+
+Start reflective knowledge.
+
+Start description of "Tragic greed".
+xx is yy's relation.
+zz is a person.
+xx's being greedy leads to zz's harming yy.
+The end.
+
+Boris is a person.
+
+Start story titled "Greedy person's characteristics".
+
+Boris loves Money.
+
+The end.
+
+

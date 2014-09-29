@@ -1,0 +1,20 @@
+Insert file Start experiment.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Start story titled "My story".
+
+Leonid is a person.
+
+Dimitri is a person.
+
+Leonid is nice.
+
+Leonid flew to a tree because a cat appeared.
+
+Leonid killed Dimitri.
+
+The end.
+

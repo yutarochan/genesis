@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+// Insert shared commonsense and reflective knowledge into both processors.
+Insert file Macbeth shared commonsense.
+Insert file Macbeth shared reflective.
+
+First perspective.
+
+// This rule only goes into first processor
+
+Insert file Macbeth first commonsense.
+
+// [unused]?? Radiate commonsense knowledge.
+
+Start story titled "Macbeth/Suicide".
+
+Insert file Macbeth first plot.
+
+Second perspective.
+
+// Insert additional rules into second processor from processing in first processor
+Insert bias.  
+
+Start story titled "Macbeth biased suicide".
+
+Insert file Macbeth second plot.
+
+Replay story.
+
+
+

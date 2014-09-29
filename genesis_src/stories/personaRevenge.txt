@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+Start commonsense knowledge.
+
+Henry, George, James, and Mary are persons.
+
+If James harmed George and George is Henry's friend, then James harmed Henry.
+
+Henry may want to kill James because Henry is angry at James.
+
+James may attack Henry because Henry harms James.
+James may fight Henry because Henry attacks James.
+James may kill Henry because James is angry at Henry.
+
+Start reflective knowledge.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Unwarranted Revenge".
+xx is an entity.
+yy is a entity.
+xx is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Teaching a lesson".
+xx is an entity.
+yy is a entity.
+yy is my friend.
+xx's harming yy leads to yy's harming xx.
+The end.

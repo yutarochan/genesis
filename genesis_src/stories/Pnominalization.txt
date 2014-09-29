@@ -1,0 +1,18 @@
+/*
+Noun should refer to action.
+*/
+
+Clear story memory.
+
+Start story.
+
+Macbeth destroyed a city.
+
+The city's destruction forced the rebel to disappear.
+
+Macbeth defeated a rebel.
+Macbeth's defeat caused Duncan to become happy.
+
+The End.
+
+Start general knowledge.

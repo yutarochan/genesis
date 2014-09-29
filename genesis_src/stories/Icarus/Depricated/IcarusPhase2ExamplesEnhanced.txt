@@ -1,0 +1,191 @@
+Insert file Start experiment.
+First perspective.
+
+Start Story titled "IED 1".
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+Agent-3 detonates IED-1.
+The end.
+Remember the story.
+
+Start Story titled "IED 2".
+Agent-1 meets Agent-2 at Location-1-1.
+Agent-1 gives IED-1 to Agent-2.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+Agent-3 detonates IED-1.
+Agent-3 makes a phone call.
+The end.
+Remember the story.
+
+Start Story titled "IED 3".
+Agent-2 retrieves Explosive-Materials-1 from Location-1-5.
+Agent-2 travels to Location-9-5.
+Agent-2 builds IED-1 using Explosive-Materials-1.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+IED-1 self-detonates.
+The end.
+Remember the story.
+
+Start Story titled "IED 4".
+Agent-2 retrieves Explosive-Materials-1 from Location-1-5.
+Agent-2 travels to Location-9-5.
+Agent-2 builds IED-1 using Explosive-Materials-1.
+Agent-2 makes a phone call.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+IED-1 self-detonates.
+The end.
+Remember the story.
+
+Start Story titled "Smuggling 5".
+Agent-1 meets Agent-2 at Location-1-1.
+Agent-1 gives Illegal-Item-1 to Agent-2.
+Agent-2 makes a phone call.
+Agent-2 travels to Location-5-5.
+Agent-2 makes a phone call.
+Agent-2 meets Agent-3 at Location-5-5.
+Agent-2 gives Illegal-Item-1 to Agent-3.
+The end.
+Remember the story.
+
+Start Story titled "Smuggling 6".
+Agent-2 retrieves Illegal-Item-1 from Location-5-1.
+Agent-2 travels to Location-5-5.
+Agent-2 meets Agent-3 at Location-5-5.
+Agent-2 gives Illegal-Item-1 to Agent-3.
+The end.
+Remember the story.
+
+Start Story titled "Smuggling 7".
+Agent-2 retrieves Illegal-Item-1 from Location-5-1.
+Agent-2 travels to Location-5-5.
+Agent-2 places Illegal-Item-1 at Location-5-5.
+The end.
+Remember the story.
+
+Start Story titled "Smuggling 8".
+Agent-2 builds Illegal-Item-1.
+Agent-2 makes a phone call.
+Agent-2 travels to Location-5-5.
+Agent-2 places Illegal-Item-1 at Location-5-5.
+Agent-2 makes a phone call.
+The end.
+Remember the story.
+
+Start Story titled "Robbery 9".
+Agent-1 meets Agent-3 at Location-1-1.
+Agent-1 gives Weapon-1 to Agent-3.
+Agent-3 retrieves Ammunition-1 from Location-5-1.
+Agent-3 makes a phone call.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 gives Item-1 to Agent-3.
+Agent-4 raises an alert.
+Agent-3 travels to Location-9-9.
+The end.
+Remember the story.
+
+Start Story titled "Robbery 10".
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives Ammunition-1 to Agent-3.
+Agent-3 retrieves Weapon-1 from Location-5-1.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 gives Item-1 to Agent-3.
+Agent-3 travels to Location-9-9.
+The end.
+Remember the story.
+
+Start Story titled "Robbery 11".
+Agent-3 retrieves Weapon-1 from Location-5-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives Ammunition-1 to Agent-3.
+Agent-3 makes a phone call.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 gives Item-1 to Agent-3.
+Agent-3 travels to Location-9-9.
+The end.
+Remember the story.
+
+Start Story titled "Robbery 12".
+Agent-3 retrieves Ammunition-1 from Location-5-1.
+Agent-1 meets Agent-3 at Location-1-1.
+Agent-1 gives Weapon-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 gives Item-1 to Agent-3.
+Agent-4 raises an alert.
+Agent-3 travels to Location-9-9.
+Agent-3 makes a phone call.
+The end.
+Remember the story.
+
+Start Story titled "Kidnapping 13".
+Agent-1 meets Agent-3 at Location-1-1.
+Agent-1 gives Weapon-1 to Agent-3.
+Agent-3 retrieves Ammunition-1 from Location-5-1.
+Agent-3 makes a phone call.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 travels to Location-9-5.
+Agent-3 travels to Location-9-5.
+Agent-3 makes a phone call.
+The end.
+Remember the story.
+
+Start Story titled "Kidnapping 14".
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives Ammunition-1 to Agent-3.
+Agent-3 retrieves Weapon-1 from Location-5-1.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 travels to Location-9-5.
+Agent-3 travels to Location-9-5.
+The end.
+Remember the story.
+
+Start Story titled "Kidnapping 15".
+Agent-3 retrieves Weapon-1 from Location-5-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives Ammunition-1 to Agent-3.
+Agent-3 makes a phone call.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 travels to Location-9-5.
+Agent-3 travels to Location-9-5.
+The end.
+Remember the story.
+
+Start Story titled "Kidnapping 16".
+Agent-3 retrieves Ammunition-1 from Location-5-1.
+Agent-1 meets Agent-3 at Location-1-1.
+Agent-1 gives Weapon-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 meets Agent-4 at Location-5-5.
+Agent-3 threatens Agent-4.
+Agent-4 travels to Location-9-5.
+Agent-3 travels to Location-9-5.
+Agent-3 makes a phone call.
+The end.
+Remember the story.

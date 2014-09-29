@@ -1,0 +1,26 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+Start story titled "Give Full Story".
+
+Alpha has the object.
+Alpha approaches Bravo.
+Alpha gives the object to Bravo.
+Bravo has the object.
+
+Second perspective.
+
+Start story titled "Give Story with Gap".
+
+The human has the ball.
+The human approaches the person.
+//A gap appears.
+The person has the ball.
+
+Both perspectives.
+
+The End.

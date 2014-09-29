@@ -1,0 +1,18 @@
+/**
+* First sentence:
+* The first time the dog asks the cat to run, it is unclear what the outcome will be.
+* We can only tell that the cat probably wanted to stay still, represented by the dot.
+* Second sentence:
+* The dog then forces the cat to run. The circle means the cat wants to stay still.
+* The + means that the dog wins the conflict. The arrow on the line means that the cat will move.
+* Third sentence:
+* Now when told the dog asks the cat to run, Gauntlet looks in memory to see if the dog
+* had previously been able to make the cat run to a tree. Because it has, the ForceViewer shows the same thing.
+* Fourth sentence:
+* ForceViewer also works on causation, because coercion is a subset of force interactions.
+**/
+
+the dog asked the cat to run to a tree.
+the dog forced the cat to run to a tree.
+the dog asked the cat to run to a tree.
+the cat ran to a tree because a dog appeared.

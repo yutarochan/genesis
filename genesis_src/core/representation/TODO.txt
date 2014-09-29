@@ -1,0 +1,6 @@
+PROPOSAL
+
+Move all core representations to this package.
+
+Including
+Entities, Functions, Relations, etc.

@@ -1,0 +1,47 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start story titled "John and Mary".
+
+John and Mary played a game of hide-and-seek-the-ball with a green ball.
+
+They began in a large room with two doors, one on the north side, one on the east, with several balls in the center of the floor.
+
+John went first, picking up the ball and walking through the north door.
+
+The north room was smaller than the large room, and contained a table and a chair in the center, with a cabinet against the wall.
+
+John placed the ball underneath the chair, and called out to Mary to come find it.
+
+Mary entered the north room, walked over the cabinet, and opened it.
+
+Not seeing the ball in the cabinet, she slowly turned around until she saw the ball under the chair.
+
+She picked up the ball and left the room by the south door.
+
+She crossed the large room, and entered the east room, which was also smaller than the large room, but much taller.
+
+There were a number of crates in the room, along with a shelf attached to the wall, high up, so high that Mary could not reach it.
+
+She bounced the ball just right so that it flew up and landed on the ledge.
+
+She called out to John for him to come find the ball.
+
+John enters the east room and looks around, but does not see the ball.
+
+He first looked between one crate and the wall, then another, then a third, but did not see the ball.
+
+He then realized the ball must be on the shelf; he jumped up to try and see it , but could not.
+
+He climbed on top of one of the crates, and could then see the ball in its hiding spot.
+
+John went  to the large room, took a red ball, and, returning to tall room, threw the red ball at the green ball, knocking it down to the floor.
+
+The green ball bounced to Mary and she caught it.
+
+She threw it to John, but he dropped it.
+
+He picked up the ball, and it was now his turn. 
+
+The end.

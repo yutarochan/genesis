@@ -1,0 +1,72 @@
+Insert file Start experiment.
+
+// Insert file General commonsense knowledge.
+
+Alice is a person.
+
+xx is an entity.
+
+yy is an entity.
+
+
+XX may fall because XX runs and XX holds YY.
+
+XX drops YY because XX falls and XX holds YY.
+
+XX slows down because XX runs and XX holds YY.
+
+XX fails because XX falls and XX drops YY.
+
+XX worries because XX slows down and XX drops YY.
+
+XX may scream because XX falls.
+
+//"XX learns" cannot be inferred using "XX worries" , but can be inferred from "XX drops YY".
+XX may learn because XX fails and because XX drops YY.//XX worries
+
+XX runs because XX sees YY.
+
+// Below are the rules for story2
+ZZ is an entity.
+
+WW is an entity.
+
+ZZ follows the rabbit because ZZ runs and because ZZ is curious.
+
+ZZ may jump into XX because ZZ follows the rabbit and because rabbit jumps into XX.
+
+XX leads to the wonderland because XX is magic.
+
+// Insert file General reflective knowledge.
+
+//Bucket imagination test: iteration one.
+
+Start story titled "Bucket test".
+
+Alice holds the bucket.
+
+//Alice runs.
+
+Alice falls.
+
+Alice learns.
+
+Alice screams.
+
+Alice sees the rabbit.
+
+Alice is curious.
+
+Rabbit jumps into the hole.
+
+Alice jumps into the hole.
+
+//So now when I say imagine a person running with a bucket this is supposed to be imagined
+//based on the story above.
+//Now I need to say something like imagine more, and this will invoke a second iteration.
+//In reality, imagination isn't a rule-based inference, but rather an involvement of new
+//representations that weren't involved before. But let's try the second iteration as it is right now. 
+
+
+The end.
+

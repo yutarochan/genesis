@@ -1,0 +1,55 @@
+/* Filename: AfghanistanCivilWar.txt
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Jan 29, 2004
+ */
+
+/**
+ * Afghanistan Civil War, 1989
+ */
+Start story titled "Afghanistan-Civil-War".
+
+Najibullah was a man.
+Afghanistan is a country.
+
+The Soviets are an entity.
+
+The Mujahideen were a men.
+The Mujahideen were muslim.
+
+The Jamiat-i-Islam was a faction of the Mujahideen.
+Massoud was a man.
+Massoud led the Jamiat-i-Islam.
+
+The Hizb-i-Islam was a faction of the Majahideen.
+Hekmatyar was a man.
+Hekmatyar led the Hizb-i-Islam.
+
+Najibullah controlled the cities of Afghanistan.
+
+The Soviets liked Najibullah because Najibullah controlled the cities of Afghanistan.
+The Soviets liked Najibullah because Najibullah liked the Soviets.
+The Soviets gave weapons to Najibullah because the Soviets supported Najibullah.
+
+The Mujahideen were confident because the Mujahideen controlled the countryside of Afghanistan.
+The Mujahideen opposed Najibullah because Najibullah liked the Soviets.
+The Mujahideen opposed Najibullah because the Soviets supported Najibullah.
+The Mujahideen opposed Najibullah because the Mujahideen were confident.
+
+The Mujahideen attacked Najibullah because the Mujahideen opposed Najibullah.
+Najibullah attacked the Mujahideen because the Mujahideen attacked Najibullah.
+
+The Soviets stopped giving weapons to Najibullah because the USSR collapsed.
+
+The Mujahideen were stronger than Najibullah because the Soviets stopped giving weapons to Najibullah.
+
+The Mujahideen defeated Najibullah.
+
+Massoud wanted to control Afghanistan.
+Hekmatyar wanted to control Afghanistan.
+Hekmatyar disliked Massoud.
+Massoud disliked Hekmatyar.
+
+Hekmatyar's faction attacked Massoud's faction because Hekmatyar wanted Hekmatyar to control Afghanistan.
+
+The end.

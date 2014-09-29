@@ -1,0 +1,19 @@
+Insert file Start experiment.
+
+Both perspectives. 
+Show both perspectives.
+
+
+First perspective.
+
+Insert file General commonsense knowledge.
+Start story titled "My story/first perspective".
+
+Second perspective.
+
+Insert file Lacking General Commonsense Knowledge.
+Start story titled "My story/second perspective".
+
+
+Both perspectives.
+Insert file Sila plot.

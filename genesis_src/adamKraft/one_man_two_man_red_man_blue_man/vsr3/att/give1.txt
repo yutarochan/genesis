@@ -1,0 +1,325 @@
+
+transitions/vsr3/rf/give1.txt has 300 RefFrames.
+transitions/vsr3/rf/give1.txt has 3 markers.
+Inst 5 [- 4 3 -1 -1] id=2  dmarkerContact[0]=1
+Inst 7 [- 6 5 4 3] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 8 [- 7 6 5 4] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 9 [- 8 7 6 5] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=0
+Inst 10 [- 9 8 7 6] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=0
+Inst 12 [- 11 2 -1 -1] id=0  dmarkerContact[2]=1
+Inst 23 [- 22 14 -1 -1] id=0  dmarkerContact[2]=1
+Inst 43 [- 42 39 38 35] id=0  [2] dR=1 dTheta=0
+Inst 52 [- 51 50 49 48] id=2  [1] dR=-1 dTheta=0
+Inst 53 [- 52 51 50 49] id=2  [1] dR=-1 dTheta=0
+Inst 54 [- 53 52 51 50] id=2  [1] dR=-1 dTheta=0
+KF 57 [- 0] id=1  [2] dR=-1 dTheta=0
+Inst 59 [- 58 57 56 55] id=1  ddy=1 [2] dR=0 dTheta=-1
+Inst 60 [- 59 58 57 56] id=1  ddy=1 [2] dR=0 dTheta=-1
+Inst 61 [- 60 59 58 57] id=1  ddy=1 [2] dR=0 dTheta=-1
+KF 64 [- 3] id=2  [1] dR=-1 dTheta=0
+Inst 68 [- 67 66 65 64] id=2  ddx=-1
+Inst 69 [- 68 67 66 65] id=2  ddx=-1
+Inst 70 [- 69 68 67 66] id=2  ddx=-1
+Inst 71 [- 70 69 68 67] id=2  ddx=-1 [0] dR=1 dTheta=0
+Inst 72 [- 71 70 69 68] id=2  ddx=-1 [0] dR=1 dTheta=0
+KF 72 [- 64] id=2  dmarkerContact[1]=1
+Inst 73 [- 72 71 70 69] id=2  ddx=-1 [0] dR=1 dTheta=0 dmarkerContact[1]=1
+Inst 74 [- 73 72 71 70] id=2  ddx=-1 [0] dR=1 dTheta=0 dmarkerContact[1]=1
+Inst 78 [- 77 76 75 74] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=0
+Inst 79 [- 78 77 76 75] id=2  ddx=-1 ddy=1 [0] dR=0 dTheta=-1 [1] dR=-1 dTheta=0
+Inst 80 [- 79 78 77 76] id=2  ddx=-1 [0] dR=0 dTheta=-1 [1] dR=-1 dTheta=0
+Inst 81 [- 80 79 78 77] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 82 [- 81 80 79 78] id=2  ddx=-1 [0] dR=1 dTheta=0
+Inst 83 [- 82 81 80 79] id=2  ddx=-1 [0] dR=1 dTheta=0
+Inst 84 [- 83 82 81 80] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=0 dTheta=-1
+Inst 85 [- 84 83 82 81] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+Inst 86 [- 85 84 83 82] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+KF 86 [- 72] id=2  dmarkerContact[0]=-1
+Inst 87 [- 86 85 84 83] id=2  ddx=-1 [0] dR=1 dTheta=0 dmarkerContact[0]=-1 [1] dR=-1 dTheta=-1
+Inst 88 [- 87 86 85 84] id=2  ddx=-1 [0] dR=1 dTheta=0 dmarkerContact[0]=-1 [1] dR=-1 dTheta=-1
+Inst 89 [- 88 87 86 85] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+Inst 90 [- 89 88 87 86] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+Inst 91 [- 90 89 88 87] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+Inst 92 [- 91 90 89 88] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=-1 dTheta=-1
+KF 92 [- 86] id=2  [1] dR=0 dTheta=1
+Inst 93 [- 92 91 90 89] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=0 dTheta=-1
+Inst 94 [- 93 92 91 90] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=0 dTheta=-1
+Inst 95 [- 94 93 92 91] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=1 dTheta=-1
+KF 95 [- 92] id=2  [1] dR=0 dTheta=1
+Inst 96 [- 95 94 93 92] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=1 dTheta=-1
+Inst 97 [- 96 95 94 93] id=2  ddx=-1 [0] dR=1 dTheta=0 [1] dR=1 dTheta=-1
+Inst 98 [- 97 96 95 94] id=2  ddx=-1 ddy=1 [0] dR=1 dTheta=0 [1] dR=1 dTheta=-1
+Inst 99 [- 98 97 96 95] id=2  ddx=-1 ddy=1 [1] dR=0 dTheta=-1
+Inst 100 [- 99 98 97 96] id=2  ddx=-1 ddy=1 [1] dR=0 dTheta=-1
+Inst 101 [- 100 99 98 97] id=2  ddx=-1 ddy=1 [1] dR=0 dTheta=-1
+Inst 102 [- 101 100 99 98] id=2  ddy=1 [0] dR=1 dTheta=0 [1] dR=0 dTheta=-1
+Inst 103 [- 102 101 100 99] id=2  ddy=1 [0] dR=1 dTheta=0 [1] dR=0 dTheta=-1
+KF 103 [- 95] id=2  [1] dR=0 dTheta=1
+KF 104 [- 103] id=2  dmarkerContact[1]=-1
+KF 105 [- 1] id=0  [2] dR=1 dTheta=0 dmarkerContact[2]=-1
+KF 106 [- 57] id=1  [2] dR=-1 dTheta=1
+KF 107 [- 106] id=1  [2] dmarker=-1
+Inst 118 [- 117 116 115 114] id=1  ddy=1 [0] dR=1 dTheta=0
+Inst 119 [- 118 117 116 115] id=1  ddy=1 [0] dR=1 dTheta=0
+Inst 120 [- 119 118 117 116] id=1  [0] dR=1 dTheta=0
+Inst 121 [- 120 119 118 117] id=1  ddx=-1 [0] dR=1 dTheta=0
+Inst 122 [- 121 120 119 118] id=1  ddx=-1 [0] dR=1 dTheta=0
+Inst 123 [- 122 121 120 119] id=1  ddx=-1 [0] dR=1 dTheta=0
+Inst 124 [- 123 122 121 120] id=1  [0] dR=1 dTheta=0
+KF 127 [- 105] id=0  [2] dmarker=-1
+Inst 131 [- 130 129 128 127] id=0  [1] dR=1 dTheta=0
+KF 132 [- 127] id=0  [1] dmarker=-1
+Inst 133 [- 132 131 130 129] id=0  [1] dmarker=-1
+Inst 136 [- 135 134 133 132] id=0  ddx=-1
+Inst 137 [- 136 135 134 133] id=0  ddx=-1
+Inst 138 [- 137 136 135 134] id=0  ddx=-1
+Inst 139 [- 138 137 136 135] id=0  ddx=-1
+Inst 140 [- 139 138 137 136] id=0  ddx=-1
+Inst 141 [- 140 139 138 137] id=0  ddx=-1
+Inst 142 [- 141 140 139 138] id=0  ddx=-1
+Inst 143 [- 142 141 140 139] id=0  ddx=-1
+Inst 144 [- 143 142 141 140] id=0  ddx=-1
+Inst 145 [- 144 143 142 141] id=0  ddx=-1
+Inst 146 [- 145 144 143 142] id=0  ddx=-1
+Inst 147 [- 146 145 144 143] id=0  ddx=-1
+Inst 148 [- 147 146 145 144] id=0  ddx=-1
+Inst 149 [- 148 147 146 145] id=0  ddx=-1
+Inst 150 [- 149 148 147 146] id=0  ddx=-1
+Inst 151 [- 150 149 148 147] id=0  ddx=-1
+Inst 152 [- 151 150 149 148] id=0  ddx=-1
+Inst 153 [- 152 151 150 149] id=0  ddx=-1
+Inst 154 [- 153 152 151 150] id=0  ddx=-1
+Inst 155 [- 154 153 152 151] id=0  ddx=-1
+Inst 156 [- 155 154 153 152] id=0  ddx=-1
+Inst 157 [- 156 155 154 153] id=0  ddx=-1
+Inst 158 [- 157 156 155 154] id=0  ddx=-1
+Inst 159 [- 158 157 156 155] id=0  ddx=-1
+Inst 160 [- 159 158 157 156] id=0  ddx=-1
+Inst 161 [- 160 159 158 157] id=0  ddx=-1
+Inst 162 [- 161 160 159 158] id=0  ddx=-1
+Inst 163 [- 162 161 160 159] id=0  ddx=-1
+Inst 164 [- 163 162 161 160] id=0  ddx=-1
+Inst 165 [- 164 163 162 161] id=0  ddx=-1
+Inst 166 [- 165 164 163 162] id=0  ddx=-1
+Inst 167 [- 166 165 164 163] id=0  ddx=-1
+Inst 168 [- 167 166 165 164] id=0  ddx=-1
+Inst 169 [- 168 167 166 165] id=0  ddx=-1
+Inst 170 [- 169 168 167 166] id=0  ddx=-1
+Inst 171 [- 170 169 168 167] id=0  ddx=-1
+Inst 172 [- 171 170 169 168] id=0  ddx=-1
+Inst 173 [- 172 171 170 169] id=0  ddx=-1
+Inst 174 [- 173 172 171 170] id=0  ddx=-1
+Inst 175 [- 174 173 172 171] id=0  ddx=-1
+Inst 176 [- 175 174 173 172] id=0  ddx=-1
+Inst 177 [- 176 175 174 173] id=0  ddx=-1
+Inst 178 [- 177 176 175 174] id=0  ddx=-1
+Inst 179 [- 178 177 176 175] id=0  ddx=-1
+Inst 180 [- 179 178 177 176] id=0  ddx=-1
+Inst 181 [- 180 179 178 177] id=0  ddx=-1
+Inst 182 [- 181 180 179 178] id=0  ddx=-1
+Inst 183 [- 182 181 180 179] id=0  ddx=-1
+Inst 184 [- 183 182 181 180] id=0  ddx=-1
+Inst 185 [- 184 183 182 181] id=0  ddx=-1
+Inst 186 [- 185 184 183 182] id=0  ddx=-1
+Inst 187 [- 186 185 184 183] id=0  dfoaSize=-1 ddx=-1
+Inst 188 [- 187 186 185 184] id=0  dfoaSize=-1 ddx=-1
+Inst 189 [- 188 187 186 185] id=0  dfoaSize=-1 ddx=-1
+Inst 190 [- 189 188 187 186] id=0  dfoaSize=-1
+Inst 191 [- 190 189 188 187] id=0  dfoaSize=-1
+Inst 192 [- 191 190 189 188] id=0  dfoaSize=-1
+Inst 193 [- 192 191 190 189] id=0  dfoaSize=-1 ddx=-1
+Inst 194 [- 193 192 191 190] id=0  dfoaSize=-1 ddx=-1
+Inst 195 [- 194 193 192 191] id=0  dfoaSize=-1 ddx=-1
+Inst 196 [- 195 194 193 192] id=0  dfoaSize=-1 ddx=-1
+Inst 197 [- 196 195 194 193] id=0  dfoaSize=-1 ddx=-1
+Inst 198 [- 197 196 195 194] id=0  dfoaSize=-1 ddx=-1
+Inst 199 [- 198 197 196 195] id=0  dfoaSize=-1 ddx=-1
+Inst 200 [- 199 198 197 196] id=0  dfoaSize=-1 ddx=-1
+Inst 201 [- 200 199 198 197] id=0  dfoaSize=-1 ddx=-1
+Inst 202 [- 201 200 199 198] id=0  dfoaSize=-1 ddx=-1
+Inst 203 [- 202 201 200 199] id=0  dfoaSize=-1 ddx=-1
+Inst 204 [- 203 202 201 200] id=0  dfoaSize=-1 ddy=1
+Inst 205 [- 204 203 202 201] id=0  dfoaSize=-1 ddy=1
+Inst 206 [- 205 204 203 202] id=0  dfoaSize=-1 ddy=1
+Inst 207 [- 206 205 204 203] id=0  dfoaSize=-1 ddy=1
+Inst 208 [- 207 206 205 204] id=0  ddy=1
+Inst 209 [- 208 207 206 205] id=0  ddy=1
+
+WARNING Frame 211[id=-1]
+
+WARNING Frame 212[id=-1]
+
+WARNING Frame 213[id=-1]
+
+WARNING Frame 214[id=-1]
+
+WARNING Frame 215[id=-1]
+
+WARNING Frame 216[id=-1]
+
+WARNING Frame 217[id=-1]
+
+WARNING Frame 218[id=-1]
+
+WARNING Frame 219[id=-1]
+
+WARNING Frame 220[id=-1]
+
+WARNING Frame 221[id=-1]
+
+WARNING Frame 222[id=-1]
+
+WARNING Frame 223[id=-1]
+
+WARNING Frame 224[id=-1]
+
+WARNING Frame 225[id=-1]
+
+WARNING Frame 226[id=-1]
+
+WARNING Frame 227[id=-1]
+
+WARNING Frame 228[id=-1]
+
+WARNING Frame 229[id=-1]
+
+WARNING Frame 230[id=-1]
+
+WARNING Frame 231[id=-1]
+
+WARNING Frame 232[id=-1]
+
+WARNING Frame 233[id=-1]
+
+WARNING Frame 234[id=-1]
+
+WARNING Frame 235[id=-1]
+
+WARNING Frame 236[id=-1]
+
+WARNING Frame 237[id=-1]
+
+WARNING Frame 238[id=-1]
+
+WARNING Frame 239[id=-1]
+
+WARNING Frame 240[id=-1]
+
+WARNING Frame 241[id=-1]
+
+WARNING Frame 242[id=-1]
+
+WARNING Frame 243[id=-1]
+
+WARNING Frame 244[id=-1]
+
+WARNING Frame 245[id=-1]
+
+WARNING Frame 246[id=-1]
+
+WARNING Frame 247[id=-1]
+
+WARNING Frame 248[id=-1]
+
+WARNING Frame 249[id=-1]
+
+WARNING Frame 250[id=-1]
+
+WARNING Frame 251[id=-1]
+
+WARNING Frame 252[id=-1]
+
+WARNING Frame 253[id=-1]
+
+WARNING Frame 254[id=-1]
+
+WARNING Frame 255[id=-1]
+
+WARNING Frame 256[id=-1]
+
+WARNING Frame 257[id=-1]
+
+WARNING Frame 258[id=-1]
+
+WARNING Frame 259[id=-1]
+
+WARNING Frame 260[id=-1]
+
+WARNING Frame 261[id=-1]
+
+WARNING Frame 262[id=-1]
+
+WARNING Frame 263[id=-1]
+
+WARNING Frame 264[id=-1]
+
+WARNING Frame 265[id=-1]
+
+WARNING Frame 266[id=-1]
+
+WARNING Frame 267[id=-1]
+
+WARNING Frame 268[id=-1]
+
+WARNING Frame 269[id=-1]
+
+WARNING Frame 270[id=-1]
+
+WARNING Frame 271[id=-1]
+
+WARNING Frame 272[id=-1]
+
+WARNING Frame 273[id=-1]
+
+WARNING Frame 274[id=-1]
+
+WARNING Frame 275[id=-1]
+
+WARNING Frame 276[id=-1]
+
+WARNING Frame 277[id=-1]
+
+WARNING Frame 278[id=-1]
+
+WARNING Frame 279[id=-1]
+
+WARNING Frame 280[id=-1]
+
+WARNING Frame 281[id=-1]
+
+WARNING Frame 282[id=-1]
+
+WARNING Frame 283[id=-1]
+
+WARNING Frame 284[id=-1]
+
+WARNING Frame 285[id=-1]
+
+WARNING Frame 286[id=-1]
+
+WARNING Frame 287[id=-1]
+
+WARNING Frame 288[id=-1]
+
+WARNING Frame 289[id=-1]
+
+WARNING Frame 290[id=-1]
+
+WARNING Frame 291[id=-1]
+
+WARNING Frame 292[id=-1]
+
+WARNING Frame 293[id=-1]
+
+WARNING Frame 294[id=-1]
+
+WARNING Frame 295[id=-1]
+
+WARNING Frame 296[id=-1]
+
+WARNING Frame 297[id=-1]
+
+WARNING Frame 298[id=-1]
+
+WARNING Frame 299[id=-1]
+

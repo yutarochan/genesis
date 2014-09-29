@@ -1,0 +1,39 @@
+/* Filename: CongoCivilConflict.scn
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Jan 30, 2004
+ */
+
+/**
+ * Congo-Brazzaville: Civil Conflict, 1997
+ */
+ 
+Start story titled "Congo Civil Conflict".
+
+Congo-Brazzaville is a country.
+
+UPADS is an entity.
+PCT is an entity.
+
+Sassou-Nguesso was a person.
+Sassou-Nguesso led the PCT.
+
+Lissoube was a person.
+Lissoube led UPADS.
+
+The PCT possessed Congo-Brazzaville.
+The people of Congo-Brazzaville disliked the PCT.
+
+The PCT lost the election because the people of Congo-Brazzaville disliked the PCT.
+The UPADS defeated the PCT because the PCT lost the election.
+
+The PCT disliked UPADS because the UPADS defeated the PCT.
+The PCT was corrupt.
+The PCT wanted to possess Congo-Brazzaville.
+
+The PCT created rebellion because the PCT disliked UPADS and the PCT was corrupt and the PCT wanted to possess Congo-Brazzaville.
+The PCT attacked UPADS because the PCT created rebellion.
+The PCT defeated UPADS because the PCT attacked UPADS.
+The PCT possessed Congo-Brazzaville because the PCT defeated UPADS.
+
+The end.

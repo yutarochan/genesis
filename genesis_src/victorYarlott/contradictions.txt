@@ -1,0 +1,27 @@
+Start experiment.
+
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+
+If xx attacks yy, then xx harms yy.
+If xx is a person, then xx can't shoot lightning.
+
+Start story titled "Contradiction Test".
+
+Marvin is a person.
+Nancy is a person.
+
+Marvin attacks Nancy.
+Nancy is not harmed by Marvin.
+
+Marvin helps Nancy.
+Nancy is not helped by Marvin.
+
+Marvin kisses Nancy.
+Nancy is not kissed by Marvin.
+
+Marvin shoots lightning.
+
+The end.

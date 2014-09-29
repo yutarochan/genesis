@@ -1,0 +1,50 @@
+/* Filename: BiafranCivilWar.scn
+ * Author: M. A. Finlayson
+ * Format: ASCII
+ * Date created: Jan 29, 2003
+ */
+
+/**
+ * Nigerian (Biafran) Civil War 1967-1970
+ */
+
+Start story titled "Nigerian Civil War".
+
+Nigeria is a country.
+
+The NigerianEast is a region.
+The NigerianWest is a region.
+The NigerianNorth is a region.
+
+The NigerianEast was a region of Nigeria.
+The NigerianWest was a region of Nigeria.
+The NigerianNorth was a region of Nigeria.
+
+Hausa-Fulani is an adjective.
+Yoruba is an adjective.
+Igbo is an adjective.
+
+The NigerianEast's people were Igbo.
+The NigerianWest's people were Yoruba.
+The NigerianNorth's people were Hausa-Fulani.
+
+The NigerianWest was a part of Nigeria.
+The NigerianNorth was a part of Nigeria.
+
+The NigerianNorth disliked the NigerianEast because the NigerianEast's people were Igbo.
+The NigerianEast disliked the NigerianNorth because the NigerianNorth disliked the NigerianEast.
+The NigerianWest liked the NigerianNorth.
+The NigerianEast disliked the NigerianWest because the NigerianWest liked the NigerianNorth.
+The NigerianEast left Nigeria because the NigerianEast disliked the NigerianNorth.
+The NigerianEast left Nigeria because the NigerianEast disliked the NigerianWest.
+
+Nigeria wanted the NigerianEast to stay at Nigeria.
+Nigeria was stronger than the NigerianEast.
+
+Nigeria attacked the NigerianEast because Nigeria wanted the NigerianEast to stay at Nigeria and the NigerianEast left Nigeria.
+Nigeria defeated the NigerianEast because Nigeria attacked the NigerianEast and Nigeria was stronger than the NigerianEast.
+Nigeria controlled the NigerianEast because Nigeria defeated the NigerianEast.
+Nigeria forced the NigerianEast to join Nigeria because Nigeria wanted the NigerianEast to stay at Nigeria.
+Nigeria forced the NigerianEast to join Nigeria because Nigeria controlled the NigerianEast.
+
+The end.

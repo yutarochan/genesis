@@ -1,0 +1,1529 @@
+Start commonsense knowledge.
+
+antelope is furry.
+antelope has tough_skin.
+antelope is big.
+antelope is lean.
+antelope has hooves.
+antelope has long_legs.
+antelope has tail.
+antelope has chew_teeth.
+antelope has horns.
+antelope can walk.
+antelope is fast.
+antelope is strong.
+antelope has muscles.
+antelope has four_legs.
+antelope is active.
+antelope is agile.
+antelope eats vegetation.
+antelope eats forage.
+antelope can graze.
+antelope lives plains.
+antelope lives fields.
+antelope lives mountains.
+antelope lives ground.
+antelope is timid.
+antelope is social.
+
+a grizzly is a brown bear.
+grizzly	is black.
+grizzly is brown.
+grizzly is furry.
+grizzly has tough_skin.
+grizzly is big.
+grizzly is bulbous.
+grizzly has paws.
+grizzly has chew_teeth.
+grizzly has meat_teeth.
+grizzly has claws.
+grizzly can walk.
+grizzly is fast.
+grizzly is slow.
+grizzly is strong.
+grizzly has muscles.
+grizzly is bipedal.
+grizzly has four_legs.
+grizzly is active.
+grizzly is inactive.
+grizzly is nocturnal.
+grizzly hibernates.
+grizzly eats fish.
+grizzly eats meat.
+grizzly eats forage.
+grizzly can hunt.
+grizzly has stalker.
+grizzly lives forest.
+grizzly lives mountains.
+grizzly lives ground.
+grizzly lives cave.
+grizzly is fierce.
+grizzly is smart.
+grizzly is solitary.
+
+a killer_whale is a toothed_whale.
+a killer_whale is black.
+a killer_whale is white.
+a killer_whale has patches.
+a killer_whale is spotted.
+a killer_whale is hairless.
+a killer_whale has tough_skin.
+a killer_whale is big.
+a killer_whale is bulbous.
+a killer_whale is lean.
+a killer_whale has flippers.
+a killer_whale has tail.
+a killer_whale has meat_teeth.
+a killer_whale has strain_teeth.
+a killer_whale can swim.
+a killer_whale is fast.
+a killer_whale is strong.
+a killer_whale is active.
+a killer_whale is agile.
+a killer_whale eats fish.
+a killer_whale eats meat.
+a killer_whale eats plankton.
+a killer_whale can hunt.
+a killer_whale lives artic.
+a killer_whale lives coastal.
+a killer_whale lives ocean.
+a killer_whale lives water.
+a killer_whale is fierce.
+a killer_whale is smart.
+a killer_whale is social.
+
+a beaver is a rodent.
+a beaver is brown.
+a beaver is furry.
+a beaver has tough_skin.
+a beaver is small.
+a beaver is bulbous.
+a beaver has pads.
+a beaver has paws.
+a beaver has tail.
+a beaver has chew_teeth.
+a beaver has buck_teeth.
+a beaver has strain_teeth.
+a beaver has claws.
+a beaver can swim.
+a beaver is fast.
+a beaver is strong.
+a beaver has muscles.
+a beaver has four_legs.
+a beaver is active.
+a beaver is nocturnal.
+a beaver hibernates.
+a beaver is agile.
+a beaver eats fish.
+a beaver lives coastal.
+a beaver lives ground.
+a beaver lives water.
+a beaver is timid.
+a beaver is smart.
+a beaver is social.
+a beaver is solitary.
+
+a dalmatian is a dog.
+a dalmatian is black.
+a dalmatian is white.
+a dalmatian has patches.
+a dalmatian is spotted.
+a dalmatian is furry.
+a dalmatian is hairless.
+a dalmatian is big.
+a dalmatian is lean.
+a dalmatian has paws.
+a dalmatian has long_legs.
+a dalmatian has tail.
+a dalmatian has chew_teeth.
+a dalmatian has meat_teeth.
+a dalmatian can walk.
+a dalmatian is fast.
+a dalmatian is strong.
+a dalmatian has muscles.
+a dalmatian has four_legs.
+a dalmatian is active.
+a dalmatian is agile.
+a dalmatian eats meat.
+a dalmatian lives ground.
+a dalmatian is timid.
+a dalmatian is smart.
+a dalmatian is social.
+a dalmatian is solitary.
+a dalmatian is domestic.
+
+a persian_cat is a domestic cat.
+a persian_cat is white.
+a persian_cat is blue.
+a persian_cat is gray.
+a persian_cat is furry.
+a persian_cat is small.
+a persian_cat is bulbous.
+a persian_cat has pads.
+a persian_cat has paws.
+a persian_cat has tail.
+a persian_cat has chew_teeth.
+a persian_cat has meat_teeth.
+a persian_cat has claws.
+a persian_cat can walk.
+a persian_cat is fast.
+a persian_cat is slow.
+a persian_cat is weak.
+a persian_cat has four_legs.
+a persian_cat is inactive.
+a persian_cat is agile.
+a persian_cat eats fish.
+a persian_cat eats meat.
+a persian_cat lives ground.
+a persian_cat is timid.
+a persian_cat is smart.
+a persian_cat is solitary.
+a persian_cat is domestic.
+
+a horse	is black.
+a horse	is white.
+a horse	is brown.
+a horse	is gray.
+a horse	has patches.
+a horse	is furry.
+a horse	has tough_skin.
+a horse	is big.
+a horse	is lean.
+a horse	has hooves.
+a horse	has long_legs.
+a horse	has long_neck.
+a horse	has tail.
+a horse	has chew_teeth.
+a horse	has buck_teeth.
+a horse	is smelly.
+a horse	can walk.
+a horse	is fast.
+a horse	is strong.
+a horse	has muscles.
+a horse	has four_legs.
+a horse	is active.
+a horse	is agile.
+a horse	eats vegetation.
+a horse	can graze.
+a horse	lives plains.
+a horse	lives fields.
+a horse	lives ground.
+a horse	is timid.
+a horse	is smart.
+a horse	is social.
+a horse	is domestic.
+
+a german_shepherd is a dog.
+a german_shepherd is black.
+a german_shepherd is brown.
+a german_shepherd is gray.
+a german_shepherd has patches.
+a german_shepherd is furry.
+a german_shepherd is big.
+a german_shepherd is lean.
+a german_shepherd has pads.
+a german_shepherd has paws.
+a german_shepherd has long_legs.
+a german_shepherd has tail.
+a german_shepherd has chew_teeth.
+a german_shepherd has meat_teeth.
+a german_shepherd has claws.
+a german_shepherd is smelly.
+a german_shepherd can walk	is fast.
+a german_shepherd is strong.
+a german_shepherd has muscles.
+a german_shepherd has four_legs.
+a german_shepherd is active.
+a german_shepherd is agile.
+a german_shepherd eats meat.
+a german_shepherd can hunt.
+a german_shepherd has stalker.
+a german_shepherd lives plains.
+a german_shepherd lives ground.
+a german_shepherd is fierce.
+a german_shepherd is smart.
+a german_shepherd is solitary.
+a german_shepherd is domestic.
+
+a blue_whale is a baleen whale.
+a blue_whale is blue.
+a blue_whale is gray.
+a blue_whale is spotted.
+a blue_whale is hairless.
+a blue_whale has tough_skin.
+a blue_whale is big.
+a blue_whale is bulbous.
+a blue_whale has flippers.
+a blue_whale has tail.
+a blue_whale has strain_teeth.
+a blue_whale can swim.
+a blue_whale is fast.
+a blue_whale is slow.
+a blue_whale is strong.
+a blue_whale has muscles.
+a blue_whale is inactive.
+a blue_whale eats fish.
+a blue_whale eats plankton.
+a blue_whale can skim.
+a blue_whale lives artic.
+a blue_whale lives ocean.
+a blue_whale lives water.
+a blue_whale is timid.
+a blue_whale is smart.
+a blue_whale is social.
+a blue_whale is solitary.
+
+a siamese cat is a domestic cat.
+a siamese cat is black.
+a siamese cat is white.
+a siamese cat is brown.
+a siamese cat is gray.
+a siamese cat has patches.
+a siamese cat is furry.
+a siamese cat is small.
+a siamese cat is lean.
+a siamese cat has pads.
+a siamese cat has paws.
+a siamese cat has long_legs.
+a siamese cat has tail.
+a siamese cat has chew_teeth.
+a siamese cat has meat_teeth.
+a siamese cat has claws.
+a siamese cat can walk.
+a siamese cat is fast.
+a siamese cat is weak.
+a siamese cat has muscles.
+a siamese cat has four_legs.
+a siamese cat is active.
+a siamese cat is inactive.
+a siamese cat is nocturnal.
+a siamese cat is agile.
+a siamese cat eats fish.
+a siamese cat eats meat.
+a siamese cat can hunt.
+a siamese cat has stalker.
+a siamese cat lives ground.
+a siamese cat is fierce.
+a siamese cat is timid.
+a siamese cat is smart.
+a siamese cat is solitary.
+a siamese cat is domestic.
+
+a skunk is a mammal.
+a skunk is black.
+a skunk is white.
+a skunk is striped.
+a skunk is furry.
+a skunk is small.
+a skunk is bulbous.
+a skunk has pads.
+a skunk has paws.
+a skunk has tail.
+a skunk is smelly.
+a skunk can walk.
+a skunk is fast.
+a skunk is slow.
+a skunk is weak.
+a skunk has four_legs.
+a skunk is active.
+a skunk is nocturnal.
+a skunk hibernates.
+a skunk eats vegetation.
+a skunk eats forage.
+a skunk lives forest.
+a skunk lives fields.
+a skunk lives ground.
+a skunk is timid.
+a skunk is solitary.
+
+a mole is a insectivore.
+a mole is black.
+a mole is brown.
+a mole is gray.
+a mole is furry.
+a mole is small.
+a mole is bulbous.
+a mole is lean.
+a mole has paws.
+a mole has chew_teeth.
+a mole has buck_teeth.
+a mole has claws.
+a mole builds tunnels.
+a mole can walk.
+a mole is fast.
+a mole is slow.
+a mole is weak.
+a mole has four_legs.
+a mole is active.
+a mole is nocturnal.
+a mole hibernates.
+a mole is agile.
+a mole eats vegetation.
+a mole eats insects.
+a mole eats forage.
+a mole lives plains.
+a mole lives forest.
+a mole lives fields.
+a mole lives ground.
+a mole is timid.
+a mole is solitary.
+
+a tiger is a big_cat.
+a tiger is black.
+a tiger is white.
+a tiger is orange.
+a tiger is striped.
+a tiger is furry.
+a tiger is big.
+a tiger is lean.
+a tiger has pads.
+a tiger has paws.
+a tiger has tail.
+a tiger has chew_teeth.
+a tiger has meat_teeth.
+a tiger has buck_teeth.
+a tiger has claws.
+a tiger is smelly.
+a tiger can walk.
+a tiger is fast.
+a tiger is strong.
+a tiger has muscles.
+a tiger has four_legs.
+a tiger is active.
+a tiger is nocturnal.
+a tiger is agile.
+a tiger eats meat.
+a tiger can hunt.
+a tiger has stalker.
+a tiger lives bush.
+a tiger lives plains.
+a tiger lives forest.
+a tiger lives jungle.
+a tiger lives ground.
+a tiger is fierce.
+a tiger is smart.
+a tiger is social.
+a tiger is solitary.
+
+a hippopotamus is gray.
+a hippopotamus is hairless.
+a hippopotamus has tough_skin.
+a hippopotamus is big.
+a hippopotamus is bulbous.
+a hippopotamus has chew_teeth.
+a hippopotamus has strain_teeth.
+a hippopotamus can swim.
+a hippopotamus can walk.
+a hippopotamus is slow.
+a hippopotamus is strong.
+a hippopotamus has muscles.
+a hippopotamus has four_legs.
+a hippopotamus is inactive.
+a hippopotamus eats fish.
+a hippopotamus eats vegetation.
+a hippopotamus lives jungle.
+a hippopotamus lives ground.
+a hippopotamus lives water.
+a hippopotamus is timid.
+a hippopotamus is solitary.
+
+a leopard is a big_cat.
+a leopard is black.
+a leopard is brown.
+a leopard is yellow.
+a leopard has patches.
+a leopard is spotted.
+a leopard is furry.
+a leopard is big.
+a leopard is lean.
+a leopard has paws.
+a leopard has long_legs.
+a leopard has tail.
+a leopard has meat_teeth.
+a leopard has claws.
+a leopard can walk.
+a leopard is fast.
+a leopard is strong.
+a leopard has muscles.
+a leopard has four_legs.
+a leopard is active.
+a leopard is nocturnal.
+a leopard is agile.
+a leopard eats fish.
+a leopard eats meat.
+a leopard eats forage.
+a leopard can hunt.
+a leopard has stalker.
+a leopard lives bush.
+a leopard lives plains.
+a leopard lives jungle.
+a leopard lives mountains.
+a leopard lives ground.
+a leopard lives tree.
+a leopard is fierce.
+a leopard is smart.
+a leopard is solitary.
+
+a moose is black.
+a moose is brown.
+a moose is furry.
+a moose has tough_skin.
+a moose is big.
+a moose is bulbous.
+a moose has hooves.
+a moose has long_legs.
+a moose has long_neck.
+a moose has tail.
+a moose has chew_teeth.
+a moose has horns.
+a moose is smelly.
+a moose can walk.
+a moose is fast.
+a moose is slow.
+a moose is strong.
+a moose has muscles.
+a moose has four_legs.
+a moose is inactive.
+a moose eats vegetation.
+a moose eats forage.
+a moose can graze.
+a moose lives artic.
+a moose lives plains.
+a moose lives forest.
+a moose lives fields.
+a moose lives mountains.
+a moose lives ground.
+a moose is timid.
+a moose is social.
+a moose is solitary.
+
+a spider monkey is a monkey.
+a spider monkey is black.
+a spider monkey is brown.
+a spider monkey is gray.
+a spider monkey is furry.
+a spider monkey is small.
+a spider monkey is lean.
+a spider monkey has hands.
+a spider monkey has paws.
+a spider monkey has long_legs.
+a spider monkey has tail.
+a spider monkey has chew_teeth.
+a spider monkey can walk.
+a spider monkey is fast.
+a spider monkey is strong.
+a spider monkey has muscles.
+a spider monkey is bipedal.
+a spider monkey has four_legs.
+a spider monkey is active.
+a spider monkey is agile.
+a spider monkey eats vegetation.
+a spider monkey eats forage.
+a spider monkey can graze.
+a spider monkey lives forest.
+a spider monkey lives jungle.
+a spider monkey lives tree.
+a spider monkey is timid.
+a spider monkey is smart.
+a spider monkey is social.
+
+a humpback whale is a baleen whale.
+a humpback whale is black.
+a humpback whale is blue.
+a humpback whale is gray.
+a humpback whale is hairless.
+a humpback whale has tough_skin.
+a humpback whale is big.
+a humpback whale is bulbous.
+a humpback whale has flippers.
+a humpback whale has tail.
+a humpback whale has strain_teeth.
+a humpback whale can swim.
+a humpback whale is fast.
+a humpback whale is slow.
+a humpback whale is strong.
+a humpback whale has muscles.
+a humpback whale is inactive.
+a humpback whale eats fish.
+a humpback whale eats plankton.
+a humpback whale can skim.
+a humpback whale lives artic.
+a humpback whale lives coastal.
+a humpback whale lives ocean.
+a humpback whale lives water.
+a humpback whale is timid.
+a humpback whale is smart.
+a humpback whale is social.
+
+a elephant is gray.
+a elephant is hairless.
+a elephant has tough_skin.
+a elephant is big.
+a elephant is bulbous.
+a elephant has long_legs.
+a elephant has tail.
+a elephant has chew_teeth.
+a elephant has tusks.
+a elephant is smelly.
+a elephant can walk.
+a elephant is slow.
+a elephant is strong.
+a elephant has muscles.
+a elephant has four_legs.
+a elephant is inactive.
+a elephant eats vegetation.
+a elephant can graze.
+a elephant lives bush.
+a elephant lives jungle.
+a elephant lives ground.
+a elephant is timid.
+a elephant is smart.
+a elephant is social.
+
+a gorilla is black.
+a gorilla is brown.
+a gorilla is furry.
+a gorilla has tough_skin.
+a gorilla is big.
+a gorilla is bulbous.
+a gorilla has hands.
+a gorilla has long_legs.
+a gorilla has chew_teeth.
+a gorilla has meat_teeth.
+a gorilla is smelly.
+a gorilla can walk.
+a gorilla is fast.
+a gorilla is strong.
+a gorilla has muscles.
+a gorilla is bipedal.
+a gorilla has four_legs.
+a gorilla is active.
+a gorilla is agile.
+a gorilla eats meat.
+a gorilla eats vegetation.
+a gorilla eats forage.
+a gorilla lives forest.
+a gorilla lives jungle.
+a gorilla lives ground.
+a gorilla lives tree.
+a gorilla is fierce.
+a gorilla is smart.
+a gorilla is social.
+
+a ox is a bovine.
+a ox is white.
+a ox is brown.
+a ox is gray.
+a ox is furry.
+a ox is hairless.
+a ox has tough_skin.
+a ox is big.
+a ox is bulbous.
+a ox has hooves.
+a ox has tail.
+a ox has chew_teeth.
+a ox has horns.
+a ox is smelly.
+a ox can walk.
+a ox is slow.
+a ox is strong.
+a ox has muscles.
+a ox has four_legs.
+a ox is inactive.
+a ox eats vegetation.
+a ox can graze.
+a ox lives bush.
+a ox lives plains.
+a ox lives fields.
+a ox lives ground.
+a ox is timid.
+a ox is solitary.
+a ox is domestic.
+
+a fox is brown.
+a fox is orange.
+a fox is red.
+a fox is furry.
+a fox is small.
+a fox is lean.
+a fox has pads.
+a fox has paws.
+a fox has tail.
+a fox has chew_teeth.
+a fox has meat_teeth.
+a fox has claws.
+a fox can walk.
+a fox is fast.
+a fox is strong.
+a fox has muscles.
+a fox has four_legs.
+a fox is active.
+a fox is nocturnal.
+a fox hibernates.
+a fox is agile.
+a fox eats fish.
+a fox eats meat.
+a fox eats forage.
+a fox can hunt.
+a fox has stalker.
+a fox lives plains.
+a fox lives forest.
+a fox lives fields.
+a fox lives ground.
+a fox is fierce.
+a fox is smart.
+a fox is solitary.
+
+a sheep is black.
+a sheep is white.
+a sheep is furry.
+a sheep is bulbous.
+a sheep has hooves.
+a sheep has chew_teeth.
+a sheep is smelly.
+a sheep can walk.
+a sheep is slow.
+a sheep is weak.
+a sheep has four_legs.
+a sheep is inactive.
+a sheep eats vegetation.
+a sheep can graze.
+a sheep lives plains.
+a sheep lives fields.
+a sheep lives mountains.
+a sheep lives ground.
+a sheep is timid.
+a sheep is social.
+a sheep is domestic.
+
+a seal is a aquatic_mammal.
+a seal is black.
+a seal is white.
+a seal is brown.
+a seal is gray.
+a seal is spotted.
+a seal is hairless.
+a seal has tough_skin.
+a seal is big.
+a seal is small.
+a seal has flippers.
+a seal has tail.
+a seal can swim.
+a seal is fast.
+a seal is slow.
+a seal is strong.
+a seal is active.
+a seal is inactive.
+a seal is agile.
+a seal eats fish.
+a seal can hunt.
+a seal lives artic.
+a seal lives coastal.
+a seal lives ocean.
+a seal lives water.
+a seal is timid.
+a seal is smart.
+a seal is social.
+a seal is domestic.
+
+a chimpanzee is black.
+a chimpanzee is brown.
+a chimpanzee is furry.
+a chimpanzee has tough_skin.
+a chimpanzee is big.
+a chimpanzee is small.
+a chimpanzee is lean.
+a chimpanzee has hands.
+a chimpanzee has long_legs.
+a chimpanzee has tail.
+a chimpanzee has chew_teeth.
+a chimpanzee has meat_teeth.
+a chimpanzee is smelly.
+a chimpanzee can walk.
+a chimpanzee is fast.
+a chimpanzee is strong.
+a chimpanzee has muscles.
+a chimpanzee is bipedal.
+a chimpanzee has four_legs.
+a chimpanzee is active.
+a chimpanzee is agile.
+a chimpanzee eats vegetation.
+a chimpanzee eats insects.
+a chimpanzee eats forage.
+a chimpanzee lives bush.
+a chimpanzee lives forest.
+a chimpanzee lives jungle.
+a chimpanzee lives mountains.
+a chimpanzee lives ground.
+a chimpanzee lives tree.
+a chimpanzee is fierce.
+a chimpanzee is timid.
+a chimpanzee is smart.
+a chimpanzee is social.
+a chimpanzee is domestic.
+
+a hamster is black.
+a hamster is white.
+a hamster is brown.
+a hamster is gray.
+a hamster has patches.
+a hamster is furry.
+a hamster is small.
+a hamster is bulbous.
+a hamster has paws.
+a hamster has tail.
+a hamster has chew_teeth.
+a hamster has buck_teeth.
+a hamster has claws.
+a hamster is smelly.
+a hamster can hop.
+a hamster builds tunnels.
+a hamster can walk.
+a hamster is fast.
+a hamster is weak.
+a hamster has four_legs.
+a hamster is active.
+a hamster is inactive.
+a hamster is nocturnal.
+a hamster hibernates.
+a hamster is agile.
+a hamster eats vegetation.
+a hamster eats forage.
+a hamster can graze.
+a hamster lives fields.
+a hamster lives ground.
+a hamster is timid.
+a hamster is solitary.
+a hamster is domestic.
+
+a squirrel is brown.
+a squirrel is gray.
+a squirrel is furry.
+a squirrel is small.
+a squirrel has pads.
+a squirrel has paws.
+a squirrel has tail.
+a squirrel has chew_teeth.
+a squirrel has buck_teeth.
+a squirrel has claws.
+a squirrel can hop.
+a squirrel can walk.
+a squirrel is fast.
+a squirrel is bipedal.
+a squirrel has four_legs.
+a squirrel is active.
+a squirrel hibernates.
+a squirrel is agile.
+a squirrel eats vegetation.
+a squirrel eats forage.
+a squirrel lives forest.
+a squirrel lives ground.
+a squirrel lives tree.
+a squirrel is timid.
+a squirrel is solitary.
+
+a rhinoceros is gray.
+a rhinoceros is hairless.
+a rhinoceros has tough_skin.
+a rhinoceros is big.
+a rhinoceros is bulbous.
+a rhinoceros has hooves.
+a rhinoceros has horns.
+a rhinoceros has tusks.
+a rhinoceros is smelly.
+a rhinoceros can walk.
+a rhinoceros is slow.
+a rhinoceros is strong.
+a rhinoceros has four_legs.
+a rhinoceros is inactive.
+a rhinoceros eats vegetation.
+a rhinoceros can graze.
+a rhinoceros lives bush.
+a rhinoceros lives jungle.
+a rhinoceros lives ground.
+a rhinoceros is fierce.
+a rhinoceros is social.
+a rhinoceros is solitary.
+
+a rabbit is black.
+a rabbit is white.
+a rabbit is brown.
+a rabbit is gray.
+a rabbit has patches.
+a rabbit is furry.
+a rabbit is small.
+a rabbit is bulbous.
+a rabbit has paws.
+a rabbit has tail.
+a rabbit has chew_teeth.
+a rabbit has buck_teeth.
+a rabbit can hop.
+a rabbit is fast.
+a rabbit is weak.
+a rabbit has four_legs.
+a rabbit is active.
+a rabbit is inactive.
+a rabbit is agile.
+a rabbit eats vegetation.
+a rabbit eats forage.
+a rabbit can graze.
+a rabbit lives bush.
+a rabbit lives plains.
+a rabbit lives forest.
+a rabbit lives fields.
+a rabbit lives ground.
+a rabbit is timid.
+a rabbit is social.
+a rabbit is domestic.
+
+a bat is black.
+a bat is brown.
+a bat is gray.
+a bat is furry.
+a bat is hairless.
+a bat has tough_skin.
+a bat is small.
+a bat is lean.
+a bat has chew_teeth.
+a bat has meat_teeth.
+a bat has claws.
+a bat is smelly.	
+a bat can fly.
+a bat is fast.
+a bat is weak.
+a bat has muscles.
+a bat is bipedal.
+a bat is active.
+a bat is inactive.
+a bat is nocturnal.
+a bat hibernates.
+a bat is agile.
+a bat eats meat.
+a bat eats vegetation.
+a bat eats insects.
+a bat eats forage.
+a bat can hunt.
+a bat can scavenge.
+a bat lives forest.
+a bat lives jungle.
+a bat lives mountains.
+a bat lives tree.
+a bat lives cave.
+a bat is fierce.
+a bat is smart.
+a bat is social.
+
+a giraffe is brown.
+a giraffe is orange.
+a giraffe is yellow.
+a giraffe has patches.
+a giraffe is spotted.
+a giraffe is big.
+a giraffe is lean.
+a giraffe has hooves.
+a giraffe has long_legs.
+a giraffe has long_neck.
+a giraffe has tail.
+a giraffe has chew_teeth.
+a giraffe has horns.
+a giraffe is smelly.
+a giraffe can walk.
+a giraffe is fast.
+a giraffe is slow.
+a giraffe is strong.
+a giraffe has muscles.
+a giraffe has four_legs.
+a giraffe is active.
+a giraffe is inactive.
+a giraffe eats vegetation.
+a giraffe can graze.
+a giraffe lives bush.
+a giraffe lives plains.
+a giraffe lives fields.
+a giraffe lives ground.
+a giraffe is timid.
+a giraffe is social.
+
+a wolf is black.
+a wolf is white.
+a wolf is brown.
+a wolf is gray.
+a wolf is furry.
+a wolf is big.
+a wolf is lean.
+a wolf has pads.
+a wolf has paws.
+a wolf has tail.
+a wolf has chew_teeth.
+a wolf has meat_teeth.
+a wolf has claws.
+a wolf can walk.
+a wolf is fast.
+a wolf is strong.
+a wolf has muscles.
+a wolf has four_legs.
+a wolf is active.
+a wolf is nocturnal.
+a wolf is agile.
+a wolf eats meat.
+a wolf eats forage.
+a wolf can hunt.
+a wolf can scavenge.
+a wolf has stalker.
+a wolf lives artic.
+a wolf lives plains.
+a wolf lives forest.
+a wolf lives mountains.
+a wolf lives ground.
+a wolf lives cave.
+a wolf is fierce.
+a wolf is smart.
+a wolf is social.
+a wolf is solitary.
+
+a chihuahua is a dog.
+a chihuahua is black.
+a chihuahua is brown.
+a chihuahua is gray.
+a chihuahua is furry.
+a chihuahua is small.
+a chihuahua is lean.
+a chihuahua has pads.
+a chihuahua has paws.
+a chihuahua has tail.
+a chihuahua has meat_teeth.
+a chihuahua has claws.
+a chihuahua is smelly.
+a chihuahua can walk.
+a chihuahua is fast.
+a chihuahua is weak.
+a chihuahua has four_legs.
+a chihuahua is active.
+a chihuahua eats meat.
+a chihuahua lives ground.
+a chihuahua is fierce.
+a chihuahua is timid.
+a chihuahua is smart.
+a chihuahua is solitary.
+a chihuahua is domestic.
+
+a rat is black.
+a rat is white.
+a rat is brown.
+a rat is gray.
+a rat is furry.
+a rat is small.
+a rat is bulbous.
+a rat is lean.
+a rat has paws.
+a rat has tail.
+a rat has meat_teeth.
+a rat has buck_teeth.
+a rat has claws.
+a rat is smelly.
+a rat builds tunnels.
+a rat can walk.
+a rat is fast.
+a rat has four_legs.
+a rat is active.
+a rat is nocturnal.
+a rat hibernates.
+a rat is agile.
+a rat eats meat.
+a rat eats insects.
+a rat eats forage.
+a rat can hunt.
+a rat can scavenge.
+a rat lives plains.
+a rat lives forest.
+a rat lives fields.
+a rat lives ground.
+a rat is fierce.
+a rat is smart.
+a rat is solitary.
+
+a weasel is a mammal.
+a weasel is black.
+a weasel is brown.
+a weasel is gray.
+a weasel is furry.
+a weasel is small.
+a weasel is lean.
+a weasel has paws.
+a weasel has tail.
+a weasel has chew_teeth.
+a weasel has meat_teeth.
+a weasel has claws.
+a weasel is smelly.
+a weasel builds tunnels.
+a weasel can walk.
+a weasel is fast.
+a weasel has muscles.
+a weasel has four_legs.
+a weasel is active.
+a weasel is nocturnal.
+a weasel is agile.
+a weasel eats meat.
+a weasel eats forage.
+a weasel can hunt.
+a weasel lives forest.
+a weasel lives fields.
+a weasel lives ground.
+a weasel is fierce.
+a weasel is smart.
+a weasel is solitary.
+
+a otter	is a mammal.
+a otter	is black.
+a otter	is brown.
+a otter	is furry.
+a otter	is small.
+a otter	is bulbous.
+a otter	is lean.
+a otter	has flippers.
+a otter	has paws.
+a otter	has tail.
+a otter	has chew_teeth.
+a otter	has meat_teeth.
+a otter	has buck_teeth.
+a otter	has claws.
+a otter	can swim.
+a otter	is fast.
+a otter	has four_legs.
+a otter	is active.
+a otter	is agile.
+a otter	eats fish.
+a otter	can hunt.
+a otter	lives artic.
+a otter	lives coastal.
+a otter	lives forest.
+a otter	lives ocean.
+a otter	lives water.
+a otter	is timid.
+a otter	is smart.
+a otter	is solitary.
+
+a buffalo is a bovid.
+a buffalo is black.
+a buffalo is brown.
+a buffalo is furry.
+a buffalo has tough_skin.
+a buffalo is big.
+a buffalo is bulbous.
+a buffalo has hooves.
+a buffalo has chew_teeth.
+a buffalo has horns.
+a buffalo is smelly.
+a buffalo can walk.
+a buffalo is fast.
+a buffalo is slow.
+a buffalo is strong.
+a buffalo has muscles.
+a buffalo has four_legs.
+a buffalo is inactive.
+a buffalo eats vegetation.
+a buffalo eats forage.
+a buffalo can graze.
+a buffalo lives plains.
+a buffalo lives ground.
+a buffalo is fierce.
+a buffalo is social.
+
+a zebra	is black.
+a zebra	is white.
+a zebra	is striped.
+a zebra	is furry.
+a zebra	has tough_skin.
+a zebra	is big.
+a zebra	is lean.
+a zebra	has hooves.
+a zebra	has long_legs.
+a zebra	has long_neck.
+a zebra	has tail.
+a zebra	has chew_teeth.
+a zebra	can walk.
+a zebra	is fast.
+a zebra	is strong.
+a zebra	has muscles.
+a zebra	has four_legs.
+a zebra	is active.
+a zebra	is agile.
+a zebra	eats vegetation.
+a zebra	eats forage.
+a zebra	can graze.
+a zebra	lives bush.
+a zebra	lives plains.
+a zebra	lives fields.
+a zebra	lives ground.
+a zebra	is timid.
+a zebra	is smart.
+a zebra	is social.
+
+a giant_panda is a procyonid.
+a giant_panda is black.
+a giant_panda is white.
+a giant_panda has patches.
+a giant_panda is spotted.
+a giant_panda is furry.
+a giant_panda is big.
+a giant_panda is bulbous.
+a giant_panda has pads.
+a giant_panda has paws.
+a giant_panda has chew_teeth.
+a giant_panda has buck_teeth.
+a giant_panda has claws.
+a giant_panda can walk.
+a giant_panda is slow.
+a giant_panda is strong.
+a giant_panda is bipedal.
+a giant_panda has four_legs.
+a giant_panda is inactive.
+a giant_panda eats fish.
+a giant_panda eats vegetation.
+a giant_panda eats forage.
+a giant_panda can graze.
+a giant_panda lives bush.
+a giant_panda lives forest.
+a giant_panda lives jungle.
+a giant_panda lives ground.
+a giant_panda lives tree.
+a giant_panda is timid.
+a giant_panda is smart.
+a giant_panda is social.
+a giant_panda is solitary.
+a giant_panda is domestic.
+
+a deer is brown.
+a deer has patches.
+a deer is spotted.
+a deer is furry.
+a deer is big.
+a deer is lean.
+a deer has hooves.
+a deer has long_legs.
+a deer has long_neck.
+a deer has tail.
+a deer has chew_teeth.
+a deer has horns.
+a deer can walk.
+a deer is fast.
+a deer is strong.
+a deer has muscles.
+a deer has four_legs.
+a deer is active.
+a deer is agile.
+a deer eats vegetation.
+a deer eats forage.
+a deer can graze.
+a deer lives plains.
+a deer lives forest.
+a deer lives fields.
+a deer lives mountains.
+a deer lives ground.
+a deer is timid.
+a deer is smart.
+a deer is social.
+
+a bobcat is brown.
+a bobcat is orange.
+a bobcat is yellow.
+a bobcat is spotted.
+a bobcat is furry.
+a bobcat is small.
+a bobcat is lean.
+a bobcat has pads.
+a bobcat has paws.
+a bobcat has tail.
+a bobcat has meat_teeth.
+a bobcat has claws.
+a bobcat can walk.
+a bobcat is fast.
+a bobcat is strong.
+a bobcat has muscles.
+a bobcat has four_legs.
+a bobcat is active.
+a bobcat hibernates.
+a bobcat is agile.
+a bobcat eats meat.
+a bobcat eats forage.
+a bobcat can hunt.
+a bobcat has stalker.
+a bobcat lives plains.
+a bobcat lives forest.
+a bobcat lives mountains.
+a bobcat lives ground.
+a bobcat lives tree.
+a bobcat lives cave.
+a bobcat is fierce.
+a bobcat is smart.
+a bobcat is solitary.
+
+a pig is black.
+a pig is white.
+a pig is brown.
+a pig is gray.
+a pig has patches.
+a pig is spotted.
+a pig is hairless.
+a pig has tough_skin.
+a pig is big.
+a pig is bulbous.
+a pig has hooves.
+a pig has tail.
+a pig has chew_teeth.
+a pig is smelly.
+a pig can walk.
+a pig is slow.
+a pig is strong.
+a pig has four_legs.
+a pig is inactive.
+a pig eats vegetation.
+a pig eats forage.
+a pig lives fields.
+a pig lives ground.
+a pig is fierce.
+a pig is timid.
+a pig is smart.
+a pig is social.
+a pig is domestic.
+
+a lion is brown.
+a lion is yellow.
+a lion is furry.
+a lion is big.
+a lion is bulbous.
+a lion is lean.
+a lion has pads.
+a lion has paws.
+a lion has tail.
+a lion has meat_teeth.
+a lion has claws.
+a lion is smelly.
+a lion can walk.
+a lion is fast.
+a lion is strong.
+a lion has muscles.
+a lion has four_legs.
+a lion is active.
+a lion is inactive.
+a lion is agile.
+a lion eats meat.
+a lion eats forage.
+a lion can hunt.
+a lion has stalker.
+a lion lives desert.
+a lion lives bush.
+a lion lives forest.
+a lion lives jungle.
+a lion lives mountains.
+a lion lives ground.
+a lion is fierce.
+a lion is smart.
+a lion is social.
+
+a mouse is white.
+a mouse is brown.
+a mouse is gray.
+a mouse is furry.
+a mouse is small.
+a mouse has paws.
+a mouse has tail.
+a mouse has chew_teeth.
+a mouse has buck_teeth.
+a mouse is smelly.
+a mouse builds tunnels.	
+a mouse can walk.
+a mouse is fast.
+a mouse is weak.
+a mouse has four_legs.
+a mouse is active.
+a mouse is nocturnal.
+a mouse hibernates.
+a mouse is agile.
+a mouse eats vegetation.
+a mouse can graze.
+a mouse can scavenge.
+a mouse lives plains.
+a mouse lives forest.
+a mouse lives fields.
+a mouse lives ground.
+a mouse is timid.
+a mouse is social.
+a mouse is domestic.
+
+a polar bear is a bear.
+a polar bear is white.
+a polar bear is furry.
+a polar bear has tough_skin.
+a polar bear is big.
+a polar bear is bulbous.
+a polar bear has pads.
+a polar bear has paws.
+a polar bear has chew_teeth.
+a polar bear has meat_teeth.
+a polar bear has claws.
+a polar bear is smelly.
+a polar bear can swim.
+a polar bear can walk.
+a polar bear is fast.
+a polar bear is slow.
+a polar bear is strong.
+a polar bear is bipedal.
+a polar bear has four_legs.
+a polar bear is active.
+a polar bear is inactive.
+a polar bear hibernates.
+a polar bear is agile.
+a polar bear eats fish.
+a polar bear eats meat.
+a polar bear eats forage.
+a polar bear can hunt.
+a polar bear can scavenge.
+a polar bear has stalker.
+a polar bear lives artic.
+a polar bear lives coastal.
+a polar bear lives ocean.
+a polar bear lives ground.
+a polar bear lives water.
+a polar bear is fierce.
+a polar bear is solitary.
+
+a collie is white.
+a collie is brown.
+a collie has patches.
+a collie is furry.
+a collie is big	is small.
+a collie is lean.
+a collie has paws.
+a collie has tail.
+a collie has chew_teeth.
+a collie has meat_teeth.
+a collie can walk	is fast.
+a collie has four_legs.
+a collie is active.
+a collie is agile.
+a collie eats meat.
+a collie can hunt.
+a collie lives ground.
+a collie is timid.
+a collie is smart.
+a collie is solitary.
+a collie is domestic.
+
+a walrus is brown.
+a walrus is gray.
+a walrus is hairless.
+a walrus has tough_skin.
+a walrus is big.
+a walrus is bulbous.
+a walrus has flippers.
+a walrus has chew_teeth.
+a walrus has meat_teeth.
+a walrus has buck_teeth.
+a walrus has strain_teeth.
+a walrus has tusks.
+a walrus is smelly.
+a walrus can swim.
+a walrus is fast.
+a walrus is slow.
+a walrus is strong.
+a walrus is inactive.
+a walrus eats fish.
+a walrus lives artic.
+a walrus lives coastal.
+a walrus lives ocean.
+a walrus lives water.
+a walrus is timid.
+a walrus is smart.
+a walrus is social.
+
+a raccoon is a procyonid.
+a raccoon is black.
+a raccoon is white.
+a raccoon is gray.
+a raccoon has patches.
+a raccoon is spotted.
+a raccoon is striped.
+a raccoon is furry.
+a raccoon is small.
+a raccoon has pads.
+a raccoon has paws.
+a raccoon has tail.
+a raccoon has chew_teeth.
+a raccoon has meat_teeth.
+a raccoon has claws.
+a raccoon can walk.
+a raccoon is fast.
+a raccoon has four_legs.
+a raccoon is active.
+a raccoon is nocturnal.
+a raccoon hibernates.
+a raccoon is agile.
+a raccoon eats fish.
+a raccoon eats meat.
+a raccoon eats vegetation.
+a raccoon eats forage.
+a raccoon can scavenge.
+a raccoon lives forest.
+a raccoon lives fields.
+a raccoon lives mountains.
+a raccoon lives ground.
+a raccoon lives tree.
+a raccoon is fierce.
+a raccoon is smart.
+a raccoon is solitary.
+
+a cow is black.
+a cow is white.
+a cow is brown.
+a cow has patches.
+a cow is spotted.
+a cow is furry.
+a cow has tough_skin.
+a cow is big.
+a cow is bulbous.
+a cow has hooves.
+a cow has tail.
+a cow has chew_teeth.
+a cow has horns.
+a cow is smelly.
+a cow walks.
+a cow is slow.
+a cow is strong.
+a cow has four_legs.
+a cow is active.
+a cow is inactive.
+a cow eats vegetation.
+a cow can graze.
+a cow lives plains.
+a cow lives fields.
+a cow lives ground.
+a cow is timid.
+a cow is social.
+a cow is domestic.
+
+a dolphin is a toothed whale.
+a dolphin is white.
+a dolphin is blue.
+a dolphin is gray.
+a dolphin is hairless.
+a dolphin has tough_skin.
+a dolphin is big.
+a dolphin is lean.
+a dolphin has flippers.
+a dolphin has tail.
+a dolphin has chew_teeth.
+a dolphin can swim.
+a dolphin is fast.
+a dolphin is strong.
+a dolphin has muscles.
+a dolphin is active.
+a dolphin is agile.
+a dolphin eats fish.
+a dolphin lives coastal.
+a dolphin lives ocean.
+a dolphin lives water.
+a dolphin is timid.
+a dolphin is smart.
+a dolphin is social.
+a dolphin is domestic.

@@ -1,0 +1,42 @@
+Insert file Start experiment.
+
+Show both perspectives.
+//Character Modeling Scratch
+
+Start story titled, "Simplified Macbeth".
+
+Macbeth is a character.
+
+Macbeth, Macduff, and Duncan are persons.
+
+Duncan is the king, and Macbeth is Duncan's successor.
+
+Macbeth wants to be king.
+
+Macbeth kills Duncan.
+
+Macbeth becomes king.
+
+The end.
+
+//Pause.
+
+Start story titled, "Succession intro".
+
+Jafar is a character.
+
+Jafar is similar to Macbeth.
+
+Jafar, Jasmine, and Sultan are persons.
+
+Sultan is the king, Jafar is Sultan's successor.
+
+Jafar wants to be the king.
+
+Simulate characters.
+
+Then, Simulate characters.
+
+Then, Simulate characters.
+
+The end.

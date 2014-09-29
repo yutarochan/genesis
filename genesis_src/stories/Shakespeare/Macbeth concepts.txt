@@ -1,0 +1,44 @@
+Start reflective knowledge.
+
+Both Perspectives.
+
+/*
+Start description of "Prescience". 
+aa is an action.
+xx is an entity.
+aa is an action.
+xx predicts that aa before aa.
+The end.
+*/
+
+
+
+First perspective.
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+
+Second perspective.
+
+/* Alas, same as pyrrhic victory */
+/*
+Start description of "Hidden blessing".  
+xx is an entity.
+xx's wanting yy leads to yy.
+yy leads to xx's becoming unhappy.
+xx's wanting yy leads to xx's becoming happy.  
+The end.
+*/
+Both perspectives.
+
+
+
+
+
+
+
+

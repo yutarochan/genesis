@@ -1,0 +1,23 @@
+/* README
+Step through the first two sentences. Now Gauntlet has an idea of how
+dogs behave. The next sentence will cause Gauntlet to predict that
+the dog will run to the mouse. The sentence after that will cause 
+Gauntlet to predict that the dog ran from the airplane. Both these
+predictions can be viewed in the Prediction tab.
+Step through the next two sentences. Gauntlet will learn that when
+a car runs into a tree, it touches the tree.
+*/
+
+A cat ran because a dog appeared.
+A bird flew because a cat appeared.
+A cat appeared.
+A dog appeared.
+A cat ran.
+A bird flew.
+
+The dog ran to the cat because the cat appeared.
+The dog ran from the train because the train appeared.
+The mouse appeared.
+The airplane appeared.
+The ball touched the block because the ball ran into the block.
+The car ran into the tree.

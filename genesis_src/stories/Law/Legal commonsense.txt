@@ -1,0 +1,48 @@
+Start commonsense knowledge.
+
+Henry, James, and Dave are persons.
+
+James may visit Dave because Henry persuades James. //to elicit information
+James may shoot Dave because James visits Dave and Dave does not cooperate.
+If James shoots Dave, then James kills Dave.
+
+bb is an entity.
+
+// If bb kills Dave, then Dave becomes dead.
+
+xx and zz are persons.
+yy is a trap.
+
+Second perspective.
+If xx opens yy, then xx may become dead.
+
+First perspective.
+If zz creates yy and xx opens yy, then zz kills xx. 
+
+Both perspectives.
+// If yy kills xx, then xx becomes dead.
+
+If xx insults zz, then xx harms zz.
+If xx harms zz, then zz may slap xx.
+If xx slaps zz, then xx harms zz.
+If xx harms zz, then zz may stab xx.
+If xx stabs zz, then zz may become dead.
+
+
+
+ee is an entity.
+xx is a person.
+
+zz is a person.
+
+// xx may suffer delusions because xx is not sane.
+
+qq is a person.
+
+xx is not sane because qq is xx's wife and qq cheats xx.
+
+If xx is not sane and qq is xx's wife, then xx may kill qq.
+
+If ee employs xx, then ee trusts xx.
+xx may steal money from ee because ee trusts xx.
+

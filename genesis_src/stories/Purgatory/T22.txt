@@ -1,0 +1,76 @@
+/*
+Stage direction test
+*/
+
+First perspective.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+// Pause.
+
+Second perspective.
+
+Start reflective knowledge.
+
+// Pause.
+
+Both perspectives.
+
+Clear story memory.
+
+// Pause.
+
+Start commonsense knowledge.
+
+
+/*
+
+Sally may dislike George because George kissed Sally.
+
+If George kills Mary, then Mary becomes dead.
+
+
+
+Sally may kill George because Sally dislikes George.
+
+*/
+
+If XX harmed YY and YY is ZZ's friend, then XX harmed ZZ.
+
+Start reflective knowledge.
+
+Start description of "success".  xx is an entity.  yy is anything.  xx's wanting yy leads
+to xx's becoming happy.  The end.
+
+
+// Pause.
+
+Start story.
+
+
+John loves Mary because Mary loves John.
+
+John kissed Mary because John wanted to kiss Mary.
+
+John became happy because John kissed Mary.
+
+Mary dislikes John.
+
+
+
+// Mary loves John.
+
+George is a friend of John.
+
+John is a friend of George.
+
+Mary harmed John.
+
+// Pause.
+
+The end.
+
+Start general knowledge.
+

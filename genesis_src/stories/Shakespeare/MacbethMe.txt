@@ -1,0 +1,45 @@
+Insert file Start experiment.
+
+Both perspectives.
+Show both perspectives.
+
+Insert file General commonsense knowledge.
+
+Insert file Macbeth commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Macbeth reflective knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file Macbeth reflective knowledge.
+
+Insert file Western commonsense knowledge.
+
+Insert file Western concept knowledge.
+
+Insert file personality rules.
+
+Second perspective.
+
+Insert file quaker.txt.
+
+Both perspectives.
+
+Radiate commonsense knowledge.
+
+// Pause.
+
+First perspective.
+Start story titled "Macbeth/Revenge".
+
+
+Second perspective.
+Start story titled "Macbeth/my point of view".
+
+// Insert file Macbeth plot.
+
+Both Perspectives.
+
+Insert file Macbeth plot.

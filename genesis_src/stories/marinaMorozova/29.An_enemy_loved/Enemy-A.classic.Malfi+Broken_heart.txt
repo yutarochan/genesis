@@ -1,0 +1,75 @@
+Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Insert file 29.txt.
+
+First perspective.
+
+Start story titled "The Broken Heart by John Ford".
+
+Note that Penthea is a name.
+Note that Ithocles is a name.
+Note that Orgilus is a name.
+Note that Bassanes is a name.
+Note that Calantha is a name.
+
+Calantha is a person.
+Penthea is a person.
+Ithocles is a person.
+Orgilus is a person.
+Bassanes is a person.
+
+Calantha and Penthea are princesses of Sparta.
+Ithocles is Penthea's brother therefore Ithocles is Penthea's relative.
+Ithocles is close to Penthea because Ithocles is Penthea's relative.
+
+Orgilus intends to marry Penthea because Orgilus loves Penthea. Penthea loves Orgilus too.
+Ithocles is a general; Ithocles is proud.
+Ithocles hates Orgilus because Orgilus is not noble enough.
+Bassanas marries Penthea because Ithocles insists that Penthea become Bassanas's wife.
+
+Orgilus pretends to leave Sparta but Orgilus stays in Sparta.
+
+Ithocles wins the battle. Ithocles understands that Ithocles was unfair to Penthea.
+Ithocles proposes Calantha.
+
+Bassanas is cruel; Penthea is unhappy; Penthea starves herself to death; Orgilus traps Ithocles and kills Ithocles.
+
+Calantha dances at banquet. 
+Calantha keeps dancing as Calantha is reported that Calantha's father is dead, Ithocles is dead, Penthea is dead.
+Calantha finishes the dance. Calantha names her successor. Calantha dies because Calantha's heart is broken.
+
+
+The end.
+
+Second perspective.
+
+Start story titled "The Dutchess of Malfi".
+
+Note that Dutchess is a name.
+Note that Antonio is a name.
+Note that Ferdinand is a name.
+
+Dutchess is a person.
+Antonio is a person.
+Ferdinand is a person.
+
+Dutchess is a widow.
+Antonio is a lowly steward.
+Dutchess falls in love with Antonio. Antonio loves Dutchess.
+Ferdinand is Dutchess's brother therefore Ferdinand is Dutchess's relative.
+Ferdinand is close to Dutchess because Ferdinand is Dutchess's relative.
+ 
+Ferdinand and other Dutchess's brothers do not want to share inheritance.
+Ferdinand and other Dutchess's brothers forbid Dutchess to remarry.
+Dutchess marries Antonio in secret because Dutchess loves Antonio.
+
+Ferdinnad is lunatic. Ferdinand hates Antonio; Ferdinand threatens Dutchess and Ferdinand disowns Dutchess.
+Dutchess attempts to escape because Ferdinand threatens her.
+However, Dutchess is caught. Antonio manages to escape.
+Dutchess is killed.  
+Antonio is killed by mistake.
+Ferdinand and his brother stab each other.
+
+The end.

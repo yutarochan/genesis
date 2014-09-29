@@ -1,0 +1,103 @@
+Insert file Start experiment.
+
+
+
+Start reflective knowledge.
+
+
+Start description of "Sacred value".
+xx is a person.
+yy is a person.
+I admire yy.
+xx's harming yy leads to xx's angering me.
+The end.
+
+
+Start description of "Contempt".
+xx is a person.
+yy is a person.
+zz is a person.
+xx's murdering yy leads to xx's becoming evil.
+The end.
+
+
+
+
+/*
+Start description of "Character trait".
+xx is a person.
+xx is psychotic.
+The end.
+*/
+
+
+Start description of "Character trait".
+xx is a person.
+xx's being psychotic leads to my disliking xx.
+The end.
+
+
+Start description of "Compassion".
+xx is a person.
+yy is a person.
+xx's murdering yy leads to my feeling sorry for yy.
+The end.
+
+Start description of "Character trait 3".
+xx is a person.
+yy is a person.
+xx's being psychotic leads to xx wanting to kill yy.
+The end.
+
+
+
+Start commonsense knowledge.
+
+ww, xx, yy, and zz are persons.
+
+If xx murders yy, then xx becomes evil.
+
+If xx kills xx, then xx cannot become evil.
+
+If I admire xx and yy harms xx then yy angers me.
+
+If xx becomes evil, then I dislike xx.
+
+If xx murders yy, then I dislike xx.
+
+If xx murders yy, then I feel sorry for yy.
+
+If xx rewards yy because xx becomes happy, then xx is generous.
+
+If xx kills yy because yy angers xx and xx wants to kill yy, then xx is nasty.
+
+If xx wants to kill yy because yy angers xx and xx is psychotic, then xx is vicious.
+
+
+// Break
+
+/*
+
+If xx kills yy, then yy becomes dead.
+
+If yy becomes dead, then yy may become unhappy.
+
+Start reflective knowledge.
+
+Start description of "Crime".
+xx is a person.
+yy is a person.
+xx's killing yy leads to yy's becoming unhappy.
+The end.
+
+Start story titled "Tragedy of Genesis".
+
+Macbeth, Duncan, and Macduff are persons.
+
+Macbeth kills Macduff.
+ 
+Macduff becomes unhappy.
+
+The end.
+
+*/

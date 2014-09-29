@@ -1,0 +1,37 @@
+Start reflective knowledge.
+
+Start description of "kind".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will become happy if XX performs AA.
+XX's wanting YY to become happy leads to XX's performing AA.
+The end.
+
+Start description of "hedonistic kind".
+XX is a person.
+YY is a person.
+AA is an action.
+XX thinks that YY will become happy if XX performs AA.
+XX thinks that XX will become happy if XX performs AA.
+XX's wanting to become happy leads to XX's performing AA.
+The end.
+
+Start description of "sharing".
+XX is a person.
+YY is a person.
+ZZ is an entity.
+XX owns ZZ.
+YY's wanting to use ZZ leads to XX's allowing YY to use ZZ.
+// XX's wanting YY to become happy leads to XX's allowing YY to use ZZ.
+The end.
+
+Start description of "kind act".
+XX is a person.
+YY is a person.
+AA is an action.
+
+XX is YY's friend.
+
+XX's performing AA leads to YY's becoming happy.
+The end.

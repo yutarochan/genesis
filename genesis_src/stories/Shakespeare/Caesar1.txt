@@ -1,0 +1,50 @@
+Insert file Start experiment.
+
+First perspective.
+
+Show first perspective.
+
+Insert file General commonsense knowledge.
+
+//// Supplement to commonsense knowledge.
+
+Mary and James are persons.
+
+A people is a person.
+
+Mary, James, and Henry are persons.
+
+// Persuasion
+Someone is a person.
+Mary may persuade someone to attack James because Mary wants to harm James.
+Mary may persuade someone to murder James because Mary wants to murder James.
+Mary may persuade someone to murder James because Mary wants James to become dead.
+If Mary persuades someone to attack James, then someone attacks James.
+If Mary persuades Henry to murder James, then Henry murders James.
+If Mary wants Henry to die, then Mary wants Henry to become dead.
+
+// Harm
+// If someone attacks James, then someone harms James.
+// If Mary persuades someone to attack James, then Mary harms James.
+If Mary angers James, then James wants to harm Mary.
+
+Insert file General reflective knowledge.
+
+//// Supplement to reflective knowledge
+
+Start description of "Revenge".
+xx is an entity.
+yy is an entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Proxy revenge".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+xx's harming yy leads to yy's persuading zz to attack xx.
+yy's persuading zz to attack xx leads to zz's harming xx.
+The end.
+
+Insert file Caesar plot.
+

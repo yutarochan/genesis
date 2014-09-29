@@ -1,0 +1,12 @@
+The dog ran to a tree.
+A rabbit ran from a dog.
+A boy ran with a dog.
+The boy ran from the dog.
+The robin flew to the tree.
+The sparrow flew to the top of a tree.
+The hawk flew to the sparrow.
+
+
+
+
+

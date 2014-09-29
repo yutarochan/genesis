@@ -1,0 +1,11 @@
+//Scratch
+//Action Library Example
+XX is a character.
+XX is a person.
+YY is a person.
+ZZ is a place.
+Start action library.
+XX may kill YY.
+XX may befriend YY.
+XX may go to ZZ.
+End action library.

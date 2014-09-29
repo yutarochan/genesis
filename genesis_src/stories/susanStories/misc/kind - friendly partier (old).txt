@@ -1,0 +1,41 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX is alone and XX is at a party, then XX feels awkward.
+If XX feels awkward, then XX may look awkward.
+If XX becomes comfortable, then XX may become happy.
+
+Start description of "kindness"
+
+XX is a person.
+YY is a person.
+
+XX is unhappy.
+YY speaks to XX.
+XX becomes happy.
+
+The end.
+
+Start story titled "Sara".
+
+Sara is a person.
+Steve is a person.
+
+Steve is at a party and Steve is alone.
+
+Steve is unhappy because Steve feels awkward.
+Steve looks awkward.
+
+Sara talks to Steve because Steve looks awkward.
+Sara talks to Steve because Sara is kind.
+Steve becomes comfortable because Sara talks to Steve.
+Steve becomes happy.
+
+The end.

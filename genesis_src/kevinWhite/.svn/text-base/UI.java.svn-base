@@ -1,0 +1,231 @@
+package latticeLearning;
+
+import java.awt.Color;
+import java.awt.Dimension;
+import java.awt.GridLayout;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.event.KeyEvent;
+import java.awt.event.KeyListener;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.swing.BoxLayout;
+import javax.swing.JButton;
+import javax.swing.JFrame;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.JSplitPane;
+import javax.swing.JTextArea;
+import javax.swing.JTextField;
+import javax.swing.UIManager;
+import javax.swing.UnsupportedLookAndFeelException;
+
+import bridge.reps.things.Thread;
+@SuppressWarnings("serial")
+public class UI extends JFrame{
+
+    private JButton clearButton;
+    private JTextArea text;
+    private JTextArea analysis;
+    private JTextField questionField;
+    private JLabel instructLbl;
+    private LatticePanel lp;
+    
+    public UI()  {
+
+        //assemble components
+        text = new JTextArea("entity animate animal mammal cat\n"+
+                "mammal dog\n"+
+                "animal fish\n"+
+                "animate plant\n"+
+                "entity inanimate rug\n"+
+        "inanimate car\n");
+        text.setLineWrap(true);
+        text.setWrapStyleWord(true);
+        
+        setSize(1024,768);
+
+        text.setLineWrap(true);
+        text.setWrapStyleWord(true);
+        text.setEditable(false);
+        text.setPreferredSize(new Dimension(this.getWidth()/2,this.getWidth()/2));
+        
+        questionField = new JTextField();
+        questionField.addKeyListener(new KeyListener(){
+            @Override
+            public void keyPressed(KeyEvent arg0) {
+            }
+            @Override
+            public void keyReleased(KeyEvent arg0) {
+            }
+            @Override
+            public void keyTyped(KeyEvent arg0) {
+                if(KeyEvent.getKeyText(arg0.getKeyChar()).equalsIgnoreCase("Enter")){
+                    String question = questionField.getText();
+                    String answer = "";
+                    try {
+                        answer = LatticeLearner.answerQuestion(question, lp.getConcept().getPositives(), lp.getConcept().getNegatives());
+                    } catch (Exception e) {
+                        answer = "An error occurred. Check for spelling/grammar errors.";
+                        e.printStackTrace();
+                    }
+                    instructLbl.setText(question + " " + answer);
+                    questionField.setText("");
+                }
+            }
+        });
+        
+        analysis = new JTextArea();
+        analysis.setEditable(false);
+        analysis.setFont(analysis.getFont().deriveFont(20.0f));
+        analysis.setWrapStyleWord(true);
+        
+        clearButton = new JButton("Clear Lattice");
+        clearButton.setSize(new Dimension(text.getSize().width,20));
+        JPanel right = new JPanel();
+        right.setLayout(new BoxLayout(right,BoxLayout.PAGE_AXIS));
+        right.setBackground(Color.WHITE);
+        right.add(text);
+        right.add(analysis);
+        right.add(questionField);
+        right.add(clearButton);
+
+        List<Thread> threads = new ArrayList<Thread>();
+        for (String string : text.getText().split("\n")) {
+            threads.add(Thread.parse(string));
+        }
+        TypeLattice lattice = new TypeLattice(threads);
+        lp = new LatticePanel(lattice, analysis);
+        JSplitPane split = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, lp, right);
+        split.setResizeWeight(1);
+        split.setContinuousLayout(true);
+
+        getContentPane().setLayout(new GridLayout());
+        getContentPane().add(split);
+
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        clearButton.addActionListener(new ActionListener(){
+
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                List<Thread> threads = new ArrayList<Thread>();
+                for (String string : text.getText().split("\n")) {
+                    threads.add(Thread.parse(string));
+                }
+                lp.setLattice(new TypeLattice(threads));
+                lp.repaint();
+            }   
+        });
+    }
+    
+    public UI(Object[] entities){
+        String tempString = "";
+        for (Object entity: entities){
+            tempString = tempString.concat(entity + "\n\n");
+        }
+        setSize(1024,768);
+        text = new JTextArea(tempString);
+        text.setLineWrap(true);
+        text.setWrapStyleWord(true);
+        text.setEditable(false);
+        text.setPreferredSize(new Dimension(this.getWidth()/2,this.getWidth()/2));
+        instructLbl = new JLabel("Ask a question or make a statement.");
+        instructLbl.setAlignmentX(CENTER_ALIGNMENT);
+        questionField = new JTextField();
+        questionField.setMaximumSize(new Dimension(this.getWidth()/2,50));
+        questionField.addKeyListener(new KeyListener(){
+            @Override
+            public void keyPressed(KeyEvent arg0) {
+            }
+            @Override
+            public void keyReleased(KeyEvent arg0) {
+            }
+            @Override
+            public void keyTyped(KeyEvent arg0) {
+                if(KeyEvent.getKeyText(arg0.getKeyChar()).equalsIgnoreCase("Enter")){
+                    String question = questionField.getText();
+                    String answer = "";
+                    try {
+                        answer = LatticeLearner.answerQuestion(question, lp.getPositives(), lp.getNegatives());
+                    } catch (Exception e) {
+                        answer = "An error occurred.";
+                        e.printStackTrace();
+                    }
+                    instructLbl.setText(question + " " + answer);
+                    questionField.setText("");
+                }
+            }
+        });
+        
+        analysis = new JTextArea();
+        analysis.setEditable(false);
+        analysis.setFont(analysis.getFont().deriveFont(20.0f));
+        analysis.setWrapStyleWord(true);
+        
+        clearButton = new JButton("Clear Lattice");
+        clearButton.setMaximumSize(new Dimension(this.getWidth()/2,50));
+        JPanel right = new JPanel();
+        right.setLayout(new BoxLayout(right,BoxLayout.Y_AXIS));
+        
+        right.setBackground(Color.WHITE);
+        right.add(clearButton);
+        right.add(text);
+        right.add(analysis);
+        right.add(instructLbl);
+        right.add(questionField);
+
+        List<Thread> threads = new ArrayList<Thread>();
+        for (String string : text.getText().split("\n")) {
+            threads.add(Thread.parse(string));
+        }
+        TypeLattice lattice = new TypeLattice(threads);
+        lp = new LatticePanel(lattice, analysis);
+        JSplitPane split = new JSplitPane(JSplitPane.HORIZONTAL_SPLIT, lp, right);
+        split.setResizeWeight(1);
+        split.setContinuousLayout(true);
+
+        getContentPane().setLayout(new GridLayout());
+        getContentPane().add(split);
+
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        clearButton.addActionListener(new ActionListener(){
+            @Override
+            public void actionPerformed(ActionEvent arg0) {
+                List<Thread> threads = new ArrayList<Thread>();
+                for (String string : text.getText().split("\n")) {
+                    threads.add(Thread.parse(string));
+                }
+                lp.setLattice(new TypeLattice(threads));
+                lp.repaint();
+                LatticeLearner.getImpliedPositives().clear();
+                LatticeLearner.getImpliedNegatives().clear();
+                instructLbl.setText("Ask a question or make a statement.");
+            }   
+        });
+    }
+    
+    public LatticePanel getLP(){
+        return lp;
+    }
+
+    public static void main(String[] args) {
+        try {
+            UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
+        } catch (UnsupportedLookAndFeelException e) {
+
+        } catch (IllegalAccessException e) {
+
+        } catch (InstantiationException e) {
+
+        } catch (ClassNotFoundException e) {
+
+        }
+        
+        String[] testArray = new String[] {"entity animate animal mammal cat","mammal dog","animal fish","animate plant","entity inanimate rug", "inanimate car"};
+//        UI ui = new UI();
+//        ui.setVisible(true);
+        UI arrayUI = new UI(testArray);
+        arrayUI.setVisible(true);
+    }
+}

@@ -1,0 +1,87 @@
+
+transitions/vsr2/rf/drop2.txt has 300 RefFrames.
+transitions/vsr2/rf/drop2.txt has 3 markers.
+Inst 8 [- 7 5 4 3] id=0  [1] dR=-1 dTheta=-1 [2] dR=-1 dTheta=0
+Inst 9 [- 8 7 5 4] id=0  [1] dR=-1 dTheta=0 [2] dR=-1 dTheta=0
+Inst 15 [- 14 11 -1 -1] id=1  dmarkerContact[2]=1
+Inst 21 [- 20 19 18 17] id=0  ddy=1 [1] dR=0 dTheta=-1 [2] dR=0 dTheta=-1
+Inst 22 [- 21 20 19 18] id=0  ddy=1 [1] dR=0 dTheta=-1 [2] dR=0 dTheta=-1
+Inst 23 [- 22 21 20 19] id=0  ddy=1 [1] dR=1 dTheta=-1 [2] dR=0 dTheta=-1
+Inst 24 [- 23 22 21 20] id=0  ddy=1 [1] dR=1 dTheta=-1 [2] dR=1 dTheta=-1
+Inst 25 [- 24 23 22 21] id=0  ddy=1 [1] dR=1 dTheta=-1 [2] dR=1 dTheta=-1
+Inst 28 [- 27 25 24 23] id=0  [2] dR=0 dTheta=-1
+Inst 29 [- 28 27 25 24] id=0  [2] dR=0 dTheta=-1
+Inst 32 [- 31 30 29 28] id=0  ddy=-1 [1] dR=0 dTheta=1 [2] dR=0 dTheta=1
+Inst 34 [- 33 32 31 30] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 35 [- 34 33 32 31] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 36 [- 35 34 33 32] id=0  ddx=-1 ddy=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=1
+Inst 37 [- 36 35 34 33] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 38 [- 37 36 35 34] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 39 [- 38 37 36 35] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 40 [- 39 38 37 36] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 41 [- 40 39 38 37] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 42 [- 41 40 39 38] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 43 [- 42 41 40 39] id=0  ddx=-1 [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 44 [- 43 42 41 40] id=0  [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 45 [- 44 43 42 41] id=0  [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 46 [- 45 44 43 42] id=0  [1] dR=1 dTheta=0 [2] dR=1 dTheta=0
+Inst 47 [- 46 45 44 43] id=0  ddx=-1 [1] dR=1 dTheta=0
+Inst 48 [- 47 46 45 44] id=0  ddx=-1 [1] dR=1 dTheta=0
+Inst 69 [- 68 66 64 62] id=0  [1] dR=-1 dTheta=0 [2] dR=-1 dTheta=0
+Inst 70 [- 69 68 66 64] id=0  [1] dR=-1 dTheta=0 [2] dR=-1 dTheta=0
+Inst 86 [- 85 84 -1 -1] id=1  dmarkerContact[2]=1
+Inst 90 [- 89 88 83 82] id=2  [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 91 [- 90 89 88 83] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 92 [- 91 90 89 88] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 93 [- 92 91 90 89] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 94 [- 93 92 91 90] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 95 [- 94 93 92 91] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+Inst 96 [- 95 94 93 92] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+KF 96 [- 1] id=2  dmarkerContact[1]=-1
+Inst 97 [- 96 95 94 93] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1 dmarkerContact[1]=-1
+Inst 98 [- 97 96 95 94] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1 dmarkerContact[1]=-1
+Inst 99 [- 98 97 96 95] id=2  ddy=-1 [0] dR=1 dTheta=-1 [1] dR=1 dTheta=1
+KF 100 [- 3] id=0  [2] dmarker=-1
+KF 103 [- 0] id=1  [2] dmarker=-1
+Inst 113 [- 112 110 108 105] id=0  [1] dR=-1 dTheta=0
+Inst 114 [- 113 112 110 108] id=0  [1] dR=-1 dTheta=0
+Inst 118 [- 117 116 115 114] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 119 [- 118 117 116 115] id=0  [1] dR=-1 dTheta=0
+Inst 121 [- 120 119 118 117] id=0  ddy=-1
+Inst 126 [- 125 123 121 120] id=0  [1] dR=-1 dTheta=0
+Inst 127 [- 126 125 123 121] id=0  [1] dR=-1 dTheta=0
+Inst 130 [- 129 127 126 125] id=0  [1] dR=-1 dTheta=0
+Inst 131 [- 130 129 127 126] id=0  [1] dR=-1 dTheta=0
+KF 135 [- 100] id=0  [1] dR=-1 dTheta=0
+Inst 136 [- 135 134 133 131] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 137 [- 136 135 134 133] id=0  [1] dR=-1 dTheta=0
+Inst 138 [- 137 136 135 134] id=0  [1] dR=-1 dTheta=0
+Inst 139 [- 138 137 136 135] id=0  [1] dR=-1 dTheta=0
+Inst 140 [- 139 138 137 136] id=0  ddx=1 [1] dR=-1 dTheta=0
+Inst 141 [- 140 139 138 137] id=0  ddx=1 [1] dR=-1 dTheta=0
+KF 142 [- 103] id=1  [0] dR=-1 dTheta=0
+Inst 160 [- 159 154 152 151] id=0  [1] dR=1 dTheta=0
+Inst 163 [- 162 160 159 154] id=0  [1] dR=1 dTheta=0
+Inst 164 [- 163 162 160 159] id=0  [1] dR=1 dTheta=0
+Inst 165 [- 164 163 162 160] id=0  ddx=-1 [1] dR=1 dTheta=0
+Inst 170 [- 169 167 165 164] id=0  [1] dR=1 dTheta=0
+Inst 171 [- 170 169 167 165] id=0  [1] dR=1 dTheta=0
+Inst 172 [- 171 170 169 167] id=0  [1] dR=1 dTheta=0
+Inst 173 [- 172 171 170 169] id=0  [1] dR=1 dTheta=0
+Inst 174 [- 173 172 171 170] id=0  [1] dR=1 dTheta=0
+Inst 175 [- 174 173 172 171] id=0  ddx=-1 [1] dR=1 dTheta=0
+Inst 176 [- 175 174 173 172] id=0  ddx=-1 [1] dR=1 dTheta=0
+Inst 177 [- 176 175 174 173] id=0  ddx=-1 [1] dR=1 dTheta=0
+KF 178 [- 142] id=1  [0] dR=1 dTheta=0
+KF 191 [- 135] id=0  [1] dR=1 dTheta=0
+Inst 229 [- 228 226 223 220] id=1  [0] dR=1 dTheta=0
+Inst 231 [- 230 227 225 224] id=0  dfoaSize=-1 [1] dR=1 dTheta=0
+Inst 234 [- 233 231 230 227] id=0  [1] dR=1 dTheta=0
+Inst 237 [- 236 234 233 231] id=0  [1] dR=1 dTheta=0
+Inst 239 [- 238 235 232 229] id=1  [0] dR=1 dTheta=0
+Inst 252 [- 251 248 246 245] id=1  [0] dR=-1 dTheta=0
+Inst 256 [- 255 250 249 247] id=0  [1] dR=-1 dTheta=0
+Inst 259 [- 258 256 255 250] id=0  dfoaSize=1 [1] dR=-1 dTheta=0
+Inst 260 [- 259 258 256 255] id=0  dfoaSize=1
+Inst 265 [- 264 262 261 260] id=0  dfoaSize=1 [1] dR=-1 dTheta=0
+

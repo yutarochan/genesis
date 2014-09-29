@@ -1,0 +1,17 @@
+Clear story memory.
+
+Both perspectives.
+
+Insert file Legal Reflective and Commonsense.
+
+Start story.
+
+Graham is a person.
+Francis is a person.
+INS is an entity.
+
+
+Francis employed Graham because the INS wanted to deport Francis.
+Graham collected money from Francis to pay the INS.
+Graham stole money from Francis because Graham collected too much money.
+The end.

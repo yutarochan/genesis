@@ -1,0 +1,47 @@
+// I am a person.
+
+
+Note that Cawdor is a name.
+Note that Duncan is a name.
+Note that Lady Macbeth is a name.
+Note that Lady Macduff is a name.
+Note that Macduff is a name.
+Note that Macbeth is a name.
+Note that Malcolm is a name.
+Note that Donalbain is a name.
+
+Note that Dunsinane is a name.
+Note that Birnam Wood is a name. 
+
+// New blip for character modelling
+
+Macbeth, Macduff, Lady Macbeth, Lady Macduff, Cawdor, and Duncan are characters.
+Macbeth, Macduff, Lady Macbeth, Lady Macduff, Cawdor, and Duncan are persons. 
+
+Malcolm and Donalbain are persons.
+
+A king is a kind of noble.
+A thane is a kind of noble.
+
+England is a country.
+
+Dunsinane is a castle and Birnam Wood is a forest.
+
+// Hack, causes extra revenge; invites matcher thinking
+Lady Macbeth is Macbeth's wife.
+
+
+
+Lady Macduff is Macduff's wife.
+
+// Used in story to demonstrate summary pruning
+Macbeth is Lady Macbeth's husband.
+Macduff is Lady Macduff's husband.
+
+
+
+
+
+
+
+

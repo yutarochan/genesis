@@ -1,0 +1,123 @@
+Insert file Start experiment.
+
+Insert file Korean reflective knowledge.
+
+Insert file General commonsense knowledge.
+
+//// Supplement to commonsense knowledge.
+
+// Variable declaration
+XX is an entity.
+YY is an entity.
+ZZ is an entity.
+
+CC is a thing.
+
+NN is a nation.
+MM is a nation.
+
+// Some basic emotions...
+XX became unhappy because YY harmed XX.
+XX became happy because YY helped XX.
+
+// Rivalry Loop 
+XX is YY's rival because YY is XX's rival.
+
+// Allies/Foes
+//XX is YY's foe because XX is a member of MM, YY is a member of NN, and MM is NN's rival.
+//XX is YY's ally because XX is a member of MM, and YY is a member of MM.
+
+// Valued Resources
+XX values YY because YY is a hero, YY is a member of NN, XX is a member of NN, and XX became nationalist.
+XX values CC because CC is a computer, CC became nationalist, XX became nationalist, XX is a member of NN, and CC is a member of NN. 
+
+
+// Heroic Duels
+XX becomes miffed because YY is a hero, ZZ is a hero, XX became nationalist, XX is a member of MM, YY is a member of MM, ZZ is a member of NN, MM is NN's rival, and ZZ defeats YY. 
+XX becomes enthusiastic because YY is a hero, ZZ is a hero, XX became nationalist, XX is a member of MM, YY is a member of MM, ZZ is a member of NN, MM is NN's rival, and YY defeats ZZ.
+
+// Insults
+//XX may insult YY because YY is an entity, XX is a member of NN, YY is a member of MM, and NN is MM's rival.
+//XX may insult ZZ because ZZ is an entity, YY values ZZ, and YY harmed XX.
+XX may insult YY because YY is an entity, XX is a member of NN, YY is a member of MM, NN is MM's rival, and XX became miffed. 
+
+
+// Substitution for reflective reasoning of "Hack->Harm" and "Insult->Harm"
+XX harms YY because XX insults ZZ, ZZ is an entity, and YY values ZZ.
+XX harms YY because XX hacks CC, CC is a computer, and YY values CC.
+
+
+// Hacking
+XX may hack CC because CC is an entity, CC harmed XX, CC is a member of NN, XX is a member of MM, and MM is NN's rival.
+XX may hack CC because YY is an entity, YY harmed XX, CC is an entity, CC is a member of NN, YY is a member of NN, XX is a member of MM, and MM is NN's rival.
+
+XX may hack CC because CC is an entity, CC is a member of NN, XX is a member of MM, MM is NN's rival, and XX became enthusiastic.
+XX harms YY because XX hacks YY.
+
+
+// Turning the cheek...
+	// Again, we could use reflective here to more readily state
+	//	"You get hurt ~~~~~~> You do something nice"
+	//	"Helping Chile is doing something nice"
+XX may help ZZ because ZZ is an entity, ZZ suffered an earthquake, and YY harmed XX.
+
+XX becomes unhappy because XX suffers an earthquake.
+
+Start Story.
+
+Japan is a nation.
+Korea is a nation.
+Chile is a nation.
+
+Japan is Korea's rival.
+
+MaoAsada is a skater.
+MaoAsada is a member of Japan.
+MaoAsada becomes a hero.
+
+2ch is a computer.
+2ch is a member of Japan.
+2ch becomes nationalist.
+
+JapaneseHackers are people.
+JapaneseHackers are a member of Japan.
+JapaneseHackers become nationalist.
+
+JapaneseDonors are people.
+JapaneseDonors are a member of Japan.
+JapaneseDonors become nationalist.
+
+YuNaKim is a skater.
+YuNaKim is a member of Korea.
+YuNaKim becomes a hero.
+
+VANK is a computer.
+VANK is a member of Korea.
+VANK becomes nationalist.
+
+KoreanServer is a computer.
+KoreanServer is a member of Korea.
+KoreanServer becomes nationalist.
+
+KoreanHackers are people.
+KoreanHackers are a member of Korea.
+KoreanHackers become nationalist.
+
+//2008
+
+MaoAsada defeats YuNaKim.
+JapaneseHackers hack VANK.
+
+//2010
+
+Chile suffers earthquake.
+
+YuNaKim defeats MaoAsada.
+
+2ch insults YuNaKim.
+KoreanHackers hack 2ch.
+
+JapaneseHackers hack KoreanServer.
+JapaneseDonors help Chile.
+
+The End.

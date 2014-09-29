@@ -1,0 +1,34 @@
+Start experiment.
+
+Start commonsense knowledge.
+
+xx is a person.
+yy is a person.
+zz is an entity.
+
+If xx attacks yy, then xx harms yy.
+If zz hits yy, then zz harms yy.
+
+Start description of "Strong Medicine".
+
+xx is an entity.
+yy is a person.
+
+yy is harmed by xx.
+yy is not harmed by xx.
+
+The end.
+
+Start story titled "Medicine".
+
+Marvin is a person.
+Nancy is a person.
+
+Marvin attacks Nancy.
+Nancy is not harmed by Marvin.
+
+Nancy runs away because Marvin attacked Nancy.
+Nancy's running away leads to a car's hitting Nancy.
+Nancy is not harmed by the car.
+
+The end.

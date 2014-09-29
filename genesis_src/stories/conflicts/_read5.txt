@@ -1,0 +1,16 @@
+Insert file Start experiment.
+
+Insert file Conflict commonsense knowledge.
+
+Insert file Conflict reflective knowledge.
+
+// Stories
+Insert file AAAmericanRevolution plot.
+
+Insert file AfghanistanCivilWar plot.
+
+Insert file AmericanCivilWar plot.
+
+Insert file CambodiaVietnamInvasion plot.
+
+Insert file ChadLibyanWar plot.

@@ -1,0 +1,58 @@
+First perspective.
+
+Clear story memory.
+
+Start commonsense knowledge.
+
+XX and YY are entities.
+
+James, Henry, Macbeth, and Macduff are persons.
+
+XX may kill YY because YY angers XX.
+
+// XX killed YY because XX hates YY.
+
+// XX angered YY because XX hit YY.
+
+James may kill Henry because James is not sane.
+
+James may kill Henry because James did not reason.
+
+Start reflective knowledge.
+
+Start description of "answered prayer".
+xx is a person.
+xx's wanting an action leads to the action.
+The end.
+
+Start story.
+
+George and Same are persons.
+
+// Macbeth hit Macduff.
+
+Sam angers George.
+
+George kills Sam.
+
+Macbeth angers Macduff.
+
+// Macduff is not sane.
+
+Macduff is sane.
+Macduff likes Macbeth.
+
+// Macduff did not reason.
+
+Macduff kills Macbeth.
+
+// Macduff hates Macbeth.
+
+// Macbeth killed Duncan because Macbeth stabbed Duncan.
+
+// Macbeth stabbed Duncan because Macbeth wanted to kill Duncan.
+
+
+The end.
+
+

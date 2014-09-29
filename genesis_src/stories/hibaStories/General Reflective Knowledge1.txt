@@ -1,0 +1,10 @@
+Start description of "Revenge".
+xx is a entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "Suicide".
+xx is a entity.
+xx kills xx.
+The end.

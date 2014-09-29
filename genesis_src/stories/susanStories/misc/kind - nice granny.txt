@@ -1,0 +1,83 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX is lost, then XX may be sad.
+If XX is lost, then XX may need help.
+If XX is sad and XX is a child, then XX cries.
+
+If YY brings XX home, then XX arrives home.
+If YY brings XX home, then YY helps XX.
+
+Start reflective knowledge.
+
+Start description of "helpfulness".
+
+XX is a person.
+YY is a person.
+ZZ is an entity.
+
+XX needs help.
+YY helps XX.
+XX becomes happy.
+
+The end.
+
+Start description of "kindness-sharing".
+
+XX is a person.
+YY is a person.
+// AA is an action.
+zz is an entity.
+
+YY is unhappy.
+Patrick's wanting YY's becoming happy leads to Patrick's sharing zz with YY.
+Patrick's sharing zz with YY leads to YY's becoming happy.
+
+The end.
+
+Start description of "kindness-helping".
+
+XX is a person.
+YY is a person.
+
+YY is unhappy.
+Patrick's wanting YY's becoming happy leads to Patrick's helping YY.
+Patrick's helping YY leads to YY's becoming happy.
+
+The end.
+
+Start story titled "Nice granny".
+
+Billy is a person.
+Billy is a child.
+
+Cordelia is a person.
+Cordelia is kind.
+
+Billy is lost.
+Billy is sad.
+Billy needs help.
+
+Cordelia wants Billy to become happy because Billy is unhappy.
+
+Cordelia helps Billy because Cordelia wants Billy to become happy.
+
+Billy becomes happy because Cordelia helps Billy.
+
+/*
+Cordelia brings Billy home because Billy cries and because Cordelia is kind.
+
+Billy becomes happy because Billy arrives home.
+
+Cordelia becomes happy because Billy becomes happy.
+
+*/
+
+The end.

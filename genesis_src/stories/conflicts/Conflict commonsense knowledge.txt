@@ -1,0 +1,68 @@
+Start commonsense knowledge.
+
+AA, BB, CC, DD, XX, YY, and ZZ are entities.
+PP is a person.
+TT is an anything.
+
+AA may leave BB because AA resisted BB.
+AA may attack BB because BB left AA.
+AA may attack BB if BB left CC.
+
+
+// taxation
+XX disliked YY because YY wanted to tax XX and XX did not want YY to tax XX.
+XX may tax YY because XX wants to tax YY.
+AA may resist BB because AA dislikes BB.
+AA may resist BB if AA does not want BB to tax AA.
+
+// Attacking
+AA may attack BB's troops if BB invades AA.
+//If AA's faction attacked BB's faction, then AA attacked BB.
+AA may defeat BB because AA attacked BB.
+AA may defeat BB because AA was stronger than BB.
+AA may force BB to return to CC because AA controls BB.
+AA may force BB to return to CC because AA wanted BB to stay in CC.
+
+// overthrow = defeat
+AA may overthrow BB because AA is angry.
+AA may execute BB because AA overthrew BB.
+
+
+// gifts and help
+If AA gave weapons to BB, then AA helped BB.
+If AA gave money to BB, then AA helped BB.
+If AA gave ships to BB, then AA helped BB.
+AA may give money to BB if AA wants to help BB.
+AA may give weapons to BB if AA wants to help BB.
+AA may give ships to BB if AA wants to help BB.
+If AA helps BB, then AA supports BB.
+If AA wants to help BB, then AA supports BB.
+AA may defeat BB because AA helped CC.
+
+// Control
+AA may dislike CC because AA wanted AA to control BB and CC wanted CC to control BB.
+CC may dislike AA because AA wanted AA to control BB and CC wanted CC to control BB.
+AA may not want BB to possess CC because AA possessed BB.
+AA may control BB because AA defeated BB.
+
+// mutual liking
+XX may have supported YY because YY liked XX and XX liked YY.
+
+// mutial dislike
+The XX may have disliked the YY because the YY disliked the XX.
+
+// dislike for murderers
+If BB kills AA, BB harms AA.
+If AA is a people and BB harms AA, then AA dislikes BB.
+AA may be angry if BB harms AA.
+AA may be angry if BB harms AA and BB controls CC.
+
+// wanting land
+If AA possesses TT and CC wants to possess TT, then CC may attack AA.
+If AA possesses TT and CC wants to possess TT, then CC may invade AA.
+CC may attack AA because CC wants to possess TT and AA possesses TT.
+CC may invade AA because CC wants to possess TT and AA possesses TT.
+//If AA wants to control TT, then AA may invade TT.
+
+// Corruption
+AA may be angry if BB is corrupt and BB controls CC.

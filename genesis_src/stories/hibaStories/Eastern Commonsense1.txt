@@ -1,0 +1,36 @@
+Start commonsense knowledge.
+
+XX is a person. 
+YY is a person.
+ZZ is a person.
+//SS is an entity.
+
+// corrupt society
+If SS is individualistic then SS is corrupt. 
+If XX inhabits SS and SS is corrupt, then XX becomes corrupt. 
+//If XX becomes corrupt, then XX may kill YY.  
+
+// violence glorifying society.
+If XX inhabits SS and SS's media glorifies violence, then XX becomes violent.
+
+
+// murderer personality.
+If XX becomes corrupt and XX becomes angry and XX feels dishonored then XX becomes murderous. 
+
+// If XX becomes corrupt and XX becomes angry and XX feels dishonored then XX becomes murderous. 
+
+If XX becomes corrupt and XX feels dishonored then XX becomes murderous. 
+
+
+If XX becomes violent and XX becomes angry and XX feels dishonored then XX becomes murderous. 
+// If XX becomes angry and XX is lonely and XX feels dishonored then XX becomes murderous.
+
+
+
+
+If XX becomes corrupt and XX becomes violent and XX feels dishonored then XX becomes murderous.
+
+
+// suicidal personality
+If XX is lonely and XX feels frustrated then XX becomes suicidal.
+If xx becomes suicidal then xx may kill xx

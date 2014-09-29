@@ -1,0 +1,20 @@
+// Start commonsense knowledge.
+
+WW, XX, YY, and ZZ are persons.
+
+Patrick is a person.
+
+
+
+If XX is an enemy of ZZ and YY is an enemy of ZZ, then XX may be a friend of YY.
+
+If XX is an enemy of ZZ and YY is an enemy of ZZ, then YY may be a friend of XX.
+
+Start story titled "Machiavellian person's characteristics".
+
+Patrick protects himself.
+
+
+
+The end.
+

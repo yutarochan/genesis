@@ -1,0 +1,92 @@
+Start experiment.
+
+/*
+
+At this writing, there are 7 kinds of rules,
+
+Prediction
+Explanation
+Censor
+Abduction
+Enablement
+Proximity
+Means
+
+*/
+
+xx, yy, and zz are entities.
+
+// Prediction
+
+If xx kills yy, then yy becomes dead.
+
+If yy becomes dead, yy cannot become happy.
+
+// Explanation
+
+If xx loves yy, then xx may marry yy.
+
+// Abduction
+
+If xx kills yy, then xx must be not sane.
+
+// Proximity
+
+// xx marries yy; zz becomes jealous.
+
+// yy is an entity and xx becomes king; yy becomes jealous
+
+// Enablement
+
+xx's having a knife enables xx's stabbing yy.
+
+Start story titled "Demonstrate".
+
+James, George, Susan, Peter, Paul, and Mary are persons.
+
+James marries Susan; George becomes jealous.
+
+James becomes king; George becomes jealous.
+
+// Each other
+
+Paul and Mary love each other.
+
+// Stated cause
+Paul loves Mary because Mary is intelligent.  
+
+Paul marries Mary.  
+
+// Paul becomes King.
+
+Paul's marrying Mary leads to Paul's becoming king. 
+
+Peter becomes jealous.
+
+
+
+// Means
+
+In order to pick up a knife, Peter walked to a knife.
+
+In order to kill Paul, Peter picked up a knife, Peter stabbed Paul, and Peter fled.
+
+// Another Internal leads-to
+
+// Peter's becoming jealous leads to Peter's killing Paul.			
+
+Peter's killing Paul leads to Mary's becoming distraught.
+
+// Turned off by censor.
+
+Paul became happy.
+
+// Enablement
+
+Mary stabs George because she is angry.
+
+// Unconnected
+
+Peter is viscous.
+
+The end.

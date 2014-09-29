@@ -1,0 +1,28 @@
+// Demo of event prediction using personality traits
+
+Insert file Start experiment.
+
+First perspective.
+
+//Insert file General commonsense knowledge.
+//Insert file General reflective knowledge.
+//Insert file relations knowledge.
+
+Insert file Western concept knowledge.
+Insert file Eastern concept knowledge.
+
+"Vicious" is a kind of personality trait.
+
+Start story titled "Macbeth/trait event prediction".
+
+Macbeth and Duncan are persons.
+
+Macbeth is vicious.
+Macbeth dislikes Duncan.
+
+Pause.
+
+Predict event.
+//Macbeth kills Duncan.
+
+The end.

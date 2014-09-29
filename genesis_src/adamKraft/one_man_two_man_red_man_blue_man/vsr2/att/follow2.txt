@@ -1,0 +1,55 @@
+
+transitions/vsr2/rf/follow2.txt has 300 RefFrames.
+transitions/vsr2/rf/follow2.txt has 3 markers.
+KF 80 [- 0] id=1  [2] dmarker=1
+KF 81 [- -1] id=2  [2] dmarker=1
+Inst 88 [- 87 85 83 82] id=2  [1] dR=1 dTheta=0
+Inst 95 [- 94 93 92 89] id=1  ddx=-1
+Inst 99 [- 98 97 96 91] id=2  ddx=-1
+Inst 100 [- 99 98 97 96] id=2  ddx=-1
+Inst 101 [- 100 99 98 97] id=2  ddx=-1
+Inst 102 [- 101 100 99 98] id=2  ddx=-1
+Inst 103 [- 102 101 100 99] id=2  ddx=-1
+Inst 104 [- 103 102 101 100] id=2  ddx=-1
+Inst 105 [- 104 103 102 101] id=2  ddx=-1
+Inst 106 [- 105 104 103 102] id=2  ddx=-1
+Inst 111 [- 110 109 108 107] id=1  ddx=-1
+Inst 112 [- 111 110 109 108] id=1  ddx=-1
+Inst 113 [- 112 111 110 109] id=1  ddx=-1
+Inst 114 [- 113 112 111 110] id=1  ddx=-1
+Inst 115 [- 114 113 112 111] id=1  ddx=-1
+Inst 116 [- 115 114 113 112] id=1  ddx=-1
+Inst 117 [- 116 115 114 113] id=1  ddx=-1
+Inst 118 [- 117 116 115 114] id=1  ddx=-1
+Inst 119 [- 118 117 116 115] id=1  ddx=-1
+Inst 120 [- 119 118 117 116] id=1  ddx=-1
+Inst 121 [- 120 119 118 117] id=1  ddx=-1
+Inst 122 [- 121 120 119 118] id=1  ddx=-1
+Inst 123 [- 122 121 120 119] id=1  ddx=-1
+Inst 124 [- 123 122 121 120] id=1  ddx=-1
+Inst 129 [- 128 127 126 125] id=2  ddx=-1
+Inst 130 [- 129 128 127 126] id=2  ddx=-1
+Inst 134 [- 133 132 131 124] id=1  ddx=-1
+Inst 135 [- 134 133 132 131] id=1  ddx=-1
+Inst 136 [- 135 134 133 132] id=1  ddx=-1
+Inst 140 [- 139 138 137 130] id=2  ddx=-1
+Inst 141 [- 140 139 138 137] id=2  ddx=-1
+Inst 142 [- 141 140 139 138] id=2  ddx=-1
+Inst 143 [- 142 141 140 139] id=2  ddx=-1
+Inst 144 [- 143 142 141 140] id=2  ddx=-1
+Inst 145 [- 144 143 142 141] id=2  ddx=-1
+Inst 146 [- 145 144 143 142] id=2  ddx=-1
+Inst 147 [- 146 145 144 143] id=2  ddx=-1
+Inst 148 [- 147 146 145 144] id=2  ddx=-1
+Inst 157 [- 156 155 152 151] id=1  [2] dR=-1 dTheta=0
+Inst 161 [- 160 159 158 154] id=2  ddx=-1
+Inst 167 [- 166 165 164 163] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 168 [- 167 166 165 164] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 169 [- 168 167 166 165] id=2  ddx=-1 [1] dR=-1 dTheta=0
+Inst 174 [- 173 169 168 167] id=2  [1] dR=-1 dTheta=0
+Inst 175 [- 174 173 169 168] id=2  [1] dR=-1 dTheta=0
+Inst 180 [- 179 177 176 175] id=2  [1] dR=-1 dTheta=0
+Inst 183 [- 182 180 179 177] id=2  [1] dR=-1 dTheta=0
+Inst 188 [- 187 185 181 178] id=1  [2] dR=-1 dTheta=0
+Inst 196 [- 195 190 189 188] id=1  [2] dR=-1 dTheta=0
+

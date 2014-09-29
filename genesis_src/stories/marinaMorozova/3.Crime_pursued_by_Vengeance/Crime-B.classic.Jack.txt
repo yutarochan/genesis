@@ -1,0 +1,21 @@
+Insert file Start experiment.
+//Show both perspectives.
+//Both perspectives.
+
+Start commonsense knowledge.
+
+xx pursues yy because xx chases yy.
+xx pursues yy because xx kills yy.  
+xx may believe that yy transgressed because xx believes that yy deceives xx.
+
+Insert file 3.txt.
+//First perspective.
+
+Start story titled "Jack the Ripper by Xavier Bertrand et al".
+
+Jack is a person.
+Jack believes that women deceive Jack because a woman deceives Jack.
+Jack chases women and Jack kills women because Jack believes that women transgressed.
+
+The end.
+

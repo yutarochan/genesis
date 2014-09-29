@@ -1,0 +1,23 @@
+/*
+Nominalization tests suggested by Boris.  Should produce three causal connections.
+*/
+
+Clear story memory.
+
+Start story.
+
+The terrorists destroyed the Towers.
+
+The terrorists destroyed the Afghan society.
+
+The allies attacked the terrorists.
+
+The Afghan government collapsed.
+
+The destruction of the towers caused the allies' attack.
+
+The destruction of the Afghan society caused a panic.
+
+The destruction of the Afghan society caused the collapse.
+
+The end.

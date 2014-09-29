@@ -1,0 +1,598 @@
+Piece of cake is tasty if piece of cake is the sweet.
+Clothes are ironed if clothes are ironed.
+The helmet is safer if the helmet is made of  hard material to protect your head from a blow.
+The quarter is change you are saving if the quarter is put in a jar.
+The boiler is off if the stove is turned off.
+Iron frying pan is hot if the pan is used.
+Ref is effective at stopping the game if the whistle is loud.
+The highlighter is dry if the highlighter is used a lot.
+Time is unknown if clock timer is not set.
+The thread is sewn up if the thread is stitched.
+Snooker game is playable if snooker table is set up.
+The book is interesting if the book is well written.
+Medicine is ineffective if medicine is expired.
+Music is distorted if stereo speaker is not providing good sound.
+The receiver is discharged if the receiver is not on cordless base.
+The video is on if video recorder is scheduled to record video.
+The easel is holding a painting if the easel is set up.
+The pet is hungry if food is not enough.
+The phone number is a part of the phone book if the phone number is stored.
+Spices are organized if spice box is holding spices.
+The peel is garbage if kiwi fruit is peeled.
+The pea is edible if the pea is ripe.
+The kid is asleep if the kid is sleeping.
+The occupant is chilled if the room is cold.
+The calculator is powered by solar if the calculator is solar.
+The hand is burned if china coffee cup on a saucer is not too hot.
+The drink is tasty if the drink is popular.
+The comforter is comfortable to sleep on if the comforter is warm.
+Hot water knob is turned on if the bath is needed.
+The table is messy if dinning table is dirty.
+The shelf is dirty if the counter top is dusty.
+Tea is brewed if the kettle is hot.
+The deposit is the invalid if pop can is crushed.
+The bedsheet is covering the bed if the bedsheet is on the bed.
+Loveseat is unoccupied if the person is getting up from loveseat.
+The person is making lemonade if lemons are in season.
+The copier is ready to use if the copier is on.
+The bench is freshly painted if the painter is finished painting.
+The radio signal is hard to detect if the day is overcast.
+Roulette wheel is the spinning if the person is in the casino.
+Ice is melting if the day is warm and sunny.
+Large group is friendly if icebreaker is held.
+Pants are needed to be lengthened if pant suit is short.
+The room is relaxing if the furniture is arranged properly.
+The monitor is dark if the computer is turned off.
+The paper is ripped if the napkin is wet.
+The spill is disappeared if the cleaner is applied to spill.
+The container is well sealed if the lid is tight.
+The memo is the current if the bulletin board is updated.
+The internet access is unaccessible if the modem is down.
+The chocolate mousse is Rich if real butter is used.
+The kitchen is cleaner if dishes are washed.
+Tool chest is having all the tools if tool chest is heavy.
+Ink is absorbed if the blotter is dry.
+Filet of fish is raw if the filet is the cut.
+The curtain is the plain if the curtain is bleached.
+The fridge is too cold if the temperature is turned down.
+The wheelchair is rolling properly if the wheel is unlocked.
+The person is attracting attention if the foot is stomped.
+The thumbtack is on the pin board if the tack is used.
+The sewing machine is threaded if piece of cotton is put thriugh the eye of the needle.
+The envelope is expensive if the envelope is self-sealing.
+The cocktail is mixed if the cocktail is ready.
+Boots are piled on the ground if boot rack is not arranged.
+Baby seat is wet if the infant is peeing.
+The person is full if the bowl is empty.
+The globe is stopped if earth globe is the spinning.
+Next page is printed if the book is the printing.
+The fan is off if the room is cool.
+The balloon is in the sky if the balloon is airborne.
+Light dimmer is too dim if the knob is turned too far.
+The paper towel is absorbent if the floor is wet.
+Salad is eaten if salad tongs is clean.
+The drink is tasted if the cranberry juice is delicious.
+Glass of tea is cold if glass of tea is left outside.
+The candle is fragrant if the candle is scented.
+The person is full if the croissant is eaten.
+Beanbag chair is leaking its stuffing if beanbag chair is burst.
+The magazine is thrown away if trade magazine is outdated.
+Dishes are washed if the dishwasher is finished.
+The stick is put away if walking stick is in the closet.
+The bowl is used to hold the chips if chips are poured into a bowl.
+Speakers are decent if the stereo is high fidelity.
+Dinner is cooked if the family is hungry.
+The house is noisy if grandfather clock is given as present.
+Power is unstable if bulb socket is sparking.
+People are afraid if the power outage is happening.
+Food is warm if the freezer is not cold.
+Motocycle is running smoothly if the motorcycle is running smoothly.
+Lot of data is stored in computer if data are stored in computer.
+The toilet is clogged if the toilet is clogged.
+The dvd player is having a remote if the dvd player is easy to use.
+The drinker is parched if the cup is empty.
+The damper is open if the fire is lit.
+The binder is heavy if the binder is full.
+The pipe is clogged if the pipe is clogged with hair.
+The futon is sleeping if the futon is used to sleep.
+The garden tool is used to cut branches if the tool is used tor planting.
+Ice is frozen if water is put in the freezer.
+The bowl is clean if the dishwasher is working.
+The tent is folded if the tent is disassembled.
+The URL is clicked if url address is clicked on.
+The meal is enjoyable if the staff is friendly.
+Xmas tree is green if the christmas tree is watered.
+The portrait is hanging on the wall if frane is anchored.
+The child is bike riding if safety helmet is worn on head.
+The message is the left if indicator light is blinking.
+The fruit is cut in half if the blade is the cutting.
+Wood is the cut if table saw is used to cut wood.
+Salad is Mae if salad  bar is full.
+Pizza is ready to serve if pizza cutter is used to cut pizza.
+Tea kettle is not liftable with bare hands if the kettle is hot.
+The meal is tasty if the bun is fresh.
+The computer is slower if lot of data is stored in computer.
+The plant is beautiful if the plant is blossoming.
+The shingle is on the roof if the shingle is hung.
+The day is bright and cheery if the breeze is blowing.
+The jewelry box is full of diamonds if the couple is romantic.
+The dvd player is plugged into a television if the movie is played.
+Electric mixer is pureeing vegetables if mixer is the mixing.
+The mop is needed if the floor is dirty.
+The panel is hard to handle if panel of insulation is thin.
+The bedsheet is folded if the bedsheet is ironed.
+Ac adapter is functional if ac adapter is working right.
+The jelly is tasty if the jelly is very sweet.
+Toy train is operational if toy train is running.
+Police are on to you if the heat is on.
+The muffin is warm if the Sun is focused.
+Sugar is a mess if bag of sugar is torn.
+The drinker is happy if the beer mug is full of beer.
+The text is invisible if the eraser is used to erase text.
+Blank tape is needed if video recorder is scheduled to record video.
+Eyes are irritated if pair of boots is shining.
+The schedule is on time if time clock is on time.
+The smell is apparent if garbage bin is open.
+Stuffed rabbit is dusty if stuffed rabbit is neglected.
+Roll of toilet paper is in the bathroom if the paper is is used up.
+The bulb is garbage if the bulb is burned out.
+Spanking stick is necessary if the child is rambunctious.
+The person is away from her desk for a while if the status is away.
+Pizza is hot if pizza is heated.
+The cucumber is the sweet if the cucumber is pickled.
+The peanut butter is tasty if jar of peanut butter is fresh.
+Bowl with crayons is full if the bowl is filled with crayons.
+The seat is more comfortable if the cushion is thick.
+Small children is playing if small children is bored.
+The volume is low if the sound is soft.
+The table is neat again if cards are stored away.
+Water is soapy if dish detergent is bubbly.
+The bar is eaten if the chocolate bar is tasty.
+Rolodex is able to be used to locate clients if rolodex is filled with addresses.
+The locker is used to store belongings if lockeer is rented.
+The drink is cold if the ice cube is added.
+The pie is hot if the pie is baked in the oven.
+The jacket is warm if wearer is exercising.
+The toy is having sharp edges if the toy is broken.
+Door mat is wet if the door is leaking and it is raining outside.
+The plumber is fixing the toilet if the plumber is fixing toiled.
+Pasta is delicious if italian meal is cooked well.
+Bag of chips is open if bag of chips is ripped.
+Pair of socks is clean if pair of socks is clean.
+The drink is good if the drink is thirstquenching.
+The baseball bat is hard if the baseball bat is seasoned.
+The board game is boaring if the game is fun.
+The table is more beautiful if ornamental vase is on the table.
+The boot is dragged if hiking boots are heavy.
+Dirty dishes is loaded in dishwasher if the dishwasher is used.
+Knife set is dull if the knife is used a lot.
+The floor is visible if kids room is clean.
+The baby is quiet if the baby is fed.
+The dirt is in room if the dirt is tracked in.
+The face is washed if the person is waking up in the morning.
+The binder is full if the binder is filled.
+The glass is empty if the drink is spilt.
+The dial tone is not heard if the cord is the cut.
+The thumbtack is used if the thumbtack is used for holding up pictures.
+The text is erased if the eraser is used to erase text.
+Umbrella stand is full of umbrellas if the umbrella is put into the umbrella stand.
+The shower is on if the tap is turned on.
+The sandwich is tasty if the peanut butter is with jelly.
+Hairblower is at the right temperature if harblower is warmed up.
+The bath is ready if the bathtub is filled.
+The voice is harsh if the sickness is there.
+The pitcher is filled with water if the pitcher is full.
+Kleenex box is having tissue if the box is new.
+The tableware is dirty if dinner is eaten.
+The futon is opened if the futon is used to sleep.
+The radio is off if the radio signal is hard to detect.
+The fence is able to be closed if the gate is having a latch.
+The shower curtain is plastic if cost of material is expensive.
+The web browser is able to view internet pages if the connection is established.
+The project is done quite fast if inkjet pinter is used to print term papers.
+The washing machine is full with clothes if load of laundry is large.
+Moniter is black if the computer is turned off.
+The charger is unpluged if the charger is full charged.
+The silver is tarnished if silver candle holder is dirty.
+The strap is tight if guitar strap is too small.
+The floor is swept if the broom is used to sweep.
+Pocket multi-tool is handy if multi-tool is containing many tools.
+The alcoholic is sad if wine bottle is unopened.
+The laundry is dirty if bunch of clothes is worn.
+Money is stolen if the wallet is left outside.
+Searching for a pad of paper is done if pad of paper is handy.
+The power tool is unmovable if the power tool is heavy.
+The cart is full if the cart is full of food.
+The hamper is large if the hamper is widened.
+Gas range is cooking food if the burner is lit.
+Angles are measurable if the protractor is accurate.
+Paint is wet if paint is newly applied.
+The fishing pole is having bait if the fishing pole is ready to use.
+The person is thorough if the act is done well.
+The stove is hot if the stove is burning.
+The drain is clean if drain opener is poured into the drain.
+The web is accessible if the Internet is working.
+The person is smiling if the compliment is given.
+The trash is more full if the dustpan is emptied in the trash.
+The snack is healthy if the snack is low in salt, fat, and sugar.
+Coffee is served if the teacup is cracked.
+Wood is flammable if piece of wood is dry.
+The parent is worried if the child is depressed.
+The goblet is having drink if the person is drinking.
+Milk is spoiled if milk is spoiled.
+The can opener is used if the can is needs to be opened.
+Cleaning supplies is spilled if the cart is tipped over.
+Rolling pin is in the kitchen if the person is making tortilla.
+Frozen meat is fresh if meat is warmed.
+The environment is cleaner if recycle bin is filled.
+Pair of sandals is unmatched if the sandal is thrown away.
+Coffee is no good if cup of coffee is cold.
+The draft is edited if the document is undergoing revisions.
+The tire is not having sufficient pressure if the tire is low.
+The key is used to lock the doors if the key is for the doors.
+Cue stick is broken if the fight is in a pool hall.
+Paint tray is messy if the child is engaged.
+The snack is needed if the child is hungry.
+The room is dark if dark colour is painted on the walls.
+The cartridge is economical if print cartridge is refillable.
+Calender is out of date if the calendar is for last year.
+Switch board is sparking if the switchboard is shorting.
+The trip is interesting if the sight is seen.
+The cat is sleeping if the cat is fallen asleep.
+The box is useless if first aid box is empty.
+The web browser is fast if the web browser is upgraded.
+Outside is visible if blinds are open.
+The damper is closed if the lid is shut.
+Home is cold if the heater is broken.
+Curtains are clsoed if the window is covered.
+Hot tea is served if tea is freshly made.
+The leather is shiny if pair of boots is clean.
+The junk mail is trashed if the letter is not from someone i know.
+Wine is served if the cork is removed.
+The child is hungry if the child is refusing to eat.
+The helmet is broken if the helmet is hit with a hammer.
+The game is on a shelf in the family room if the game is boring.
+The friend is a nice person if the friend is thoughtful.
+The kleenex is soiled if the person is sick.
+The house is available to walk into if the door is unlocked.
+The temperature is low if the object is placed in the fridge.
+The frying pan is hot if the pan is on the stove.
+Flowers are fresh if the bouquet is picked this morning.
+The dictionary is the current if the dictionary is updated with recent words.
+The setting is complete if set of dinner plates is arranged on dining table.
+The folding chair is stuck if the folding chair is in the mud.
+Calls are unanswered if cordless phone is not charged.
+The document is saved if tablet pc is used to edit document.
+The box is the container if the box is used to pack.
+Hot tea is served if the cup is filled with tea.
+The burger is cooked if the burger is heated past 125 degrees f.
+Vacuum attachment is needed if the curtain is dirty.
+Card table is messy if poker game is over.
+The person is sad if the human is bored.
+The room is filled with mosquitoes if screen door is open.
+See-saw is unbalanced if the father is trying to ride the see-saw with a small child.
+Flowers are dry if the vase is without water.
+Flowers are watered if pot of flowers is wilted.
+The bed is ready to use if baby basket is in the nursery.
+Volume knob is turned up if the radio is louder.
+Iron base is cold if the base is chilled.
+Pearl necklace is beautiful if pearl necklace is cleaned.
+The chocolate bar is melted if the chocolate bar is left on the dashboard.
+The kid is fed if peanut butter sandwich is made for kid.
+The bath is refreshing if the bath is drawn.
+The shirt is ironed if the shirt is pressed.
+The room is dangerous if the floor is slippery.
+The knob is used to open a door if the knob is turned to the right.
+The quantity is accurage if the scale is accurate.
+The pencil is sharpened if the pencil is inserted into an electric pencil sharpener.
+The person is squinty if reading lamp is bright.
+The letter is pulled out if the envelope is torn.
+Photocopy machine is able to copy books if paper bin is totally full.
+The stove is not used if kitchen range is broken.
+Shampoo bottle is accessible if shampoo bottle is in the shower.
+The chess set is arranged if the chess set is played on.
+The tent is folded if the tent is packed up.
+The worker is nervous if the manager is strict.
+Chalk board is erased if chalk board is cleaned.
+The human is happy if money is made.
+The dining room is decorated if silver candle holder is in a dining room.
+The trash receptacle is full if lot of stuff is in the receptacle.
+The flow is impeded if the filter is blocked.
+Bacteria are dangerous if food is not cooked properly.
+The hose is leaking if the hose is broken.
+Braclet is fitted if the bracelet is the right size.
+The kitten is fed if the kitten is hungry.
+The recipient is ignorant of the letter's contents if the letter is unopened.
+The bed is warm if the comforter is soft.
+The kettle is hot if the burner is on.
+The cell phone is connected if the call is made.
+The drink is stiff if the rum is put in a mixed drink.
+The textbook is used if the textbook is test edition.
+Lettuce is juicy if salad is fresh.
+Copy machine is supplied if ream of paper is in a copy machine.
+Silver candle holder is covered with melted wax if the candle is burning.
+The CD PLAYER is open if the CD is changed out.
+The bean is grounds if coffee grinder is working.
+Photo album is filled with pictures if roll of film is developed.
+The bug is harmful if the bug is toxic.
+The padlock is used to lock bicycle if the padlock is used.
+The scanner is used to scan a picture if the PHOTO is needing to me emailed.
+The stork is floating if the stork is near a pond.
+The bike is maintainted if the bike is old.
+The car is a friction toy if the toy car is able to roll.
+The meal is eaten if the meal is eaten.
+The laptop is unusable if laptop battery is discharged.
+Clothes dryer is off if dryer door is opened.
+The rose is good smelling if the rose is fresh.
+The person is sleepy if the person is relaxed.
+The floor is sticky if the floor is dirty.
+The telephone is useful in different rooms if the telephone is cordless.
+Lunch bucket is empty if the laborer is very hungry.
+Floppy drive is empty if floppy drice is having no files.
+The infant is being held if the child is being carried.
+The child is noisy if the child is noisy.
+The paper is cut easily if scissors are sharp.
+Flower bouquet is lovely if the arrangement is designed.
+The dog is wanting to chew it if the nightstand is real wood.
+The child is frustrated if the game is on a shelf in the family room.
+The gun is hot if the bullet is the shot.
+The croissant is cold if the croissant is left out.
+The call is easily completed if the telephone number is correct.
+The kitchen is more convenient if utility drawer is stocked.
+The teacher is distracted if the person is annoying.
+The flame is low if the flame is dying.
+The utensil is used for cooking if the device is the spoon.
+Meat is dinner if frozen meat is fresh.
+The luggage is having wheels if air steward is experienced.
+Cleaning supplies is spilled if cleaning supplies is kicked over.
+The stroller is put away if the stroller is folded.
+Parents are relaxed if the child is happy.
+The bag is full if rucksack is used for carrying stuff.
+The listener is happy if the jukebox is playing your favorite song.
+Calender is wated if the calendar is the current.
+The bike is used if exercise bike is in the excercise room.
+The carrot is refrigerated if the carrot is in the refrigerator.
+The flute is placed in music room if the musician is in the room.
+The pot is pretty if bunch of tulips in living room is planted in the pot.
+The kid is a mess if the crayon is used for coloring.
+The shower is on if the person is getting ready for work.
+Curtians is clean if cleanser is safe to use on the curtain.
+The organizer is purchased if file organizer is full.
+The floor mat is soft if the floor mat is woolen.
+Three piece suit is drycleaned if the suit is in need of cleaning.
+The air conditioner is unnecessary if the room is cold.
+The key is unuseable if the key is misplaced.
+The watch is on time if the clock is adjusted.
+Tea is ready to drink if the teapot is making a whistling sound.
+The baby is sleepy if the stroller is comfortable.
+The television is having news if the news is breaking.
+Dishes are lying on table if the table is the set.
+The filter is ready to change if the filter is dirty.
+The olive is on the snack tray if can of olives is available.
+High chair is operable if high chair is having a tray.
+The ID is irrelevant if the ID is old.
+Milk is nutritious if milk is fresh.
+The floor mat is needing to be dried if the floor mat is wet.
+The employee is busy if the workstation is busy.
+The pipe is clogged if wad of paper is flushed.
+The basin is unused if washbasin is dirty.
+The CD is able to be burned if the CD BURNER is working properly.
+The nose is blown if kleenex box is having tissue.
+The person is thorough if the person is obsessive-compulsive.
+The garbage can is outside if the garbage can is taken out.
+The message is important if the caller is adamant about it.
+The friend is difficult to reach if the friend is getting hard to contact.
+Bread is sliced if bread is served.
+Pair of shoes is shiny if pair of shoes is Polished.
+The boiler is off if the room is the right temperature.
+Neighbors are annoyed if the dog is barking.
+The cutting board is made of wood if the log is turned into a cutting board.
+The cigarette is lit if the cigarette is hot.
+Framed picture is professionally framed and matted if the picture is professionally framed.
+The umbrella is useful if weather is rainy.
+Button's function is activated if the button is pushed on.
+The roof is protective if the roof is leak-proof.
+The mind is bright if lego is used to encourage imagination.
+The room is messy if the junk is on the floor.
+The game is played again if video game is fun.
+Cell phone's battery is low if cell phone battery is low.
+The space heater is warm if the heater is plugged in.
+New business is listed if the phone book is printed.
+Person eating the steak is happy if the steak is tasty.
+The pea is the sweet if the pea is ripe.
+The spring is compressed if the spring is tied down.
+The room is neater if the coffee table is clean.
+The shampoo is applied on the hair if the hair is dirty.
+The pet is hungry if the pet is neglected.
+Clothes dryer is drying clothes if the button is pressed.
+The meal is eaten if the meal is delicious.
+Asprin is bad if bottle of aspirin is expired.
+Tube of toothpaste is in a bathroom if the person is brushing their teeth in the bathroom.
+Modem connection is broken if the modem is unplugged.
+The recipe is easy to follow if the recipe is divided into simple steps.
+The salary is desired if the salary is increased.
+The bride is beautiful if the dress is white.
+Daiquiri is too strong if lot of alcohol is put into a daiquiri.
+The bungee cord is shorter than needed if the bridge is higher than expected.
+Hot tea is served if tea cup is filled.
+Videotape is possible evidence if videotape is recorded.
+Pepper is difficult to use if pepper is strong.
+Wall mirror is smudged if gazer is gooey.
+The cord is tangled if the cord is not wound up.
+The disk is formatted if the disk is unformatted.
+The answering machine is turned off if the power switch is turned off.
+The face is smiling if the baby is seen.
+Walkie talkie is used while travelling if walkie talkie is turned on.
+The globe is replaced if desktop globe is outdated.
+The match is burning if the match is lit.
+The screwdriver is the right size if head of the screwdriver is changeable.
+The desk is large enough if the desk is linked to the next desk.
+The antique is valuable if the antique is rare.
+Sitter is relaxed if the stool is comfortable.
+Socket wrench is cracked if socket wrench is abused.
+The umbrella is waterproof if the umbrella is slick.
+Shave is difficult if razors blade is used up.
+The scent is adorned if perfume bottle is smelling good.
+The bulb is burned out if the lightbulb is used for a long period of time.
+The helmet is for safety if the helmet is made of  hard material to protect your head from a blow.
+The scorpion is in the house if the door is left open.
+Food is spilled if food is thrown.
+The breeze is blowing if the breeze is picking up.
+The machine is in need of emptying if punching machine is filled with paper bits.
+The rider is safer if safety helmet is worn on head.
+The car is desirable if the car engine is powerful.
+Coatstand is in the way if the door is open.
+The credit card is expired if the credit card is outdated.
+The motor is stalled if the chainsaw is out of gas.
+The stamp is stuck with glue if the letter is posted.
+The wind is blowing if the wind is blowing.
+Rocking horse is in baby room if rocking horse is for the baby.
+The screw is having a philips head if the screw is standard size.
+The clock is wound up if grandfather clock is inaccurate.
+The computer is occupied if the computer is in use.
+The attache case is stolen if the businessman is careless.
+The can opener is useful if the can opener is sharp.
+The vision is blurred if spectacles are broken.
+The scale is not marked properly if the scale is broken.
+The board game is missing pieces if the board game is old.
+The pen is put away if pencap is on a pen.
+The eye is strained if computer display is too bright.
+The string is put away if ball of string is rolled up.
+The picture frame is more attractive if the picture frame is stylish.
+An infant is crying if the infant is ill.
+The tank is filled with water if the aquarium is maintained.
+The garden is free of weeds if the gardener is employed.
+Glass of  water is offered to visitor if the person is thirsty.
+The mouth is watery if slice of watermelon is the sweet.
+The suitcase is arranged if the suitcase is dumped upside down.
+The writing is thick if lead of pencil is blunt.
+The newspaper is outdated if new edition is printed.
+The giver is proud if the gift is beautiful.
+Sneezer is happy if new tissue box is open.
+Wine is expensive if wine is aged.
+The kid is happy if ice cream truck is in the neighborhood.
+The magazine is interesting if the magazine is glossy.
+Footrest is comfortable if the foot is the sore.
+Computer display is not clear if computer display is placed next to a large speaker.
+Pair of gloves is warm if a person is wearing a pair of gloves for a long time.
+Cold drink is wanted if cold drink is chilled.
+Reading glasses are of proper magnification if reading glasses are selecting carefully.
+The plug is inserted in electricity socket if the appliance is purchased.
+Crafter is wealthy if the craft is precious.
+Children are hungry if the stomach is grawling.
+Coupl is cuddling if loveseat is cosy.
+Thumb pin is on the notice board if thumb pin is stuck on the notice board.
+Framed picture is straight if the picture is leveled.
+The batter is perfect if pancake maker is used to make pancakes.
+The cookie is soft if the cookie is soft.
+The camera is digital if the camera is not using film.
+The coffee table is unsanitary if the coffee table is dirty.
+The worker is reminded if the memo is stored for future use.
+The band is stretched if elastic band is stretchable.
+The copy is made if the key is the cut.
+Lamp shade is dismantled if the shade is made.
+Fingernail clipper is clipping nails if the fingernail is too long.
+Children are fed if soup is cooled down for children.
+Conference table is big if conference table is adjusted to its full length.
+Tape for sealing is self adhesive if the tape is expensive.
+The bench is used if the bench is occupied.
+The kitten is a good pet if the kitten is friendly.
+Fire sprinkler is accidently activated if the match is lit under a sensor.
+The disc is pirated if the DVD is region free.
+The freezer is not cold if electric is off.
+The product is the safe if the seal is intact.
+The hair is washed if bottle of shampoo is in the shower.
+Rollerskater is faster than a walking person if rollerskates is used for skating.
+Sterilizer is used to sterilize baby bottles if set of baby bottles is put into a sterilizer.
+The trip is fun if the vacation is taken.
+The lamp is exposed if lamp shade is dismantled.
+The jug is the trash if jug of milk is empty.
+The strawberry is the sweet if the strawberry is placed in sugar.
+The phone is inoperable if the dial tone is not heard.
+Dishes are done if dish washer is open.
+Washbasin is chocked if the basin is filled.
+Mixer is fast spinning if mixer is fast spinning.
+Bouncy-ball is bouncing if the ball is thrown.
+The frame is matches the furniture if the fame is the custom.
+The person is tall if the person is well fed.
+The person is opening the can if the person is using a can opener.
+The raincoat is dry if the raincoat is hung.
+Exercise machine is sweated on if person has been runing on a treamill and is sweating from exercise.
+The guitar is out of tune if the guitar is broken string.
+The vacuum is full if vacuum cleaner is clogged with dirt.
+Party cake is being served if party cake is being served.
+The clock is a present if grandfather clock is given as present.
+The glue is dry if the glue is left to sit.
+Laundary room is full if the laundry room is filled with cloth line.
+Spectacles are broken if spectacles are shattered.
+The cable is shielded if the cable is the cut.
+The omelet is tastey if cheese is added to an omelet.
+The person is not matching if pajama top is not matching with pajama.
+Dinner table is arranged if the table is the set.
+Food is cooked if the stove is used.
+Chocolate chip cookie is tasty if chocolate chip cookie is done baking.
+Gingerbread cookies is dry if the cookie is left out.
+The sound is low if headphones are used instead of speakers.
+The box is reusable if the box is in good condition.
+The jacket is waterproof if the jacket is waterproof.
+Piece of art is displayed in showcase if piece of art is beautiful.
+Fibers are waterfree if the mop is dry.
+Soft-drink can is recycled if soft-drink can is crushed.
+The egg is cooked if the egg is in hot water.
+The person is drinking if glass of orange juice is served.
+The can is heavy if oil can is full of oil.
+Pepper is flour-coated and deep-fried if the recipe is completed.
+The pipe is flexible if the pipe is the fabric.
+Clothes are ironed if steam iron is used.
+The surface is smooth if hand brushing its surface is unable to feel obstructions.
+The omelet is tasty if cheese is added to an omelet.
+Cushion mattress is soft if matress is well made.
+Tape cassette is filled with melodious songs if the song is recorded.
+Magazine holder is holding magazine if magazine holder is stocked.
+The table is safe from rings if the coaster is below a glass.
+Large group is friendly if the person is happy.
+The door is broken if the door is unlocked.
+The room is brighter if the lamp is bright.
+The host is angry if the visitor is late.
+The kid is done with homework if school project is completed.
+The movie is unwatchable if movie dvd is scratched.
+The clothing is treated or needs to be discarded if the cloth is having stains.
+Flatware is set up on dining table if dinner is about to be served.
+The person is tired if the workstation is busy.
+Stamp on envelope is of insufficient value if postage rate is raised.
+The form is neat if the typewriter is being used to fill a form.
+Person's head is protected if bike helmet is sturdy.
+Computer desk is sturdy if computer desk is made of wood.
+Cards are shuffled if the dealer is mixing up the cards.
+The dartboard is harder to use if the dartboard is too high.
+The tool is having blunt blade if the edge is dulled.
+Ink is on the paper if the pen is the writing.
+Glass of window is broken if the rock is tossed at a glass window.
+The hearth is swept if the hearth is dirty.
+The game is fun if gamepad is intuitive.
+The person is hollering if bell at customer service counter is missing.
+The noise is annoying if ergonomic chair is squeaking.
+The laughter is loud if the face mask is funny.
+The voice is pleasant if the voice is singing.
+Door mat is dirty if pair of dirty shoes is wiped on the door mat.
+Reading desk is full of papers if the person is a big reader.
+The shower is warm if the shower is heated up.
+The orange is peeled if the orange is fresh.
+Sofa set is comfortable if sofa set is comfortable.
+The mat is used if pair of boots is clean.
+The gutter is giving foul smell if the gutter is full of garbage.
+Ball of string is rolled if ball of string is rolled up.
+The child is happy if bouncy-ball is bouncing.
+The cap is comfortable if the cap is fitting properly.
+Flowers are thrown away if pot of flowers is wilted.
+The root is alive if the root is alive.
+The leaf is brightly colored if the season is the fall.
+The ball is the flat if basketball is thrown.
+Grapes are not clean if grapes are not washed.
+The vcr is not showing movie properly if tape head is dirty.
+The spice is crushed if morter and pestle is used for pounding into powder.
+The hi-fi is producing good sound if the speaker is good.
+Garbage is smelly if garbage is smelly.
+The racket is emptied if the racket is unstrung.
+The call is important to answer if persons name and number is displayed on caller id.
+The song is pleasant to listen to if the song is having good 

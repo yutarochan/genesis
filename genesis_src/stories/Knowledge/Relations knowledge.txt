@@ -1,0 +1,29 @@
+James is a person.  George is a person.  Mary is a person.  Elizabeth is a person.
+
+James is George's friend because George is James's relation.
+George is James's friend because George is James's relation.
+
+James is George's relation because James is George's brother.
+James is George's relation because James is George's father.
+James is George's relation because James is George's son.
+Mary is George's relation because Mary is George's sister.
+Mary is George's relation because Mary is George's mother.
+Mary is George's relation because Mary is George's daughter.
+
+James is George's relation because James is George's child.
+
+Mary is George's relation because Mary is George's wife.
+George is Mary's relation because George is Mary's husband.
+Mary is Elizabeth's sister because Elizabeth is Mary's sister.
+
+
+xx is a person.
+yy is a person.
+
+If xx is yy's wife, then yy is xx's relation.
+If xx is yy's wife, then xx is yy's relation.
+
+If xx is yy's husband, then yy is xx's relation.
+If xx is yy's husband, then xx is yy's relation.
+
+

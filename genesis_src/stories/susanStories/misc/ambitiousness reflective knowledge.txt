@@ -1,0 +1,28 @@
+Start reflective knowledge.
+
+Start description of "ambition - desire".
+
+XX is a person.
+AA is an action.
+BB is an action.
+
+XX thinks that XX will become happy if XX performs AA.
+// XX thinks that XX will perform AA if XX performs BB.
+// XX's wanting to become happy leads to XX's performing BB.
+
+The end.
+
+/*
+Start description of "ambition - fulfilled".
+
+XX is a person.
+AA is an action.
+BB is an action.
+
+XX thinks that XX will become happy if XX performs AA.
+XX thinks that XX will perform AA if XX performs BB.
+XX's wanting to become happy leads to XX's performing BB.
+XX's performing BB leads to XX's performing AA.
+
+The end.
+*/

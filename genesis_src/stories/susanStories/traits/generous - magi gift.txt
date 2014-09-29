@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file generosity reflective knowledge.
+
+Start story titled "Gift of the Magi".
+
+Della is a person.
+Jim is a person.
+Gold Chain is an entity.
+Combs is an entity.
+Hair is an entity.
+Watch is an entity.
+
+Della thinks Jim will become happy if Jim receives the Gold Chain.
+Della owns the Gold Chain because Della sells the Hair.
+Della loses the Hair because Della sells the Hair.
+Della provides the Gold Chain to Jim because Della owns the Gold Chain.
+Della provides the Gold Chain to Jim because Della wants Jim to become happy.
+
+Jim thinks Della will become happy if Della receives the Combs.
+Jim owns the Combs because Jim sells the Watch.
+Jim loses the Watch because Jim sells the Watch.
+Jim provides the Combs to Della because Jim owns the Combs.
+Jim provides the Combs to Della because Jim wants Della to become happy.
+
+Della becomes happy because Jim provides the Combs to Della.
+Jim becomes happy because Della provides the Gold Chain to Jim.
+
+The end.

@@ -1,0 +1,52 @@
+Insert file Start experiment.
+
+// Insert file General commonsense knowledge.
+
+Insert file bucket level 1.
+
+// Insert file General reflective knowledge.
+
+//Hunting imagination test.
+
+Start story titled "Hunting a mammoth".
+
+Human is hungry.
+
+Human is cold.
+
+Tiger and Mammoth are food.
+
+// Mammoth is furry.
+
+Stake is long.
+
+Human sharpens stake.
+
+Human takes mammoth skin.//it should be 'hide' instead of skin but wordnet might get confused
+
+
+
+Human takes mammoth fur.
+
+Human takes mammoth meat.
+
+Human takes mammoth bones.
+
+Human takes tiger's meat.
+
+Human takes tiger's bones.
+
+Bones are short and solid.
+
+Human sharpens bones.
+
+Human sews.
+
+The end.
+
+Pause.
+
+Insert file bucket level 2.
+
+Replay story.
+

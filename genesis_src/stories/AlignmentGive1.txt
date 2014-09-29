@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+//If James controls the ball and James gives the ball to George then George controls the ball.
+
+Start story titled "Give Full Story".
+
+Second perspective.
+
+Start story titled "Give Story with Gap".
+
+First perspective.
+
+Alpha and Bravo are persons.
+The ball is an object.
+Alpha controls the ball.
+Alpha gives the ball to Bravo.
+Bravo controls the ball.
+
+Second perspective.
+
+Mary and Sally are persons.
+The cup is an object.
+Mary controls the cup.
+A gap appears.
+//Mary gives the cup to Sally
+Sally controls the cup.
+
+Both Perspectives.
+
+The End.

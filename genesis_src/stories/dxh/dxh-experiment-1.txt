@@ -1,0 +1,107 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+
+
+Start common sense knowledge.
+
+//"Virtuous" is a kind of character trait.
+"Wicked" is a kind of character trait.
+//"Typical" is a kind of character trait.
+
+Elspeth, Raphael, Holly, and Cuthbert are persons.
+
+If Raphael is the parent of Cuthbert, then Raphael is a legal guardian of Cuthbert.
+// exception: loss of custody
+
+If Raphael is the legal guardian of Cuthbert then Raphael has authority over Cuthbert.
+
+If Elspeth is married to Raphael and Raphael is a legal guardian of Cuthbert, then Elspeth is a legal guardian of Cuthbert.
+
+If Elspeth is Raphael's wife then Elspeth is married to Raphael.
+If Elspeth is Raphael's wife then Raphael is married to Elspeth.
+
+
+If Raphael is Cuthbert's father, then Raphael is a parent of Cuthbert.
+If Elspeth is Cuthbert's mother, then Elspeth is a parent of Cuthbert.
+
+// If Raphael is Cuthbert's father and Elspeth is Cuthbert's mother, then Raphael and Elspeth may be married.
+
+// Raphael may harm Elspeth because Cuthbert prevents Raphael from harming Elspeth and Cuthbert is dead.
+
+// Raphael may want to marry Holly because Raphael married Elspeth and Elspeth is dead.
+
+
+// Only people can do these things.
+xx is an anything.
+yy is an anything.
+If xx is the parent of yy, then xx is a person and yy is a person.
+If xx marries yy, then xx is a person and yy is a person.
+
+
+If Raphael dies then Raphael is dead.
+If Raphael is dead, then Raphael is not unhappy.
+Raphael may marry Elspeth because Raphael loves Elspeth.
+If Raphael is married to Elspeth then Raphael loves Elspeth.
+If Raphael loves Elspeth and Elspeth is dead then Raphael is bereaved.
+If Raphael is bereaved then Raphael is unhappy.
+If Raphael is married to Elspeth and Raphael is wicked then Raphael is not unhappy.
+
+
+Start description of "Socially aberrant action"
+xx is a person.
+yy is an anything.
+
+xx should not yy.
+xx does yy.
+
+Start description of "Socially aberrant inaction"
+xx is a person.
+yy is an anything.
+
+xx should yy.
+xx does not yy.
+
+Start description of "Neglectful guardian"
+// cinderella, matilida, harry potter, unfortunate events
+
+xx is a person.
+yy is a person.
+
+xx is the legal guardian of yy.
+xx deliberately harms yy.
+The end.
+
+
+
+
+
+//Both perspectives.
+
+Show first perspective.
+
+
+First perspective.
+
+Start story titled "Cinderella".
+
+//Second perspective.
+
+//Start story titled "Macbeth/without traits".
+
+//Both Perspectives.
+
+Magnus is Cinderella's father.
+Lily is Cinderella's mother.
+
+Lily dies.
+Mangus is unhappy.
+Mangus marries Stepmother.
+Stepmother is wicked.
+Magnus dies.
+Stepmother intentionally harms Cinderella.
+The end.
+

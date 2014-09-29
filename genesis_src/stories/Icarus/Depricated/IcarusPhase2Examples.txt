@@ -1,0 +1,73 @@
+Insert file Start experiment.
+First perspective.
+
+Start Story titled "1". 
+Agent 1 retrieves Explosive Materials 1 from Cache 1.  
+Agent 1 travels to House 1.
+Agent 1 builds IED 1 using Explosive Materials 1.
+Agent 1 travels to House 2.
+Agent 1 gives IED 1 to Agent 2.
+Agent 2 travels to Site 1.
+Agent 2 installs IED 1 at Site 1.
+Agent 2 detonates IED 1 at Site 1.
+The end.
+Remember the story.
+
+Start Story titled "2". 
+Agent 1 retrieves Explosive Materials 1 from Cache 1.
+Agent 1 travels to House 1.
+Agent 1 builds IED 1 using Explosive Materials 1.
+Agent 1 makes a phone call.
+Agent 1 travels to Site 2.
+Agent 1 meets Agent 2 at Site 2.
+Agent 1 gives IED 1 to Agent 2.
+Agent 2 travels to Site 1.
+Agent 2 installs IED 1 at Site 1.
+IED 1 self-detonates.
+The end.
+Remember the story.
+
+Start Story titled "3".
+Agent 1 meets Agent 3 at Site 3.
+Agent 1 buys IED 1 from Agent 3.
+Agent 1 travels to Site 1.
+Agent 1 installs IED 1 at Site 1.
+IED 1 self-detonates.
+The end.
+Remember the story.
+
+Start Story titled "4".
+Agent 1 meets Agent 3 at Site 3.
+Agent 1 buys IED 1 from Agent 3.
+Agent 1 travels to House 2.
+Agent 1 gives IED 1 to Agent 2.
+Agent 2 travels to Site 1.
+Agent 2 installs IED 1 at Site 1.
+Agent 2 detonates IED 1 at Site 1.
+Agent 2 makes a phone call.
+The end.
+Remember the story.
+
+Start Story titled "5".
+Agent 1 retrieves Explosive Materials 1 from Cache 1.
+Agent 1 travels to House 1.
+Agent 1 builds IED 1 using Explosive Materials 1.
+Agent 1 travels to Site 2.
+Agent 1 meets Agent 2 at Site 2.
+Agent 1 gives IED 1 to Agent 2.
+Agent 2 travels to Site 1.
+Agent 2 installs IED 1 at Site 1.
+IED 1 self-detonates.
+The end.
+Remember the story.
+
+Start Story titled "6".
+Agent 1 meets Agent 3 at Site 3.
+Agent 1 buys IED 1 from Agent 3.
+Agent 1 travels to House 1.
+Agent 1 gives IED 1 to Agent 2.
+Agent 2 travels to Site 1.
+Agent 2 installs IED 1 at Site 1.
+Agent 2 detonates IED 1 at Site 1.
+The end.
+Remember the story.

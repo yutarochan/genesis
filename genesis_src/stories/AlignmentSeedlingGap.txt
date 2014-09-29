@@ -1,0 +1,28 @@
+//Insert file Start experiment.
+
+
+//	// Gap Filling
+//	Second Perspective.
+//	// Scene: gap0
+//	Start Story titled "gap0".
+//	Delta contacts Echo.
+//	Echo contacts Delta.
+//	A gap appears.
+//	Foxtrot contacts Echo.
+//	Echo contacts Foxtrot.
+//	The end.
+
+Second Perspective.
+Start Story titled "gap1".
+Beta contacts Charlie.
+Charlie contacts Beta.
+Alpha contacts Beta.
+Beta contacts Alpha.
+//Alpha takes Charlie from Beta.
+//Charlie picks up Alpha.
+Alpha contacts Charlie.
+Charlie contacts Alpha.
+Charlie moves.
+//Alpha raises Charlie.
+//Alpha moves.
+The end.

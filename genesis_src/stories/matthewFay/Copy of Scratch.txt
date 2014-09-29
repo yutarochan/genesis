@@ -1,0 +1,37 @@
+//Scratch
+Start experiment.
+
+XX is an entity.
+YY is an entity.
+WW is an entity.
+AA is an action.
+
+//YY becomes happy because YY became the king and YY wants to become the king.
+If XX is king and WW is XX's successor and XX becomes dead, then WW becomes king.
+XX becomes happy because XX wants to jump and XX jumps.
+XX becomes happy because XX wants an action and an action occurs.
+If XX wants an action, then an action may occur.
+
+Start description of "+ emotional impact".
+yy is an entity.
+xx's performing aa leads to yy's becoming happy.
+The end.
+
+Start description of "Dying Happy".
+yy is en entity.
+xx's becoming dead leads to xx's becoming happy.
+The end.
+
+Start story titled "Testing".
+Mary is a person.
+John is a person.
+
+Mary wants to jump.
+Mary jumps.
+
+John is king.
+John wants Mary to become king.
+Mary is John's successor.
+John becomes dead.
+
+The end.

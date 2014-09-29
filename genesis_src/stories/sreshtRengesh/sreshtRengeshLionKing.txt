@@ -1,0 +1,35 @@
+//This is the control version of the story. It is almost identical to the MacBeth story.
+
+Insert file sreshtRengeshLionKingPreamble.
+
+Start story titled "Lion King".
+
+Simba is Mufasa's son.
+
+Scar murders Mufasa.
+
+Timon and Pumbaa flee. 
+
+//Scar's murdering Mufasa leads to Simba's fleeing.
+
+Scar harmed Simba.
+
+//Scar's murdering Mufasa leads to Scar's harming Simba.
+
+Simba murders Scar.
+
+//Scar's harming Simba leads to Simba's murdering Scar.
+
+The end.
+
+/*
+MacBeth kills Duncan.
+Malcolm and Donald go to England.
+MacBeth harmed MacDuff.
+MacDuff kills MacBeth.
+
+Scar kills Mufasa.
+Scar harmed Mufasa.
+Simba befriends Timon.
+Simba kills Scar.
+*/

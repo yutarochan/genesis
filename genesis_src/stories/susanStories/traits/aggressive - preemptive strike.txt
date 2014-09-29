@@ -1,0 +1,28 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+Insert file aggressiveness reflective knowledge.
+
+Start story titled "Hitler's Preemptive Strike".
+
+Hitler is a person.
+Churchill is a person.
+Petain is a person.
+
+Poland is an entity. 
+
+Hitler wants Churchill to fear Hitler because Hitler wants to win the war.
+
+Hitler thinks that Petain will fear Hitler if Hitler invades Poland.
+Hitler thinks that Churchill will fear Hitler if Hitler invades Poland.
+
+Hitler invades Poland because Hitler wants Petain to fear Hitler.
+Hitler invades Poland because Hitler wants Churchill to fear Hitler.
+
+Petain fears Hitler because Hitler invaded Poland.
+Churchill declares war because Hitler invaded Poland.
+
+The end.

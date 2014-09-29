@@ -1,0 +1,62 @@
+Insert file Start experiment.
+
+Show both perspectives.
+
+Both perspectives. 
+//Start commonsense knowledge.
+
+//if xx shows disrespect to yy and yy is a deity then xx commits act against religion. 
+Insert file 31.txt.
+
+First perspective.
+
+Start story titled "Niobe by Sophocles".
+
+
+Niobe is a person and Niobe is mortal.
+Leto is a deity.
+Niobe's daughters are persons.
+Niobe's sons are persons.
+
+Niobe thinks that Niobe is more fertile than Leto because Niobe has fourteen children and because Leto has only two children.
+Niobe loves Niobe's daughters and Niobe loves Niobe's sons.
+Niobe says that Niobe is more fertile than Leto because Niobe thinks that Niobe is more fertile than Leto.	 
+Niobe shows disrespect to Leto because Niobe says that Niobe is more fertile than Leto.
+
+Apollo is an entity.
+Apollo is a deity and Apollo is Leto's son.
+Artemis is a deity and Artemis is Leto's daughter.
+
+Apollo kills Niobe's sons because Niobe shows disrespect to Leto and because Apollo is Leto's son.
+Niobe sees how Apollo kills Niobe's sons.
+Artemis kills Niobe's daughters because Niobe shows disrespect to Leto and because Artemis is Leto's daughter.
+Niobe sees how Artemis kills Niobe's daughters.
+Niobe is powerless to help Niobe's sons because Apollo is a deity and because Niobe is mortal.
+Niobe is powerless to help Niobe's daughters because Artemis is a deity and Niobe is mortal.
+Niobe turns into stone because Artemis kills Niobe's daughters and because Apollo kills Niobe's sons. //and because Niobe's daughters are dead.
+Niobe is hurt because Niobe turns into stone.
+  
+The end.
+
+
+Second perspective.
+
+Start story titled "Ajax Locrian".
+
+Ajax is a person and Ajax is mortal.
+Troy is a city.
+After Troy's falling Ajax goes home by ship.
+
+Athena is a deity.
+Athena dislikes Ajax because Ajax raped a girl in Athena's temple.
+Athena strikes Ajax's ship with lightning because Athena dislikes Ajax.
+Ajax suffers shipwreck because Athena strikes Ajax's ship with lightning.
+Ajax survives because Ajax clings to the cliff.
+
+Ajax shows disrespect to Athena because Ajax claims that Ajax survives despite Athena's will.
+Poseidon is a deity.
+Poseidon destroys the cliff because Ajax shows disrespect to Athena.
+Ajax dies because Poseidon destroys the cliff.
+Ajax is hurt because Ajax dies. 
+
+The end.

@@ -1,0 +1,16 @@
+//Insert file Start experiment.
+First perspective.
+Insert file General commonsense knowledge.
+
+//Both perspectives.
+//XX and YY are persons.
+//XX is shy because XX avoids YY.
+
+Start story titled "Test shyness example".
+
+Calvin is a person.
+Calvin is quiet.
+
+Calvin is violent.
+
+The end.

@@ -1,0 +1,36 @@
+//Scratch
+Start experiment.
+
+Start story titled "Testing".
+Note that Macbeth is a name.
+Note that Duncan is a name.
+Note that Lady Macbeth is a name.
+Note that Scar is a name.
+Note that Lady Scar is a name.
+Note that Mufasa is a name.
+
+Macbeth is a person.
+Duncan is a person.
+Lady Macbeth is a person.
+
+Scar is a person.
+Lady Scar is a person.
+Mufasa is a person.
+
+//Iteration 1
+//Macbeth's murdering Duncan leads to Lady Macbeth's becoming distraught.
+//Scar's murdering Mufasa leads to Lady Scar's becoming distraught.
+
+//Iteration 2 (kills elaboration viewer)
+//For Macbeth to murder Duncan leads to Lady Macbeth become distraught.
+//Scar's murdering mufasa leads to lady scar become distraught.
+
+//Iteration 3 (Same for both, after start cache cleared)
+Macbeth's murdering Duncan leads to Lady Macbeth become distraught.
+//Scar's murdering mufasa leads to lady scar become distraught.
+
+//Iteration 4
+//For Macbeth to murder Duncan leads to Lady Macbeth become distraught.
+//For Scar to murder Mufasa leads to Lady Scar become distraught.
+
+The end.

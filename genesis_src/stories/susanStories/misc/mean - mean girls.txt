@@ -1,0 +1,26 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Great Expectations".
+
+Regina is a person.
+Janice is a person.
+
+Regina is mean.
+
+Janice does not wear nice clothes because Janice is poor.
+
+Regina knows that Regina harms Janice if Regina mocks Janice.
+Regina mocks Janice because Janice does not wear nice clothes and because Regina is mean.
+
+Janice feels bad.
+// Regina becomes happy because Regina mocks Janice.
+Regina becomes happy because Regina harmed Janice.
+
+The end.

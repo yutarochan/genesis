@@ -1,0 +1,19 @@
+Insert file Start experiment.
+First perspective.
+Insert file General commonsense knowledge.
+
+Start story titled "Kind".
+
+Ken is a person.
+Kyle is a person.
+
+Ken is kind because Ken is nice.
+Ken is kind because Ken cares about people.
+//Ken is kind because Ken is friendly.
+Ken is kind because Ken is generous.
+Ken is kind because Ken treats people well.
+
+//Awkward construction, to be fixed
+//If Ken and Kyle are strangers and Ken is friendly to Kyle, then Ken is kind.
+
+The end.

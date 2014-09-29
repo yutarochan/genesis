@@ -1,0 +1,99 @@
+Start experiment.
+
+Both perspectives.
+
+Show both perspectives.
+
+Insert file General commonsense1.
+
+Insert file General reflective knowledge.
+
+//Insert file personality rules.
+
+First perspective.
+
+Insert file Eastern Commonsense1.
+
+Insert file Eastern Reflective knowledge1.
+
+Second perspective.
+
+Insert file Western Commonsense1.
+
+Insert file Western Reflective knowledge1.
+
+First perspective.
+Start story titled "Lu murder story/Eastern".
+
+Second perspective.
+Start story titled "Lu murder story/Western".
+
+First perspective.
+"Asian" is a kind of personality trait.
+I am Asian.
+
+Both Perspectives.
+
+"Violent" is a kind of personality trait. 
+
+Note that Lu is a name.
+Note that Shan is a name.
+Note that Goertz is a name.
+
+Lu is a person.
+Shan is a person. 
+Goertz is a person.
+Associate professor is a person.
+America is an entity. 
+
+//America is individualistic. 
+//America's media glorifies violence. 
+Lu is a student.
+Shan is a student.
+Lu inhabits America.
+
+Lu fails his dissertation defense.
+Goertz is Lu's advisor. 
+Goertz and Lu are not friends. 
+Lu was angry at Goertz because Lu failed his dissertation defense.
+
+Lu is Chinese.
+Lu went to US to do phD.
+Lu had highest entrance exam score.
+
+Lu is a bachelor. 
+Lu is lonely. 
+Lu owns a gun. 
+
+Lu practices shooting. 
+Lu passes his second dissertation defense.
+Lu becomes a lab assistant because Lu does not find a job.
+
+Shan is younger than Lu.
+Shan graduates with Lu.
+Shan received national award.
+Lu did not receive national award. 
+Lu contested faculty decision because Lu did not receive national award. 
+Faculty rejected Lu's appeal. 
+
+Shan comes from a small Chinese village. 
+Shan is married. 
+Shan is social.
+Shan has friends. 
+Shan is successful. 
+
+Lu shoots Goertz. 
+Lu shoots an associate professor. 
+Lu shoots Shan. 
+Lu shoots himself.
+
+The end. 
+
+Insert into text box: Did Lu kill Shan because America is individualistic?
+
+
+
+
+
+
+

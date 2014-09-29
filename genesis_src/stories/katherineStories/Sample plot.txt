@@ -1,0 +1,85 @@
+
+
+Macbeth, Macduff, Lady Macbeth, Cawdor, and Duncan are persons. 
+A thane is a kind of noble.
+Macbeth is a thane and Macduff is a thane.
+Lady Macbeth is Macbeth's wife and Lady Macbeth is greedy.
+
+
+// Duncan, who is Macduff's friend, is the king, and Macbeth is Duncan's successor.
+
+Duncan is the king, and Macbeth is Duncan's successor.
+
+England is a country.
+
+// Duncan hates England and Macduff hates Cawdor.
+
+Duncan is Cawdor's enemy and Macduff is Cawdor's enemy.
+
+// George is Duncan's enemy and George is Cawdor's enemy.
+
+Macbeth defeated a rebel.
+
+// Stopped working near 30 July 2012
+// Macbeth's success made Duncan become happy.
+
+Duncan become happy because Macbeth succeeded.
+
+Witches had visions and talked with Macbeth.
+
+Burnam Wood is a place.
+
+Dunsinane is a castle.
+
+Witches predicted that Burnam Wood would go to Dunsinane.
+
+Duncan rewarded Macbeth because Duncan became happy.
+
+// Macbeth wants to become king.
+
+Lady Macbeth is Macbeth's wife.
+
+// Causes trouble, for some reason.
+// Lady Macbeth wants to become the queen.
+
+// Lady Macbeth, who is Macbeth's wife, persuades Macbeth to want to become the king.
+
+// Lady Macbeth persuades Macbeth to want to become the king.
+
+Macbeth wants to become king because Lady Macbeth persuaded Macbeth to want to become the king.
+
+Macbeth murders Duncan.
+
+Macduff is vindictive.
+
+Then, Lady Macbeth becomes crazy.
+
+Lady Macbeth's becoming crazy leads to Lady Macbeth's killing herself. 
+
+// Lady Macbeth kills herself.
+
+
+Dunsinane is a castle and Burnham Wood is a forest.
+Burnham Wood goes to Dunsinane.  
+
+
+Then, Macduff fights with Macbeth.
+
+// Macduff is insane.
+
+// Macduff likes Macbeth.
+
+
+
+Then, Macduff kills Macbeth.
+
+Witches predict that Burnam Wood would go to Dunsinane before Burnam Wood went to Dunsinane.
+
+ 
+
+
+
+// Macduff had unusual birth.
+
+The end.
+

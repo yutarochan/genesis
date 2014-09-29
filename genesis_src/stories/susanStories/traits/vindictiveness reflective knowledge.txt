@@ -1,0 +1,38 @@
+Start reflective knowledge.
+
+Start description of "revenge".
+XX is a person.
+YY is a person.
+YY's harming XX leads to XX's harming YY.
+The end.
+
+Start description of "revenge - attempt".
+XX is a person.
+YY is a person.
+YY's harming XX leads to XX's trying to harm YY.
+The end.
+
+Start description of "vindictive".
+XX is a person.
+YY is a person.
+YY's harming XX leads to XX's wanting to harm YY.
+The end.
+
+/*
+
+DEPRECATED 
+
+Start description of "Vindictive - Attempt".
+XX is a person.
+YY is a person.
+YY's harming XX leads to XX's wanting to harm YY.
+XX's wanting to harm YY leads to XX's trying to harm YY.
+The end.
+
+Start description of "Vindictive - Accomplished".
+XX is a person.
+YY is a person.
+YY's harming XX leads to XX's wanting to harm YY.
+XX's wanting to harm YY leads to XX's harming YY.
+The end.
+*/

@@ -1,0 +1,18 @@
+
+
+Patrick is a person.
+
+Dimitri is a person.
+
+Sila is a person.
+
+// Patrick is nice.
+
+// Patrick flew to a tree because a cat appeared.
+
+Patrick killed Dimitri.
+
+Sila killed Patrick.
+
+The end.
+

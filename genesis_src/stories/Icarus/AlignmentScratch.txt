@@ -1,0 +1,35 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+Start Story titled "IED 2".
+Agent-1 meets Agent-2 at Location-1-1.
+Agent-1 gives IED-1 to Agent-2.
+Agent-2 travels to Location-9-1.
+Agent-2 meets Agent-3 at Location-9-1.
+Agent-2 gives IED-1 to Agent-3.
+Agent-3 travels to Location-5-5.
+Agent-3 places IED-1 at Location-5-5.
+Agent-3 detonates IED-1.
+Agent-3 makes a phone call.
+Remember story.
+The end.
+
+Second perspective.
+Start Story titled "Prompt".
+Agent-11-1 gives IED-11 to Agent-12-1.
+Agent-13-1 gives Ammunition-11 to Agent-14-1.
+Agent-12-1 retrieves Weapon-11 from Location-15-11.
+Agent-12-1 gives IED-11 to Agent-15-1.
+Agent-14-1 meets Agent-12-1 at Location-15-19.
+Agent-14-1 gives Ammunition-11 to Agent-12-1.
+Agent-12-1 travels to Location-17-13.
+Agent-12-1 meets Agent-16-1 at Location-19-11.
+Agent-15-1 travels to Location-11-15.
+Align story.
+The end.
+
+//Both perspectives.
+//The end.

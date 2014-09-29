@@ -1,0 +1,17 @@
+Clear story memory.
+
+Dave and James are persons.
+
+James may want to harm Dave because Dave harmed James.
+
+James is unhappy because Dave harmed James.
+
+Start story.
+
+Dave harms James.
+
+James harms Dave because James wanted to harm Dave.
+
+The end.
+
+

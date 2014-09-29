@@ -1,0 +1,24 @@
+Insert file Start experiment.
+
+Insert file kindness reflective knowledge.
+
+Start story titled "Little Princess".
+
+Sara is a person.
+Becky is a person.
+Emily is an entity.
+
+Sara is Becky's friend.
+
+Sara owns Emily because Sara's father bought Emily for Sara.
+
+Becky wants to use Emily.
+
+Sara thinks that Becky will become happy if Sara allows Becky to use Emily.
+Sara allows Becky to use Emily because Becky wants to use Emily.
+Sara allows Becky to use Emily because Sara wants Becky to become happy.
+
+Becky uses Emily because Sara allows Becky to use Emily.
+Becky becomes happy because Becky uses Emily.
+
+The end.

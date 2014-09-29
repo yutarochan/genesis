@@ -1,0 +1,23 @@
+Start reflective knowledge.
+
+Start description of "success".
+xx is an entity.
+yy is anything.
+xx's wanting yy leads to yy.
+yy leads to xx's becoming happy.
+The end.
+
+Start description of "mistake".
+xx is an entity.
+xx's performing an action leads to xx's becoming unhappy.
+The end.
+
+Start story.
+
+xx is a person.
+yy is anything.
+xx's wanting yy leads to yy.
+yy leads to xx's becoming happy.
+xx's wanting yy leads to xx's becoming unhappy.
+
+The end.

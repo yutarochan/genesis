@@ -1,0 +1,9 @@
+Clear story memory.
+
+Start story.
+
+England's power increased.
+
+France's power decreased.
+
+The End.

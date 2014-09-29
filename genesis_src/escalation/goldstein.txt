@@ -1,0 +1,92 @@
+// Based loosely on Joshua Goldstein's coding formulation
+
+-2.8 accuse
+-3 warn
+-3.4 denounce
+-3.4 denigrate
+// Added by phw
+// -3.4 offend
+// Added by phw
+// -3.4 insult
+-3.8 halt negotiations
+-4 break law
+-4 disclose information
+-4 political flight
+-4 defy norms
+-4 veto
+-4 censor media
+-4 impose curfew
+-4 refuse to allow
+-4 reject proposal
+-4 reject
+// Added by phw
+-4.2 insult
+-4.4 political arrest and detention
+-4.4 criminal arrest and detention
+-4.4 arrest and detention
+-4.4 threaten
+-4.5 administrative sanctions
+-4.5 strike
+-4.5 strikes and boycotts
+-4.5 sanction
+-4.9 demand
+-4.9 expel
+-5.2 protest
+-5.6 reduce or stop aid
+-5.8 sanctions threat
+-6.4 nonmilitary force threats
+-6.4 threaten
+// Added by phw
+-6.5 damage
+// Added by phw
+// -6.5 attack
+// Added by phw
+// -6.5 fight
+// Added by phw
+// -6.6 damage
+-6.8 guerrilla seizure
+-6.8 police seizure
+-6.8 seize
+// Added by phw
+// -6.9 destroy
+-6.9 control crowds
+-6.9 protest altruism
+-6.9 protest
+-6.9 give ultimatum
+-7 military clash
+-7 break relations
+-7 threaten military war
+-7 threaten military occupation
+-7 threaten military blockade
+-7 threaten military attack
+-7 military force threat
+-7.6 military border violation
+-7.6 military border fortification
+-7.6 military mobilization
+-7.6 military troops display
+-7.6 military naval display
+-7.6 military alert
+-7.6 military demonstration
+-8.3 riot or political turmoil
+-8.7 bombing
+-9.2 military seizure
+-9.2 abduction
+-9.2 seize possession
+-9.6 assassinate
+-9.6 guerrilla assault
+-9.6 paramilitary assault
+-9.6 torture
+-9.6 sexual assault
+-9.6 bodily punishment
+-9.6 shoot
+-9.6 beat
+-9.6 physical assault
+-9.6 force
+-10 biological weapons use
+-10 assault
+-10 military occupation
+-10 coups and mutinies
+-10 military raid
+-10 military engagements
+// Added by phw
+// -10 kill

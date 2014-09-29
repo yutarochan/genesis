@@ -1,0 +1,17 @@
+Insert file Start experiment.
+
+Start story titled "Harbor/Beach".
+
+Harold, Paul, Bob, George, Tim, and Tony are persons.
+
+George walks towards the boat.
+Then he jumps into the water.
+Tim buries Harold in the ground.
+Tony throws a ball and Brad, a dog, chases it.
+Brad catches the ball and carries it back towards Tony.
+George moves through the water and arrives at the boat.
+Paul hauls George onto the boat.
+Paul and George haul up the anchor.
+The boat leaves the harbor.
+
+The end.

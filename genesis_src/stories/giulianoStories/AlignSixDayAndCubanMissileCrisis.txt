@@ -1,0 +1,33 @@
+	Insert file Start experiment.
+
+First perspective.
+
+Egypt and Israel are entities.
+
+Start story titled "Six Day War".
+
+Egypt thought that Israel moved Egypt's troops to the border of Egypt.
+Egypt moved Egypt's troops to the border of Egypt.
+Israel felt threatened.
+Israel ordered Egypt to withdraw Egypt's troops.
+Egypt did not withdraw Egypts' troops.
+Israel attacked the Egypt.
+Israel destroyed the Egypt.
+
+The end.
+
+Second perspective.
+
+USSR and USA are entities.
+
+Start story titled "Cuban Missile Crisis".
+USA had missiles aimed at USSR.
+USSR moved missiles to aim to USA.
+USA felt threatened.
+USA ordered USSR to withdraw the missiles.
+USSR agreed to withdraw missiles if USA withdraw its missiles.
+USA agreed to withdraw its missiles.
+USSR withdraw its missiles.
+USA withdraw its missiles.
+
+The end.

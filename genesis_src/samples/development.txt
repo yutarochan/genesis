@@ -1,0 +1,23 @@
+The ball is under the table.
+Is the ball under the table?
+
+The ball is between the blocks.
+
+The ball is behind the block.
+Is the ball behind the block?
+
+The ball ran into the block.
+
+Imagine the ball ran into the block.
+Imagine the car ran into a tree.
+
+Imagine the ball fell off the block.
+Is the ball on the floor?
+
+Imagine the vase fell off the shelf.
+Is the vase on the floor?
+
+Imagine the ball jumped over the block.
+Has the ball jumped over the block?
+
+Imagine the dog jumped over the fence.

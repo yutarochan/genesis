@@ -1,0 +1,47 @@
+Clear story memory.
+
+Henry, George, James, and Mary are persons.
+
+James harms Henry because James harmed George and George is Henry's friend.
+
+James may hit Henry because James dislikes Henry.
+
+//James harms Henry because James kills Henry.
+
+//Henry may dislike James because James harmed Henry.
+
+// Henry is happy because James defeated the rebel.
+
+// Henry became happy because James ran to a tree.
+
+// Henry is James's relative because Henry is James's father.
+
+// A thane is a kind of noble.
+
+Start story.
+
+Duncan, Macbeth, and Macduff are persons.
+
+Duncan, who is Macduff's friend, is the king.
+
+Macbeth dislikes Duncan.
+
+Macbeth harms Duncan because Macbeth hit Duncan.
+
+The end.
+
+Start story.
+
+Samuel and Boris are persons.
+
+Samuel hit Boris.
+
+The end.
+
+
+
+
+
+
+
+

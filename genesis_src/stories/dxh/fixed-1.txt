@@ -1,0 +1,24 @@
+Insert file Start experiment.
+
+Set right panel to mental models.
+
+Set bottom panel to elaboration graph.
+
+Start common sense knowledge.
+
+First perspective.
+If Eve is Adam's wife, then Adam is Eve's husband.
+If Chelsea is Eve's daughter, then Eve is Chelsea's parent and Chelsea is Eve's child.
+If Eve is Adam's wife, then Adam is Eve's husband.
+If Chelsea is Eve's child and Adam is Eve's husband, then Chelsea is Adam's child.
+
+Show both perspectives.
+Both perspectives.
+
+// NEVER MIND --- THERE IS NO BUG
+Start story titled "Bug: Rules ceasefire prematurely".
+
+Elizabeth, Jane, Mary, and Lydia are Lady Bennet's daughters.
+Lady Bennet is Mister Bennett's wife.
+
+

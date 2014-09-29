@@ -1,0 +1,50 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+ZZ is an entity.
+
+If XX is a child and ZZ is a toy, then XX may want to play with ZZ.
+
+If YY allows XX to play with ZZ, then XX may play with ZZ.
+If XX wants to play with ZZ and XX plays with ZZ, then XX is happy.
+
+Start reflective knowledge.
+
+Start description of "sharing".
+
+XX is a person.
+YY is a person.
+ZZ is an entity.
+
+XX owns ZZ.
+YY wants to play with ZZ.
+XX allows YY to play with ZZ.
+
+The end.
+
+Start story titled "Generous child".
+
+Luke is a person.
+Luke is a child.
+
+Nick is a person.
+Nick is a child.
+
+Bike is an entity.
+Bike is a toy.
+
+Luke owns the Bike.
+
+Nick wants to play with the Bike.
+Luke allows Nick to play with the Bike because Luke is kind.
+
+Nick plays with the Bike.
+
+The end.

@@ -1,0 +1,34 @@
+Insert file Start experiment.
+
+First perspective.
+//Insert file General commonsense knowledge.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX gives a presentation, then XX may think YY doesn't like XX's presentation.
+If XX gives a presentation, then XX may think YY likes XX's presentation.
+
+If XX thinks YY doesn't like XX's presentation, then XX may not speak well.
+
+If XX does not speak well, then XX may feel embarrassed.
+
+Start story titled "The presenter".
+
+The audience is a person.
+
+Andrew is a person.
+Andrew is shy.
+
+Andrew gives a presentation.
+Andrew thinks the audience doesn't like Andrew's presentation because Andrew is shy.
+
+Andrew feels embarrassed.
+
+Andrew stutters because Andrew feels embarrassed.
+
+The audience doesn't like Andrew's presentation because Andrew stutters.
+
+The end.

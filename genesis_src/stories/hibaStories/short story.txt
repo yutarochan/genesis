@@ -1,0 +1,32 @@
+Run what-if experiments A and B.
+
+Clear story memory.
+
+Assume if experiment A:"Insane" is a kind of personality trait.
+
+Assume if experiment A: Insert file Western Commonsense. 
+
+Assume if experiment B: Insert file Eastern Commonsense. 
+
+Assume if experiment A: Insert file western reflective knowledge. 
+
+Assume if experiment B: Insert file Eastern Reflective Knowledge.
+
+Assume if experiment A: Start story titled "American".
+
+Assume if experiment B: Start story titled "Chinese".
+
+"Violent" is a kind of personality trait. 
+
+America is an entity. 
+Lu is a person.
+Shan is a person. 
+Lu inhabits America.
+Lu lives in America. 
+America is individualistic. 
+America glorifies violence. 
+Lu shoots Shan.
+
+The end. 
+
+

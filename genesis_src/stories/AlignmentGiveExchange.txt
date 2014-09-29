@@ -1,0 +1,41 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+First perspective.
+
+Start story titled "Exchange Story".
+
+Second perspective.
+
+Start story titled "Give Story".
+
+First perspective.
+
+Mark and Matt are persons.
+The ball is an object.
+The cup is an object.
+
+Mark controls the ball.
+Matt controls the cup.
+Mark gives the ball to Matt.
+Matt gives the cup to Mark.
+Mark controls the cup.
+Matt controls the ball.
+
+Second perspective.
+
+Mary and Sally are persons.
+The bowl is an object.
+//The plate is an object.
+Sally controls the bowl.
+//Mary controls the plate.
+//A gap appears.
+Sally gives the bowl to Mary.
+//Sally controls the plate.
+Mary controls the bowl.
+
+Both Perspectives.
+
+The End.

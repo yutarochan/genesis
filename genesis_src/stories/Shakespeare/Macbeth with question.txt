@@ -1,0 +1,11 @@
+Start experiment.
+
+Insert file Macbeth1 common.
+
+// This is an example of a question in a file.  Macbeth1 common inserts various files which ultimately contains a "The end."
+
+
+What happens if Macbeth does not murder Duncan.
+
+
+

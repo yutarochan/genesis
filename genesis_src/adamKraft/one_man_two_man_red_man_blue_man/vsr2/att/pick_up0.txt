@@ -1,0 +1,63 @@
+
+transitions/vsr2/rf/pick_up0.txt has 300 RefFrames.
+transitions/vsr2/rf/pick_up0.txt has 3 markers.
+KF 80 [- 0] id=1  dmarkerContact[2]=1
+KF 81 [- 1] id=2  dmarkerContact[1]=1
+Inst 82 [- 81 78 77 72] id=2  dmarkerContact[1]=1
+Inst 84 [- 83 80 79 76] id=1  dmarkerContact[2]=1
+Inst 91 [- 90 89 88 87] id=2  ddy=1
+Inst 98 [- 97 93 92 91] id=2  [1] dR=-1 dTheta=0
+Inst 99 [- 98 97 93 92] id=2  [1] dR=-1 dTheta=0
+Inst 100 [- 99 98 97 93] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=0
+Inst 101 [- 100 99 98 97] id=2  ddx=1 [1] dR=-1 dTheta=0
+Inst 102 [- 101 100 99 98] id=2  ddx=1
+Inst 103 [- 102 101 100 99] id=2  ddx=1
+Inst 104 [- 103 102 101 100] id=2  ddx=1
+Inst 106 [- 105 104 103 102] id=2  ddy=-1
+Inst 109 [- 108 107 106 105] id=2  ddx=-1 [1] dR=1 dTheta=0
+Inst 110 [- 109 108 107 106] id=2  ddx=-1 [1] dR=1 dTheta=0
+Inst 111 [- 110 109 108 107] id=2  ddx=-1 ddy=-1 [1] dR=1 dTheta=0
+Inst 112 [- 111 110 109 108] id=2  ddy=-1
+Inst 118 [- 117 116 115 112] id=2  ddy=1
+Inst 119 [- 118 117 116 115] id=2  ddy=1 [1] dR=0 dTheta=-1
+Inst 120 [- 119 118 117 116] id=2  ddy=1 [1] dR=0 dTheta=-1
+Inst 121 [- 120 119 118 117] id=2  ddy=1 [1] dR=0 dTheta=-1
+Inst 122 [- 121 120 119 118] id=2  ddy=1
+Inst 123 [- 122 121 120 119] id=2  ddy=1
+Inst 124 [- 123 122 121 120] id=2  ddy=1
+Inst 125 [- 124 123 122 121] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=-1
+Inst 126 [- 125 124 123 122] id=2  ddx=1
+Inst 127 [- 126 125 124 123] id=2  ddx=1
+Inst 128 [- 127 126 125 124] id=2  ddx=1
+Inst 129 [- 128 127 126 125] id=2  ddx=1 [1] dR=-1 dTheta=0
+KF 129 [- 81] id=2  [1] dR=-1 dTheta=0
+Inst 133 [- 132 131 130 129] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=-1
+Inst 134 [- 133 132 131 130] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=-1
+Inst 135 [- 134 133 132 131] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=0
+Inst 136 [- 135 134 133 132] id=2  ddx=1 [1] dR=-1 dTheta=0
+Inst 137 [- 136 135 134 133] id=2  ddx=1 [1] dR=-1 dTheta=0
+Inst 138 [- 137 136 135 134] id=2  ddx=1 [1] dR=-1 dTheta=0
+Inst 139 [- 138 137 136 135] id=2  ddx=1 [1] dR=-1 dTheta=1
+Inst 140 [- 139 138 137 136] id=2  ddx=1 [1] dR=-1 dTheta=1
+Inst 141 [- 140 139 138 137] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 142 [- 141 140 139 138] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 143 [- 142 141 140 139] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 144 [- 143 142 141 140] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 145 [- 144 143 142 141] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+Inst 146 [- 145 144 143 142] id=2  ddx=1 ddy=-1 [1] dR=-1 dTheta=1
+KF 147 [- 80] id=1  [2] dR=-1 dTheta=0
+KF 149 [- 129] id=2  [1] dR=-1 dTheta=0
+Inst 150 [- 149 146 145 144] id=2  [1] dR=-1 dTheta=0
+Inst 151 [- 150 149 146 145] id=2  [1] dR=-1 dTheta=0
+Inst 152 [- 151 150 149 146] id=2  ddx=1 ddy=1 [1] dR=-1 dTheta=0
+Inst 161 [- 160 159 -1 -1] id=1  dmarkerContact[2]=1
+Inst 179 [- 178 174 -1 -1] id=2  dmarkerContact[1]=1
+Inst 197 [- 196 195 194 192] id=1  [2] dR=0 dTheta=-1
+Inst 198 [- 197 196 195 194] id=1  [2] dR=1 dTheta=0
+Inst 201 [- 200 193 -1 -1] id=2  dmarkerContact[1]=1
+Inst 237 [- 236 235 232 231] id=2  [1] dR=-1 dTheta=0
+Inst 268 [- 267 266 -1 -1] id=1  dmarkerContact[2]=1
+Inst 286 [- 285 277 -1 -1] id=1  dmarkerContact[2]=1
+Inst 289 [- 288 287 286 285] id=1  [2] dR=-1 dTheta=0
+Inst 296 [- 295 294 -1 -1] id=2  dmarkerContact[1]=1
+

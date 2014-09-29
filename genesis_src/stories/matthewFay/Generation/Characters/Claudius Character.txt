@@ -1,0 +1,17 @@
+// Example of what Claudius might do (Scar Model)
+
+Claudius is a person.
+
+King Hamlet is generic.
+
+Hamlet is generic.
+
+Claudius is King Hamlet's brother.
+
+Claudius is King Hamlet's successor.
+
+Claudius kills King Hamlet.
+
+Claudius becomes the king.
+
+Claudius scares away Hamlet.

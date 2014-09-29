@@ -1,0 +1,19 @@
+Insert file Start experiment.
+
+First perspective.
+
+XX is person.
+YY is person.
+ZZ is a disease.
+If YY is XX's father and YY owns ZZ, then XX has history.
+
+Start story titled "Test Story".
+
+Dave is a person.
+Yadid is a person.
+Coronary heart disease is a disease.
+
+Dave is the father of Yadid.
+Dave owns coronary heart disease.
+
+The End.

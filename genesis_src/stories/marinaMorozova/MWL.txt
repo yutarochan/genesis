@@ -1,0 +1,201 @@
+Insert file Start experiment.
+ 
+ 
+ 
+First perspective.
+ 
+Show first perspective.
+ 
+Start commonsense knowledge.
+ 
+xx is an entity.
+ 
+yy is an entity.
+ 
+If xx gives money to yy then xx enriches yy.
+ 
+If yy kidnaps xx then yy injures xx.
+ 
+If xx is a noble and yy is a son of xx then yy is a noble.
+ 
+xx injures yy because xx injures zz and zz is yy's son.
+ 
+xx prefers yy to zz because xx refuses to marry zz and xx loves yy.
+ 
+if yy defaces xx then xx becomes injured.
+ 
+xx may want to injure yy because xx envies yy.
+ 
+xx may dislike yy because yy disrespect xx.
+
+xx may disrespect yy because xx is rich and yy is poor.
+
+// xx may disrespect yy because yy is poor.
+
+xx may disrespect yy because xx is mean and yy is ugly.
+
+xx is mean because xx is a noble.
+
+xx cannot be mean because xx is poor.
+ 
+Start reflective knowledge.
+ 
+// Done.
+ 
+Start description of "Crazy waste".
+ 
+I am greedy.
+xx is a person.
+yy is a person.
+yy promises money to xx.
+xx refuses money.
+ 
+The end.
+ 
+ 
+ 
+ 
+// Done.
+
+/*
+ 
+Start description of "Child Abuse".
+ 
+// I am not Machiavellian.
+ 
+xx is a child.
+yy is a person.
+yy injures xx. 
+ 
+The end.
+
+*/
+ 
+// Done.
+ 
+Start description of "Strengthening power".
+ 
+I am Machiavellian.
+xx is a noble.
+yy is a noble.
+zz is a noble.
+yy contradicts xx.
+zz is neutral.
+xx injures yy.
+xx enriches zz.
+ 
+// xx is Richard, yy is Clancharlie, and zz is David 
+ 
+The end.
+ 
+// Done.
+ 
+Start description of "Love prevails over greed".
+ 
+I am romantic.
+xx is a entity.
+yy is a entity.
+zz is an entity.
+ 
+yy is rich. 
+zz is poor.
+xx loves zz.
+xx prefers zz to yy.
+ 
+ 
+The end.
+ 
+ 
+Start story titled "The Man Who Laughs".
+ 
+I am Machiavellian.
+ 
+I am greedy.
+ 
+I am romantic.
+ 
+Clancharlie is a person.
+Clancharlie is a noble.
+Richard is a person.
+Richard is a noble.
+ 
+ 
+Gwynplaine is a child.
+
+Gwynplaine is poor.
+
+
+Gwynplaine is a son of Clancharlie.
+David is a person.
+David is a son of Clancharlie.
+ 
+Dea is a person.
+Ursus is a person.
+Josiana is a person.
+Elizabeth is a person.
+ 
+Lords is a person.
+Lords is rich.
+Lords is a noble.
+ 
+Dea is poor.
+Ursus is poor.
+
+Dea is good.
+Ursus is good.
+Josiana is vicious.
+ 
+Gwynplaine loves Dea.
+ 
+Josiana is rich.
+ 
+Criminals are kind of people.
+ 
+Elizabeth and Lords are friends.
+ 
+Clancharlie contradicts Richard.
+Richard doesn't like Clancharlie.
+Clancharlie dies.
+ 
+Richard kidnaps Gwynplaine.
+Richard gives money to David.
+ 
+Richard sells Gwynplaine to criminals.
+David is neutral.
+Richard takes money from Gwynplaine.
+ 
+ 
+Gwynplaine is ugly because Criminals deface Gwynplaine.
+ 
+Criminals abandon Gwynplaine.
+Gwynplaine starves.
+Gwynplaine is cold.
+Gwynplaine finds Dea.
+Dea starves.
+Dea is cold.
+Ursus meets Gwynplaine and Dea.
+Ursus feeds Gwynplaine and Dea.
+Gwynplaine and Dea and Ursus live together.
+ 
+ 
+Criminals confess that Criminals defaced Gwynplaine.
+ 
+Elizabeth envies Josiana because Josiana is beautiful.
+ 
+ 
+Elizabeth promises money to Gwynplaine because Elizabeth wants Gwynplaine to marry Josiana.
+Elizabeth wants to injure Josiana.
+Elizabeth wants Gwynplaine to marry Josiana because Elizabeth wants to injure Josiana and because Gwynplaine is ugly.
+ 
+Gwynplaine comes to Lords.
+Gwynplaine speaks to Lords.
+Lords laugh because Lords disrespect Gwynplaine.
+Gwynplaine refuses to marry Josiana because Gwynplaine loves Dea and because Gwynplaine dislike Lords.
+Gwynplaine refuses money.
+Gwynplaine continues living with Ursus and Dea.
+ 
+ 
+ 
+The end.
+
+

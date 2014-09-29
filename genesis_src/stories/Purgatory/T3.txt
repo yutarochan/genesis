@@ -1,0 +1,46 @@
+/* Story/Ruleset to test out statements and reasons for "XX compels YY to want AA" and other forms
+ *	of a similar nature.  In particular, I want to have Genesis understanding things like delegation
+ *  and goal inheritance.  We'll just leave it for now that XX may want YY to want AA if XX wants AA
+ *	in the first place.
+ *
+ * We can use this ruleset to construct plot units like the Coerced Agreement Honored and the
+ *	Coerced Agreement Bungled, hopefully.
+ *
+ * At the moment, abstraction is not fully functional, so we'll have to refer to AA by it's raw-action
+ *	name rather than AA, which once implemented fully will be the most useful/abstract form available.
+ */
+
+/* 1/25/10 -- capen -- using "compel" rather than Lehnert's "coerce".
+ *	Note that compel is coerce's thread parent, so we're not any semantically weaker.
+ *	More importantly, Genesis interprets "XX compels YY to want AA" as saying that:
+ *	"XX compels [[YY want AA]]" rather than the coercive interpretation which runs thus:
+ *	"[[XX coerces YY]] in order to [[XX wants AA]]" (also, what?  nice sentence.)
+ */
+Clear text.
+Clear story memory.
+ 
+XX is an entity and YY is an entity.
+ 
+XX becomes happy because XX wanted an action to occur and the action occurred. 
+ 
+//5. XX may COMPEL YY [Entity] to perform AA if XX INTIMIDATES YY
+//XX may compel YY to want an action to occur because XX intimidated YY.
+XX may compel YY to want an action because XX intimidated YY and XX wanted the action to occur.
+
+//6. If XX COMPELS YY to want AA, then YY wants AA.  ---  just to be clear
+YY wants an action because XX compels YY to want the action to occur.
+
+//6b. [DELEGATION] -- allow actors options for performing tasks via delegation/intimidation, etc.
+XX may want YY to want an action because XX wanted the action to occur.
+
+Start story.
+
+Hasbro is a company and Simtex is a company.
+Hasbro intimidates Simtex.
+
+Hasbro wants Simtex to resign.
+Hasbro compels Simtex to want to resign.
+Simtex resigns.
+
+The end.
+

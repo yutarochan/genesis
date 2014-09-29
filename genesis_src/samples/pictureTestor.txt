@@ -1,0 +1,12 @@
+
+/*
+ * This is a test file for Rachel's picture presenter, which tries to find the best possible picture for a given object.
+ */
+ 
+ The owl flew to a tree.
+ 
+ The sparrow flew to a lake.
+ 
+ The hawk flew from a house to a mountain.
+ 
+ // This is another comment sample.

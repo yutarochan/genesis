@@ -1,0 +1,109 @@
+the bird can fly to the tree.
+the bird can run to the tree.
+the dog can run to the tree.
+the dog cannot fly.
+
+the man can appear.
+the cat can appear.
+the man can disappear.
+
+the dog ran to the tree because the cat appeared.
+the cat appeared.
+the mouse appeared.
+
+the cat cannot disappear.
+
+The soldier walked from the bridge to the town.
+A terrorists climbed over the fence after the soldier left.
+An armored car came because the terrorists appeared.
+The armored car forced the terrorist to leave.
+
+The bird flew to the tree.
+The robin flew to the tree.
+The dove flew to the tree.
+The politician ran for office.
+The senator ran for office.
+The man ran for office.
+The senator ran for office.
+The hawk ran for office.
+The hawk flew from a tree.
+
+The pony ran to a girl . 
+The cat watched a fly .
+The monkey read a book .
+The goat ate a ball . 
+The baby ate a berry . 
+The rat lived in the garden . 
+The owl flew to the lake . 
+ 
+A boy ran from a house to a tree.
+ 
+They have the right to bear arms. 
+The sign on the right was bent. 
+
+The plant is producing far too little to sustain its operation for more than a year. 
+Oxygen was produced by the plant in the third week fo the study. 
+
+The tank has a top speed of seventy miles an hour. 
+We cannot fill more gasoline in the tank. 
+
+The tank is full of soldiers
+The tank is full of nitrogen. 
+
+The hawk flew to the tree. 
+The hawk called for more war funding. 
+
+She walked to the bank. 
+She walked along the bank. 
+
+A bouvier is a dog.
+
+A bouvier is in the house.
+A bird is over the house.
+A bird is above the top of the house.
+The ball is under the table.
+The ball is between the blocks.
+The ball is behind the block.
+
+A boy ran from a house to a tree.
+The ball ran into the block.
+The vase fell off the shelf.
+The vase fell off of the shelf.
+The ball jumped over the block.
+The dog jumped over the fence.
+
+A bird appeared.
+The ball touched the block.
+
+A robin disappeared because an kestrel flew over the tree.
+A sparrow flew because a dog appeared.
+
+A dog forced a cat to run to a tree.
+A cat forced a bird to fly.
+
+A bird flew after a dog appeared.
+
+Is the bird above the tree?
+
+Did the dog run to the lake?
+Why did the dog run to the lake?
+
+Why did the ball touch the block?
+Did the ball touch the block.
+Did contact appear.
+Did contact appear after the bird flew.
+ 
+ The dog ran to a tree.
+A rabbit ran from a dog.
+A boy ran with a dog.
+The boy ran from the dog.
+The robin flew to the tree.
+The sparrow flew to the top of a tree.
+The hawk flew to the sparrow.
+
+A boy appeared.
+A car disappeared.
+A speed increased.
+A height decreased.
+A mood changed.
+A boy did not appear.

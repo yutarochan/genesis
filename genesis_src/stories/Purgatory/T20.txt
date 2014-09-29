@@ -1,0 +1,22 @@
+/*
+Checks for duplicates introduced during a refractoring.  Should be only once copy of each relation.
+*/
+
+Start commonsense knowledge.
+
+George is Henry's friend because Henry is George's relation.
+Henry is George's friend because Henry is George's relation.
+George is Henry's friend because George is Henry's relation.
+Henry is George's friend because George is Henry's relation.
+
+George is Henry's relation because George is Henry's son.
+
+Start story.
+
+Pause.
+
+Hamlet is King_Hamlet's son.
+
+Pause.
+
+The end.

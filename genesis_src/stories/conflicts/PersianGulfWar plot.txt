@@ -1,0 +1,18 @@
+Start story titled "Persian Gulf War".
+
+Iraq is a country.
+Kuwait is a country.
+UnitedStates is a country.
+KuwaitsOil is a resource.
+
+Iraq invaded Kuwait because Iraq wanted KuwaitsOil and Kuwait possesses KuwaitsOil.
+Iraq was stronger than Kuwait.
+Iraq defeated Kuwait because Iraq invaded Kuwait and Iraq was stronger than Kuwait.
+Iraq possessed Kuwait because Iraq defeated Kuwait.
+
+The UnitedStates invaded Iraq because the UnitedStates did not want Iraq to possess Kuwait and Iraq possessed Kuwait.
+The UnitedStates defeated Iraq because the UnitedStates invaded Iraq and the UnitedStates was stronger than Iraq.
+The UnitedStates possessed Iraq because the UnitedStates defeated Iraq.
+The UnitedStates forced Iraq to leave from Kuwait because the UnitedStates possessed Iraq.
+
+The end.

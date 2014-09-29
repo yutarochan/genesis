@@ -1,0 +1,103 @@
+Insert file Start experiment.
+
+Show both perspectives.
+
+Both perspectives.
+
+Start commonsense knowledge.
+
+xx harms yy because xx robs yy.
+
+xx breaks law because xx harms yy.
+
+xx breaks law because xx robs yy.
+
+
+
+xx breaks law because xx steals information.
+
+xx may go to jail if xx breaks law.
+
+
+The end.
+
+
+Start reflective knowledge.
+
+Start description of "Justice".
+
+I am not a lawyer.
+xx is a person.
+yy is a person.
+xx's harming yy leads to xx's going to jail.
+
+The end.
+
+Start description of "Unreasonable punishment".
+
+I am not a lawyer.
+xx is a person.
+yy is a person.
+xx does not harm yy.
+xx breaks law.
+xx goes to jail.
+
+The end.
+
+Start description of "Justice".
+
+I am a lawyer.
+xx is a person.
+xx's breaking law leads to xx's going to jail.
+
+The end.
+
+First perspective.
+
+
+
+Start story titled "Randy".
+
+I am a lawyer.
+
+
+
+Randy is a person.
+MIT is an institution.
+MIT is rich.
+People are persons.
+People are not rich.
+
+MIT owns information.
+Randy steals information.
+Randy gives information to people.
+
+Randy does not harm anyone.
+
+Randy goes to jail.
+
+
+The end.
+
+Second perspective.
+
+
+
+Start story titled "Robin Hood".
+
+I am not a lawyer.
+
+Robin is a person.
+Lord is a person.
+Lord is rich.
+People are persons.
+People are not rich.
+
+Lords own money.
+Robin robs Lord.
+
+Robin goes to jail.
+
+
+The end.
+

@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+First perspective.
+
+USA and Israelis are entities.
+Viet Cong is an entity.
+
+Start story titled "Tet Offensive".
+The USA knew the Viet Cong were preparing to attack the USA.
+The USA knew the USA would defeat the Viet Cong.  
+// The USA knew the Viet Cong knew the USA would defeat the Viet Cong.
+The USA believed the Viet Cong would not attack the USA.
+The Viet Cong attacked the USA.
+
+The end.
+
+Second perspective.
+
+Egyptians and Israelis are entities.
+
+Start story titled "Yom Kippur war".
+The Israelis knew the Egyptians were preparing to attack the Israelis.
+The Israelis knew the Israelis would defeat the Egyptians.  
+The Israelis knew the Egyptians knew the Israelis would defeat the Egyptians.
+The Israelis believed the Egyptians would not attack the Israelis.
+// The Egyptians attacked the Israelis.
+
+The end.
+
+
+
+
+

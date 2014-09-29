@@ -1,0 +1,70 @@
+Start reflective knowledge.
+
+Start description of "mistake".
+xx is an entity.
+xx's performing an action leads to xx's becoming unhappy.
+The end.
+
+Start description of "leadership achieved".
+xx is an entity.
+yy is a position.
+xx's becoming ruler leads to xx's becoming happy.
+The end.
+
+Start description of "success".
+xx is an entity.
+yy is anything.
+xx's wanting yy leads to yy.
+yy leads to xx's becoming happy.
+The end.
+
+Start description of "revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start description of "compassion".
+xx is an entity.
+yy is an entity.
+ee is a phenomenon.
+yy's suffering ee leads to yy's becoming unhappy.
+yy's suffering ee leads to xx's helping yy.
+The end.
+
+// Man, I would *LOVE* to be able to say
+//	"XX's harming YY leads to YY's Compassion"
+//
+// Generally belongs to a family of features "Suffer Bad Thing->Do Good Thing"
+Start description of "taking the high road".
+xx is an entity.
+yy is an entity.
+zz is an entity.
+xx's harming yy leads to yy's helping zz.
+The end.
+
+Start description of "paying it forward"
+xx is an entity.
+yy is an entity.
+zz is an entity.
+xx's helping yy leads to yy's helping zz.
+The end.
+
+Start description of "act of insanity".
+xx is an entity.
+yy is a entity.
+xx's being not sane leads to xx's killing yy.
+The end.
+
+Start description of "pyrrhic victory".
+xx is a person.
+yy is anything.
+xx's wanting yy leads to yy.
+yy leads to xx's becoming happy.
+xx's wanting yy leads to xx's becoming unhappy.
+The end.
+
+Start description of "answered prayer".
+xx is a person.
+xx's wanting an action leads to the action.
+The end.

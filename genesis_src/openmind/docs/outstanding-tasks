@@ -1,0 +1,6 @@
+implement java-side memoization with the text files for rule generation
+above would also handle duplication problem for tables not using HashMaps/Sets
+java side testing framework and integration with generation code
+automatic output to a SQL database, locally at first but eventually remotely
+set up that SQL database referenced above
+integration with Genesis story processing facilities

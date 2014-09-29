@@ -1,0 +1,107 @@
+// Challenges
+
+/*
+Is the bird above the tree?
+Why did the dog run to the lake?
+Is the bird above the tree?
+Why did the ball touch the block?
+Did contact appear after the bird flew.
+*/
+
+// Threads
+A bouvier is a dog.
+The man is a king.
+The man is dead.
+
+// Place
+A bird is over the house.
+A bird is above the top of the house.
+The ball is under the table.
+The ball is between the blocks.
+The ball is behind the block.
+
+// Trajectory
+A cat ran from a house to a tree.
+The ball ran into the block.
+The vase fell off the shelf.
+// The vase fell off of the shelf.
+The ball flew over the block.
+The dog jumped over the fence.
+
+// Transition
+A cat appeared.
+A bird disappeared.
+The ball touched the block.
+
+// Cause
+
+A robin disappeared because a kestrel flew over the tree.
+A sparrow flew because a cat appeared.
+
+
+// Coercion
+A dog forced a cat to run to a tree.
+
+// Transfer
+A man gave a bone to a dog.
+
+// Roles
+A man walked with a cane.
+
+// Time
+A bird flew after a dog appeared.
+A bird flew while the the bird was happy.
+
+// Mood
+The big man is unhappy.
+The little girl is happy.
+
+// Goal
+The cat did not want to touch the dog.
+The bird did not want to eat the cat.
+
+// Belief
+The man believed the dog wanted to bite the cat.
+
+// Social
+The man's dog is a friend of the cat.
+
+// Action
+The man loved his dog.
+
+// Comparison
+The man is larger than the dog.
+The man is heavier than the dog.
+The road is wider than the path.
+
+// Commands
+
+////Imagine
+
+Imagine that the dog jumped over the fence.
+
+//// Description
+Describe a bird.
+
+// Questions
+
+//// Trajectory
+Did the dog run to the lake?
+
+
+/*
+
+Why did the dog run to the lake?
+//// Location
+Is the bird above the tree?
+
+//// Transition
+Why did the ball touch the block?
+Did the ball touch the block.
+// Did contact appear.
+Did contact appear after the bird flew.
+
+*/
+
+
+

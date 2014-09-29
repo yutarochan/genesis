@@ -1,0 +1,31 @@
+Clear story memory.
+
+Insert file General commonsense knowledge.
+
+// Pause.
+
+Insert file General reflective knowledge.
+
+Start story.
+
+Othello is person. 
+Othello is a general.  
+
+Othello is weak and foolish.
+
+Desdamona is an honest woman.
+Iago is a cruel and ambitious person.
+Cassia is a loyal, weak, alcoholic person.
+Othello loves Desdamona.
+Othello kills Desdamona.
+/*
+Othello - marry Desdamona. Desdamona
+love Othello.
+Iago hate Cassio [cause {Iago persuade {Othello believe {Desdamona love
+62
+Cassio}}}]. Desdamona love Cassio [hq lie]. {Othello believe} cause
+{Othello jealous Cassio}. {Othello jealous} cause {Othello hate Cassio}
+{Othello help
+*/
+
+The end.

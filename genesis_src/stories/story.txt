@@ -1,0 +1,10 @@
+// Idiomatic opening; substitute in a story name.
+test-story is a story.
+
+A boy is sad because a dog killed a duck.
+
+A cat killed a robin.
+
+// Idiomatic ending; use exactly as is.
+The End.
+

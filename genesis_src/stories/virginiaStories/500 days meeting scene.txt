@@ -1,0 +1,33 @@
+Insert file Start experiment.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Start story titled "500 Days Meeting Scene".
+
+Pause.
+
+A black-haired white man wearing a grey vest and a white dress shirt sits in boredom at a meeting.
+
+//black-haired white man (versus A white man with black hair...)
+
+An Indian man with black curly hair wearing a grey suit and pink tie is presenting a new idea for a greeting card.
+
+//with relation versus above
+
+A woman with dark brown hair tied back with a blue ribbon walks into the room and gives a message to the company's boss.
+
+The white man with black hair wearing a grey vest and a white dress shirt looks at the woman with dark brown hair tied back with a blue ribbon with interest. 
+
+The company's boss introduces the woman with dark brown hair tied back with a blue ribbon to everyone at the meeting. 
+
+//sentence not understood
+
+The woman with dark brown hair tied back with a blue ribbon smiles and greets everyone.
+
+//tie woman roles object back with blue_ribbon
+
+The end.

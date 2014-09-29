@@ -1,0 +1,34 @@
+
+transitions/vsr2/rf/approach0.txt has 300 RefFrames.
+transitions/vsr2/rf/approach0.txt has 3 markers.
+Inst 85 [- 84 82 80 78] id=0  [2] dR=-1 dTheta=0
+Inst 86 [- 85 84 82 80] id=0  [2] dR=-1 dTheta=0
+Inst 87 [- 86 85 84 82] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 88 [- 87 86 85 84] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 89 [- 88 87 86 85] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 90 [- 89 88 87 86] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 91 [- 90 89 88 87] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 92 [- 91 90 89 88] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 93 [- 92 91 90 89] id=0  ddx=1 [2] dR=-1 dTheta=0
+KF 93 [- 2] id=0  [2] dR=-1 dTheta=0
+Inst 94 [- 93 92 91 90] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 95 [- 94 93 92 91] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 96 [- 95 94 93 92] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 97 [- 96 95 94 93] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 98 [- 97 96 95 94] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 99 [- 98 97 96 95] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 100 [- 99 98 97 96] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 101 [- 100 99 98 97] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 102 [- 101 100 99 98] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 103 [- 102 101 100 99] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 104 [- 103 102 101 100] id=0  ddx=1 [2] dR=-1 dTheta=0
+Inst 105 [- 104 103 102 101] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 106 [- 105 104 103 102] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 107 [- 106 105 104 103] id=0  ddx=1 [2] dR=-1 dTheta=-1
+Inst 108 [- 107 106 105 104] id=0  ddx=1 [2] dR=-1 dTheta=-1
+KF 109 [- 0] id=2  [0] dR=-1 dTheta=0
+Inst 111 [- 110 108 107 106] id=0  [2] dR=-1 dTheta=0
+Inst 118 [- 117 115 113 111] id=0  [2] dR=-1 dTheta=-1
+KF 118 [- 93] id=0  [2] dR=-1 dTheta=0
+Inst 123 [- 122 120 118 117] id=0  [2] dR=-1 dTheta=-1
+

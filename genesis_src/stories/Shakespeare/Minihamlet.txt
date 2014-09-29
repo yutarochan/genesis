@@ -1,0 +1,30 @@
+Clear story memory.
+
+Henry, George, James, and Mary are persons.
+
+James harms Henry because James devastates George and George is Henry's friend.
+
+James harms Henry because James devastated Henry.
+
+James devastates Henry because James murders Henry.
+
+George is Henry's friend because Henry is George's relation.
+Henry is George's friend because Henry is George's relation.
+George is Henry's friend because George is Henry's relation.
+Henry is George's friend because George is Henry's relation.
+
+George is Henry's relation because George is Henry's son.
+Mary is Henry's relation because Mary is Henry's daughter.
+
+Start story.
+
+Hamlet, King_Hamlet, Claudius, Gertrude, Laertes, Ophelia, and Polonius are persons.
+
+Ophelia is Polonius's daughter.
+Laertes is Polonius's son.
+
+Hamlet murders Polonius.
+
+The end.
+
+

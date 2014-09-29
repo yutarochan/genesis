@@ -1,0 +1,45 @@
+package latticeLearning;
+
+import java.util.HashMap;
+
+public class VerbData {
+    private String name;
+    private HashMap<String,Boolean> subjects = new HashMap<String,Boolean>();
+    private HashMap<String,String> subjectNames = new HashMap<String,String>();
+    
+    private VerbData(String verb){
+        name = verb;
+    }
+    
+    public static VerbData getVerbData(String verb, HashMap<String,VerbData> verbs){
+        if(!verbs.containsKey(verb)){
+            return new VerbData(verb);
+        }
+        return verbs.get(verb);
+    }
+    
+    public void addSubject(String subjectName, String subjectThread, boolean capability){
+        subjects.put(subjectThread, capability);
+        subjectNames.put(subjectThread, subjectName);
+    }
+    
+    public String getName(){
+        return name;
+    }
+    
+    public HashMap<String,Boolean> getSubjects(){
+        return subjects;
+    }
+    
+    public HashMap<String,String> getSubjectNames(){
+        return subjectNames;
+    }
+    
+    public String getSubjectThreads(){
+        String threadStrings = "";
+        for (String subject: subjects.keySet()){
+            threadStrings = threadStrings.concat(subject + "\n\n");
+        }
+        return threadStrings;
+    }
+}

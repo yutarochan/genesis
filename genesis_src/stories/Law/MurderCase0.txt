@@ -1,0 +1,21 @@
+Clear story memory.
+
+Start story.
+
+James is a person.
+
+Mary is a person.
+
+James loves mary.
+
+/*
+
+Luparello asked his friends to elicit information from Martin regarding his former girlfriend's whereabouts. 
+He told them he wanted the information at any cost.
+Unable to get the information on their first try,
+the friends returned and shot Martin after luring him out of his house. 
+Luparello was charged with murder.
+
+The end.
+
+*/

@@ -1,0 +1,87 @@
+MM is an entity.
+XX is an entity.
+YY is an entity.
+WW is an entity.
+ZZ is an entity.
+AA is an entity.
+PP is a place.
+
+/////////// From Fairy Tales
+
+// Attacking
+If XX attacks YY, then XX harmed YY.
+If XX attacks YY, then XX may wound YY.
+If XX attacks YY, then YY may wound XX.
+If XX attacks YY, then YY may attack XX.
+If XX kills YY, then XX attacked YY.
+If XX kills YY, then XX harmed YY.
+If XX harms YY, then YY may kill XX.
+If XX wounds YY, then YY may die.
+If XX wounds YY and YY dies then XX killed YY.
+If XX curses YY then XX attacks YY.
+If XX kidnaps YY, then XX harms YY.
+If XX is YY's parent and ZZ harms YY, then ZZ harms XX.
+
+// Rulership
+If XX rules YY and ZZ harms YY, then ZZ harms XX.
+
+// Kinship
+XX may attack ZZ because ZZ harmed YY and XX wanted to help YY.
+If XX is YY's parent and ZZ harms YY, then XX may attack ZZ.
+If XX harmed YY and ZZ harmed XX, then YY likes ZZ.
+
+//Hunger
+If MM is a monster, then MM may want to eat XX.
+If XX becomes hungry, XX may eat something.
+If XX owns AA and AA stops producing milk, then XX may become hungry.
+If XX becomes hungry and XX is YY's parent, then XX may want YY to buy food. 
+If XX becomes hungry then XX may want to buy food.
+If MM eats XX, then MM attacks XX.
+If MM eats XX, then MM kills XX.
+If XX becomes hungry, XX may want to eat YY.
+
+//Ownership
+If XX owns AA and YY is XX's parent, then YY owns AA.
+If XX steals something from YY, XX harms YY.
+If XX steals something from YY, YY may become angry with XX.
+
+//Chasing
+If XX chases YY and YY climbs down something, XX may climb down something.
+
+//Falling
+If XX chops AA, then AA may fall.
+If XX climbs AA and AA falls, then XX may fall.
+If YY falls, then YY may die.
+
+//Wants
+If XX wants YY to buy food, then XX may want YY to sell something.
+If XX wants YY to sell something and YY sells something, then XX becomes happy.
+If XX wants to visit YY and XX visits YY, then XX becomes happy.
+If XX wants to visit YY, then XX may visit YY.
+If XX wants to visit YY and YY lives in PP, then XX may go to PP.
+If XX wants to eat YY, then XX may eat YY.
+If XX wants to save YY and XX saves YY, then XX becomes happy.
+If XX saves YY, then YY becomes happy.
+
+/////////////// From Comedies
+
+//Friendship
+If XX is YY's friend then XX likes YY.
+If XX likes YY then XX wants YY to be happy.
+If XX is unfriendly and YY is an entity then YY may dislike XX. 
+If XX is unfriendly and YY courts XX then XX dislikes YY. 
+
+//Attraction
+YY may love XX because XX is attractive and YY is lustful.
+If XX loves YY and YY loves XX then XX may marry YY.
+If XX loves YY and YY marries XX then XX becomes happy.
+If XX loves YY then XX may woo YY. 
+If XX woos YY then YY may love XX.
+
+If XX tells YY that ZZ loves WW then YY thinks that ZZ loves WW.
+If XX thinks that YY loves XX then XX may love YY.
+
+// Reciprical Actions
+If XX meets YY then YY meets XX.
+If XX marries YY then YY marries XX.
+If XX is YY's sister then YY is XX's sister.

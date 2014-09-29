@@ -1,0 +1,74 @@
+Start experiment.
+Show both perspectives.
+
+Both perspectives.
+
+Insert file 36.txt.
+
+First perspective.
+Start story titled "Intruder by Maeterlinck".
+
+Grandfather, Father, Uncle are persons.
+Daughters are persons.
+Grandfather's daughter is a person.
+
+Family is Grandfather, Father, Uncle and Daughters.
+Grandfather is blind.
+
+Family sits in the livingroom.
+
+Grandfather's daughter lies in the next room.
+Grandfather's daughter is sick therefore The sister of mercy watches over her. 
+Grandfather loves Grandfather's daughter.
+
+Family is waiting for the relative to come over.
+
+Grandfather worries about his daughter because birds don't sing. 
+
+There are footsteps on the stairs but it is not the relative.
+Grandfather worries about his daughter because there are footsteps on the stairs.
+
+Grandfather worries about his daughter because scythe clanks.
+
+Grandfather doesn't have obvious reason to worry about his daughter so much.
+
+Clock strike midnight.
+Sister of Mercy announces that Grandfather's daughter dies because Grandfather's daughter dies.
+
+The end.
+
+Second perspective.
+Start story titled "Seven princesses by Maeterlinck".
+
+Note that Ursula is a name.
+Note that Old_Queen is a name.
+
+Old_Queen is a person.
+Ursula is a person.
+Prince is a person.
+King is a person.
+Princesses are persons.
+Ursula is one of Princesses.
+
+Old_Queen and king are standing on the terrace. 
+Prince comes back from long journey; Old_Queen and King greet Prince.
+Princesses are sleeping in the marble hall; Old_Queen, King and Prince watch Princesses through the window.
+
+Old_Queen and King love Princesses.
+Old_Queen loves Ursula.
+Old_Queen tells Prince that Princesses are sick.
+Princesses sleep all day long.
+Old_Queen worries about Princesses; Old_Queen complains that Princesses sleep too much.
+Old_Queen worries about Ursula.
+
+Old_Queen doesn't have obvious reason to worry about Ursula so much.
+
+Then, Old_Queen agrees to wake Princesses.
+The door to the marble hall is locked.
+Prince has to get to the hall through tombs.
+Prince wakes Princesses.
+Princesses wake up.
+
+Ursula does not wake up; Ursula dies.
+
+The end.

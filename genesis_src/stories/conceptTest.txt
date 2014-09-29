@@ -1,0 +1,109 @@
+Start commonsense knowledge.
+
+a bat is black.
+a bat is brown.
+a bat is gray.
+a bat is furry.
+a bat is hairless.
+a bat has tough_skin.
+a bat is small.
+a bat is lean.
+a bat has chew_teeth.
+a bat has meat_teeth.
+a bat has claws.
+a bat is smelly.	
+a bat can fly.
+a bat is fast.
+a bat is weak.
+a bat has muscles.
+a bat is bipedal.
+a bat is active.
+a bat is inactive.
+a bat is nocturnal.
+a bat hibernates.
+a bat is agile.
+a bat eats meat.
+a bat eats vegetation.
+a bat eats insects.
+a bat eats forage.
+a bat can hunt.
+a bat can scavenge.
+a bat lives forest.
+a bat lives jungle.
+a bat lives mountains.
+a bat lives tree.
+a bat lives cave.
+a bat is fierce.
+a bat is smart.
+a bat is social.
+
+a rat is black.
+
+a rat is brown.
+
+a rat is gray.
+
+a rat is furry.
+
+a rat is hairless.
+
+a rat has tough_skin.
+
+a rat is small.
+
+a rat is lean.
+
+a rat has chew_teeth.
+
+a rat has meat_teeth.
+
+a rat has claws.
+
+a rat is smelly	
+
+a rat is fast.
+
+a rat is weak.
+
+a rat has muscles.
+
+a rat is bipedal.
+
+a rat is active.
+
+a rat is inactive.
+
+a rat is nocturnal.
+
+a rat hibernates.
+
+a rat is agile.
+
+a rat eats meat.
+
+a rat eats vegetation.
+
+a rat eats insects.
+
+a rat eats forage.
+
+a rat can hunt.
+
+a rat can scavenge.
+
+a rat lives forest.
+
+a rat lives jungle.
+
+a rat lives mountains.
+
+a rat lives tree.
+
+a rat lives cave.
+
+a rat is fierce.
+
+a rat is smart.
+
+a rat is social.
+

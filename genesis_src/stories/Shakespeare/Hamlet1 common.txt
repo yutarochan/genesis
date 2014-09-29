@@ -1,0 +1,26 @@
+Insert file General commonsense knowledge.
+
+Insert file Relations knowledge.
+
+//// Supplement to commonsense knowledge
+
+George, James, Mary, and Elizabeth are persons.
+
+George may kill James because James angers George.
+
+
+
+Insert file General reflective knowledge.
+
+//// Supplement to reflective knowledge
+
+Start description of "Revenge".
+xx is an entity.
+yy is a entity.
+xx's harming yy leads to yy's harming xx.
+The end.
+
+Start story titled "Tragedy of Hamlet".
+
+Insert file Hamlet plot.
+

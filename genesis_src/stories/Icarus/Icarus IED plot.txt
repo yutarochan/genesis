@@ -1,0 +1,68 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+II is a bomb.
+LL is a location.
+
+If XX meets YY at LL and XX controls II then XX may give II to YY.
+If XX meets YY at LL and YY controls II then YY may give II to XX.
+If YY gives II to XX then XX controls II.
+If XX travels to LL and XX controls II and XX dislikes YY and YY controls LL then XX may place II at LL.
+If XX places II at LL and XX places a phone call then XX may detonate II. 
+If XX places II at LL and XX detonates II then XX harms LL.
+If XX controls LL and YY harms LL then YY harms XX.
+If YY harms XX and YY dislikes XX then YY is happy.
+If YY harms XX then XX becomes unhappy.
+
+Start reflective knowledge.
+Start description of "Dangerous Action".
+xx's controlling ii leads to yy's becoming unhappy.
+The end.
+Start description of "Terrorism"
+yy's disliking xx leads to xx's becoming harmed.
+The end.
+Start description of "Grudge acted upon".
+yy's disliking xx leads to xx's becoming unhappy.
+The end.
+
+
+"Dangerous" is a kind of personality trait.
+
+First perspective.
+
+Start story titled "Icarus IED".
+
+Agent-1-1 is a person.
+Agent-2-1 is a person.
+Agent-3-1 is a person.
+Agent-4-1 is a person.
+
+Agent-5-1 is a person.
+
+IED-1 is a bomb.
+
+Location-1-1 is a location.
+Location-9-1 is a location.
+Location-5-5 is a location.
+
+Agent-5-1 controls Location-5-5.
+Agent-3-1 dislikes Agent-5-1.
+Agent-3-1 is a terrorist.
+Agent-3-1 is dangerous.
+Agent-1-1 controls IED-1.
+Agent-1-1 meets Agent-2-1 at Location-1-1.
+Agent-1-1 gives IED-1 to Agent-2-1.
+Agent-2-1 travels to Location-9-1.
+Agent-2-1 meets Agent-3-1 at Location-9-1.
+Agent-2-1 gives IED-1 to Agent-3-1.
+Agent-3-1 travels to Location-5-5.
+Agent-3-1 places IED-1 at Location-5-5.
+Agent-3-1 places a phone call.
+Agent-3-1 detonates IED-1.
+
+The end.

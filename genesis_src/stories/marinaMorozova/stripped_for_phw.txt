@@ -1,0 +1,76 @@
+Insert file Start experiment.
+Show both perspectives.
+Both perspectives.
+
+Start commonsense knowledge.
+
+//If xx kills yy then xx hurts yy.
+
+Start reflexive knowledge.
+
+Start description of "Crime_pursued_by_Vengeance-general".
+
+yy is an entity.
+xx is an entity.
+zz is an entity.
+
+//Sometimes, xx is a sleuth.
+
+Sometimes, xx loves zz and yy's hurting zz leads to xx's believing that yy transgressed.
+
+Sometimes, yy's hurting xx leads to xx's believing that yy transgressed.
+
+xx's believing that yy transgressed leads to xx's pursuing yy.
+//
+Sometimes, xx's pursuing yy leads to xx's hurting yy.
+
+The end.
+
+
+//
+First perspective.
+
+Start story titled "The Alcalde of Zalomea by Calderon".
+	
+Captain is a person.
+Pedro is a person.
+Isabel is a woman.
+Huan is a person.
+
+Pedro loves Isabel. // because Isabel is Pedro's daughter.
+
+
+Captain hurts Isabel because Captain rapes Isabel.
+
+Pedro believes that Captain transgressed because Captain hurts Isabel.
+Pedro pursues Captain because Pedro believes that Captain transgressed.
+Then, Pedro arrests Captain and Pedro kills Captain because Pedro pursues Captain.
+Pedro hurts Captain because Pedro kills Captain.
+
+The end.
+
+Second perspective.
+
+Start story titled "Colomba by Merime".
+
+Colomba is a woman.
+Patrick is a man.
+Orso is a man.
+Colonel is a person.
+Orso is Colomba's brother.
+
+Colomba loves Colonel because Colonel is Colomba's father.
+
+Patrick hurt Colonel because Patrick killed Colonel.
+
+
+Colomba believes that Patrick transgressed because Patrick hurt Colonel.
+
+
+Colomba pursues Patrick because Colomba believes that Patrick transgressed.
+Colomba unleashes vendetta because Colomba pursues Patrick.
+Orso fights Patrick's sons because Colomba unleashes vendetta.
+Colomba hurts Patrick because Orso fights Patrick's sons.
+
+
+The end.

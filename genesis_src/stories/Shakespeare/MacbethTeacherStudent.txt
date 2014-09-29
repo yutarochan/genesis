@@ -1,0 +1,44 @@
+Insert file Start experiment.
+
+
+
+Show both perspectives.
+
+First perspective.
+
+Insert file General commonsense knowledge.
+
+Insert file General reflective knowledge.
+
+Insert file personality rules.
+
+// First perspective.
+
+Insert file Western commonsense knowledge.
+
+Insert file Western concept knowledge.
+
+Insert file Macbeth commonsense.
+
+Insert file Macbeth concepts.
+
+Second perspective.
+
+// Insert file Eastern commonsense knowledge.
+
+// Insert file Eastern concept knowledge.
+
+Both perspectives.
+
+// Radiate commonsense knowledge.
+
+First perspective.
+Start story titled "Macbeth/Eastern".
+
+Second perspective.
+Start story titled "Macbeth/Western".
+
+Both Perspectives.
+
+Insert file Macbeth plot.
+

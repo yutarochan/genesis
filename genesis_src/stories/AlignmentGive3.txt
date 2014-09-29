@@ -1,0 +1,25 @@
+Insert file Start experiment.
+
+Both Perspectives.
+Show both perspectives.
+
+Second perspective.
+
+Start story titled "Give Full Story".
+
+Mary controls the ball.
+Mary gives the ball to Sally.
+Sally controls the ball.
+
+First perspective.
+
+Start story titled "Give Story with Gap".
+
+Jill controls the ball.
+John controls the gift.
+John gives the gift to Tim.
+Tim controls the gift.
+
+Both perspectives.
+
+The End.

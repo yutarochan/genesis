@@ -1,0 +1,47 @@
+Insert file Start experiment.
+
+First perspective.
+
+Start commonsense knowledge.
+
+XX is a person.
+YY is a person.
+
+If XX destroys YY, then XX harms YY.
+If XX is rich and XX becomes poor, then XX may become unhappy.
+
+If XX is unhappy, then XX may commit suicide.
+
+If XX bankrupts YY, then XX harms YY.
+
+Insert file meanness reflective knowledge.
+
+Start story titled "Monte Cristo".
+
+Edmond is a person.
+Ferdinand is a person.
+Danglars is a person.
+Mercedes is a person.
+
+Mercedes is Edmond's fiance.
+Ferdinand harms Edmond because Ferdinand marries Mercedes.
+Edmond wants to harm Ferdinand because Ferdinand harmed Edmond.
+Edmond knows that Edmond harms Ferdinand if Edmond destroys Ferdinand's life.
+Edmond destroys Ferdinand's life because Ferdinand harmed Edmond.
+Edmond destroys Ferdinand's life because Edmond wanted to harm Ferdinand.
+Edmond harms Ferdinand because Edmond destroys Ferdinand's life.
+Edmond becomes happy because Edmond harmed Ferdinand.
+Ferdinand becomes unhappy because Edmond destroys Ferdinand's life.
+Ferdinand commits suicide.
+
+Danglars is rich.
+Danglars harms Edmond because Danglars betrays Edmond.
+Edmond wants to harm Danglars because Danglars harms Edmond.
+Edmond knows that Edmond harms Danglars if Edmond bankrupts Danglars.
+Edmond bankrupts Danglars because Danglars harmed Edmond.
+
+Danglars becomes poor because Edmond bankrupts Danglars.
+Edmond becomes happy because Edmond harms Danglars.
+Danglars becomes unhappy.
+
+The end.
